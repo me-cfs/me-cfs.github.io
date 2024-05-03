@@ -1,3 +1,6 @@
+---
+title: Yann's ME/CFS Page
+---
 ## What is ME/CFS?
 ME/CFS short for Myalgic Encephalomyelitis (brain inflammation) is a disabling disease characterised by a profound lack of energy production. If someone with the disease uses too much energy, they can take weeks or months to recover, and in some cases they never do. The disease is usually lifelong and renders many bedbound with severe cognitive difficulties (thinking takes more energy than some patients have).
 
