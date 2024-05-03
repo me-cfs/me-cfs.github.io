@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Yann talks ME/CFS
 description: Resources, research and more
+github:
+  is_project_page: false
