@@ -19,6 +19,7 @@ The problem with them can be summarised as: “They take opinions on what the ca
 # “Viral persistence and nothing else”
 Long covid action project claims that Long Covid is a disease with:
 > “**AIDS**-like immune dysregulation which **researchers attribute to SARS-CoV-2 viral persistence**.”
+
 (this is a quote taken straight from the [front page](https://longcovidactionproject.com)). This quote says many things that are untrue and/or unproven and claims them as fact:
 * Immune dysregulation has been found in large subsets of long covid patients (but not all). This immune dysregulation is not even near to being similar to AIDS. AIDS causes a near destruction of the immune system, which before treatment was found, was a death sentence. 
 * Viral persistence has been found upto a year in a subset of long covid patients. Saying all long covid patients have viral persistence is false. Saying that viral persistence is the cause of all long covid is misinformation as no research has proven this and much research points to other possible factors. It may however be a mechanism in some people. 
