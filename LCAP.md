@@ -5,7 +5,7 @@ filename: LCAP.md
 
 ## Long Covid Action Project is dangerous, and is actively hurting the Long Covid community 
 
-TLDR: Long Covid Action Project (LCAP) brands itself as an organisation fighting for long covid research. But the organisation is built upon misinformation and distortion of facts (whether intentionally or unintentionally). Its actions are more harmful to the long covid community than beneficial. 
+**TLDR:** Long Covid Action Project (LCAP) brands itself as an organisation fighting for long covid research. But the organisation is built upon misinformation and distortion of facts (whether intentionally or unintentionally). Its actions are more harmful to the long covid community than beneficial. 
 
 The problem with them can be summarised as: “They take opinions on what the cause and cure of Long Covid is, before it has been proven by research, and claim them as fact. They try to push governments to only study what they believe causes and cures long covid while neglecting all the rest”.
 
@@ -17,7 +17,9 @@ The problem with them can be summarised as: “They take opinions on what the ca
 * They have harassed, doxxed, sent death threats, and misogynistic insults to members of the long covid community.
 
 # “Viral persistence and nothing else”
-Long covid action project claims that Long Covid is a disease with “**AIDS**-like immune dysregulation which **researchers attribute to SARS-CoV-2 viral persistence**.” (this is a quote taken straight from the [front page](https://longcovidactionproject.com)). This quote says many things that are untrue and/or unproven and claims them as fact.
+Long covid action project claims that Long Covid is a disease with:
+> “**AIDS**-like immune dysregulation which **researchers attribute to SARS-CoV-2 viral persistence**.”
+(this is a quote taken straight from the [front page](https://longcovidactionproject.com)). This quote says many things that are untrue and/or unproven and claims them as fact:
 * Immune dysregulation has been found in large subsets of long covid patients (but not all). This immune dysregulation is not even near to being similar to AIDS. AIDS causes a near destruction of the immune system, which before treatment was found, was a death sentence. 
 * Viral persistence has been found upto a year in a subset of long covid patients. Saying all long covid patients have viral persistence is false. Saying that viral persistence is the cause of all long covid is misinformation as no research has proven this and much research points to other possible factors. It may however be a mechanism in some people. 
 * Long covid is comprised of/can cause many different conditions: from POTS, MCAS, and dysautonomia to ME/CFS, IBS, and autoimmune diseases. (and much more.)
@@ -48,16 +50,16 @@ I spoke to a longhauler who has been a target of harassment from LCAP and their 
 
 Hoping my fellow longhaulers a wonderful day. Love Yann.
 
-Note: This was originally posted on [reddit](https://www.reddit.com/r/covidlonghaulers/s/N6npJgJSAr) and is hosted on this website as a backup. 
+**Note:** This was originally posted on [reddit](https://www.reddit.com/r/covidlonghaulers/s/N6npJgJSAr) and is hosted on this website as a backup. 
 
-Edit: I was informed of an occurrence where LCAP was openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
+**Edit:** I was informed of an occurrence where LCAP was openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
 
-Edit 2: A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [tw] >!retard!< in one comment. Which was thankfully removed by the mods for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. To you LCAP people or allies, if you want to bully me you can but I will just add it to this post. Cheers.
+**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [tw] >!retard!< in one comment. Which was thankfully removed by the mods for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. To you LCAP people or allies, if you want to bully me you can but I will just add it to this post. Cheers.
 
 
-Edit 3: This post somehow made it to LCAP. An hour ago there were 60 comments the large majority of which agreed with the post. An hour later there are 120 comments and most of the new comments are spammed copy paste by the LCAP founder.
+**Edit 3:** This post somehow made it to LCAP. An hour ago there were 60 comments the large majority of which agreed with the post. An hour later there are 120 comments and most of the new comments are spammed copy paste by the LCAP founder.
 
-Edit 4: This [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9839201/) (the most cited long covid paper) is a great review of long covid treatment 
+**Edit 4:** This [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9839201/) (the most cited long covid paper) is a great review of long covid treatment 
 and research. I recommend everyone give it a read.
 
 # Reply from the founder of LCAP
