@@ -3,7 +3,7 @@ title: Long Covid Action Project
 filename: LCAP.md
 ---
 
-# Long Covid Action Project is dangerous, and are actively hurting the Long Covid community 
+## Long Covid Action Project is dangerous, and is actively hurting the Long Covid community 
 
 TLDR: Long Covid Action Project (LCAP) brands itself as an organisation fighting for long covid research. But the organisation is built upon misinformation and distortion of facts (whether intentionally or unintentionally). Its actions are more harmful to the long covid community than beneficial. 
 
