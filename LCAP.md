@@ -88,3 +88,9 @@ I am not sure why you brought up trans rights, anti-racism, and LGBTQ+ rights. O
 
 Kind Regards, Yann
 
+
+<br/><br/><br/>
+
+---
+
+[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [S4ME](https://www.s4me.info/members/yannlk.13870/), [Wikipedia](https://en.m.wikipedia.org/wiki/User:YannLK), [Me-pedia](https://me-pedia.org/wiki/User:Yannlk)
