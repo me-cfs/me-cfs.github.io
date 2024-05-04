@@ -3,7 +3,7 @@
 * [What is ME/CFS](me-cfs.md)
 
 **Recent Posts**
-* [Long Covid Action Project is Dangerous](lcap.md)
+* [Long Covid Action Project is Dangerous](LCAP.md)
 * [What is ME/CFS](me-cfs.md)
 
 
