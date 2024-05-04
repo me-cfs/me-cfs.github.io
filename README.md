@@ -8,6 +8,7 @@ Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden,
 * [Long Covid Action Project is Dangerous](LCAP.md)
 * [What is ME/CFS?](me-cfs.md)
 
+![Image](IMG_9613.jpeg)
 
 <br/><br/><br/>
 
