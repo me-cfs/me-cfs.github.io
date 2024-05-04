@@ -13,8 +13,11 @@ were “hysterical” and dismissed them. Because of the after-effects of this, 
 **Learn More:**
 * Read the [Me-pedia review](https://me-pedia.org/wiki/Myalgic_encephalomyelitis).
 * Watch the academy nominated [Unrest](https://m.youtube.com/watch?v=XOpyLTyVxco) documentary.
-* Read [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/) the son of the leading Stanford researcher on the disease, who is himself severely affected by it.
+* Read [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
 * Read the [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
 
-—-
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [S4ME](https://www.s4me.info/members/yannlk.13870/), [Wikipedia](https://en.m.wikipedia.org/wiki/User:YannLK)
+<br/><br/><br/>
+
+---
+
+[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [S4ME](https://www.s4me.info/members/yannlk.13870/), [Wikipedia](https://en.m.wikipedia.org/wiki/User:YannLK), [Me-pedia](https://me-pedia.org/wiki/User:Yannlk)
