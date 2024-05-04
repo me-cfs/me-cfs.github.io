@@ -12,4 +12,5 @@ were “hysterical” and dismissed them. Because of the after-effects of this, 
 * Read [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/) the son of the leading Stanford researcher on the disease, who is himself severely affected by it.
 * Read the [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
 
-.
+See more on this site:
+* [Why LCAP is Bad](LCAP.md)
