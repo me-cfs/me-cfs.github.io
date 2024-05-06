@@ -12,9 +12,10 @@ filename: useful-resources.md
 * [Tom Kindlon's twitter account](https://x.com/tomkindlon?s=21) shares most of the recent research papers related to ME/CFS
 * [Whitney Dafoe's ME/CFS Blog](https://whitneydafoe.com/mecfs/) experience of living with very severe ME/CFS
 * [The Sick Times](https://thesicktimes.org) news source following long covid
+* [Trial By Error](https://virology.ws/david-tuller-posts/) A journalist and piblic health expert covering problems with research in ME/CFS, and general ME/CFS related news.
 
 <br/><br/><br/>
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [S4ME](https://www.s4me.info/members/yannlk.13870/), [Wikipedia](https://en.m.wikipedia.org/wiki/User:YannLK), [Me-pedia](https://me-pedia.org/wiki/User:Yannlk)
+[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [Me-pedia](https://me-pedia.org/wiki/User:Yannlk)
