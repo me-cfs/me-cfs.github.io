@@ -19,5 +19,4 @@ were “hysterical” and dismissed them. Because of the after-effects of this, 
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs),
-
+[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
