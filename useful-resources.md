@@ -18,4 +18,4 @@ filename: useful-resources.md
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs), [Me-pedia](https://me-pedia.org/wiki/User:Yannlk)
+[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
