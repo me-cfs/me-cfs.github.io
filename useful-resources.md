@@ -4,8 +4,8 @@ filename: useful-resources.md
 ---
 
 **What is/do I have ME/CFS?**
-* [Here](https://d3n8a8pro7vhmx.cloudfront.net/meadvocacy/pages/22/attachments/original/1478717636/ICC_Questionnaire_Nov_2016.pdf) is a diagnostic criteria quiz
-* [What is ME/CFS](https://me-cfs.github.io/me-cfs.html)
+* [Diagnostic Criteria Quiz](https://d3n8a8pro7vhmx.cloudfront.net/meadvocacy/pages/22/attachments/original/1478717636/ICC_Questionnaire_Nov_2016.pdf) 
+* [What is ME/CFS?](https://me-cfs.github.io/me-cfs.html)
 
 **What's the latest in the ME/CFS world?**
 * [Science for ME](https://www.s4me.info) has a weekly news in brief; collection of science and advocacy news
