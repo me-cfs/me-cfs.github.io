@@ -22,7 +22,7 @@ filename: me-inthenews.md
 <br/>
 *March 2024*
 
-<span style="font-size:1.4em;"> **[The Guardian](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url):** ["You don't want to get better": The outdated treatment of ME/CFS patients is a ntional scandal](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url) </span>
+<span style="font-size:1.4em;"> **[The Guardian](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url):** ["You don't want to get better": The outdated treatment of ME/CFS patients is a national scandal](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url) </span>
 
 <br/>
 *March 2024*
