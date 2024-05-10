@@ -30,7 +30,7 @@ filename: me-inthenews.md
 <span style="font-size:1.4em;"> **[Channel 4 News]():** [ME: Lives devastated, and sufferers told it's made up](https://m.youtube.com/watch?si=zQvysshn3Hi3L81A&embeds_referring_euri=https%3A%2F%2Fwww.s4me.info%2F&source_ve_path=MTY0OTksMjg2NjQsMTY0NTA2&feature=emb_share&v=pobf0RPlJuw) </span>
 
 <br/>
-*December 2024*
+*December 2023*
 
 <span style="font-size:1.4em;"> **[BBC](https://www.bbc.com/news/uk-england-devon-67748453):** [Daughter's death "could have been avoided"](https://www.bbc.com/news/uk-england-devon-67748453) </span>
 
