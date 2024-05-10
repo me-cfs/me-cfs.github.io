@@ -35,6 +35,11 @@ filename: me-inthenews.md
 <span style="font-size:1.4em;"> **[BBC](https://www.bbc.com/news/uk-england-devon-67748453):** [Daughter's death "could have been avoided"](https://www.bbc.com/news/uk-england-devon-67748453) </span>
 
 <br/>
+*April 2023*
+
+<span style="font-size:1.4em;"> **[National Geographic](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine):** [For some long covid patients exercise is bad medicine](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine)</span>
+
+<br/>
 <br/><br/><br/>
 
 ---
