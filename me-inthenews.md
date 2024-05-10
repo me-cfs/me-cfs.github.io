@@ -35,6 +35,11 @@ filename: me-inthenews.md
 <span style="font-size:1.4em;"> **[BBC](https://www.bbc.com/news/uk-england-devon-67748453):** [Daughter's death "could have been avoided"](https://www.bbc.com/news/uk-england-devon-67748453) </span>
 
 <br/>
+*September 2023*
+
+<span style="font-size:1.4em;"> **[Health Affairs](https://www.healthaffairs.org/content/forefront/despite-resistance-policy-makers-push-paradigm-me-cfs-and-long-covid):** [Despite resistance, policy makers push the paradigm on ME/CFS and Long Covid](https://www.healthaffairs.org/content/forefront/despite-resistance-policy-makers-push-paradigm-me-cfs-and-long-covid) </span>
+
+<br/>
 *July 2023*
 
 <span style="font-size:1.4em;"> **[The Atlantic](https://www.theatlantic.com/health/archive/2023/07/chronic-fatigue-long-covid-symptoms/674834/):** [Fatigue can shatter a person](https://archive.ph/sBL8T) </span>
