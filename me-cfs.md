@@ -15,6 +15,9 @@ were “hysterical” and dismissed them. Because of the after-effects of this, 
 * Read [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
 * Read the [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
 
+**Related Pages on this Website:**
+* [ME/CFS in mainstream news](me-inthenews.md)
+* [ME/CFS Resources](useful-resources.md)
 <br/><br/><br/>
 
 ---
