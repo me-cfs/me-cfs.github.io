@@ -8,6 +8,7 @@ filename: useful-resources.md
 * [What is ME/CFS?](https://me-cfs.github.io/me-cfs.html)
 
 **What's the latest in the ME/CFS world?**
+* [ME in mainstream News](me-inthenews.md)
 * [Science for ME](https://www.s4me.info) has a weekly news in brief; collection of science and advocacy news
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
 * [Tom Kindlon's twitter account](https://x.com/tomkindlon?s=21) shares most of the recent research papers
