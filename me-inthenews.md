@@ -20,6 +20,11 @@ filename: me-inthenews.md
 <span style="font-size:1.4em;"> **[The Telegraph](https://www.telegraph.co.uk/health-fitness/conditions/cold-flu/how-long-covid-risks-going-the-same-way-as-me/):** [How long covid risks "going the same way as ME"](http://archive.ph/JtPVu) </span>
 
 <br/>
+*April 2024* 
+
+<span style="font-size:1.4em;"> **[The Hill](https://thehill.com/opinion/4615604-sanders-long-covid-funding-bill-misses-opportunity-to-aid-a-similar-chronic-condition/):** [Sanders’s long COVID funding bill misses opportunity to aid a similar chronic condition](https://thehill.com/opinion/4615604-sanders-long-covid-funding-bill-misses-opportunity-to-aid-a-similar-chronic-condition/) </span>
+
+<br/>
 *March 2024*
 
 <span style="font-size:1.4em;"> **[The Guardian](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url):** ["You don't want to get better": The outdated treatment of ME/CFS patients is a national scandal](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url) </span>
@@ -59,4 +64,4 @@ filename: me-inthenews.md
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
