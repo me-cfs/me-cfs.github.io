@@ -4,7 +4,7 @@ filename: me-inthenews.md
 ---
 *May 2024*
 
-<span style="font-size:1.8em;"> **[The Times](https://www.thetimes.co.uk/article/people-with-me-have-been-ignored-for-far-too-long-gv2nhq28m):** [People with ME have been ignored for far too long](https://archive.is/SkZ36) </span>
+<span style="font-size:1.5em;"> **[The Times](https://www.thetimes.co.uk/article/people-with-me-have-been-ignored-for-far-too-long-gv2nhq28m):** [People with ME have been ignored for far too long](https://archive.is/SkZ36) </span>
 
 
 <br/><br/><br/>
