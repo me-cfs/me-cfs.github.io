@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Yann talks ME/CFS
-description: Yann's ME/CFS Site
+title: Yann's ME/CFS Site
+description: [Yann's ME/CFS Site](https://me-cfs.github.io)
 github:
   is_project_page: false
