@@ -24,6 +24,12 @@ filename: me-inthenews.md
 
 <span style="font-size:1.4em;"> **[The Guardian](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url):** ["You don't want to get better": The outdated treatment of ME/CFS patients is a ntional scandal](https://www.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services?CMP=share_btn_url) </span>
 
+<br/>
+*March 2024*
+
+<span style="font-size:1.4em;"> **[Channel 4 News]():** [ME: Lives devastated, and sufferers told it's made up](https://m.youtube.com/watch?si=zQvysshn3Hi3L81A&embeds_referring_euri=https%3A%2F%2Fwww.s4me.info%2F&source_ve_path=MTY0OTksMjg2NjQsMTY0NTA2&feature=emb_share&v=pobf0RPlJuw) </span>
+
+<br/>
 <br/><br/><br/>
 
 ---
