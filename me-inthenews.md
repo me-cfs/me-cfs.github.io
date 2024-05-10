@@ -40,6 +40,11 @@ filename: me-inthenews.md
 <span style="font-size:1.4em;"> **[The Atlantic](https://www.theatlantic.com/health/archive/2023/07/chronic-fatigue-long-covid-symptoms/674834/):** [Fatigue can shatter a person](https://archive.ph/sBL8T) </span>
 
 <br/>
+*May 2023*
+
+<span style="font-size:1.4em;"> **[The Times](https://www.thetimes.co.uk/article/08d82fec-fd75-11ed-be2d-6982544ae552):** [Thousands of ME patients failed by "shockingly poor care"](https://archive.ph/MdKUx) </span>
+
+<br/>
 *April 2023*
 
 <span style="font-size:1.4em;"> **[National Geographic](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine):** [For some long covid patients, exercise is bad medicine](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine)</span>
