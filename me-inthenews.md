@@ -14,6 +14,9 @@ filename: me-inthenews.md
 
 <span style="font-size:1.4em;"> **[The Times](https://www.thetimes.co.uk/article/people-with-me-have-been-ignored-for-far-too-long-gv2nhq28m):** [People with ME have been ignored for far too long](https://archive.is/SkZ36) </span>
 
+<br/>
+*May 2024*
+
 <span style="font-size:1.4em;"> **[The Telegraph](https://www.telegraph.co.uk/health-fitness/conditions/cold-flu/how-long-covid-risks-going-the-same-way-as-me/):** [How long covid risks "going the same way as ME"](http://archive.ph/JtPVu) </span>
 
 <br/>
