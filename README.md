@@ -4,8 +4,10 @@ Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden,
 **Starter Reads**
 * [What is ME/CFS?](me-cfs.md)
 * [ME/CFS resources](useful-resources.md)
+* [Collection of Mainstream News Articles about ME](me-inthenews.md)
 
 **Recent Posts**
+* [Collection of Mainstream News Articles about ME](me-inthenews.md)
 * [ME/CFS resources](useful-resources.md)
 * [Long Covid Action Project is Dangerous](LCAP.md)
 * [What is ME/CFS?](me-cfs.md)
