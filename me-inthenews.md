@@ -42,7 +42,7 @@ filename: me-inthenews.md
 <br/>
 *April 2023*
 
-<span style="font-size:1.4em;"> **[National Geographic](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine):** [For some long covid patients exercise is bad medicine](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine)</span>
+<span style="font-size:1.4em;"> **[National Geographic](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine):** [For some long covid patients, exercise is bad medicine](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine)</span>
 
 <br/>
 <br/><br/><br/>
