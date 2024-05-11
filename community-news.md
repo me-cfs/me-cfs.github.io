@@ -19,6 +19,11 @@ filename: community-news.md
 <span style="font-size:1.4em;"> **ME/CFS Research Review:** [Remarkable researchers hunting for ‘something in the blood’ of people with ME](https://mecfsresearchreview.me/2024/05/08/researchers-hunting-for-something-in-the-blood-of-people-with-me/) </span>
 
 <br/>
+*21 April 2024*
+
+<span style="font-size:1.4em;"> **Yann:** [Long Covid Action Project is dangerous and is actively hurting the Long Covid community](LCAP.md) </span>
+
+<br/>
 *18 April 2024*
 
 <span style="font-size:1.4em;"> **Trial By Error:** [Guardian Columnist George Monbiot Discusses His Scathing Critique of the “Biopsychosocial” Approach to ME/CFS and Long Covid](https://virology.ws/2024/04/18/trial-by-error-guardian-columnist-george-monbiot-discusses-his-scathing-critique-of-the-biopsychosocial-approach-to-me-cfs-and-long-covid/) </span>
