@@ -1,5 +1,5 @@
 ---
-title: ME News for Patients and Specialists
+title: ME News 
 filename: community-news.md
 ---
 <!---
@@ -9,6 +9,11 @@ filename: community-news.md
 
 <br/>
 -->
+*10 May 2024*
+
+<span style="font-size:1.4em;"> **Trial by Error:** [Time’s Health 100 List Includes Leaders in Long Covid and ME/CFS](https://virology.ws/2024/05/10/trial-by-error-times-health100-list-includes-leaders-in-long-covid-and-me-cfs/) </span>
+
+<br/>
 *10 May 2024*
 
 <span style="font-size:1.4em;"> **Health Rising:** [The NIH RECOVER Long-COVID Clinical Trials are Set to Fail: Here’s What Should be Trialed Instead](https://www.healthrising.org/blog/2024/05/10/recover-clinical-trials-fail/) </span>
