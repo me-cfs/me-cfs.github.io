@@ -19,6 +19,11 @@ filename: community-news.md
 <span style="font-size:1.4em;"> **ME/CFS Research Review:** [Remarkable researchers hunting for ‘something in the blood’ of people with ME](https://mecfsresearchreview.me/2024/05/08/researchers-hunting-for-something-in-the-blood-of-people-with-me/) </span>
 
 <br/>
+*9 April 2024*
+
+<span style="font-size:1.4em;"> **The Sick Times:** [Hidden disability: The quiet struggle with Long Covid in Kenya](https://thesicktimes.org/2024/04/09/hidden-disability-the-quiet-struggle-with-long-covid-in-kenya/) </span>
+
+<br/>
 *4 April 2024*
 
 <span style="font-size:1.4em;"> **Whitney Dafoe:** [We are not defined by their Prejudice](https://whitneydafoe.com/mecfs/?post=we-are-not-defined-by-their-prejudice) </span>
