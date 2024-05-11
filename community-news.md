@@ -49,7 +49,7 @@ filename: community-news.md
 <span style="font-size:1.4em;"> **The Canary:** [Trivialising long Covid? Scientists and media covering ME/CFS in Australia wrote the playbook](https://www.thecanary.co/global/2024/03/27/trivialising-long-covid-scientists-and-media-covering-me-cfs-in-australia-wrote-the-playbook/) </span>
 
 <br/>
-*2024*
+*3 April 2024*
 
 <span style="font-size:1.4em;"> **Health Rising:** [Copaxone – Could a Multiple Sclerosis Drug Help with ME/CFS](https://www.healthrising.org/blog/2024/04/03/copaxone-multiple-sclerosis-chronic-fatigue-syndrome/) </span>
 
