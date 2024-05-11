@@ -34,6 +34,11 @@ filename: community-news.md
 <span style="font-size:1.4em;"> **Trial By Error:** [Guardian Columnist George Monbiot Discusses His Scathing Critique of the “Biopsychosocial” Approach to ME/CFS and Long Covid](https://virology.ws/2024/04/18/trial-by-error-guardian-columnist-george-monbiot-discusses-his-scathing-critique-of-the-biopsychosocial-approach-to-me-cfs-and-long-covid/) </span>
 
 <br/>
+*16 April 2024*
+
+<span style="font-size:1.4em;"> **This Podcast Will Kill You:** [ME/CFS: What’s in a name? (A lot, actually)](https://thispodcastwillkillyou.com/2024/04/16/episode-137-me-cfs-whats-in-a-name-a-lot-actually/) </span>
+
+<br/>
 *9 April 2024*
 
 <span style="font-size:1.4em;"> **The Sick Times:** [Hidden disability: The quiet struggle with Long Covid in Kenya](https://thesicktimes.org/2024/04/09/hidden-disability-the-quiet-struggle-with-long-covid-in-kenya/) </span>
