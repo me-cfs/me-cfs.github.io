@@ -1,12 +1,14 @@
 # About
 Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden, unable to speak, unable to sit, and unable to tolerate others in my presence. This site is a collection of anything I wanted to share or compile in relation to ME/CFS and Long Covid. I hope the content here is useful. 
 
-**Starter Reads**
+**Starter Links**
 * [What is ME/CFS?](me-cfs.md)
 * [ME/CFS resources](useful-resources.md)
-* [Collection of Mainstream News about ME](me-inthenews.md)
+* [ME News and Media](community-news.md)
+* [ME in the Mainstream News](me-inthenews.md)
 
-**Recent Posts**
+**Recently Added Pages**
+* [ME News](community-news.md)
 * [Collection of Mainstream News about ME](me-inthenews.md)
 * [ME/CFS resources](useful-resources.md)
 * [Long Covid Action Project is Dangerous](LCAP.md)
