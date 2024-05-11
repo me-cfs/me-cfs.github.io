@@ -19,6 +19,11 @@ filename: community-news.md
 <span style="font-size:1.4em;"> **ME/CFS Research Review:** [Remarkable researchers hunting for ‘something in the blood’ of people with ME](https://mecfsresearchreview.me/2024/05/08/researchers-hunting-for-something-in-the-blood-of-people-with-me/) </span>
 
 <br/>
+*4 April 2024*
+
+<span style="font-size:1.4em;"> **Whitney Dafoe:** [We are not defined by their Prejudice](https://whitneydafoe.com/mecfs/?post=we-are-not-defined-by-their-prejudice) </span>
+
+<br/>
 *3 April 2024*
 
 <span style="font-size:1.4em;"> **The Canary:** [Trivialising long Covid? Scientists and media covering ME/CFS in Australia wrote the playbook](https://www.thecanary.co/global/2024/03/27/trivialising-long-covid-scientists-and-media-covering-me-cfs-in-australia-wrote-the-playbook/) </span>
