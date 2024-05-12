@@ -9,6 +9,11 @@ filename: community-news.md
 
 <br/>
 -->
+*11 May 2024*
+
+<span style="font-size:1.4em;"> **Whitney Dafoe:** [I Still Feel Free](https://www.whitneydafoe.com/mecfs/?post=i-still-feel-free) </span>
+
+<br/>
 *10 May 2024*
 
 <span style="font-size:1.4em;"> **Trial by Error:** [Time’s Health 100 List Includes Leaders in Long Covid and ME/CFS](https://virology.ws/2024/05/10/trial-by-error-times-health100-list-includes-leaders-in-long-covid-and-me-cfs/) </span>
