@@ -21,7 +21,8 @@ _Watch:_
 * The Dialogues [Introcution to ME/CFS](https://www.dialogues-mecfs.co.uk/films/introduction/) video
   
 _Listen to:_
-* A well researched [podcast episode](https://thispodcastwillkillyou.com/2024/04/16/episode-137-me-cfs-whats-in-a-name-a-lot-actually/) about ME/CFS from a well known biology podcast 
+* A well researched [podcast episode](https://thispodcastwillkillyou.com/2024/04/16/episode-137-me-cfs-whats-in-a-name-a-lot-actually/) about ME/CFS from a well known biology podcast
+<br/>
 
 **Related Pages on this Website:**
 * [ME/CFS in mainstream news](me-inthenews.md)
@@ -31,4 +32,4 @@ _Listen to:_
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
