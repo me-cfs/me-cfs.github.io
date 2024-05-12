@@ -10,14 +10,19 @@ Before there was proof the disease was biological, doctors assumed patients
 were “hysterical” and dismissed them. Because of the after-effects of this, it is still not taught in most medical schools. Most doctors either do not know of it, or are not aware of the new research showing it is biological. Patients face much stigma and are often gaslit and led to do treatments that are harmful. In fact, it takes more than 5 years for the average patient to find a doctor knowledgeable enough to diagnose them.
 
 **Learn More:**
-* Read the [Me-pedia review](https://me-pedia.org/wiki/Myalgic_encephalomyelitis).
-* Watch the academy nominated [Unrest](https://m.youtube.com/watch?v=XOpyLTyVxco) documentary.
-* Read [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
-* Read the [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
+_Read:_
+* The [Me-pedia review](https://me-pedia.org/wiki/Myalgic_encephalomyelitis).
+* [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
+* The [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
+_Watch:_
+* The academy nominated [Unrest](https://m.youtube.com/watch?v=XOpyLTyVxco) documentary.
+_Listen to:_
+* A well researched [podcast episode](https://thispodcastwillkillyou.com/2024/04/16/episode-137-me-cfs-whats-in-a-name-a-lot-actually/) about ME/CFS from a well known biology podcast 
 
 **Related Pages on this Website:**
 * [ME/CFS in mainstream news](me-inthenews.md)
 * [ME/CFS Resources](useful-resources.md)
+* [ME/CFS News](community-news.md)
 <br/><br/><br/>
 
 ---
