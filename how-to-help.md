@@ -2,7 +2,7 @@
 title: Advocacy Masterlist
 filename: 
 ---
-An ever expanding thing, patients, advocates, allies or anyone else can do to help people with ME/CFS.:
+An ever expanding list of things patients, advocates, allies or anyone else can do to help people with ME:
 <br/>
 ## News
 ### Help Correct News Articles
