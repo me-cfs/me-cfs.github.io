@@ -8,13 +8,18 @@ filename: useful-resources.md
 * [What is ME/CFS?](https://me-cfs.github.io/me-cfs.html)
 
 **What's the latest in the ME/CFS world?**
+* [ME News](community-news.md)
 * [ME in mainstream News](me-inthenews.md)
-* [Science for ME](https://www.s4me.info) has a weekly news in brief; collection of science and advocacy news
+<details markdown="1">
+  <summary>Places to Keep upto date/follow news</summary>
+* [Trial By Error](https://virology.ws/david-tuller-posts/) a column by a journalist and public health expert (in ME/CFS/LC) David Tuller
+* [Science for ME](https://www.s4me.info) has an extremely comprehensive weekly news in brief; and hosts discussions on all the new studies
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
 * [Tom Kindlon's twitter account](https://x.com/tomkindlon?s=21) shares most of the recent research papers
 * [Whitney Dafoe's Blog](https://whitneydafoe.com/mecfs/) shares the experience of living when very severely affected
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
-* [Trial By Error](https://virology.ws/david-tuller-posts/) a column by a journalist and public health expert covering problems with research and general news.
+</details>
+
 
 <br/><br/><br/>
 
