@@ -16,6 +16,9 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
   
 </details>
 
+## Online Knowledge
+### Improve Wikipedia's References to ME/CFS
+### Improve and make MEpedia upto date
 
 ## Research
 ### Participate in Research
