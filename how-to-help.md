@@ -22,4 +22,4 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
 
 ---
 
-[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.md), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Twitter](https://twitter.com/yann_mecfs)
