@@ -9,7 +9,7 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
   <summary>See Common Mistakes/Inaccuracies</summary>
 
 * Does not mention Post-Exertional Malaise although that is the defining and most prominent symptom
-
+<br/>
 * Uses the name "Chronic Fatigue Syndrome" or even "Chronic Fatigue" when the official name is ME/CFS or ME.
   
 * Fails to mention that it is a disabling illness, ie. referring to it as a "fatiguing condition" while listing "common symptoms" like "nausea" without mention that it leads people to be unable to work/bedbound/housebound etc.
