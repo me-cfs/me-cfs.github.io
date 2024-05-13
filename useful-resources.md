@@ -11,7 +11,7 @@ filename: useful-resources.md
 * [ME News](community-news.md)
 * [ME in mainstream News](me-inthenews.md)
 <details markdown="1">
-  <summary>Places to Keep upto date/follow news</summary>
+  <summary>Places to keep upto date/follow news</summary>
 * [Trial By Error](https://virology.ws/david-tuller-posts/) a column by a journalist and public health expert (in ME/CFS/LC) David Tuller
 * [Science for ME](https://www.s4me.info) has an extremely comprehensive weekly news in brief; and hosts discussions on all the new studies
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
@@ -20,7 +20,8 @@ filename: useful-resources.md
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
 </details>
 
-
+**How can I help? How can I advocate?**
+* [Advocacy Masterlist](how-to-help.md)
 <br/><br/><br/>
 
 ---
