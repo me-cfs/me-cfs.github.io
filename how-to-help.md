@@ -2,6 +2,8 @@
 title: Advocacy Masterlist
 filename: 
 ---
+An ever expanding thing, patients, advocates, allies or anyone else can do to help people with ME/CFS.:
+<br/>
 ## News
 ### Help Correct News Articles
 It is rare for news sources to not make mistakes when reporting on ME. If you spot a mistake, contact the news service or journalist and kindly point out their errors. Their is a decent chance they will listen and fix the article.
