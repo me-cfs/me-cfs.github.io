@@ -4,7 +4,8 @@ filename: useful-resources.md
 ---
 
 **What is/do I have ME/CFS?**
-* [Diagnostic Criteria Quiz](https://d3n8a8pro7vhmx.cloudfront.net/meadvocacy/pages/22/attachments/original/1478717636/ICC_Questionnaire_Nov_2016.pdf) 
+* [Simple Diagnostic Criteria](https://nap.nationalacademies.org/resource/19012/MECFS_ProposedDiagnosticCriteria.jpg)
+* [Extended Diagnostic Criteria Quiz](https://d3n8a8pro7vhmx.cloudfront.net/meadvocacy/pages/22/attachments/original/1478717636/ICC_Questionnaire_Nov_2016.pdf) 
 * [What is ME/CFS?](https://me-cfs.github.io/me-cfs.html)
 
 **What's the latest in the ME/CFS world?**
