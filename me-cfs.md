@@ -17,8 +17,8 @@ _Read:_
 * The [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
 
 _Watch:_
-* The academy nominated [Unrest](https://m.youtube.com/watch?v=XOpyLTyVxco) documentary.
-* The Dialogues [Introcution to ME/CFS](https://www.dialogues-mecfs.co.uk/films/introduction/) video
+* The academy nominated [Unrest](https://m.youtube.com/watch?v=XOpyLTyVxco) documentary. (Slightly Outdated)
+* The Dialogues [Introduction to ME/CFS](https://www.dialogues-mecfs.co.uk/films/introduction/) video (Slightly Outdated)
   
 _Listen to:_
 * A well researched [podcast episode](https://thispodcastwillkillyou.com/2024/04/16/episode-137-me-cfs-whats-in-a-name-a-lot-actually/) about ME/CFS from a well known biology podcast
