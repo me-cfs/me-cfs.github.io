@@ -10,22 +10,27 @@ jobs:
     name: Generate a sitemap
 
     steps:
-    - name: Checkout the repo
-      uses: actions/checkout@v3
-      with:
-        fetch-depth: 0 
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
-    - name: Generate the sitemap
-      uses: cicirello/generate-sitemap@v1
-      with:
-        base-url-path: https://www.me-cfs.github.io/
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
-    - name: Commit and push
-      run: |
-        if [[ `git status --porcelain sitemap.xml` ]]; then
-          git config --global user.name 'github-actions'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add sitemap.xml
-          git commit -m "Automated sitemap update" sitemap.xml
-          git push
-        fi
+      - name: Generate the sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://www.me-cfs.github.io/
+
+      - name: Commit and push
+        run: |
+          if [[ `git status --porcelain sitemap.xml` ]]; then
+            git config --global user.name 'github-actions'
+            git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add sitemap.xml
+            git commit -m "Automated sitemap update" sitemap.xml
+            git push
+          fi
