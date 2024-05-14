@@ -11,6 +11,8 @@ A lot of doctors do not know much about ME/CFS. That is not a reason to report t
 ## Fundraising
 ### Where to Donate
 There are plenty of different projects, organisations, and labrotories who ask for money in the ME/CFS community. Personally, to optimise your "bang for your buck", I would recommend the [Open Medicine Foundation](https://www.omf.ngo) for biomedical research, and [MEAction](https://www.meaction.net) for advocacy. Your local/national ME organisation could be a good call too, as they usually fund both research and advocacy (make sure to vet them properly though). If unsure about any organisation, project, or lab, I recommend asking about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
+### Fundraising Ideas
+* Birthday Fundraiser
 
 ## News
 ### Help Correct News Articles
@@ -27,6 +29,7 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
 ## Online Knowledge
 ### Improve Wikipedia's References to ME/CFS
 ### Improve and make MEpedia upto date
+[Me-pedia](https://me-pedia.org/wiki/MEpedia:How_to_contribute) is a collaborative effort to host our knowledge of ME/CFS and related illnesses online in an accessible format. Think of it like the wikipedia of ME. Anyone can help, and there is always something to do!
 
 ## Research
 ### Participate in Research
