@@ -29,6 +29,7 @@ _Listen to:_
 * [ME/CFS in mainstream news](me-inthenews.md)
 * [ME/CFS Resources](useful-resources.md)
 * [ME/CFS News](community-news.md)
+* [How to help](how-to-help.md)
 <br/><br/><br/>
 
 ---
