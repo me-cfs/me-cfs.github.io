@@ -2,6 +2,8 @@ name: Generate xml sitemap
 
 on:
   push:
+    paths-ignore:
+      - '**/sitemap.xml' # This line is to ignore changes in sitemap.xml file
     branches: [ main ]
 
 jobs:
