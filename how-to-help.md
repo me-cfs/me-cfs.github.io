@@ -6,7 +6,7 @@ An ever expanding list of things patients, advocates, allies or anyone else can 
 <br/>
 ## Doctors
 ### Teach your doctor
-Teach your doctor about [ME/CFS](me-cfs.md). Send them resources like [MEAction's primer for clinicians](https://www.meaction.net/learn/healthcare-providers/) or the [Mayo Clinic Proceedings](https://www.mayoclinicproceedings.org/article/S0025-6196(23)00402-0/fulltext)
+Teach your doctor about [ME/CFS](me-cfs.md). Send them resources like [MEAction's primer for clinicians](https://www.meaction.net/learn/healthcare-providers/) or the [Mayo Clinic Proceedings](https://www.mayoclinicproceedings.org/article/S0025-6196(23)00402-0/fulltext).
 ### Report Harmful Doctors
 A lot of doctors do not know much about ME/CFS. That is not a reason to report them. However a small minority of doctors will prescribe harmful treatments (such as exercise), or give harmful advice and refuse to reconsider/learn when presented with evidence to the contrary. This is unacceptable and should be reported for the safety of all future ME/CFS patients.
 
