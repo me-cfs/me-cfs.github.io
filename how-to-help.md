@@ -35,6 +35,8 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
 ### Participate in Research
 * Sign up to the OMF's [Study ME](https://www.omf.ngo/studyme/) registry so you are notified when the OMF needs participants for ME studies in your area.
 
+# Volunteer
+
 <br/><br/><br/>
 
 ---
