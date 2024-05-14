@@ -42,6 +42,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
+        with:
+           token: ${{ secrets.PAT }}
+        
 
       - name: Replace .md with .html in sitemap.xml
         run: |
