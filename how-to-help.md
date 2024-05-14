@@ -4,6 +4,9 @@ filename:
 ---
 An ever expanding list of things patients, advocates, allies or anyone else can do to help people with ME:
 <br/>
+## Doctors
+### Report Harmful Doctors
+A lot of doctors do not know much about ME/CFS. That is not a reason to report them. However a small minority of doctors will prescribe harmful treatments (such as exercise), or give harmful advice and refuse to reconsider/learn when presented with evidence to the contrary. This is unacceptable and should be reported for the safety of all future ME/CFS patients.
 ## News
 ### Help Correct News Articles
 It is rare for news sources to not make mistakes when reporting on ME. If you spot a mistake, contact the news service or journalist and kindly point out their errors. Their is a decent chance they will listen and fix the article.
