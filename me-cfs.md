@@ -16,6 +16,10 @@ _Read:_
 * [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
 * The [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
 * [Primer for Clinicians](https://www.meaction.net/learn/healthcare-providers/)
+<details markdown="1">
+  <summary>In other languages:</summary>
+* [Deutsch](https://link.springer.com/article/10.1007/s00508-024-02372-y)
+</details>
 
 _Watch:_
 * Short (2 min) [Overview](https://m.youtube.com/watch?v=X6f4zCe2ZtA)
