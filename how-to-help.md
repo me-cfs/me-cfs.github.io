@@ -43,6 +43,12 @@ Contact your local news source explaing your story and why it would make a good 
 ## Research
 ### Participate in Research
 * Sign up to the OMF's [Study ME](https://www.omf.ngo/studyme/) registry so you are notified when the OMF needs participants for ME studies in your area.
+<details markdown="1">
+  <summary>Places which advertises studies looking for Participants</summary>
+* Science for ME has a [collection of active studies looking for participants](https://www.s4me.info/forums/recruitment-into-current-me-cfs-research-studies.129/)
+* Your local/national ME/CFS organisation will likely promote studies looking for volunteers. It can be useful to sign up to their newsletters or equivalent.
+* [ME Research UK](https://www.meresearch.org.uk/research/volunteering/)
+</details>
 
 ## Volunteer
 
