@@ -9,6 +9,13 @@ filename: community-news.md
 
 <br/>
 -->
+Hi, welcome to this page, feel free to bookmark or save it if you want to be able to check it in the future. I will continue to regularly update it unless my illness worsens.
+
+*13 May 2024*
+
+<span style="font-size:1.4em;"> **Yale Medicine:** [Long COVID, ME/CFS and the Importance of Studying Infection-Associated Illnesses](https://www.yalemedicine.org/news/long-covid-mecfs-and-the-importance-of-studying-infection-associated-illnesses) </span>
+
+<br/>
 *11 May 2024*
 
 <span style="font-size:1.4em;"> **Whitney Dafoe:** [I Still Feel Free](https://www.whitneydafoe.com/mecfs/?post=i-still-feel-free) </span>
