@@ -9,8 +9,9 @@ filename: community-news.md
 
 <br/>
 -->
-Hi, welcome to this page, feel free to bookmark or save it if you want to be able to check it in the future. I will continue to regularly update it unless my illness worsens.
+Hi, welcome to this page, feel free to bookmark or save it incase you want to be able to check it in the future. I will continue to regularly update it unless my illness worsens.
 
+<br/>
 *13 May 2024*
 
 <span style="font-size:1.4em;"> **Yale Medicine:** [Long COVID, ME/CFS and the Importance of Studying Infection-Associated Illnesses](https://www.yalemedicine.org/news/long-covid-mecfs-and-the-importance-of-studying-infection-associated-illnesses) </span>
