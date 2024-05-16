@@ -49,10 +49,12 @@ Contact your local news source explaing your story and why it would make a good 
   <summary>Social Media Accounts that Often Share Petitions</summary>
 **Twitter:**
 * [Ror Preston](https://x.com/rorpreston?s=21)
+* [ME Action Network](https://x.com/meactnet?s=21)
 * [ME Advocacy Australia](https://x.com/meadvnetau?s=21)
 * [ME Association](https://x.com/meassociation?s=21)
 * [Solve ME/CFS Initiative](https://x.com/plzsolvecfs?s=21)
 * [The Chronic Collaboration](https://x.com/thechroniccolab?s=21)
+* [My Twitter Account](https://twitter.com/yann_mecfs)
 </details>
 
 ## Research
