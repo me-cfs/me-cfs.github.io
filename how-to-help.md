@@ -45,6 +45,15 @@ Contact your local news source explaing your story and why it would make a good 
 * [Ask Cochrane to withdraw their Harmful 2019 Exercise therapy for "CFS" Review](https://www.change.org/p/cochrane-withdraw-the-harmful-2019-exercise-therapy-for-cfs-review)
 ### Places to find Campaigns
 * [Collection](https://www.s4me.info/forums/petitions.23/) of ME/CFS petitions.
+<details markdown="1">
+  <summary>Social Media Accounts that Often Share Petitions</summary>
+**Twitter:**
+* [Ror Preston](https://x.com/rorpreston?s=21)
+* [ME Advocacy Australia](https://x.com/meadvnetau?s=21)
+* [ME Association](https://x.com/meassociation?s=21)
+* [Solve ME/CFS Initiative](https://x.com/plzsolvecfs?s=21)
+* [The Chronic Collaboration](https://x.com/thechroniccolab?s=21)
+</details>
 
 ## Research
 ### Participate in Research
