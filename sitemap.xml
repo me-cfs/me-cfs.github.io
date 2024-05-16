@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.me-cfs.github.io/LCAP.html</loc>
+<loc>https://www.me-cfs.github.io/LCAP.md</loc>
 <lastmod>2024-05-08T12:38:48+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/README.html</loc>
+<loc>https://www.me-cfs.github.io/README.md</loc>
 <lastmod>2024-05-13T19:16:01+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/community-news.html</loc>
+<loc>https://www.me-cfs.github.io/community-news.md</loc>
 <lastmod>2024-05-15T17:36:13+02:00</lastmod>
 </url>
 <url>
@@ -17,20 +17,20 @@
 <lastmod>2024-05-14T12:39:44+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/how-to-help.html</loc>
-<lastmod>2024-05-16T12:29:21+02:00</lastmod>
+<loc>https://www.me-cfs.github.io/how-to-help.md</loc>
+<lastmod>2024-05-16T12:31:13+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/me-cfs.html</loc>
+<loc>https://www.me-cfs.github.io/me-cfs.md</loc>
 <lastmod>2024-05-15T22:42:34+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/me-inthenews.html</loc>
+<loc>https://www.me-cfs.github.io/me-inthenews.md</loc>
 <lastmod>2024-05-10T20:26:17+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.me-cfs.github.io/useful-resources.html</loc>
-<lastmod>2024-05-14T13:22:52+02:00</lastmod>
+<loc>https://www.me-cfs.github.io/useful-resources.md</loc>
+<lastmod>2024-05-16T16:53:45+02:00</lastmod>
 </url>
 <url>
 <loc>https://www.me-cfs.github.io/_includes/head.html</loc>
