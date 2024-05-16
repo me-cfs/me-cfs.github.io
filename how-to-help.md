@@ -43,10 +43,11 @@ Contact your local news source explaing your story and why it would make a good 
 ## Petitions
 ### Long Term Petitions
 * [Ask Cochrane to withdraw their Harmful 2019 Exercise therapy for "CFS" Review](https://www.change.org/p/cochrane-withdraw-the-harmful-2019-exercise-therapy-for-cfs-review)
+
 ### Places to find Campaigns
 * [Collection](https://www.s4me.info/forums/petitions.23/) of ME/CFS petitions.
 <details markdown="1">
-  <summary>Social Media Accounts that Often Share Petitions</summary>
+<summary>Social Media Accounts that Often Share Petitions</summary>
 **Twitter:**
 * [Ror Preston](https://x.com/rorpreston?s=21)
 * [ME Action Network](https://x.com/meactnet?s=21)
