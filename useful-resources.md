@@ -23,6 +23,9 @@ filename: useful-resources.md
 
 **How can I help? How can I advocate?**
 * [Advocacy Masterlist](how-to-help.md)
+
+**Why so many names? Why not just CFS?**
+* [S4ME piece](https://www.s4me.info/threads/the-name-question.332/) explaining the history and biology behing the names -- ME or ME/CFS is preferred.
 <br/><br/><br/>
 
 ---
