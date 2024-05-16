@@ -40,6 +40,11 @@ Contact your local news source explaing your story and why it would make a good 
 ### Improve and make MEpedia upto date
 [Me-pedia](https://me-pedia.org/wiki/MEpedia:How_to_contribute) is a collaborative effort to host our knowledge of ME/CFS and related illnesses online in an accessible format. Think of it like the wikipedia of ME. Anyone can help, and there is always something to do!
 
+## Petitions
+### Long Term Petitions
+* [Ask Cochrane to withdraw their Harmful 2019 Exercise therapy for "CFS" Review](https://www.change.org/p/cochrane-withdraw-the-harmful-2019-exercise-therapy-for-cfs-review)
+### Places to find Campaigns
+
 ## Research
 ### Participate in Research
 * Sign up to the OMF's [Study ME](https://www.omf.ngo/studyme/) registry so you are notified when the OMF needs participants for ME studies in your area.
