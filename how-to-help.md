@@ -25,7 +25,7 @@ To optimise your "bang for your buck", I would recommend the [Open Medicine Foun
 
 ## News
 ### Help Correct News Articles
-It is rare for news sources to not make mistakes when reporting on ME. If you spot a mistake, contact the news service or journalist and kindly point out their errors. Their is a decent chance they will listen and fix the article.
+It is rare for news sources to not make mistakes when reporting on ME. If you spot a mistake, contact the news service or journalist and kindly point out their errors. There is a chance they will listen and fix the article.
 <details markdown="1">
   <summary>See Common Mistakes/Inaccuracies</summary>
 
