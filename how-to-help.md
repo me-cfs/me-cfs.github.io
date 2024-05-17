@@ -19,6 +19,7 @@ Explain to them [what ME/CFS is](me-cfs.md) and why it matters.
 To optimise your "bang for your buck", I would recommend the [Open Medicine Foundation](https://www.omf.ngo) for biomedical research, and [MEAction](https://www.meaction.net) for advocacy. Your local/national ME organisation could be a good call too, as they usually fund both research and advocacy (make sure to vet them properly though). If unsure about any organisation, project, or lab, I recommend asking about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
 ### Fundraising Ideas
 * Birthday Fundraiser
+
 ### Fundraising for Free
 * UK Only: Free donation to [ME Research UK](https://www.meresearch.org.uk) with online shopping, sign up [here](https://tinyurl.com/yndk2uf7)
 
@@ -59,6 +60,10 @@ Contact your local news source explaing your story and why it would make a good 
 * [The Chronic Collaboration](https://x.com/thechroniccolab?s=21)
 * [My Twitter Account](https://twitter.com/yann_mecfs)
 </details>
+
+## Politics
+### Contact your Representative
+Contact your politician/represntative and tell them about your struggles with ME/CFS and what they could do to help (more research funding, better disability benefits, medical education etc.)
 
 ## Research
 ### Participate in Research
