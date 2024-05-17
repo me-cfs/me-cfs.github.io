@@ -40,6 +40,7 @@ Contact your local news source explaing your story and why it would make a good 
 
 ## Online Knowledge
 ### Improve Wikipedia's References to ME/CFS
+Although the ME/CFS page on wikipedia has improved a lot recently, there exist thousands of other pages referencing ME/CFS which have outdated or incorrect information. You can help by editing these. Alternatively, simply fixing spelling errors and formatting helps too!
 ### Improve and make MEpedia upto date
 [Me-pedia](https://me-pedia.org/wiki/MEpedia:How_to_contribute) is a collaborative effort to host our knowledge of ME/CFS and related illnesses online in an accessible format. Think of it like the wikipedia of ME. Anyone can help, and there is always something to do!
 
