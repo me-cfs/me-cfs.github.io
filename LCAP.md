@@ -115,8 +115,8 @@ So the organisations LCAP attacks have actually done far more effective work on 
 
 An example tweet of an LCAP ally who harassed me with hundreds of tweets (I ignored him and he kept on going for weeks).
 
-![Another Tweet](![https://pbs.twimg.com/media/
-GNJhXZbWwAAuBji?format=jpg&name=900x900])
+![Another Tweet](https://pbs.twimg.com/media/
+GNJhXZbWwAAuBji?format=jpg&name=900x900)
 <br/><br/><br/>
 
 ---
