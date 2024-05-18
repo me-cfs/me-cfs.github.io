@@ -113,7 +113,7 @@ So the organisations LCAP attacks have actually done far more effective work on 
 # Some harassment after this page was made
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Daniel <a href="https://twitter.com/dbdugger?ref_src=twsrc%5Etfw">@dbdugger</a> has openly stated he hopes ME patients starve to death. <a href="https://t.co/F9niT7W2pL">pic.twitter.com/F9niT7W2pL</a></p>&mdash; Sue (@inkblue01) <a href="https://twitter.com/inkblue01/status/1789636434883657761?ref_src=twsrc%5Etfw">May 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-An example tweet of an LCAP ally who harassed me with hundreds of tweets (I ignored him and he kept on going for week).
+An example tweet of an LCAP ally who harassed me with hundreds of tweets (I ignored him and he kept on going for weeks).
 ![https://pbs.twimg.com/media/GNJhXZbWwAAuBji?format=jpg&name=900x900]
 <br/><br/><br/>
 
