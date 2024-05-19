@@ -1,4 +1,7 @@
-# About
+---
+title: Mainpage
+---
+
 Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden, unable to speak, unable to sit, and unable to tolerate others in my presence. This site is a collection of anything I wanted to share or compile in relation to ME/CFS and Long Covid. I hope the content here is useful. 
 
 **Most Useful Page** 
@@ -27,5 +30,5 @@ This image shows how I am 99% of the time. I have extensive sound and light proo
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
+[Mainpage](https://me-cfs.github.io), [ME Resources](useful-resources.md), [Twitter](https://twitter.com/yann_mecfs)
 
