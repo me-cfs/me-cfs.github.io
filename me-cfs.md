@@ -15,11 +15,7 @@ _Read:_
 * The [Me-pedia review](https://me-pedia.org/wiki/Myalgic_encephalomyelitis).
 * [Whitney Dafoe's Explanation](https://www.whitneydafoe.com/mecfs/whatismecfs/). Whitney is the son of the leading Stanford researcher on ME/CFS, and is himself severely affected by it.
 * The [wikipedia page](https://en.m.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome).
-* [Primer for Clinicians](https://www.meaction.net/learn/healthcare-providers/)
-<details markdown="1">
-  <summary>In other languages:</summary>
-* [Deutsch](https://link.springer.com/article/10.1007/s00508-024-02372-y)
-</details>
+* [Academic/Clinical Introductions](clinical-resources.md)
 
 _Watch:_
 * Short (2 min) [Overview](https://m.youtube.com/watch?v=X6f4zCe2ZtA)
@@ -31,6 +27,7 @@ _Listen to:_
 <br/>
 
 **Related Pages on this Website:**
+* [Clinical/Academic Introduction to ME](clinical-resources.md)
 * [ME/CFS in mainstream news](me-inthenews.md)
 * [ME/CFS Resources](useful-resources.md)
 * [ME/CFS News](community-news.md)
