@@ -1,5 +1,5 @@
 ---
-title: ME News 
+title: ME (and LC) News 
 filename: community-news.md
 ---
 <!---
@@ -12,6 +12,11 @@ filename: community-news.md
 Hi, welcome to this page, feel free to bookmark or save it incase you want to be able to check it in the future. I will continue to regularly update it unless my illness worsens.
 
 <br/>
+*20 May 2024*
+
+<span style="font-size:1.4em;"> **Schoolsweek:** [Long Covid teachers join forces to sue ministers](https://schoolsweek.co.uk/long-covid-teachers-join-forces-to-sue-ministers/) </span>
+
+<br/
 *13 May 2024*
 
 <span style="font-size:1.4em;"> **Yale Medicine:** [Long COVID, ME/CFS and the Importance of Studying Infection-Associated Illnesses](https://www.yalemedicine.org/news/long-covid-mecfs-and-the-importance-of-studying-infection-associated-illnesses) </span>
