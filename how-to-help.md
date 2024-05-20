@@ -65,7 +65,7 @@ Although the ME/CFS page on wikipedia has improved a lot recently, there exist t
 
 ## Politics
 ### Contact your Representative
-Contact your politician/represntative and tell them about your struggles with ME/CFS and what they could do to help (more research funding, better disability benefits, medical education etc.)
+Contact your politician/reprsentative and tell them about your struggles with ME/CFS and what they could do to help (more research funding, better disability benefits, medical education etc.)
 
 ## Research
 ### Participate in Research
