@@ -20,6 +20,7 @@ filename: useful-resources.md
 * [Science for ME](https://www.s4me.info) has an extremely comprehensive weekly news in brief; and hosts discussions on all the new studies
 * [Whitney Dafoe's Blog](https://whitneydafoe.com/mecfs/) shares the experience of living when very severely affected
 * [Tom Kindlon's twitter account](https://x.com/tomkindlon?s=21) shares most of the recent research papers
+* [Twitter list](https://x.com/i/lists/1792252442643509657) of accounts sharing news (mostly major ME/LC organisations)
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
 </details>
