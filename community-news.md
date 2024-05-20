@@ -16,7 +16,7 @@ Hi, welcome to this page, feel free to bookmark or save it incase you want to be
 
 <span style="font-size:1.4em;"> **Schoolsweek:** [Long Covid teachers join forces to sue ministers](https://schoolsweek.co.uk/long-covid-teachers-join-forces-to-sue-ministers/) </span>
 
-<br/
+<br/>
 *13 May 2024*
 
 <span style="font-size:1.4em;"> **Yale Medicine:** [Long COVID, ME/CFS and the Importance of Studying Infection-Associated Illnesses](https://www.yalemedicine.org/news/long-covid-mecfs-and-the-importance-of-studying-infection-associated-illnesses) </span>
