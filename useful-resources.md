@@ -5,7 +5,7 @@ filename: useful-resources.md
 
 **What is ME/CFS?**
 * [What is ME/CFS?](https://me-cfs.github.io/me-cfs.html)
-* [Clinical/Academic Resources](clinical-resources.md)
+* [Clinical/Academic Introductions](clinical-resources.md)
 
 **Do I have ME/CFS?**
 * [Simple Diagnostic Criteria](https://nap.nationalacademies.org/resource/19012/MECFS_ProposedDiagnosticCriteria.jpg) (Institute of Medicine)
