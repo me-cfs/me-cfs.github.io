@@ -2,7 +2,7 @@
 title: What is ME/CFS?
 filename: me-cfs.md
 ---
-ME/CFS short for Myalgic Encephalomyelitis (brain inflammation) is a disabling disease characterised by a profound lack of energy production. If someone with the disease uses too much energy, they can take weeks or months to recover, and in some cases they never do. The disease is usually lifelong and renders many bedbound with severe cognitive difficulties (thinking takes more energy than some patients have).
+ME/CFS short for Myalgic Encephalomyelitis (brain inflammation) is a disabling disease characterised by a profound lack of energy production. If someone with the disease uses too much energy, they can take weeks or months to recover, and [in some cases](https://www.nice.org.uk/guidance/ng206/chapter/recommendations#post-exertional-malaise) they never do. The disease is usually lifelong and renders many bedbound with severe cognitive difficulties (thinking takes more energy than some patients have).
 
 Due to [low research funding](https://pubmed.ncbi.nlm.nih.gov/32568148/) we do not properly understand how this disease works. It often strikes people between the ages of 10-40, rendering them unable to work or socialise. ME/CFS presents with a dysregulation of the immune system, which is thought to damage the brain and the mitochondria (energy production in cells). It is relatively common (1 in 100 people), and can be caused by various factors, one being a covid infection. Since the beginning of the pandemic, ME/CFS cases have doubled. 
 
