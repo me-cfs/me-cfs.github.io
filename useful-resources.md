@@ -44,6 +44,8 @@ filename: useful-resources.md
   * Sadly, this community is mostly inactive, but Lemmy is quickly growing, so feel free to be the people who make it active :). 
 </details>
 
+**Severe and Very Severe ME/CFS**
+* [Hospital Admission vs Pallitative Care](https://www.dialogues-mecfs.co.uk/films/severeme/) (scroll down; third video)
 <br/><br/><br/>
 
 ---
