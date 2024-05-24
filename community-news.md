@@ -12,7 +12,12 @@ filename: community-news.md
 Hi, welcome to this page, feel free to bookmark or save it incase you want to be able to check it in the future. I will continue to regularly update it unless my illness worsens.
 
 <br/>
+*23 May 2024*
 
+<span style="font-size:1.4em;"> **The Canary:** [Quack science the ‘Lightning Process’ strikes the chronic illness community again – this time, long Covid
+After years of gaslighting ME patients](https://www.thecanary.co/uk/analysis/2024/05/23/lightning-process-long-covid/) </span>
+
+<br/>
 *21 May 2024*
 
 <span style="font-size:1.4em;"> **Byline Times:** [Two Million Brits Suffer Long Covid and a Third Have Had it for More Than Three Years – yet Pleas for Extra Funding Rejected](https://bylinetimes.com/2024/05/21/two-million-brits-suffer-long-covid-and-a-third-have-had-it-for-more-than-three-years-yet-pleas-for-extra-funding-rejected/) </span>
