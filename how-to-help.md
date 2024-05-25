@@ -16,7 +16,15 @@ Explain to them [what ME/CFS is](me-cfs.md) and why it matters.
 
 ## Fundraising
 ### Where to Donate
-To optimise your "bang for your buck", I would recommend the [Open Medicine Foundation](https://www.omf.ngo) for biomedical research, and [MEAction](https://www.meaction.net) for advocacy. Your local/national ME organisation could be a good call too, as they usually fund both research and advocacy (make sure to vet them properly though). If unsure about any organisation, project, or lab, I recommend asking about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
+My recommendation on "cost-effective" charities:
+* Research, [Open Medicine Foundation](https://www.omf.ngo)
+* Advocacy, [MEAction](https://www.meaction.net)
+* Both, your local/national ME organisation (make sure to vet them)
+If unsure about any organisation, please ask about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
+
+### Membership
+By paying a small fee to be a member of your chosen organisation, you get some benefits and help fund their efforts. 
+
 ### Fundraising Ideas
 * Birthday Fundraiser
 
