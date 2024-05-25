@@ -70,6 +70,7 @@ Contact your politician/reprsentative and tell them about your struggles with ME
 ## Research
 ### Participate in Research
 * Sign up to the OMF's [Study ME](https://www.omf.ngo/studyme/) registry so you are notified when the OMF needs participants for ME studies in your area
+* See if there are any [Long Covid Studies](https://longcovidstudies.net) recruiting near you.
 <details markdown="1">
   <summary>Places that advertise studies looking for Participants</summary>
 * Science for ME has a [collection of active studies looking for participants](https://www.s4me.info/forums/recruitment-into-current-me-cfs-research-studies.129/)
