@@ -20,6 +20,7 @@ My recommendation on "cost-effective" charities:
 * Research, [Open Medicine Foundation](https://www.omf.ngo)
 * Advocacy, [MEAction](https://www.meaction.net)
 * Both, your local/national ME organisation (make sure to vet them)
+
 If unsure about any organisation, please ask about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
 
 ### Membership
