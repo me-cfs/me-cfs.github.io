@@ -46,6 +46,10 @@ filename: useful-resources.md
 
 **Severe and Very Severe ME/CFS**
 * [Hospital Admission vs Pallitative Care](https://www.dialogues-mecfs.co.uk/films/severeme/) (scroll down; third video)
+
+**The Dark History of Psychologisation**
+* [Documentary: The Tangled Story of ME/CFS](https://www.dialogues-mecfs.co.uk/films/the-tangled-story-of-me-cfs/) (2021; 1 hour)
+* [UK News Article Exploring it](https://amp.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services)
 <br/><br/><br/>
 
 ---
