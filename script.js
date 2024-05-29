@@ -21,17 +21,18 @@ async function loadFeeds() {
 
     for (const feed of rssFeeds) {
         const feedData = await fetchFeed(feed);
-        const feedTitle = feedData.feed.title;
+        let feedTitle = feedData.feed.title;
+        
+        // Check for the specific feed title and change it
+        if (feedTitle === "David Tuller's Posts | Virology Blog") {
+            feedTitle = "Virology";
+        }
+
         const items = feedData.items.map(item => ({
             ...item,
             feedTitle: feedTitle
         }));
         allItems = allItems.concat(items);
-
-// Check for the specific feed title and change it
-if (feedTitle === "David Tuller's Posts | Virology Blog") {
-    feedTitle = "Virology";
-}
     }
 
     allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
