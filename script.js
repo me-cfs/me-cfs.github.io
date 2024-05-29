@@ -2,6 +2,7 @@ const rssFeeds = [
     'https://thesicktimes.org/feed/',
     'https://politepol.com/fd/yNgKhc4c7HHu.xml',
     'https://www.healthrising.org/feed/',
+    'https://politepol.com/fd/uu29e43WxMVl.xml',
     // Add more feeds as needed
 ];
 
