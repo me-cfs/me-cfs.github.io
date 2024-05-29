@@ -1,13 +1,13 @@
 const rssFeeds = [
-    'https://politepol.com/fd/yNgKhc4c7HHu.xml',
-    'https://thesicktimes.org/feed/',
+    'https://example.com/feed1.xml',
+    'https://example.com/feed2.xml',
     // Add more feeds as needed
 ];
 
 async function fetchFeed(url) {
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
     const data = await response.json();
-    return data.items;
+    return data;
 }
 
 function stripHtml(html) {
@@ -20,7 +20,12 @@ async function loadFeeds() {
     let allItems = [];
 
     for (const feed of rssFeeds) {
-        const items = await fetchFeed(feed);
+        const feedData = await fetchFeed(feed);
+        const feedTitle = feedData.feed.title;
+        const items = feedData.items.map(item => ({
+            ...item,
+            feedTitle: feedTitle
+        }));
         allItems = allItems.concat(items);
     }
 
@@ -33,7 +38,7 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = item.title;
+        link.textContent = `${item.feedTitle}: ${item.title}`;
         title.appendChild(link);
         
         const description = document.createElement('p');
