@@ -1,5 +1,5 @@
 const rssFeeds = [
-    'https://example.com/feed1.xml',
+    'https://thesicktimes.org/feed/',
     'https://example.com/feed2.xml',
     // Add more feeds as needed
 ];
