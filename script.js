@@ -29,7 +29,7 @@ async function loadFeeds() {
         if (feedTitle === "David Tuller's Posts | Virology Blog") {
             feedTitle = "Virology";
         }
-        if (feedTitle === "ME/CFS Research Review - Simon McGrath explores the big biomedical stories") {
+        if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories"){
             feedTitle = "ME/CFS Research Review";
         }
 
