@@ -33,6 +33,9 @@ async function loadFeeds() {
         if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories"){
             feedTitle = "ME/CFS Research Review";
         }
+        if (feedTitle === "Weekly ME news in brief | Science for ME"){
+            feedTitle = "Science for ME";
+        }
 
         const items = feedData.items.map(item => ({
             ...item,
