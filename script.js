@@ -27,6 +27,11 @@ async function loadFeeds() {
             feedTitle: feedTitle
         }));
         allItems = allItems.concat(items);
+
+// Check for the specific feed title and change it
+if (feedTitle === "David Tuller's Posts | Virology Blog") {
+    feedTitle = "Virology";
+}
     }
 
     allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
