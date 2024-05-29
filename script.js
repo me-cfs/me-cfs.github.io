@@ -1,6 +1,6 @@
 const rssFeeds = [
     'https://thesicktimes.org/feed/',
-    'https://example.com/feed2.xml',
+    'https://politepol.com/fd/yNgKhc4c7HHu.xml',
     // Add more feeds as needed
 ];
 
