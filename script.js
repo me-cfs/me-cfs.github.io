@@ -4,6 +4,7 @@ const rssFeeds = [
     'https://www.healthrising.org/feed/',
     'https://politepol.com/fd/uu29e43WxMVl.xml',
     'https://politepol.com/fd/jyPhRAUUwOqs.xml',
+    'https://politepol.com/fd/7Jrlm0Y5ncxC.xml',
     // Add more feeds as needed
 ];
 
@@ -35,6 +36,9 @@ async function loadFeeds() {
         }
         if (feedTitle === "Weekly ME news in brief | Science for ME"){
             feedTitle = "Science for ME";
+        }
+        if (feedTitle === "The Canary - ME/CFS"){
+            feedTitle = "The Canary";
         }
 
         const items = feedData.items.map(item => ({
