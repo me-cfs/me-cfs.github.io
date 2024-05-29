@@ -37,7 +37,7 @@ async function loadFeeds() {
         if (feedTitle === "Weekly ME news in brief | Science for ME"){
             feedTitle = "Science for ME";
         }
-        if (feedTitle === "The Canary - ME/CFS"){
+        if (feedTitle === "ME/CFS - Canary"){
             feedTitle = "The Canary";
         }
 
