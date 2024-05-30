@@ -60,14 +60,14 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = `${item.feedTitle}: ${item.title}`;
+        link.textContent = item.title;
         title.appendChild(link);
         
-        const pubDate = document.createElement('small');
-        pubDate.textContent = formatDate(new Date(item.pubDate));
+        const meta = document.createElement('small');
+        meta.textContent = `${item.feedTitle}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
-        newsItem.appendChild(pubDate);
+        newsItem.appendChild(meta);
 
         newsContainer.appendChild(newsItem);
     });
