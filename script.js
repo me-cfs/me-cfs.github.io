@@ -8,6 +8,10 @@ const rssFeeds = [
     // Add more feeds as needed
 ];
 
+const ITEMS_PER_PAGE = 10; // Number of items to load per page
+let currentIndex = 0;
+let allItems = [];
+
 async function fetchFeed(url) {
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
     const data = await response.json();
@@ -16,36 +20,40 @@ async function fetchFeed(url) {
 
 async function loadFeeds() {
     const newsContainer = document.getElementById('news-container');
-    let allItems = [];
+    const loadMoreButton = document.getElementById('load-more-button');
 
-    for (const feed of rssFeeds) {
-        const feedData = await fetchFeed(feed);
-        let feedTitle = feedData.feed.title;
-        
-        // Check for the specific feed title and change it
-        if (feedTitle === "David Tuller's Posts | Virology Blog") {
-            feedTitle = "Virology";
-        }
-        if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories"){
-            feedTitle = "ME/CFS Research Review";
-        }
-        if (feedTitle === "Weekly ME news in brief | Science for ME"){
-            feedTitle = "Science for ME";
-        }
-        if (feedTitle === "ME/CFS - Canary"){
-            feedTitle = "The Canary";
+    if (currentIndex === 0) {
+        // Only fetch feeds if this is the first load
+        for (const feed of rssFeeds) {
+            const feedData = await fetchFeed(feed);
+            let feedTitle = feedData.feed.title;
+            
+            // Check for the specific feed title and change it
+            if (feedTitle === "David Tuller's Posts | Virology Blog") {
+                feedTitle = "Virology";
+            }
+            if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories") {
+                feedTitle = "ME/CFS Research Review";
+            }
+            if (feedTitle === "Weekly ME news in brief | Science for ME") {
+                feedTitle = "Science for ME";
+            }
+            if (feedTitle === "ME/CFS - Canary") {
+                feedTitle = "The Canary";
+            }
+
+            const items = feedData.items.map(item => ({
+                ...item,
+                feedTitle: feedTitle
+            }));
+            allItems = allItems.concat(items);
         }
 
-        const items = feedData.items.map(item => ({
-            ...item,
-            feedTitle: feedTitle
-        }));
-        allItems = allItems.concat(items);
+        allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
     }
 
-    allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-
-    allItems.forEach(item => {
+    const nextItems = allItems.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
+    nextItems.forEach(item => {
         const newsItem = document.createElement('div');
         newsItem.className = 'news-item';
         
@@ -63,6 +71,15 @@ async function loadFeeds() {
 
         newsContainer.appendChild(newsItem);
     });
+
+    currentIndex += ITEMS_PER_PAGE;
+
+    // Hide the "Load More" button if all items are loaded
+    if (currentIndex >= allItems.length) {
+        loadMoreButton.style.display = 'none';
+    } else {
+        loadMoreButton.style.display = 'block';
+    }
 }
 
 function formatDate(date) {
@@ -83,4 +100,8 @@ function formatDate(date) {
     return formattedDate.replace(/\d+/, day + suffix);
 }
 
+// Add event listener to the "Load More" button
+document.getElementById('load-more-button').addEventListener('click', loadFeeds);
+
+// Initial load
 loadFeeds();
