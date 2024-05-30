@@ -27,6 +27,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 2.8em; /* Increased font size */
+    color: #ffffff;
 }
 
 header h2 {
