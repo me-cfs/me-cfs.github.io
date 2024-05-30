@@ -14,11 +14,6 @@ async function fetchFeed(url) {
     return data;
 }
 
-function stripHtml(html) {
-    const doc = new DOMParser().parseFromString(html, 'text/html');
-    return doc.body.textContent || "";
-}
-
 async function loadFeeds() {
     const newsContainer = document.getElementById('news-container');
     let allItems = [];
@@ -60,14 +55,10 @@ async function loadFeeds() {
         link.textContent = `${item.feedTitle}: ${item.title}`;
         title.appendChild(link);
         
-        const description = document.createElement('p');
-        description.textContent = stripHtml(item.description);
-
         const pubDate = document.createElement('small');
         pubDate.textContent = new Date(item.pubDate).toLocaleString();
 
         newsItem.appendChild(title);
-        newsItem.appendChild(description);
         newsItem.appendChild(pubDate);
 
         newsContainer.appendChild(newsItem);
