@@ -28,13 +28,13 @@ h1 {
     border: 1px solid #e1e4e8;
     border-radius: 5px;
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 25px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .news-item h2 {
-    font-size: 1.25em;
-    margin: 0 0 10px;
+    font-size: 1.5em;
+    margin: 0 0 15px;
     color: #0366d6;
 }
 
@@ -48,10 +48,10 @@ h1 {
 }
 
 .news-item small {
-    font-size: 0.9em;
+    font-size: 1em;
     color: #586069;
     display: block;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 /* Button */
@@ -59,9 +59,9 @@ h1 {
     display: block;
     width: 100%;
     max-width: 200px;
-    margin: 20px auto;
-    padding: 10px;
-    font-size: 1em;
+    margin: 30px auto;
+    padding: 15px;
+    font-size: 1.1em;
     color: #fff;
     background-color: #28a745;
     border: none;
@@ -77,23 +77,28 @@ h1 {
 /* Responsive Design */
 @media (max-width: 600px) {
     body {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     h1 {
-        font-size: 2em;
-        margin-top: 10px;
+        font-size: 2.2em;
+        margin-top: 15px;
     }
 
     .news-item {
-        padding: 15px;
+        padding: 20px;
     }
 
     .news-item h2 {
-        font-size: 1.1em;
+        font-size: 1.3em;
     }
 
     .news-item small {
-        font-size: 0.8em;
+        font-size: 1em;
+    }
+
+    #load-more-button {
+        padding: 15px;
+        font-size: 1.1em;
     }
 }
