@@ -57,7 +57,7 @@ Hoping my fellow longhaulers a wonderful day. Love Yann.
 
 **Edit:** I was informed of an occurrence where LCAP was openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
 
-**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [trigger warning] ||retard|| in one comment. Which was thankfully removed by the mods for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. 
+**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [trigger warning] ||retard|| in one comment. Which was thankfully removed by the mods for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. _Note on backed up post, in the backed up version, I use my personal name as the founder of LCAP released it_.
 
 # Reply from the founder of LCAP
 
@@ -87,10 +87,12 @@ I am not sure why you brought up trans rights, anti-racism, and LGBTQ+ rights. O
 
 Kind Regards, Yann
 
-# Addendum by an anonymous commenter
-The most remarkable thing about LCAP is how little they’ve actually done. They posted a YouTube video about tinnitus that received a couple hundred views. They shared an incredibly poorly articulated letter and got ppl to send it to politicians hundreds of thousands of times. They did a recent protest that got virtually no media attention.
+Note: I did not recieve an answer to this post by LCAP's founder. Although I did recieve a message from an LCAP ally tellng me I will die a slow death.
 
-If you compare that with patient led research collaborative, or body politic, or CLAP, it’s nothing. These other organisations have worked with major governmental bodies, published papers in top journals, got media attention in high profile outlets, and contributed to global Long Covid guidelines. And the moonshot initiative they hate so intensely?  Well their efforts ensured that all 15 senators attended the HELP hearing, which is no mean feat, and their activism played a fundamental role in informing Bernie Sanders’s recent proposed bill, which is by far the most important bit of proposed Long Covid legislation to date. In other words, these other organisations have got on with the job and have done very impressive and effective work.
+# Addendum by an anonymous commenter
+The most remarkable thing about LCAP is how little they’ve actually done. They posted a YouTube video about tinnitus that received a couple hundred views. They shared an incredibly poorly articulated letter and got people to send it to politicians hundreds of thousands of times. They did a recent protest that got virtually no media attention.
+
+If you compare that with patient led research collaborative, or body politic, or CLAP, it’s nothing. These other organisations have worked with major governmental bodies, published papers in top journals, got media attention in high profile outlets, and contributed to global Long Covid guidelines. And the moonshot initiative they [LCAP] hate so intensely?  Well their efforts ensured that all 15 senators attended the HELP hearing, which is no mean feat, and their activism played a fundamental role in informing Bernie Sanders’s recent proposed bill, which is by far the most important bit of proposed Long Covid legislation to date. In other words, these other organisations have got on with the job and have done very impressive and effective work.
 
 LCAP by contrast is loud, hateful, and largely useless. They have done a remarkable job of gathering the least intelligent and effective activists out there, which is how you end up with a ridiculous demand like $28 billion in research funding a year or have activists shouting ‘moonshot kills’ in front of senators. In other words, the only reason people talk about them is because of the hate and toxicity they’ve spread on Long Covid Twitter.
 
