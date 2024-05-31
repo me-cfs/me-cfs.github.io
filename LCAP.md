@@ -12,7 +12,7 @@ The problem can be summarised as: “They take opinions on what the cause and cu
 **Summary of sections:**
 * They claim long covid is like AIDS and solely caused by viral persistence. Which is a harmful way to present the disease and not backed by research.
 * They disrupted the long covid moonshot and asked it to focus nearly only on viral persistence and no other issue related to long covid, which neglects the majority of patients.
-* They claim that antivirals will be the cure (ignoring the heterogenity of long covid and many other promising treatments) and try to make all clinical trial funding go to antivirals.
+* They claim that antivirals will be the cure (ignoring the heterogenity of long covid and many other promising treatments) and try to make nearly all clinical trial funding go to antivirals.
 * They claim to be made up of scientists experts and researchers, but none of the people listed on the website are.
 * Their allies have harassed, doxxed, sent death threats, and misogynistic insults to members of the long covid community.
 
@@ -21,7 +21,7 @@ Long covid action project claims that Long Covid is a disease with:
 > “**AIDS**-like immune dysregulation which **researchers attribute to SARS-CoV-2 viral persistence**.”
 
 (this is a quote taken straight from the [front page](https://longcovidactionproject.com)). This quote says many things that are untrue and/or unproven and claims them as fact:
-* Immune dysregulation has been found in large subsets of long covid patients (but not all). This immune dysregulation is not even near to being similar to AIDS. AIDS causes a depletion of CD4+ T-cells, effectively weakening the immune system and without treatment, being a death sentence in the long run. Subsets in long covid has been found to cause multiple immune abnormalities, although not all are corroborated. The most promising of findings is a abnormalities in proteins of the complement system. of the immune system, which before treatment was found, was a death sentence. This is very different from what is found in HIV/AIDS.
+* Immune dysregulation has been found in large subsets of long covid patients (but not all). This immune dysregulation is not even near to being similar to AIDS. AIDS causes a depletion of CD4+ T-cells, effectively weakening the immune system and without treatment, being a death sentence in the long run. Subsets in long covid has been found to cause multiple immune abnormalities, although not all are corroborated. The most promising of findings is a abnormalities in proteins of the complement system. This is very different from what is found in HIV/AIDS.
 * Viral persistence has been found upto a year in a subset of long covid patients. Saying all long covid patients have viral persistence is false. Saying that viral persistence is the cause of all long covid is misinformation as no research has proven this and much research points to other possible factors. It is very likely to be a mechanism in a limited subset, however.
 * Long covid is comprised of/can cause many different conditions: from POTS, MCAS, and dysautonomia to ME/CFS, IBS, and autoimmune diseases. (and much more.)
 
@@ -34,10 +34,10 @@ But LCAP is sure of what they are doing. Therefore they have made a [campaign](h
 
 This campaign has gone around long covid communities and has received many signatures. It was however presented in a malicious manner. For example in the r/covidlonghaulers reddit community (before moderators removed the post for disinformation) there was a post with 120 upvotes linking to the signature with the title as “Sign this letter requesting treatment!! Bernie is requesting billions for us” with no additional context. Which is not what the letter actually suggests. The actual letter is under the place where you sign so people will sign before reading the letter or won’t read the letter at all. They have managed to gather 8’000 signatures this way. 
 
-This letter also suggests 28 billion dollars of funding for LC per year (which is ridiculous, given that that is half the NIH yearly budget.) It would mean long covid gets more funding than all cancers, all mental health diseases, all autoimmune diseases, all forms of dementia, AIDS, heart disease, and ALS *put together* [source](https://report.nih.gov/funding/categorical-spending#/). The bottom line is that this is   unserious and shows a fundamental lack of pragmatism, which will hurt perceptions of the long covid community. At the HELP hearing on Long Covid, two LCAP activists shouted "Moonshot kills" in front of the Senators.
+This letter also suggests 28 billion dollars of funding for LC per year (which is ridiculous, given that that is half the NIH yearly budget.) It would mean long covid gets more funding than all cancers, all mental health diseases, all autoimmune diseases, all forms of dementia, AIDS, heart disease, and ALS *put together* [source](https://report.nih.gov/funding/categorical-spending#/). The bottom line is that this is  unserious and shows a fundamental lack of pragmatism, which will hurt perceptions of the long covid community. Signaling their opposition to the Moonshot, the HELP hearing on Long Covid, two LCAP activists shouted "Moonshot kills" in front of the Senators.
 
 # “Antivirals are the cure”
-Another problem is an inherent obsession with antivirals. The scientific literature, although lacking in corroborated findings, points to many biomedical interventions that could be helpful for some long covid patients, anti-virals are among them, but far from the most promising. They should be studied but not focused on solely. There exists many more promising potential treatments such as ampligen, BC007 and drugs attacking oxidative stress. However in their proposed changes to senator Sander’s bill LCAP want long covid clinical trials to be nearly solely focused on antivirals to cure and treat long covid. A “documentary” they made which is prominent on their front page is called “ANTIVIRALS NOW”. 
+Another problem is an inherent obsession with antivirals. The scientific literature, although lacking in corroborated findings, points to many biomedical interventions that could be helpful for some long covid patients, anti-virals are among them, but far from the most promising. They should be studied but not focused on solely. There exists many more promising potential treatments such as immunomodulators (ie. Ampligen), BC007 and drugs attacking oxidative stress. However in their proposed changes to senator Sander’s bill LCAP want long covid clinical trials to be nearly solely focused on antivirals to cure and treat long covid. They even made a documentary which is prominent on their front page called “ANTIVIRALS NOW”. 
 
 # Inconsistencies 
 The project claims to be “developed by people with Long Covid who are journalists, professors, scientists and experts”. However only three names come up on their website. One of these people is a documentary filmmaker, another is an artist, and a third is of unknown profession, though no university pages or linkedin profiles show anyone with that name being a researcher or professor. 
@@ -55,9 +55,9 @@ Hoping my fellow longhaulers a wonderful day. Love Yann.
 
 **Note:** This was originally posted on [reddit](https://www.reddit.com/r/covidlonghaulers/s/N6npJgJSAr) and is hosted on this website as a backup. There are slight differences in wording with the post, as this backup has been proofread additional times. 
 
-**Edit:** I was informed of an occurrence where LCAP was openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
+**Edit:** I was informed of an occurrence where LCAP may have been openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
 
-**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [trigger warning] ||retard|| in one comment. Which was thankfully removed by the mods for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. _Note on backed up post, in the backed up version, I use my personal name as the founder of LCAP released it_.
+**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [trigger warning] ||retard|| in one comment. Which was thankfully removed by the moderators for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. _Note on backed up post, in the backed up version, I use my personal name as the founder of LCAP released it_.
 
 # Reply from the founder of LCAP
 
@@ -84,6 +84,8 @@ In my post I said:
 Additionally it is great you have policies against harassment. It would be even better if they were enforced on your allies.
 
 I am not sure why you brought up trans rights, anti-racism, and LGBTQ+ rights. Obviously I support these too, but the discussion here is about your organisation and biomedical research into long covid.
+
+My post was not intended as hate, and I have made special care not to mention anyone by name, or say that your organisation is intentionally spreading misinformation, as I cannot be sure of your intentions. Meanwhile your allies have attempted to dox me multiple times in the comments, provided countless insults, many of which were removed due to violating reddit terms of service. It would help public perceptions of your organisation to condemn these sort of attacks and the individuals perpetrating them.
 
 Kind Regards, Yann
 
