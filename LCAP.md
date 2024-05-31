@@ -57,7 +57,7 @@ Hoping my fellow longhaulers a wonderful day. Love Yann.
 
 **Edit:** I was informed of an occurrence where LCAP may have been openly misleading. LCAP claimed they sent 500k letters to the government but what actually happened is they got 1’000 signatures. [Twitter thread showing this](https://twitter.com/inkblue01/status/1778609592273949005?s=46)
 
-**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a [trigger warning] ||retard|| in one comment. Which was thankfully removed by the moderators for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. _Note on backed up post, in the backed up version, I use my personal name as the founder of LCAP released it_.
+**Edit 2:** A small minority of completely new reddit accounts have shown exactly why it was necessary to write this post. I was insulted and called a r****d (slur based on intelectual disability) in one comment. Which was thankfully removed by the moderators for breaking rule three. Another new reddit user reported my account for being suicidal and I got a message from the reddit suicide hotline (minutes after I replied to an argument claiming I was silencing LCAP.) I am not sure how but the founder of LCAP found out my first name maybe I mentioned in past comments. _Note on backed up post, in the backed up version, I use my personal name as the founder of LCAP released it_.
 
 # Reply from the founder of LCAP
 
