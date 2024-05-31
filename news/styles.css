@@ -103,6 +103,29 @@ header h2 a:hover {
     background-color: #218838;
 }
 
+/* Footer */
+footer {
+    background-color: #800000; /* Maroon color */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer .footer-row {
+    margin: 10px 0;
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
 /* Responsive Design */
 @media (max-width: 600px) {
     body {
@@ -132,5 +155,17 @@ header h2 a:hover {
     #load-more-button {
         padding: 18px;
         font-size: 1.5em; /* Increased font size */
+    }
+
+    footer {
+        padding: 15px 0;
+    }
+
+    footer .footer-row {
+        margin: 5px 0;
+    }
+
+    footer a {
+        margin: 0 5px;
     }
 }
