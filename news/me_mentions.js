@@ -14,15 +14,27 @@ async function fetchFeed(url) {
     return data;
 }
 
+function extractBaseUrl(url) {
+    try {
+        const { hostname } = new URL(url);
+        return hostname.replace('www.', '');
+    } catch (error) {
+        console.error(`Error extracting base URL from: ${url}`, error);
+        return "Unknown Source";
+    }
+}
+
 async function fetchWebsiteTitle(url) {
     try {
         const response = await fetch(url);
         const html = await response.text();
         const doc = new DOMParser().parseFromString(html, "text/html");
-        return doc.querySelector('title').innerText;
+        const title = doc.querySelector('title').innerText;
+        const mainTitle = title.split(/[-|]/).pop().trim();
+        return mainTitle || extractBaseUrl(url);
     } catch (error) {
         console.error(`Error fetching website title for URL: ${url}`, error);
-        return "Unknown Source";
+        return extractBaseUrl(url);
     }
 }
 
