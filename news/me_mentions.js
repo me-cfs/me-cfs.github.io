@@ -14,38 +14,47 @@ async function fetchFeed(url) {
 }
 
 async function loadFeeds() {
+    console.log("Loading feeds...");
     const newsContainer = document.getElementById('news-container');
     const loadMoreButton = document.getElementById('load-more-button');
 
     if (currentIndex === 0) {
         // Only fetch feeds if this is the first load
         for (const feed of rssFeeds) {
-            const feedData = await fetchFeed(feed);
-            let feedTitle = feedData.feed.title;
-            
-            // Check for the specific feed title and change it
-            if (feedTitle === "David Tuller's Posts | Virology Blog") {
-                feedTitle = "Virology";
-            }
-            if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories") {
-                feedTitle = "ME/CFS Research Review";
-            }
-            if (feedTitle === "Weekly ME news in brief | Science for ME") {
-                feedTitle = "Science for ME";
-            }
-            if (feedTitle === "ME/CFS - Canary") {
-                feedTitle = "The Canary";
-            }
+            try {
+                const feedData = await fetchFeed(feed);
+                let feedTitle = feedData.feed.title;
+                
+                // Check for the specific feed title and change it
+                if (feedTitle === "David Tuller's Posts | Virology Blog") {
+                    feedTitle = "Virology";
+                }
+                if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories") {
+                    feedTitle = "ME/CFS Research Review";
+                }
+                if (feedTitle === "Weekly ME news in brief | Science for ME") {
+                    feedTitle = "Science for ME";
+                }
+                if (feedTitle === "ME/CFS - Canary") {
+                    feedTitle = "The Canary";
+                }
 
-            const items = feedData.items.map(item => ({
-                ...item,
-                feedTitle: feedTitle
-            }));
-            allItems = allItems.concat(items);
+                const items = feedData.items.map(item => ({
+                    ...item,
+                    feedTitle: feedTitle
+                }));
+                allItems = allItems.concat(items);
+                console.log(`Fetched ${items.length} items from feed: ${feedTitle}`);
+            } catch (error) {
+                console.error(`Error fetching feed: ${feed}`, error);
+            }
         }
 
         allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+        console.log("All items loaded and sorted:", allItems);
     }
+
+    console.log("allItems length =", allItems.length);
 
     const nextItems = allItems.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
     nextItems.forEach(item => {
@@ -68,12 +77,15 @@ async function loadFeeds() {
     });
 
     currentIndex += ITEMS_PER_PAGE;
+    console.log("Current index after loading items:", currentIndex);
 
     // Hide the "Load More" button if all items are loaded
     if (currentIndex >= allItems.length) {
         loadMoreButton.style.display = 'none';
+        console.log("All items loaded, hiding load more button.");
     } else {
         loadMoreButton.style.display = 'block';
+        console.log("More items available, showing load more button.");
     }
 }
 
@@ -100,4 +112,3 @@ document.getElementById('load-more-button').addEventListener('click', loadFeeds)
 
 // Initial load
 loadFeeds();
-console.log("allItems length =", allItems.length)
