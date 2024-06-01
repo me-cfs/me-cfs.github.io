@@ -23,14 +23,18 @@ async function loadFeeds() {
         for (const feed of rssFeeds) {
             try {
                 const feedData = await fetchFeed(feed);
-                const feedTitle = feedData.feed.title;
-
-                const items = feedData.items.map(item => ({
-                    ...item,
-                    feedTitle: feedTitle
-                }));
+                const items = feedData.items.map(item => {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(item.description, 'text/html');
+                    const creatorElement = doc.querySelector('dc\\:creator');
+                    const feedTitle = creatorElement ? creatorElement.textContent : feedData.feed.title;
+                    return {
+                        ...item,
+                        feedTitle: feedTitle
+                    };
+                });
                 allItems = allItems.concat(items);
-                console.log(`Fetched ${items.length} items from feed: ${feedTitle}`);
+                console.log(`Fetched ${items.length} items from feed`);
             } catch (error) {
                 console.error(`Error fetching feed: ${feed}`, error);
             }
