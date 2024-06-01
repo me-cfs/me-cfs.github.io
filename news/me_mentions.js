@@ -14,6 +14,18 @@ async function fetchFeed(url) {
     return data;
 }
 
+async function fetchWebsiteTitle(url) {
+    try {
+        const response = await fetch(url);
+        const html = await response.text();
+        const doc = new DOMParser().parseFromString(html, "text/html");
+        return doc.querySelector('title').innerText;
+    } catch (error) {
+        console.error(`Error fetching website title for URL: ${url}`, error);
+        return "Unknown Source";
+    }
+}
+
 async function loadFeeds() {
     console.log("Loading feeds...");
     const newsContainer = document.getElementById('news-container');
@@ -24,35 +36,16 @@ async function loadFeeds() {
         for (const feed of rssFeeds) {
             try {
                 const feedData = await fetchFeed(feed);
-                let feedTitle = feedData.feed.title;
-                console.log(`Original feed title: ${feedTitle} from URL: ${feedData.feed.url}`);
-
-                // Check for the specific feed title and change it
-                switch (feedData.feed.url) {
-                    case 'https://www.virology.ws/feed/':
-                        feedTitle = "Virology";
-                        break;
-                    case 'https://meassociation.org.uk/feed/':
-                        feedTitle = "ME Association";
-                        break;
-                    case 'https://www.s4me.info/index.php?forums/rss/':
-                        feedTitle = "Science for ME";
-                        break;
-                    case 'https://thecanary.co/feed/':
-                        feedTitle = "The Canary";
-                        break;
-                    default:
-                        break;
-                }
-
-                console.log(`Updated feed title: ${feedTitle}`);
-
-                const items = feedData.items.map(item => ({
-                    ...item,
-                    feedTitle: feedTitle
+                const items = await Promise.all(feedData.items.map(async item => {
+                    const websiteTitle = await fetchWebsiteTitle(item.link);
+                    console.log(`Fetched website title: ${websiteTitle} for item link: ${item.link}`);
+                    return {
+                        ...item,
+                        feedTitle: websiteTitle
+                    };
                 }));
                 allItems = allItems.concat(items);
-                console.log(`Fetched ${items.length} items from feed: ${feedTitle}`);
+                console.log(`Fetched ${items.length} items from feed`);
             } catch (error) {
                 console.error(`Error fetching feed: ${feed}`, error);
             }
