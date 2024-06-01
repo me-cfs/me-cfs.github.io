@@ -23,18 +23,32 @@ async function loadFeeds() {
         for (const feed of rssFeeds) {
             try {
                 const feedData = await fetchFeed(feed);
-                const items = feedData.items.map(item => {
-                    const parser = new DOMParser();
-                    const doc = parser.parseFromString(item.description, 'text/html');
-                    const creatorElement = doc.querySelector('dc\\:creator');
-                    const feedTitle = creatorElement ? creatorElement.textContent : feedData.feed.title;
-                    return {
-                        ...item,
-                        feedTitle: feedTitle
-                    };
-                });
+                let feedTitle = feedData.feed.title;
+
+                // Check for the specific feed title and change it
+                switch (feedData.feed.url) {
+                    case 'https://www.virology.ws/feed/':
+                        feedTitle = "Virology";
+                        break;
+                    case 'https://meassociation.org.uk/feed/':
+                        feedTitle = "ME Association";
+                        break;
+                    case 'https://www.s4me.info/index.php?forums/rss/':
+                        feedTitle = "Science for ME";
+                        break;
+                    case 'https://thecanary.co/feed/':
+                        feedTitle = "The Canary";
+                        break;
+                    default:
+                        break;
+                }
+
+                const items = feedData.items.map(item => ({
+                    ...item,
+                    feedTitle: feedTitle
+                }));
                 allItems = allItems.concat(items);
-                console.log(`Fetched ${items.length} items from feed`);
+                console.log(`Fetched ${items.length} items from feed: ${feedTitle}`);
             } catch (error) {
                 console.error(`Error fetching feed: ${feed}`, error);
             }
