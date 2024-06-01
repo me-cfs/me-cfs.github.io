@@ -100,3 +100,4 @@ document.getElementById('load-more-button').addEventListener('click', loadFeeds)
 
 // Initial load
 loadFeeds();
+console.log("allItems length =", allItems.length)
