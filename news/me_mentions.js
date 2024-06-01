@@ -1,5 +1,5 @@
 const rssFeeds = [
-    'https://news.google.com/news/rss/search?q=“ME/CFS”%20OR%20"chronic%20fatigue%20syndrome”%20OR%20“Myalgic%20Encephalomyelitis”&hl=en',
+    'https://rss.app/feeds/t0Dar24AbXRhNyR1.xml',
     // Add more feeds as needed
 ];
 
