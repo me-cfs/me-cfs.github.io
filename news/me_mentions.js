@@ -10,6 +10,7 @@ let allItems = [];
 async function fetchFeed(url) {
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
     const data = await response.json();
+    console.log(`Fetched data from URL: ${url}`, data);
     return data;
 }
 
@@ -24,6 +25,7 @@ async function loadFeeds() {
             try {
                 const feedData = await fetchFeed(feed);
                 let feedTitle = feedData.feed.title;
+                console.log(`Original feed title: ${feedTitle} from URL: ${feedData.feed.url}`);
 
                 // Check for the specific feed title and change it
                 switch (feedData.feed.url) {
@@ -42,6 +44,8 @@ async function loadFeeds() {
                     default:
                         break;
                 }
+
+                console.log(`Updated feed title: ${feedTitle}`);
 
                 const items = feedData.items.map(item => ({
                     ...item,
