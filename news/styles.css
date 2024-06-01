@@ -126,6 +126,20 @@ footer a:hover {
     text-decoration: underline;
 }
 
+/* Intro Paragraph */
+.intro-paragraph {
+    font-size: 1.4em; /* Adjust font size */
+    margin: 20px 0;
+    color: #333;
+    text-align: center; /* Center align text */
+    line-height: 1.6;
+    background-color: #fff; /* White background for contrast */
+    padding: 20px; /* Padding around text */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+
 /* Responsive Design */
 @media (max-width: 600px) {
     body {
@@ -138,6 +152,11 @@ footer a:hover {
 
     header h2 {
         font-size: 1.8em; /* Increased font size */
+    }
+    
+    .intro-paragraph {
+        font-size: 1.5em; /* Slightly larger font size for mobile */
+        padding: 15px; /* Adjusted padding */
     }
 
     .news-item {
