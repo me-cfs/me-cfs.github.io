@@ -1,10 +1,5 @@
 const rssFeeds = [
-    'https://thesicktimes.org/feed/',
-    'https://politepol.com/fd/yNgKhc4c7HHu.xml',
-    'https://www.healthrising.org/feed/',
-    'https://politepol.com/fd/uu29e43WxMVl.xml',
-    'https://politepol.com/fd/jyPhRAUUwOqs.xml',
-    'https://politepol.com/fd/7Jrlm0Y5ncxC.xml',
+    'https://news.google.com/news/rss/search?q=“ME/CFS” OR “Chronic Fatigue Syndrome” OR “Myalgic Encephalomyelitis”&hl=en',
     // Add more feeds as needed
 ];
 
