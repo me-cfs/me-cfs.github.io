@@ -24,20 +24,6 @@ function extractBaseUrl(url) {
     }
 }
 
-async function fetchWebsiteTitle(url) {
-    try {
-        const response = await fetch(url);
-        const html = await response.text();
-        const doc = new DOMParser().parseFromString(html, "text/html");
-        const title = doc.querySelector('title').innerText;
-        const mainTitle = title.split(/[-|]/).pop().trim();
-        return mainTitle || extractBaseUrl(url);
-    } catch (error) {
-        console.error(`Error fetching website title for URL: ${url}`, error);
-        return extractBaseUrl(url);
-    }
-}
-
 async function loadFeeds() {
     console.log("Loading feeds...");
     const newsContainer = document.getElementById('news-container');
@@ -48,14 +34,14 @@ async function loadFeeds() {
         for (const feed of rssFeeds) {
             try {
                 const feedData = await fetchFeed(feed);
-                const items = await Promise.all(feedData.items.map(async item => {
-                    const websiteTitle = await fetchWebsiteTitle(item.link);
-                    console.log(`Fetched website title: ${websiteTitle} for item link: ${item.link}`);
+                const items = feedData.items.map(item => {
+                    const feedTitle = extractBaseUrl(item.link);
+                    console.log(`Extracted base URL: ${feedTitle} for item link: ${item.link}`);
                     return {
                         ...item,
-                        feedTitle: websiteTitle
+                        feedTitle: feedTitle
                     };
-                }));
+                });
                 allItems = allItems.concat(items);
                 console.log(`Fetched ${items.length} items from feed`);
             } catch (error) {
