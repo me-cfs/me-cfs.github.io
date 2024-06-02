@@ -24,6 +24,11 @@ function extractBaseUrl(url) {
     }
 }
 
+function decodeHtmlEntities(text) {
+    const doc = new DOMParser().parseFromString(text, "text/html");
+    return doc.documentElement.textContent;
+}
+
 async function loadFeeds() {
     console.log("Loading feeds...");
     const newsContainer = document.getElementById('news-container');
@@ -39,6 +44,7 @@ async function loadFeeds() {
                     console.log(`Extracted base URL: ${feedTitle} for item link: ${item.link}`);
                     return {
                         ...item,
+                        title: decodeHtmlEntities(item.title),  // Decode HTML entities in the title
                         feedTitle: feedTitle
                     };
                 });
