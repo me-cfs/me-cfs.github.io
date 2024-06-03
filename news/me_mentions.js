@@ -1,5 +1,5 @@
 const rssFeeds = [
-    'https://rss.app/feeds/t0Dar24AbXRhNyR1.xml',
+    'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760',
     // Add more feeds as needed
 ];
 
