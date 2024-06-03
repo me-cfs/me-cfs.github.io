@@ -1,5 +1,5 @@
 const rssFeeds = [
-    'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760'
+    'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760',
     // Add more feeds as needed
 ];
 
@@ -8,7 +8,7 @@ let currentIndex = 0;
 let allItems = [];
 
 async function fetchFeed(url) {
-    const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
+    const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&timestamp=${new Date().getTime()}`);
     const data = await response.json();
     console.log(`Fetched data from URL: ${url}`, data);
     return data;
