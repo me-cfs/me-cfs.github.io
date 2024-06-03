@@ -7,15 +7,21 @@ const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
 
+function getCurrentTimestamp() {
+    return new Date().toISOString();
+}
+
 async function fetchFeed(url) {
+    const timestamp = getCurrentTimestamp();
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&timestamp=${new Date().getTime()}`);
     const data = await response.json();
-    console.log(`Fetched data from URL: ${url}`, data);
+    console.log(`[${timestamp}] Fetched data from URL: ${url}`, data);
     return data;
 }
 
 function extractBaseUrl(googleRedirectUrl) {
-    console.log(`Extracting base URL from: ${googleRedirectUrl}`);
+    const timestamp = getCurrentTimestamp();
+    console.log(`[${timestamp}] Extracting base URL from: ${googleRedirectUrl}`);
     try {
         const url = new URL(googleRedirectUrl);
         const targetUrl = url.searchParams.get('url');
@@ -24,10 +30,10 @@ function extractBaseUrl(googleRedirectUrl) {
         }
         const targetUrlObj = new URL(targetUrl);
         const baseUrl = targetUrlObj.hostname.replace('www.', '');
-        console.log(`Base URL extracted: ${baseUrl}`);
+        console.log(`[${timestamp}] Base URL extracted: ${baseUrl}`);
         return baseUrl;
     } catch (error) {
-        console.error(`Error extracting base URL from: ${googleRedirectUrl}`, error);
+        console.error(`[${timestamp}] Error extracting base URL from: ${googleRedirectUrl}`, error);
         return "Unknown Source";
     }
 }
@@ -38,7 +44,8 @@ function decodeHtmlEntities(text) {
 }
 
 async function loadFeeds() {
-    console.log("Loading feeds...");
+    const timestamp = getCurrentTimestamp();
+    console.log(`[${timestamp}] Loading feeds...`);
     const newsContainer = document.getElementById('news-container');
     const loadMoreButton = document.getElementById('load-more-button');
 
@@ -49,7 +56,7 @@ async function loadFeeds() {
                 const feedData = await fetchFeed(feed);
                 const items = feedData.items.map(item => {
                     const feedTitle = extractBaseUrl(item.link);
-                    console.log(`Extracted base URL: ${feedTitle} for item link: ${item.link}`);
+                    console.log(`[${timestamp}] Extracted base URL: ${feedTitle} for item link: ${item.link}`);
                     return {
                         ...item,
                         title: decodeHtmlEntities(item.title),  // Decode HTML entities in the title
@@ -57,17 +64,17 @@ async function loadFeeds() {
                     };
                 });
                 allItems = allItems.concat(items);
-                console.log(`Fetched ${items.length} items from feed`);
+                console.log(`[${timestamp}] Fetched ${items.length} items from feed`);
             } catch (error) {
-                console.error(`Error fetching feed: ${feed}`, error);
+                console.error(`[${timestamp}] Error fetching feed: ${feed}`, error);
             }
         }
 
         allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-        console.log("All items loaded and sorted:", allItems);
+        console.log(`[${timestamp}] All items loaded and sorted:`, allItems);
     }
 
-    console.log("allItems length =", allItems.length);
+    console.log(`[${timestamp}] allItems length =`, allItems.length);
 
     const nextItems = allItems.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
     nextItems.forEach(item => {
@@ -90,15 +97,15 @@ async function loadFeeds() {
     });
 
     currentIndex += ITEMS_PER_PAGE;
-    console.log("Current index after loading items:", currentIndex);
+    console.log(`[${timestamp}] Current index after loading items:`, currentIndex);
 
     // Hide the "Load More" button if all items are loaded
     if (currentIndex >= allItems.length) {
         loadMoreButton.style.display = 'none';
-        console.log("All items loaded, hiding load more button.");
+        console.log(`[${timestamp}] All items loaded, hiding load more button.`);
     } else {
         loadMoreButton.style.display = 'block';
-        console.log("More items available, showing load more button.");
+        console.log(`[${timestamp}] More items available, showing load more button.`);
     }
 }
 
