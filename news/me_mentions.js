@@ -16,6 +16,11 @@ async function fetchFeed(url) {
 
 function extractBaseUrl(url) {
     try {
+        const googleUrlRegex = /https:\/\/www\.google\.com\/url\?q=(https?:\/\/[^&]+)&/;
+        const match = url.match(googleUrlRegex);
+        if (match && match[1]) {
+            url = decodeURIComponent(match[1]);
+        }
         const { hostname } = new URL(url);
         return hostname.replace('www.', '');
     } catch (error) {
