@@ -7,6 +7,7 @@ const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
 
+
 async function fetchFeed(url) {
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
     const data = await response.json();
