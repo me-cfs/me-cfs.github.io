@@ -7,7 +7,6 @@ const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
 
-
 async function fetchFeed(url) {
     const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
     const data = await response.json();
@@ -15,21 +14,20 @@ async function fetchFeed(url) {
     return data;
 }
 
-function extractBaseUrl(url) {
-    console.log(`Extracting base URL from: ${url}`);
+function extractBaseUrl(googleRedirectUrl) {
+    console.log(`Extracting base URL from: ${googleRedirectUrl}`);
     try {
-        const googleUrlRegex = /https:\/\/www\.google\.com\/url\?q=(https?:\/\/[^&]+)&/;
-        const match = url.match(googleUrlRegex);
-        if (match && match[1]) {
-            url = decodeURIComponent(match[1]);
-            console.log(`Google redirection detected. Extracted target URL: ${url}`);
+        const url = new URL(googleRedirectUrl);
+        const targetUrl = url.searchParams.get('url');
+        if (!targetUrl) {
+            throw new Error("Target URL not found in Google redirect URL.");
         }
-        const { hostname } = new URL(url);
-        const baseUrl = hostname.replace('www.', '');
+        const targetUrlObj = new URL(targetUrl);
+        const baseUrl = targetUrlObj.hostname.replace('www.', '');
         console.log(`Base URL extracted: ${baseUrl}`);
         return baseUrl;
     } catch (error) {
-        console.error(`Error extracting base URL from: ${url}`, error);
+        console.error(`Error extracting base URL from: ${googleRedirectUrl}`, error);
         return "Unknown Source";
     }
 }
