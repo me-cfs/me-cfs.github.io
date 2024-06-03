@@ -15,14 +15,18 @@ async function fetchFeed(url) {
 }
 
 function extractBaseUrl(url) {
+    console.log(`Extracting base URL from: ${url}`);
     try {
         const googleUrlRegex = /https:\/\/www\.google\.com\/url\?q=(https?:\/\/[^&]+)&/;
         const match = url.match(googleUrlRegex);
         if (match && match[1]) {
             url = decodeURIComponent(match[1]);
+            console.log(`Google redirection detected. Extracted target URL: ${url}`);
         }
         const { hostname } = new URL(url);
-        return hostname.replace('www.', '');
+        const baseUrl = hostname.replace('www.', '');
+        console.log(`Base URL extracted: ${baseUrl}`);
+        return baseUrl;
     } catch (error) {
         console.error(`Error extracting base URL from: ${url}`, error);
         return "Unknown Source";
