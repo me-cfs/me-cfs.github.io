@@ -68,4 +68,20 @@ async function loadFeeds() {
     });
 
     currentIndex += ITEMS_PER_PAGE;
-    console.log(`[${timestamp}] Current index after loading items:
+    console.log(`[${timestamp}] Current index after loading items:`, currentIndex);
+
+    // Hide the "Load More" button if all items are loaded
+    if (currentIndex >= allItems.length) {
+        loadMoreButton.style.display = 'none';
+        console.log(`[${timestamp}] All items loaded, hiding load more button.`);
+    } else {
+        loadMoreButton.style.display = 'block';
+        console.log(`[${timestamp}] More items available, showing load more button.`);
+    }
+}
+
+// Add event listener to the "Load More" button
+document.getElementById('load-more-button').addEventListener('click', loadFeeds);
+
+// Initial load
+loadFeeds();
