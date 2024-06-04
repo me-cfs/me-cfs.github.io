@@ -1,6 +1,6 @@
-consile.log("JS Started!")
+console.log("JS Started!");
 import { formatDate } from './utils.js';
-console.log("Imported functions")
+console.log("Imported functions");
 
 const rssFeeds = [
     'https://thesicktimes.org/feed/',
