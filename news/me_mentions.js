@@ -1,8 +1,3 @@
-const rssFeeds = [
-    'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760'
-    // Add more feeds as needed
-];
-
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
