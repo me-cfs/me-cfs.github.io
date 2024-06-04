@@ -1,4 +1,4 @@
-import { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate } from './utils.js';
+import { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate } from 'utils.js';
 
 const ITEMS_PER_PAGE = 18; // Number of items to load per page
 let currentIndex = 0;
