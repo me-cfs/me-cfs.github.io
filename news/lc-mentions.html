@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Long Covid News Mentions (Tracker)</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Long Covid News Mentions</h1>
+        <h2><a href="https://me-cfs.github.io" target="_blank">Yann’s ME/CFS Site</a></h2>
+    </header>
+    <div id="news-container">
+        <p class="intro-paragraph">This page displays the latest tracked mentions of Long Covid online, with a focus on news. It isn't perfect and may miss some or include some irrelevant pages. Hopefully this tool is useful, the same is available for ME/CFS <a href="https://me-cfs.github.io/news/me-mentions.html">here</a>. Please note, this is not intended as a resource towards learning about Long Covid, just to track news mentions, these mentions may include misinformation.</p>
+    </div>
+    <button id="load-more-button">Load More</button>
+    <footer>
+        <div class="footer-row">
+            <a href="https://me-cfs.github.io/news/" target="_blank">Community ME/LC News</a>
+            <a href="https://me-cfs.github.io/news/lc-mentions.html" target="_blank">LC News Mentions</a>
+            <a href="https://me-cfs.github.io/me-inthenews.html" target="_blank">Mainstream News Collection</a>
+        </div>
+        <div class="footer-row">
+            <a href="https://me-cfs.github.io" target="_blank">Back to Mainpage</a>
+            <a href="https://me-cfs.github.io/useful-resources.html" target="_blank">ME Resources</a>
+            <a href="https://x.com/yann_mecfs" target="_blank">Twitter</a>
+        </div>
+    </footer>
+    <script>
+    window.rssFeeds = [
+        'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760'
+    ]; </script>
+    <script src="me_mentions.js"></script>
+</body>
+</html>
