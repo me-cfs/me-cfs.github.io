@@ -1,16 +1,9 @@
-console.log("JS Started!");
+console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
-const rssFeeds = [
-    'https://thesicktimes.org/feed/',
-    'https://politepol.com/fd/yNgKhc4c7HHu.xml',
-    'https://www.healthrising.org/feed/',
-    'https://politepol.com/fd/uu29e43WxMVl.xml',
-    'https://politepol.com/fd/jyPhRAUUwOqs.xml',
-    'https://politepol.com/fd/7Jrlm0Y5ncxC.xml',
-    // Add more feeds as needed
-];
+// Need to be deined in html:
+// const rszFeeds = ['url.xml'];
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
