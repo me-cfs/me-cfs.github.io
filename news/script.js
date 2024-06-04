@@ -3,7 +3,7 @@ import { formatDate } from './utils.js';
 console.log("Imported functions");
 
 // Define cutoff date
-const cutoffDate = new Date('2024-05-29'); // Change this to your desired cutoff date
+const cutoffDate = new Date('2024-05-30'); // Change this to your desired cutoff date
 
 // Need to be defined in html:
 // const rssFeeds = ['url.xml'];
