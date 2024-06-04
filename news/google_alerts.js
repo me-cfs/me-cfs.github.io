@@ -1,11 +1,8 @@
+import { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate } from './utils.js';
+
 const ITEMS_PER_PAGE = 18; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
-
-function getCurrentTimestamp() {
-    const options = { timeZone: 'Europe/London', timeZoneName: 'short' }; // Change this to your timezone
-    return new Date().toLocaleString('en-GB', options);
-}
 
 async function fetchFeed(url) {
     const timestamp = getCurrentTimestamp();
@@ -13,30 +10,6 @@ async function fetchFeed(url) {
     const data = await response.json();
     console.log(`[${timestamp}] Fetched data from URL: ${url}`, data);
     return data;
-}
-
-function extractBaseUrl(googleRedirectUrl) {
-    const timestamp = getCurrentTimestamp();
-    console.log(`[${timestamp}] Extracting base URL from: ${googleRedirectUrl}`);
-    try {
-        const url = new URL(googleRedirectUrl);
-        const targetUrl = url.searchParams.get('url');
-        if (!targetUrl) {
-            throw new Error("Target URL not found in Google redirect URL.");
-        }
-        const targetUrlObj = new URL(targetUrl);
-        const baseUrl = targetUrlObj.hostname.replace('www.', '');
-        console.log(`[${timestamp}] Base URL extracted: ${baseUrl}`);
-        return baseUrl;
-    } catch (error) {
-        console.error(`[${timestamp}] Error extracting base URL from: ${googleRedirectUrl}`, error);
-        return "Unknown Source";
-    }
-}
-
-function decodeHtmlEntities(text) {
-    const doc = new DOMParser().parseFromString(text, "text/html");
-    return doc.documentElement.textContent;
 }
 
 async function loadFeeds() {
@@ -95,38 +68,4 @@ async function loadFeeds() {
     });
 
     currentIndex += ITEMS_PER_PAGE;
-    console.log(`[${timestamp}] Current index after loading items:`, currentIndex);
-
-    // Hide the "Load More" button if all items are loaded
-    if (currentIndex >= allItems.length) {
-        loadMoreButton.style.display = 'none';
-        console.log(`[${timestamp}] All items loaded, hiding load more button.`);
-    } else {
-        loadMoreButton.style.display = 'block';
-        console.log(`[${timestamp}] More items available, showing load more button.`);
-    }
-}
-
-function formatDate(date) {
-    const options = { day: 'numeric', month: 'long', year: 'numeric' };
-    const formattedDate = date.toLocaleDateString('en-GB', options);
-
-    // Add suffix to day
-    const day = date.getDate();
-    let suffix = 'th';
-    if (day === 1 || day === 21 || day === 31) {
-        suffix = 'st';
-    } else if (day === 2 || day === 22) {
-        suffix = 'nd';
-    } else if (day === 3 || day === 23) {
-        suffix = 'rd';
-    }
-
-    return formattedDate.replace(/\d+/, day + suffix);
-}
-
-// Add event listener to the "Load More" button
-document.getElementById('load-more-button').addEventListener('click', loadFeeds);
-
-// Initial load
-loadFeeds();
+    console.log(`[${timestamp}] Current index after loading items:
