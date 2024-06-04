@@ -34,20 +34,6 @@ async function loadFeeds() {
                 const feedData = await fetchFeed(feed);
                 let feedTitle = feedData.feed.title;
 
-                // Check for the specific feed title and change it
-                if (feedTitle === "David Tuller's Posts | Virology Blog") {
-                    feedTitle = "Virology";
-                }
-                if (feedTitle === "ME/CFS Research Review – Simon McGrath explores the big biomedical stories") {
-                    feedTitle = "ME/CFS Research Review";
-                }
-                if (feedTitle === "Weekly ME news in brief | Science for ME") {
-                    feedTitle = "Science for ME";
-                }
-                if (feedTitle === "ME/CFS - Canary") {
-                    feedTitle = "The Canary";
-                }
-
                 const items = feedData.items.map(item => ({
                     ...item,
                     feedTitle: feedTitle
