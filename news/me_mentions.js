@@ -3,7 +3,8 @@ let currentIndex = 0;
 let allItems = [];
 
 function getCurrentTimestamp() {
-    return new Date().toISOString();
+    const options = { timeZone: 'Europe/London', timeZoneName: 'short' }; // Change this to your timezone
+    return new Date().toLocaleString('en-GB', options);
 }
 
 async function fetchFeed(url) {
@@ -41,6 +42,8 @@ function decodeHtmlEntities(text) {
 async function loadFeeds() {
     const timestamp = getCurrentTimestamp();
     console.log(`[${timestamp}] Loading feeds...`);
+    const rssFeeds = window.rssFeeds; // Accessing the feeds defined in the HTML
+
     const newsContainer = document.getElementById('news-container');
     const loadMoreButton = document.getElementById('load-more-button');
 
