@@ -2,7 +2,10 @@ console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
-// Need to be deined in html:
+// Define removeIfTitleInclude array
+const removeIfTitleInclude = ["National Covid-19 trends", "Research updates"];
+
+// Need to be defined in html:
 // const rszFeeds = ['url.xml'];
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
@@ -48,7 +51,11 @@ async function loadFeeds() {
                     ...item,
                     feedTitle: feedTitle
                 }));
-                allItems = allItems.concat(items);
+                
+                // Filter out items with titles in removeIfTitleInclude
+                const filteredItems = items.filter(item => !removeIfTitleInclude.some(text => item.title.includes(text)));
+
+                allItems = allItems.concat(filteredItems);
             } catch (error) {
                 console.error(`Error fetching feed ${feed}:`, error);
             }
