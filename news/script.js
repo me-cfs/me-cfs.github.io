@@ -2,11 +2,10 @@ console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
-// Define removeIfTitleInclude array
-const removeIfTitleInclude = ["National Covid-19 trends", "Research updates"];
 
 // Need to be defined in html:
 // const rszFeeds = ['url.xml'];
+// const removeIfTitleInclude = ['removal key];
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
