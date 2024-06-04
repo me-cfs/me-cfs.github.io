@@ -2,12 +2,10 @@ console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
-// Define cutoff date
-const cutoffDate = new Date('2024-05-30'); // Change this to your desired cutoff date
-
 // Need to be defined in html:
 // const rssFeeds = ['url.xml'];
 // const removeIfTitleInclude = ['removal key'];
+// const cutoffDate = new Date('YYYY-MM-DD')
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
