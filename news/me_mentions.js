@@ -1,4 +1,4 @@
-const ITEMS_PER_PAGE = 10; // Number of items to load per page
+const ITEMS_PER_PAGE = 18; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
 
