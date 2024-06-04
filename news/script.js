@@ -2,10 +2,12 @@ console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
+// Define cutoff date
+const cutoffDate = new Date('2024-05-29'); // Change this to your desired cutoff date
 
 // Need to be defined in html:
-// const rszFeeds = ['url.xml'];
-// const removeIfTitleInclude = ['removal key];
+// const rssFeeds = ['url.xml'];
+// const removeIfTitleInclude = ['removal key'];
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
@@ -54,7 +56,10 @@ async function loadFeeds() {
                 // Filter out items with titles in removeIfTitleInclude
                 const filteredItems = items.filter(item => !removeIfTitleInclude.some(text => item.title.includes(text)));
 
-                allItems = allItems.concat(filteredItems);
+                // Filter out items with a date earlier than cutoffDate
+                const validItems = filteredItems.filter(item => new Date(item.pubDate) >= cutoffDate);
+
+                allItems = allItems.concat(validItems);
             } catch (error) {
                 console.error(`Error fetching feed ${feed}:`, error);
             }
