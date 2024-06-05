@@ -4,12 +4,29 @@ const ITEMS_PER_PAGE = 18; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
 
-async function fetchFeed(url) {
+async function fetchFeed(url, retries = 3, delay = 5000) {
     const timestamp = getCurrentTimestamp();
-    const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&timestamp=${new Date().getTime()}`);
-    const data = await response.json();
-    console.log(`[${timestamp}] Fetched data from URL: ${url}`, data);
-    return data;
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}&timestamp=${new Date().getTime()}`);
+            const data = await response.json();
+            if (data.status === 'error' && data.message === 'This feed is being processed, please wait') {
+                console.log(`[${timestamp}] Feed is being processed, retrying in ${delay / 1000} seconds...`);
+                await new Promise(resolve => setTimeout(resolve, delay));
+            } else {
+                console.log(`[${timestamp}] Fetched data from URL: ${url}`, data);
+                return data;
+            }
+        } catch (error) {
+            console.error(`[${timestamp}] Error fetching feed: ${url}`, error);
+            if (i === retries - 1) {
+                throw error; // Rethrow error if no retries left
+            } else {
+                await new Promise(resolve => setTimeout(resolve, delay));
+            }
+        }
+    }
+    throw new Error('Failed to fetch feed after multiple attempts');
 }
 
 async function loadFeeds() {
