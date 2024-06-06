@@ -64,6 +64,14 @@ async function loadFeeds() {
 
     console.log(`[${timestamp}] allItems length =`, allItems.length);
 
+    if (allItems.length === 0) {
+        const noMentionsMessage = document.createElement('div');
+        noMentionsMessage.textContent = "Looks like there were no mentions found in the past day; maybe try visiting this website again tomorrow";
+        newsContainer.appendChild(noMentionsMessage);
+        loadMoreButton.style.display = 'none';
+        return;
+    }
+
     const nextItems = allItems.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
     nextItems.forEach(item => {
         const newsItem = document.createElement('div');
