@@ -4,9 +4,9 @@ const xml2js = require('xml2js');
 
 const parser = new Parser();
 const feedUrls = [
-  { url: 'https://thesicktimes.org/feed/' name: 'The Sick Times' },
-  { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Polite Pol 1' },
-  // Add more feeds as needed
+  { url: 'https://thesicktimes.org/feed/', name: 'The Sick Times', cutoffDate: new Date('2024-05-01') },
+  { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Polite Pol 1', cutoffDate: new Date('2024-05-28') },
+  // Add more feeds with their respective cutoff dates as needed
 ];
 const localFile = 'news/rss/community.xml'; // Correct path to your XML file
 
@@ -15,7 +15,8 @@ async function fetchFeed(feedUrl) {
     const feed = await parser.parseURL(feedUrl.url);
     return feed.items.map(item => ({
       ...item,
-      source: feedUrl.name
+      source: feedUrl.name,
+      cutoffDate: feedUrl.cutoffDate
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
@@ -39,7 +40,6 @@ async function filterAndUpdateFeed() {
 
     // Filter criteria
     const exclusionWords = ['Research Update', 'National Covid Update'];
-    const exclusionDate = new Date('2024-01-01');
 
     // Filter the feed items
     const newItems = allFeedItems.filter(item => {
@@ -48,7 +48,7 @@ async function filterAndUpdateFeed() {
 
       // Check exclusion criteria
       const isExcluded = exclusionWords.some(word => title.includes(word.toLowerCase())) ||
-        pubDate < exclusionDate;
+        pubDate <= item.cutoffDate;
 
       // Check for duplicates
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid[0] === item.guid);
