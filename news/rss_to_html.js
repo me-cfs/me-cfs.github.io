@@ -2,11 +2,6 @@ console.log("script.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
-// Need to be defined in html:
-// const rssFeeds = ['url.xml'];
-// const removeIfTitleInclude = ['removal key'];
-// const cutoffDate = new Date('YYYY-MM-DD')
-
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
 let allItems = [];
@@ -25,33 +20,17 @@ async function loadFeeds() {
     const loadMoreButton = document.getElementById('load-more-button');
 
     if (currentIndex === 0) {
-        console.log('First load, fetching all feeds...');
-        // Only fetch feeds if this is the first load
-        for (const feed of rssFeeds) {
-            try {
-                const feedData = await fetchFeed(feed);
-                let feedTitle = feedData.feed.title;
+        console.log('First load, fetching feed...');
+        try {
+            const feedData = await fetchFeed(rssFeed);
+            allItems = feedData.items;
 
-                const items = feedData.items.map(item => ({
-                    ...item,
-                    feedTitle: feedTitle
-                }));
-                
-                // Filter out items with titles in removeIfTitleInclude
-                const filteredItems = items.filter(item => !removeIfTitleInclude.some(text => item.title.includes(text)));
-
-                // Filter out items with a date earlier than cutoffDate
-                const validItems = filteredItems.filter(item => new Date(item.pubDate) >= cutoffDate);
-
-                allItems = allItems.concat(validItems);
-            } catch (error) {
-                console.error(`Error fetching feed ${feed}:`, error);
-            }
+            console.log('All items before sorting:', allItems);
+            allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+            console.log('All items after sorting:', allItems);
+        } catch (error) {
+            console.error(`Error fetching feed:`, error);
         }
-
-        console.log('All items before sorting:', allItems);
-        allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-        console.log('All items after sorting:', allItems);
     }
 
     const nextItems = allItems.slice(currentIndex, currentIndex + ITEMS_PER_PAGE);
@@ -64,11 +43,11 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = item.title;
+        link.textContent = item.source;  // Display item.source instead of item.title
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        meta.textContent = `${item.feedTitle}, ${formatDate(new Date(item.pubDate))}`;
+        meta.textContent = `${item.source}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
         newsItem.appendChild(meta);
