@@ -38,6 +38,11 @@ async function filterAndUpdateFeed() {
       localFeed = { rss: { channel: [ { item: [] } ] } };
     }
 
+    // Ensure localFeed has the correct structure
+    if (!localFeed.rss) localFeed.rss = {};
+    if (!localFeed.rss.channel) localFeed.rss.channel = [{}];
+    if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
+
     // Filter criteria
     const exclusionWords = ['Research Update', 'National Covid Update'];
 
@@ -51,7 +56,7 @@ async function filterAndUpdateFeed() {
         pubDate <= item.cutoffDate;
 
       // Check for duplicates
-      const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid[0] === item.guid);
+      const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
       return !isExcluded && !isDuplicate;
     });
