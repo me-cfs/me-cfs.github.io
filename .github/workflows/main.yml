@@ -1,61 +1,44 @@
-name: Generate xml sitemap
+name: Update RSS Feed
 
 on:
-  push:
-    paths-ignore:
-      - '**/sitemap.xml' # This line is to ignore changes in sitemap.xml file
-    branches: [ main ]
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+permissions:
+  contents: write
 
 jobs:
-  sitemap_job:
+  update-rss-feed:
     runs-on: ubuntu-latest
-    name: Generate a sitemap
 
     steps:
-      - name: Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0 
-          token: ${{ secrets.PAT }} # Use a secret token with the necessary permissions
 
-      - name: Set up Node.js 20
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '16'
 
-      - name: Generate the sitemap
-        uses: cicirello/generate-sitemap@v1
-        with:
-          base-url-path: https://www.me-cfs.github.io/
-          additional-extensions: md
+      - name: Install dependencies
+        run: npm install rss-parser xml2js
 
-      - name: Commit and push
-        run: |
-          if [[ `git status --porcelain sitemap.xml` ]]; then
-            git config --global user.name 'github-actions'
-            git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add sitemap.xml
-            git commit -m "Automated sitemap update" sitemap.xml
-            git push
-          fi
+      - name: Run update script
+        run: node news/rss/community_update.js
 
-  update-sitemap:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
-        with:
-           token: ${{ secrets.PAT }}
-        
-
-      - name: Replace .md with .html in sitemap.xml
-        run: |
-          sed -i 's/\.md/\.html/g' sitemap.xml
-
-      - name: Commit changes
+      - name: Commit and push changes if any
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add sitemap.xml
-          git commit -m "Update sitemap to reflect .html extensions" || echo "No changes to commit"
-          git push
+          git add news/rss/community.xml
+
+          # Check for changes and commit if there are any
+          if ! git diff --cached --quiet; then
+            git commit -m "Update RSS feed"
+            git push
+          else
+            echo "No changes to commit"
+          fi
