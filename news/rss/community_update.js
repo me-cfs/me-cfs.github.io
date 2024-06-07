@@ -4,7 +4,7 @@ const xml2js = require('xml2js');
 
 const parser = new Parser();
 const feedUrl = 'https://example.com/rss-feed.xml'; // Replace with your RSS feed URL
-const localFile = 'rss_feed.xml';
+const localFile = 'news/rss/community.xml'; // Correct path to your XML file
 
 async function filterAndUpdateFeed() {
   try {
