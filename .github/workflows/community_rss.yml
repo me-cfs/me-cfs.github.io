@@ -22,13 +22,13 @@ jobs:
         run: npm install rss-parser xml2js
 
       - name: Run update script
-        run: node news/rss/update_rss_feed.js
+        run: node news/rss/community_update.js
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add rss_feed.xml
+          git add news/rss/community.xml
           git commit -m "Update RSS feed"
           git push
         env:
