@@ -43,11 +43,11 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = item.source;  // Display item.source instead of item.title
+        link.textContent = item.title;  // Display item.title instead of item.source
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        meta.textContent = `${item.source}, ${formatDate(new Date(item.pubDate))}`;
+        meta.textContent = `${item.source || 'Unknown Source'}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
         newsItem.appendChild(meta);
