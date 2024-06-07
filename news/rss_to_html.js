@@ -47,7 +47,8 @@ async function loadFeeds() {
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        meta.textContent = `${item.source || 'Unknown Source'}, ${formatDate(new Date(item.pubDate))}`;
+        const source = item.source || item.author || 'Unknown Source';
+        meta.textContent = `${source}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
         newsItem.appendChild(meta);
