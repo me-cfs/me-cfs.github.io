@@ -8,7 +8,7 @@ const feedUrls = [
   { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Virology', cutoffDate: new Date('2024-05-29') },
   { url: 'https://politepol.com/fd/uu29e43WxMVl.xml', name: 'ME/CFS Research Review', cutoffDate: new Date('2024-05-30') },
   { url: 'https://politepol.com/fd/jyPhRAUUwOqs.xml', name: 'Science for ME', cutoffDate: new Date('2024-05-30') },
-  { url: 'https://politepol.com/fd/7Jrlm0Y5ncxC.xml', name: 'The Canary', cutoffDate: new Date('2024-05-30') },
+  { url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', name: 'The Canary', cutoffDate: new Date('2024-06-08') },
   { url: 'https://politepol.com/fd/5l40hlTQDRT0.xml', name: 'The Science Bit', cutoffDate: new Date('2024-06-06') },
   { url: 'https://www.healthrising.org/feed/', name: 'HealthRising', cutoffDate: new Date('2024-05-01') },
   // Add more feeds with their respective cutoff dates as needed
