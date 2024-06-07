@@ -44,7 +44,7 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
     // Filter criteria
-    const exclusionWords = ['Research Update', 'National Covid Update'];
+    const exclusionWords = ["National Covid-19 trends", "Research updates",];
 
     // Filter the feed items
     const newItems = allFeedItems.filter(item => {
