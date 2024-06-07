@@ -5,7 +5,7 @@ const xml2js = require('xml2js');
 const parser = new Parser();
 const feedUrls = [
   { url: 'https://thesicktimes.org/feed/', name: 'The Sick Times', cutoffDate: new Date('2024-05-01') },
-  { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Virology', cutoffDate: new Date('2024-05-28') },
+  { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Virology', cutoffDate: new Date('2024-05-29') },
   // Add more feeds with their respective cutoff dates as needed
 ];
 const localFile = 'news/rss/community.xml'; // Correct path to your XML file
