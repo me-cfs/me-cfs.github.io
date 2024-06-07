@@ -24,12 +24,18 @@ jobs:
       - name: Run update script
         run: node news/rss/community_update.js
 
-      - name: Commit and push changes
+      - name: Commit and push changes if any
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add news/rss/community.xml
-          git commit -m "Update RSS feed"
-          git push
+
+          # Check for changes and commit if there are any
+          if ! git diff --cached --quiet; then
+            git commit -m "Update RSS feed"
+            git push
+          else
+            echo "No changes to commit"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
