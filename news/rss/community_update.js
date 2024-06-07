@@ -3,13 +3,30 @@ const fs = require('fs');
 const xml2js = require('xml2js');
 
 const parser = new Parser();
-const feedUrl = 'https://example.com/rss-feed.xml'; // Replace with your RSS feed URL
+const feedUrls = [
+  { url: 'https://thesicktimes.org/feed/' name: 'The Sick Times' },
+  { url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', name: 'Polite Pol 1' },
+  // Add more feeds as needed
+];
 const localFile = 'news/rss/community.xml'; // Correct path to your XML file
+
+async function fetchFeed(feedUrl) {
+  try {
+    const feed = await parser.parseURL(feedUrl.url);
+    return feed.items.map(item => ({
+      ...item,
+      source: feedUrl.name
+    }));
+  } catch (error) {
+    console.error(`Error fetching feed ${feedUrl.url}:`, error);
+    return [];
+  }
+}
 
 async function filterAndUpdateFeed() {
   try {
-    // Fetch the RSS feed
-    const feed = await parser.parseURL(feedUrl);
+    // Fetch all feeds
+    const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
 
     // Load the local XML file
     let localFeed;
@@ -21,11 +38,11 @@ async function filterAndUpdateFeed() {
     }
 
     // Filter criteria
-    const exclusionWords = ['excludeWord1', 'excludeWord2'];
+    const exclusionWords = ['Research Update', 'National Covid Update'];
     const exclusionDate = new Date('2024-01-01');
 
     // Filter the feed items
-    const newItems = feed.items.filter(item => {
+    const newItems = allFeedItems.filter(item => {
       const title = item.title.toLowerCase();
       const pubDate = new Date(item.pubDate);
 
@@ -46,7 +63,8 @@ async function filterAndUpdateFeed() {
         link: [item.link],
         guid: [item.guid],
         pubDate: [item.pubDate],
-        description: [item.content]
+        description: [item.content],
+        source: [item.source] // Add source feed name
       });
     });
 
