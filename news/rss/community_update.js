@@ -71,10 +71,10 @@ async function filterAndUpdateFeed() {
       localFeed.rss.channel[0].item.push({
         title: [item.title],
         link: [item.link],
+        source: [item.source],
         guid: [item.guid],
         pubDate: [item.pubDate],
         description: [item.content],
-        source: [item.source] // Add source feed name
       });
     });
 
