@@ -33,12 +33,13 @@ filename: useful-resources.md
 
 **What are some online communities I can join?**
 * [The Science for ME forum](https://www.s4me.info)
-* Twitter: [List of Accounts to Follow](https://x.com/i/lists/1792252442643509657)
+* Facebook: [25% of ME](https://www.facebook.com/share/4Fw5hGB6y1h8F4vt/?mibextid=K35XfP) (for severe people)
+* Twitter: [List of useful accounts](https://x.com/i/lists/1792252442643509657)
 <details markdown="1">
   <summary>More Communities</summary>
 * Reddit: [The r/cfs Community](https://www.reddit.com/r/cfs/s/FOHNXA7Cu1) Disclaimer:
   * DO NOT join the r/mecfs or r/cfsme communities on reddit. They are [owned by David Jameson](https://forums.phoenixrising.me/threads/the-moderator-of-reddit-r-cfsme-r-mecfs-pushes-cbt-and-brain-retraining-and-get-and-bans-you-if-you-say-something-about-it.90736/), a notorious psychologiser of the disease.
-  * The r/cfs community has a few users who promote unproven treatments or often talk about "recovery" even though ME is a lifelong disease for most.
+  * While generally okay, the r/cfs community has a few users who promote unproven treatments.
 * Discord: [The MercyME community](https://discord.gg/dQYyXjZ9)
 * Lemmy: [The c/mecfs@kbin.social community](https://kbin.social/index.php/m/mecfs)
   * Sadly, this community is mostly inactive, but Lemmy is quickly growing, so feel free to be the people who make it active :). 
