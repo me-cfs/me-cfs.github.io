@@ -1,6 +1,6 @@
-console.log("html_to_rss.js Started!");
+console.log("html_to_rss.js started");
 import { formatDate } from './utils.js';
-console.log("Imported functions");
+console.log("Imports completed");
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 let currentIndex = 0;
