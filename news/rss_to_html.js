@@ -37,17 +37,19 @@ async function loadFeeds() {
     console.log('Next items to display:', nextItems);
 
     nextItems.forEach(item => {
+        console.log('Processing item:', item); // Log the item being processed
         const newsItem = document.createElement('div');
         newsItem.className = 'news-item';
         
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = item.title;  // Display item.title instead of item.source
+        link.textContent = item.title;
         title.appendChild(link);
         
         const meta = document.createElement('small');
         const source = item.source || item.author || 'Unknown Source';
+        console.log('Item source:', source); // Log the source being assigned
         meta.textContent = `${source}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
