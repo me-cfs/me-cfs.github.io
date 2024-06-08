@@ -1,4 +1,4 @@
-console.log("script.js Started!");
+console.log("html_to_rss.js Started!");
 import { formatDate } from './utils.js';
 console.log("Imported functions");
 
