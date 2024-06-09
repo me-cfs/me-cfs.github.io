@@ -8,10 +8,22 @@ let allItems = [];
 
 async function fetchFeed(url) {
     console.log(`Fetching feed from: ${url}`);
-    const response = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`);
-    const data = await response.json();
-    console.log(`Fetched data:`, data);
-    return data;
+    const response = await fetch(url);
+    const text = await response.text();
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(text, "application/xml");
+
+    const items = Array.from(xmlDoc.querySelectorAll("item")).map(item => ({
+        title: item.querySelector("title").textContent,
+        link: item.querySelector("link").textContent,
+        author: item.querySelector("author") ? item.querySelector("author").textContent : 'Unknown author',
+        guid: item.querySelector("guid").textContent,
+        pubDate: item.querySelector("pubDate").textContent,
+        description: item.querySelector("description").textContent
+    }));
+
+    console.log(`Parsed items:`, items);
+    return { items };
 }
 
 async function loadFeeds() {
