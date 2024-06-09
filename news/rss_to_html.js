@@ -48,9 +48,9 @@ async function loadFeeds() {
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        const source = item.source || item.author || 'Unknown Source';
-        console.log('Item source:', source); // Log the source being assigned
-        meta.textContent = `${source}, ${formatDate(new Date(item.pubDate))}`;
+        const author = item.author
+        console.log('Item author:', author); // Log the source being assigned
+        meta.textContent = `${author}, ${formatDate(new Date(item.pubDate))}`;
 
         newsItem.appendChild(title);
         newsItem.appendChild(meta);
