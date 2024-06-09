@@ -52,7 +52,7 @@ async function filterAndUpdateFeed() {
 
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
-      return !isExcluded && !isDuplicate;
+      return !isExcluded && !isDuplicate && item.guid; // Ensure guid is not empty
     });
 
     newItems.forEach(item => {
@@ -60,7 +60,7 @@ async function filterAndUpdateFeed() {
         title: [item.title],
         link: [item.link],
         author: [item.source],
-        guid: [item.guid],
+        guid: [item.guid || item.link], // Fallback to link if guid is missing
         pubDate: [item.pubDate]
       });
     });
