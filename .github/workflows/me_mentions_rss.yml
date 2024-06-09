@@ -33,7 +33,7 @@ jobs:
           # Check for changes and commit if there are any
           if ! git diff --cached --quiet; then
             git commit -m "Update RSS feed"
-            git push https://<USERNAME>:${{ secrets.PAT_TOKEN }}@github.com/me-cfs/me-cfs.github.io.git HEAD:main
+            git push https://me-cfs:${{ secrets.PAT_TOKEN }}@github.com/me-cfs/me-cfs.github.io.git HEAD:main
           else
             echo "No changes to commit"
           fi
