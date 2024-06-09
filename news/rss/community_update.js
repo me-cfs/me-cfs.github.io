@@ -71,7 +71,7 @@ async function filterAndUpdateFeed() {
       localFeed.rss.channel[0].item.push({
         title: [item.title],
         link: [item.link],
-        source: [item.source],
+        author: [item.source],  // Save the source to the author attribute
         guid: [item.guid],
         pubDate: [item.pubDate],
         description: [item.content],
