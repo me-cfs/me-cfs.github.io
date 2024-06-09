@@ -29,12 +29,12 @@ async function fetchFeed(feedUrl) {
   }
 }
 
+const MAX_ITEMS = 500; // Maximum number of items to keep in the feed
+
 async function filterAndUpdateFeed() {
   try {
-    // Fetch all feeds
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
 
-    // Load the local XML file
     let localFeed;
     if (fs.existsSync(localFile)) {
       const localData = fs.readFileSync(localFile, 'utf8');
@@ -43,46 +43,43 @@ async function filterAndUpdateFeed() {
       localFeed = { rss: { channel: [ { item: [] } ] } };
     }
 
-    // Ensure localFeed has the correct structure
     if (!localFeed.rss) localFeed.rss = {};
     if (!localFeed.rss.channel) localFeed.rss.channel = [{}];
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
-    // Filter criteria
-    const exclusionWords = ["National Covid-19 trends", "Research updates",];
+    const exclusionWords = ["National Covid-19 trends", "Research updates"];
 
-    // Filter the feed items
     const newItems = allFeedItems.filter(item => {
       const title = item.title.toLowerCase();
       const pubDate = new Date(item.pubDate);
 
-      // Check exclusion criteria
       const isExcluded = exclusionWords.some(word => title.includes(word.toLowerCase())) ||
         pubDate <= item.cutoffDate;
 
-      // Check for duplicates
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
       return !isExcluded && !isDuplicate;
     });
 
-    // Add new items to the local feed
     newItems.forEach(item => {
       localFeed.rss.channel[0].item.push({
         title: [item.title],
         link: [item.link],
-        author: [item.source],  // Save the source to the author attribute
+        author: [item.source],
         guid: [item.guid],
-        pubDate: [item.pubDate],
-        description: [item.content],
+        pubDate: [item.pubDate]
       });
     });
 
-    // Convert JSON to XML
+    // Sort by date
+    localFeed.rss.channel[0].item.sort((a, b) => new Date(b.pubDate[0]) - new Date(a.pubDate[0]));
+
+    // Trim to MAX_ITEMS
+    localFeed.rss.channel[0].item = localFeed.rss.channel[0].item.slice(0, MAX_ITEMS);
+
     const builder = new xml2js.Builder();
     const updatedXml = builder.buildObject(localFeed);
 
-    // Write the updated XML to the local file
     fs.writeFileSync(localFile, updatedXml);
 
     console.log('Feed updated successfully.');
