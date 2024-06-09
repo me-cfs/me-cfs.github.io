@@ -3,6 +3,7 @@ import { formatDate } from './utils.js';
 console.log("Imports completed");
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
+const MAX_ITEMS_CLIENT = 100; // Maximum number of items to process client side
 let currentIndex = 0;
 let allItems = [];
 
@@ -18,9 +19,8 @@ async function fetchFeed(url) {
         link: item.querySelector("link").textContent,
         author: item.querySelector("author") ? item.querySelector("author").textContent : 'Unknown author',
         guid: item.querySelector("guid").textContent,
-        pubDate: item.querySelector("pubDate").textContent,
-        description: item.querySelector("description").textContent
-    }));
+        pubDate: item.querySelector("pubDate").textContent
+    })).slice(0, MAX_ITEMS_CLIENT);
 
     console.log(`Parsed items:`, items);
     return { items };
@@ -60,7 +60,7 @@ async function loadFeeds() {
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        const author = item.author
+        const author = item.author;
         console.log('Item author:', author); // Log the source being assigned
         meta.textContent = `${author}, ${formatDate(new Date(item.pubDate))}`;
 
