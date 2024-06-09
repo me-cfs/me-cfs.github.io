@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false # Important to disable default token usage
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -25,9 +27,11 @@ jobs:
         run: node news/rss/me_mentions_update.js
 
       - name: Commit and push changes if any
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
           git add news/rss/me-mentions.xml
 
           # Check for changes and commit if there are any
