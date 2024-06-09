@@ -5,7 +5,7 @@ const xml2js = require('xml2js');
 const parser = new Parser();
 const feedUrls = [
   { url: 'https://www.google.com/alerts/feeds/00974591944495763896/11815415262763445760', name: 'ME News Mentions Google Alert', cutoffDate: new Date('2024-06-01') },
-  { url: 'https://www.google.com/alerts/feeds/00974591944495763896/4483004333671457808', name: test, cutoffDate: new Date('2024-05-01') },
+  { url: 'https://www.google.com/alerts/feeds/00974591944495763896/4483004333671457808', name: 'tst', cutoffDate: new Date('2024-05-01') },
   // Add more feeds with their respective cutoff dates as needed
 ];
 const localFile = 'news/rss/me-mentions.xml'; // Correct path to your XML file
