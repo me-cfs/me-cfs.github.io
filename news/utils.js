@@ -3,23 +3,36 @@ function getCurrentTimestamp() {
     return new Date().toLocaleString('en-GB', options);
 }
 
-function extractBaseUrl(googleRedirectUrl) {
+
+function extractBaseUrl(url) {
     const timestamp = getCurrentTimestamp();
-    console.log(`[${timestamp}] Extracting base URL from: ${googleRedirectUrl}`);
+    console.log(`[${timestamp}] Extracting base URL from: ${url}`);
     try {
-        const url = new URL(googleRedirectUrl);
-        const targetUrl = url.searchParams.get('url');
-        if (!targetUrl) {
-            throw new Error("Target URL not found in Google redirect URL.");
+        const parsedUrl = new URL(url);
+        let baseUrl;
+
+        // Check if it's a Google redirect URL
+        if (parsedUrl.hostname.includes('google') && parsedUrl.searchParams.get('url')) {
+            const targetUrl = parsedUrl.searchParams.get('url');
+            const targetUrlObj = new URL(targetUrl);
+            baseUrl = targetUrlObj.hostname.replace('www.', '');
+            console.log(`[${timestamp}] Base URL extracted from Google redirect: ${baseUrl}`);
+        } else {
+            // Handle normal URL
+            baseUrl = parsedUrl.hostname.replace('www.', '');
+            console.log(`[${timestamp}] Base URL extracted: ${baseUrl}`);
         }
-        const targetUrlObj = new URL(targetUrl);
-        const baseUrl = targetUrlObj.hostname.replace('www.', '');
-        console.log(`[${timestamp}] Base URL extracted: ${baseUrl}`);
+
         return baseUrl;
     } catch (error) {
-        console.error(`[${timestamp}] Error extracting base URL from: ${googleRedirectUrl}`, error);
+        console.error(`[${timestamp}] Error extracting base URL from: ${url}`, error);
         return "Unknown Source";
     }
+}
+
+// Helper function to get the current timestamp
+function getCurrentTimestamp() {
+    return new Date().toISOString();
 }
 
 function decodeHtmlEntities(text) {
