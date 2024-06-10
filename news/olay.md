@@ -36,7 +36,7 @@ The [ME/CFS Resources Page](https://me-cfs.github.io/useful-resources.html) cont
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
   * Please note that this blog is with a very positive mindset, it therefore might neglect rightful criticisms of research and present findings as given before they are replicated.
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
-  * Please note that this source while posting extensive and well written news, sometimes mentions [Long Covid Action Project](https://me-cfs.github.io/LCAP.html) in a positive light despite the fact the organisation is discrimatory and promotes misinformation.
+  * Please note that, while this source posts extensive and well written news, it sometimes mentions [Long Covid Action Project](https://me-cfs.github.io/LCAP.html) in a positive light despite the fact the organisation is discrimatory and promotes misinformation.
 
 <br/><br/><br/>
 
