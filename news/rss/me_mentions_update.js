@@ -49,11 +49,10 @@ async function filterAndUpdateFeed() {
     const newItems = allFeedItems.filter(item => {
       const title = item.title.toLowerCase();
       const pubDate = new Date(item.pubDate);
-
-      const isExcluded = exclusionWords.some(word => title.includes(word.toLowerCase())) ||
-        pubDate <= item.cutoffDate;
-
+      const isExcluded = exclusionWords.some(word => title.includes(word.toLowerCase())) || pubDate <= item.cutoffDate;
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
+
+      console.log(`Item: ${item.title}, Excluded: ${isExcluded}, Duplicate: ${isDuplicate}, GUID: ${item.guid}`); // Debugging
 
       return !isExcluded && !isDuplicate && item.guid; // Ensure guid is not empty
     });
