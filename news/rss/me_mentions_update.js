@@ -16,7 +16,8 @@ async function fetchFeed(feedUrl) {
     return feed.items.map(item => ({
       ...item,
       source: feedUrl.name,
-      cutoffDate: feedUrl.cutoffDate
+      cutoffDate: feedUrl.cutoffDate,
+      guid: item.guid || `${item.link}_${new Date(item.pubDate).getTime()}` // Generate GUID if not provided
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
@@ -30,7 +31,6 @@ async function filterAndUpdateFeed() {
   try {
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
     console.log(`Fetched ${allFeedItems.length} items.`); // Debugging
-    console.log('Fetched Items:', allFeedItems); // Log fetched items
 
     let localFeed;
     if (fs.existsSync(localFile)) {
@@ -54,7 +54,7 @@ async function filterAndUpdateFeed() {
 
       console.log(`Item: ${item.title}, Excluded: ${isExcluded}, Duplicate: ${isDuplicate}, GUID: ${item.guid}`); // Debugging
 
-      return !isExcluded && !isDuplicate && item.guid; // Ensure guid is not empty
+      return !isExcluded && !isDuplicate;
     });
 
     console.log(`Found ${newItems.length} new items to add.`); // Debugging
@@ -64,7 +64,7 @@ async function filterAndUpdateFeed() {
         title: [item.title],
         link: [item.link],
         author: [item.source],
-        guid: [item.guid || item.link], // Fallback to link if guid is missing
+        guid: [item.guid],
         pubDate: [item.pubDate]
       });
     });
