@@ -45,4 +45,10 @@ function formatDate(date) {
     return formattedDate.replace(/\d+/, day + suffix);
 }
 
-export { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate };
+function stripHtmlTags(html) {
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = html;
+    return tempDiv.textContent || tempDiv.innerText || '';
+}
+
+export { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate, stripHtmlTags };
