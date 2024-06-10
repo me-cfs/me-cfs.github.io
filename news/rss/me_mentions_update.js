@@ -29,6 +29,7 @@ const MAX_ITEMS = 500; // Maximum number of items to keep in the feed
 async function filterAndUpdateFeed() {
   try {
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
+    console.log(`Fetched ${allFeedItems.length} items.`); // Debugging
 
     let localFeed;
     if (fs.existsSync(localFile)) {
@@ -55,6 +56,8 @@ async function filterAndUpdateFeed() {
 
       return !isExcluded && !isDuplicate && item.guid; // Ensure guid is not empty
     });
+
+    console.log(`Found ${newItems.length} new items to add.`); // Debugging
 
     newItems.forEach(item => {
       localFeed.rss.channel[0].item.push({
