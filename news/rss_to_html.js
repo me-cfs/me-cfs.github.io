@@ -1,5 +1,5 @@
 console.log("html_to_rss.js started");
-import { formatDate } from './utils.js';
+import { formatDate, stripHtmlTags } from './utils.js';
 console.log("Imports completed");
 
 // const rszFeed = "url";
