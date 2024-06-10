@@ -5,8 +5,7 @@ function getCurrentTimestamp() {
 
 
 function extractBaseUrl(url) {
-    const timestamp = getCurrentTimestamp();
-    console.log(`[${timestamp}] Extracting base URL from: ${url}`);
+    console.log(`Extracting base URL from: ${url}`);
     try {
         const parsedUrl = new URL(url);
         let baseUrl;
@@ -16,23 +15,18 @@ function extractBaseUrl(url) {
             const targetUrl = parsedUrl.searchParams.get('url');
             const targetUrlObj = new URL(targetUrl);
             baseUrl = targetUrlObj.hostname.replace('www.', '');
-            console.log(`[${timestamp}] Base URL extracted from Google redirect: ${baseUrl}`);
+            console.log(`Base URL extracted from Google redirect: ${baseUrl}`);
         } else {
             // Handle normal URL
             baseUrl = parsedUrl.hostname.replace('www.', '');
-            console.log(`[${timestamp}] Base URL extracted: ${baseUrl}`);
+            console.log(`Base URL extracted: ${baseUrl}`);
         }
 
         return baseUrl;
     } catch (error) {
-        console.error(`[${timestamp}] Error extracting base URL from: ${url}`, error);
+        console.error(`Error extracting base URL from: ${url}`, error);
         return "Unknown Source";
     }
-}
-
-// Helper function to get the current timestamp
-function getCurrentTimestamp() {
-    return new Date().toISOString();
 }
 
 function decodeHtmlEntities(text) {
@@ -64,4 +58,4 @@ function stripHtmlTags(html) {
     return tempDiv.textContent || tempDiv.innerText || '';
 }
 
-export { getCurrentTimestamp, extractBaseUrl, decodeHtmlEntities, formatDate, stripHtmlTags };
+export {extractBaseUrl, decodeHtmlEntities, formatDate, stripHtmlTags };
