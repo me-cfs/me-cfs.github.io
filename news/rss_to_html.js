@@ -58,7 +58,7 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
-        link.textContent = item.title;
+        link.textContent = stripHtmlTags(item.title);
         title.appendChild(link);
         
         const meta = document.createElement('small');
