@@ -64,7 +64,7 @@ async function loadFeeds() {
         
         const meta = document.createElement('small');
         let author = item.author;
-        if (!useBaseUrl) {
+        if (useBaseUrl) {
             author = extractBaseUrl(item.link);
         }
         console.log('Item author:', author); // Log the source being assigned
