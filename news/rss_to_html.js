@@ -1,5 +1,5 @@
 console.log("html_to_rss.js started");
-import { formatDate, stripHtmlTags, extractBaseUrl, getCurrentTimestamp } from './utils.js';
+import { formatDate, stripHtmlTags, extractBaseUrl} from './utils.js';
 console.log("Imports completed");
 
 // const rssFeed = "url";
