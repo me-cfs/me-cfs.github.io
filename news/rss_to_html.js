@@ -2,6 +2,8 @@ console.log("html_to_rss.js started");
 import { formatDate } from './utils.js';
 console.log("Imports completed");
 
+// const rszFeed = "url";
+
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 const MAX_ITEMS_CLIENT = 100; // Maximum number of items to process client side
 let currentIndex = 0;
