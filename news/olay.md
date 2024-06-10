@@ -12,7 +12,7 @@ title: Keeping upto Date on ME/CFS/LC
 
 These pages track the latest news mentions of ME/CFS or Long Covid in mainstream news. Be careful, there is often misinformation going around in these pieces.
 * [Latest ME News Mentions](https://me-cfs.github.io/news/me-mentions.html) ([RSS Feed](https://me-cfs.github.io/news/rss/me-mentions.xml))
-* [Latest LC News Mentions](https://me-cfs.github.io/news/lc-mentions.html) (([RSS Feed](https://me-cfs.github.io/news/rss/lc-mentions.xml))
+* [Latest LC News Mentions](https://me-cfs.github.io/news/lc-mentions.html) ([RSS Feed](https://me-cfs.github.io/news/rss/lc-mentions.xml))
 <br/>
 
 **[Social Media and Online Communities](https://me-cfs.github.io/useful-resources.html)**
