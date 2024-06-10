@@ -31,8 +31,13 @@ The [ME/CFS Resources Page](https://me-cfs.github.io/useful-resources.html) cont
 **List of High Quality ME News Sources:**
 * [Trial By Error](https://virology.ws/david-tuller-posts/) a column by a journalist and public health expert (in ME/CFS/LC) David Tuller
 * [Whitney Dafoe's Blog](https://whitneydafoe.com/mecfs/) shares the experience of living when very severely affected
+* [The Canary](https://www.thecanary.co/topics/mecfs/) is technically a mainstream news source, but has excellent coverage on LC and ME
 * [Tom Kindlon's twitter account](https://x.com/tomkindlon?s=21) shares most of the recent research papers
 * [Twitter list](https://x.com/i/lists/1792252442643509657) of accounts sharing news (mostly major ME/LC organisations)
+* [The Science Bit](https://thesciencebit.net/category/me-cfs/) posts high quality content and commentary
+  * Please note that it is sporadic and only posts once or twice a year
+* [ME/CFS Research Review](https://mecfsresearchreview.me) posts analyses of the research landscape.
+  * Please note that there are only one or two posts a year
 * [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
   * Please note that this blog is with a very positive mindset, it therefore might neglect rightful criticisms of research and present findings as given before they are replicated.
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
