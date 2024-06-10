@@ -30,6 +30,7 @@ async function filterAndUpdateFeed() {
   try {
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
     console.log(`Fetched ${allFeedItems.length} items.`); // Debugging
+    console.log('Fetched Items:', allFeedItems); // Log fetched items
 
     let localFeed;
     if (fs.existsSync(localFile)) {
