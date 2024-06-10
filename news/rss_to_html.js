@@ -1,8 +1,9 @@
 console.log("html_to_rss.js started");
-import { formatDate, stripHtmlTags } from './utils.js';
+import { formatDate, stripHtmlTags, extractBaseUrl } from './utils.js';
 console.log("Imports completed");
 
-// const rszFeed = "url";
+// const rssFeed = "url";
+// const useBaseUrl = true / false;
 
 const ITEMS_PER_PAGE = 10; // Number of items to load per page
 const MAX_ITEMS_CLIENT = 100; // Maximum number of items to process client side
@@ -62,7 +63,10 @@ async function loadFeeds() {
         title.appendChild(link);
         
         const meta = document.createElement('small');
-        const author = item.author;
+        let author = item.author;
+        if (!useBaseUrl) {
+            author = extractBaseUrl(item.link);
+        }
         console.log('Item author:', author); // Log the source being assigned
         meta.textContent = `${author}, ${formatDate(new Date(item.pubDate))}`;
 
