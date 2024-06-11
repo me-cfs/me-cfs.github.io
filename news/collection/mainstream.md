@@ -1,6 +1,5 @@
 ---
 title: ME in the News
-filename: me-inthenews.md
 ---
 <!---
 *2024*
