@@ -5,13 +5,15 @@ Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden,
 * [ME/CFS Resources](useful-resources.md)
 
 **Commonly Visited**
-* [What is ME/CFS?](me-cfs.md)
-* [ME/CFS resources](useful-resources.md)
 * [How to Help (Advocacy Masterlist)](how-to-help.md)
-* [ME News](https://me-cfs.github.io/news/community/)
+* [ME/LC News](https://me-cfs.github.io/news/community/)
+* [What is ME/CFS?](me-cfs.md)
 
 
 **Recently Added Pages**
+* [Latest Tracked ME News Mentions](https://me-cfs.github.io/news/me/)
+* [Latest Tracked LC News Mentions](https://me-cfs.github.io/news/lc/)
+* [ME/LC News Guide](https://me-cfs.github.io/news/)
 * [Clinical/Academic Resources](clinical-resources.md)
 * [How to Help (Advocacy Masterlist)](how-to-help.md)
 * [ME News](https://me-cfs.github.io/news/community/)
