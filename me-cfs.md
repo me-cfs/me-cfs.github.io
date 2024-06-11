@@ -28,7 +28,7 @@ _Listen to:_
 
 **Related Pages on this Website:**
 * [Clinical/Academic Introduction to ME](clinical-resources.md)
-* [ME/CFS in mainstream news](me-inthenews.md)
+* [ME/CFS in mainstream news](https://me-cfs.github.io/news/collection/mainstream.html)
 * [ME/CFS Resources](useful-resources.md)
 * [ME/CFS News](community-news.md)
 * [How to help](how-to-help.md)
