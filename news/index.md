@@ -3,16 +3,16 @@ title: Keeping upto Date on ME/CFS/LC
 ---
 
 
-**[Curated ME/LC News Page](https://me-cfs.github.io/news/)**
+**[Curated ME/LC News Page](https://me-cfs.github.io/news/community/)**
 
-[This page](https://me-cfs.github.io/news/) displays all the recent articles from generally trusted and high quality news sources from within the ME/LC community. ([RSS Feed](https://me-cfs.github.io/news/rss/community.xml))
+[This page](https://me-cfs.github.io/news/community/) displays all the recent articles from generally trusted and high quality news sources from within the ME/LC community. ([RSS Feed](https://me-cfs.github.io/news/rss/community.xml))
 <br/>
 
 **Major ME or LC News Mentions**
 
 These pages track the latest news mentions of ME/CFS or Long Covid in mainstream news. Be careful, there is often misinformation going around in these pieces.
-* [Latest ME News Mentions](https://me-cfs.github.io/news/me-mentions.html) ([RSS Feed](https://me-cfs.github.io/news/rss/me-mentions.xml))
-* [Latest LC News Mentions](https://me-cfs.github.io/news/lc-mentions.html) ([RSS Feed](https://me-cfs.github.io/news/rss/lc-mentions.xml))
+* [Latest ME News Mentions](https://me-cfs.github.io/news/me/) ([RSS Feed](https://me-cfs.github.io/news/rss/me-mentions.xml))
+* [Latest LC News Mentions](https://me-cfs.github.io/news/lc/) ([RSS Feed](https://me-cfs.github.io/news/rss/lc-mentions.xml))
 <br/>
 
 **[Social Media and Online Communities](https://me-cfs.github.io/useful-resources.html)**
