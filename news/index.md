@@ -26,7 +26,7 @@ The [ME/CFS Resources Page](https://me-cfs.github.io/useful-resources.html) cont
 <br/>
 
 **News Collections**
-* [Collection of High Quality Mainstream ME/LC News](https://me-cfs.github.io/me-inthenews.html)
+* [Collection of High Quality Mainstream ME/LC News](https://me-cfs.github.io/news/collection/mainstream.html)
 
 **List of High Quality ME News Sources:**
 * [Trial By Error](https://virology.ws/david-tuller-posts/) a column by a journalist and public health expert (in ME/CFS/LC) David Tuller
