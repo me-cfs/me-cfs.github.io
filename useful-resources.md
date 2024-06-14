@@ -42,6 +42,8 @@ filename: useful-resources.md
 * [Mayo Clinic Proceedings](https://www.mayoclinicproceedings.org/article/S0025-6196(23)00402-0/fulltext) (2023)
 * [Germanophone Consensus](https://link.springer.com/article/10.1007/s00508-024-02372-y) (2024)
 
+**How do I measure/explain my level of Disability?**
+* The [FUNCAP Questionnaire](https://www.mdpi.com/2077-0383/13/12/3486) is specifically designed to measure disability due to PEM. You can take an online version [here](https://t.co/Yrq6PZbH0I).
 
 **The Dark History of Psychologisation**
 * [UK News Article Exploring it](https://amp.theguardian.com/commentisfree/2024/mar/12/chronic-fatigue-syndrome-me-treatments-social-services) (2024)
