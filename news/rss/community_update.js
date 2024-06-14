@@ -11,7 +11,7 @@ const feedUrls = [
   { url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', name: 'The Canary', cutoffDate: new Date('2024-06-08') },
   { url: 'https://politepol.com/fd/5l40hlTQDRT0.xml', name: 'The Science Bit', cutoffDate: new Date('2024-06-06') },
   { url: 'https://www.healthrising.org/feed/', name: 'HealthRising', cutoffDate: new Date('2024-05-01') },
-  { url: 'https://politepol.com/fd/gFwFpeoZekBS.xml', name: 'Thoughts about ME', cutoffDate: new Date('2024-06-12') },
+  { url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', name: 'Thoughts about ME', cutoffDate: new Date('2024-06-15') },
   // Add more feeds with their respective cutoff dates as needed
 ];
 const localFile = 'news/rss/community.xml'; // Correct path to your XML file
