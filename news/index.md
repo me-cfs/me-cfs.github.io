@@ -38,11 +38,12 @@ The [ME/CFS Resources Page](https://me-cfs.github.io/useful-resources.html) cont
   * Please note that it is sporadic and only posts once or twice a year
 * [ME/CFS Research Review](https://mecfsresearchreview.me) posts analyses of the research landscape.
   * Please note that there are only one or two posts a year
-* [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
-  * Please note that this blog is with a very positive mindset, it therefore might neglect rightful criticisms of research and present findings as given before they are replicated.
+* [Thoughts about ME](http://thoughtsaboutme.com) critical commentary on ME research.
+  * Sporadic posting
 * [The Sick Times](https://thesicktimes.org) a news source following long covid
   * Please note that, while this source posts extensive and well written news, it sometimes mentions [Long Covid Action Project](https://me-cfs.github.io/LCAP.html) in a positive light despite the fact the organisation is discrimatory and promotes misinformation.
-
+* [Healthrising](https://www.healthrising.org) posts longer pieces on recent topics (usually research)
+  * Please note that this blog is with a very positive mindset, it therefore might neglect rightful criticisms of research and present findings as given before they are replicated.
 <br/><br/><br/>
 
 ---
