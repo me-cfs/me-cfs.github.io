@@ -34,7 +34,7 @@ By paying a small fee to be a member of your chosen organisation, you get some b
 ### Fundraising for Free
 * Generate Small donations through online shopping (while not paying any more than you would)
   * For the [Open Medicine Foundation](https://www.omf.ngo), sign up [here](https://ow.ly/rlha50SieTb).
-* UK Only: For [ME Research UK](https://www.meresearch.org.uk), sign up [here](https://tinyurl.com/yndk2uf7)
+  * UK Only: For [ME Research UK](https://www.meresearch.org.uk), sign up [here](https://tinyurl.com/yndk2uf7)
 
 ## News
 ### Help Correct News Articles
