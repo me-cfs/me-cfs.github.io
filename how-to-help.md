@@ -91,6 +91,11 @@ Contact your politician/reprsentative and tell them about your struggles with ME
 * [ME Research UK](https://www.meresearch.org.uk/research/volunteering/)
 </details>
 
+## Social Media
+### Help Combat Misinformation and Inform Others
+* [This Discord Group](https://discord.gg/56VfqnUSnS) coordinates fact checking and promoting ME/CFS articles
+* [This Twitter Account](https://x.com/LCMEPirates) does the same as above
+
 ## Volunteer
 ### Organisations often looking for Volunteers
 * [MEAction](https://www.meaction.net/volunteer-program/)
