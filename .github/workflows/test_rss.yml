@@ -1,0 +1,43 @@
+name: TEST RSS
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-rss-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false # Important to disable default token usage
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install rss-parser xml2js
+
+      - name: Run update script
+        run: node news/rss/test.js
+
+      - name: Commit and push changes if any
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add news/rss/test.xml
+
+          # Check for changes and commit if there are any
+          if ! git diff --cached --quiet; then
+            git commit -m "UpdatDone"
+            git push https://me-cfs:${{ secrets.PAT_TOKEN }}@github.com/me-cfs/me-cfs.github.io.git HEAD:main
+          else
+            echo "No changes to commit"
+          fi
