@@ -5,7 +5,7 @@ const xml2js = require('xml2js');
 const parser = new Parser();
 const feedUrls = [
   { 
-    url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
+    url: 'https://med-mastodon.com/@s4me.rss',
     name: 'Science for ME', 
     cutoffDate: new Date('2024-05-01'),
     exclusionWords: []
