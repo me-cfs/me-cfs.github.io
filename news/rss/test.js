@@ -49,6 +49,7 @@ async function filterAndUpdateFeed() {
 
     const newItems = allFeedItems.filter(item => {
       if (!item.title || !item.pubDate) {
+        console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
         return false;
       }
 
@@ -59,6 +60,14 @@ async function filterAndUpdateFeed() {
         pubDate <= item.cutoffDate;
 
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
+
+      if (isExcluded) {
+        console.log(`Excluding item due to exclusion words or cutoff date: ${item.title}`);
+      } else if (isDuplicate) {
+        console.log(`Excluding item due to duplication: ${item.title}`);
+      } else {
+        console.log(`Including item: ${item.title}`);
+      }
 
       return !isExcluded && !isDuplicate;
     });
