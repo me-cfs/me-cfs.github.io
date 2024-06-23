@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>ME/LC Community News</title>
-    <link>https://me-cfs.github.io/news/rss/community.xml</link>
-    <description/>
-    <item>
-      <title>&lt;p&gt;Find &lt;a href="https://med-mastodon.com/tags/MECFS" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;MECFS&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://med-mastodon.com/tags/LongCovid" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;LongCovid&lt;/span&gt;&lt;/a&gt; and related news, advocacy and research from w/c 17th June in our latest News in Brief post.&lt;/p&gt;&lt;p&gt;With headlines and further reading links for:&lt;/p&gt;&lt;p&gt;News, advocacy and articles&lt;br /&gt;Research news and commentary&lt;br /&gt;Coming events&lt;br /&gt;and Research&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.s4me.info/threads/news-in-brief-june-2024.38870/#post-539595/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;s4me.info/threads/news-in-brie&lt;/span&gt;&lt;span class="invisible"&gt;f-june-2024.38870/#post-539595/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</title>
-      <link>https://med-mastodon.com/@s4me/112665208386291236</link>
-      <author>Science for ME</author>
-      <guid>https://med-mastodon.com/@s4me/112665208386291236</guid>
-      <pubDate>Sun, 23 Jun 2024 09:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>&lt;p&gt;Covering w/c 10th June, find &lt;a href="https://med-mastodon.com/tags/MECFS" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;MECFS&lt;/span&gt;&lt;/a&gt;, &lt;a href="https://med-mastodon.com/tags/LongCovid" class="mention hashtag" rel="tag"&gt;#&lt;span&gt;LongCovid&lt;/span&gt;&lt;/a&gt; and related news, advocacy and research in our latest News in Brief post.&lt;/p&gt;&lt;p&gt;Headlines and links to further reading for:&lt;/p&gt;&lt;p&gt;News, advocacy and articles&lt;br /&gt;Research news and commentary&lt;br /&gt;&amp;amp; Research&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.s4me.info/threads/news-in-brief-june-2024.38870/#post-538457/" target="_blank" rel="nofollow noopener noreferrer" translate="no"&gt;&lt;span class="invisible"&gt;https://www.&lt;/span&gt;&lt;span class="ellipsis"&gt;s4me.info/threads/news-in-brie&lt;/span&gt;&lt;span class="invisible"&gt;f-june-2024.38870/#post-538457/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</title>
-      <link>https://med-mastodon.com/@s4me/112625686731099863</link>
-      <author>Science for ME</author>
-      <guid>https://med-mastodon.com/@s4me/112625686731099863</guid>
-      <pubDate>Sun, 16 Jun 2024 09:53:16 +0000</pubDate>
-    </item>
-  </channel>
+<channel>
+<title>ME/LC Community News</title>
+<link>https://me-cfs.github.io/news/rss/community.xml</link>
+<description></description>
+</channel>
 </rss>
