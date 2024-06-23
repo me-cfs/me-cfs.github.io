@@ -11,7 +11,7 @@ const feedUrls = [
     exclusionWords: [],
     inclusionWords: ['News in Brief'],
     undefinedTitle: 'News in Brief for the week ending, ' + getOneWeekAgoDate(),
-    getContentLink: 'https://s4me.info'
+    getContentLink: 'https://www.s4me.info'
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
