@@ -1,8 +1,8 @@
-Climate Change: How Various Inequalities Shape the CO2e Emissions of Societies
+# Climate Change: How Various Inequalities Shape the CO2e Emissions of Societies
 
 Two of the most acute and pervasive political issues today are climate change and rising inequalities. Much has been done in establishing how inequality exacerbates the effects of climate change: poor and disenfranchised populations tend to suffer disproportionally from its impacts and will likely continue to do so. However, the theoretical links between domestic inequalities and their impacts on CO2e emissions aren’t fully fleshed out. In this paper, we will explore different types of inequalities and the literature behind theories about how they impact CO2e emissions at national levels. 
 
-Income Inequality:
+**Income Inequality:**
 
 As explored by Alacevich and Wade (2018) income inequality is increasing, especially in the West; this increase is experiencing surprisingly little pushback. Income inequality has many effects on societal dynamics and economic behaviour, there are therefore various hypotheses about its impact on CO2e emissions. 
 
@@ -12,7 +12,7 @@ Another way to look at inequality through income is by looking at the earnings o
 
 Therefore, although there are two seemingly contradictory findings, they may be explained by the same mechanism. It seems that when any class of society gets wealthier, their emissions increase (at least in the short term). This means that when increased equality means the poorer classes getting richer (as often measured by the GINI index) emissions rise. However, when increased equality means the richer classes lose some of their advantages (as measured by top income inequality) emissions fall.
 
-Horizontal Inequality:
+**Horizontal Inequality:**
 
 Horizontal inequality refers to inequalities between groups based on societally or culturally perceived characteristics, such as race, ethnicity, residential status, and social class. It is an important type of inequality because it impacts the prospects and actions of all individuals in the groups and is notoriously hard to escape (Stewart, 2009). There are no large-scale data analyses directly exploring a possible relationship, however, there are myriad mechanisms that may have an impact. 
 
@@ -20,7 +20,7 @@ Firstly, large horizontal inequalities often lead to increased segregation, name
 
 Additionally, when there is large inequality between groups in a horizontal and spatial dimension, climate-friendly legislation is likely to be more harmful. This is because, in societies with high spatial and horizontal inequalities, high CO2e industrial production is localised to specific areas and groups. Climate policy that seeks to lower emissions will have a hard time passing as entire groups will be opposed to it, in this sense, higher horizontal inequalities would lead to higher CO2e emissions. Finally, horizontal inequalities often lead to a specific wealthy group that separates themself away from the areas most impacted by climate change and often has a strong influence over the media. Therefore, they often don’t show the extent of the climate crisis for personal and group-based gains. Thus, multiple mechanisms explain why horizontal inequality could increase CO2e emissions. 
 
-Political Inequality: 
+**Political Inequality:**
 
 Political inequality, defined as inequalities in the political power and influence of groups, is heavily tied to wealth. It has been shown that increased wealth of the top percentiles of society is correlated with higher CO2e emissions (Knight et al., 2017). Therefore, increased political inequality may lead to higher greenhouse gas emissions. 
 
@@ -28,7 +28,7 @@ In general, the most powerful have the most to gain from CO2e emissions: they ha
 
 Downey (2015) elaborates upon the ideas advanced by Boyce, by arguing that the most powerful work to create entities and establishments separate from democracy and popular influence to strengthen their power and wealth, which often ends with environmentally destructive consequences. One example of this is using tools like the media and education to suppress public awareness about climate change and reframing pro-environmental behaviour to benefit the elite. This often leads to a lack of societal trust, solidarity, and support for public goods, which contributes to a disregard for climate concerns.
 
-Discussion & Conclusion:
+**Discussion & Conclusion:*
 
 In this essay, various literature has been combined to attempt to understand the possible theoretical mechanisms behind different types of inequalities and their effects on societal CO2e emissions. This question and relationship are crucial to understand in a world struggling with both climate change and inequalities. While there are some pervasive mechanisms, it seems many factors influence this relationship on different levels, which makes it extremely complex. On top of this, these factors often influence each other with various causalities and feedback loops. The mechanisms explored in the essay are summarised in the flowchart “Figure 1”; this attempt at simplification, however, shows how complex any representation of this relationship can be, whether visually or textually expressed. Additionally, there exists many other types of inequality (educational, gender etc.) and lenses to view inequality which could provide novel mechanisms and relationships not explored in this essay. 
 
