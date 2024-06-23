@@ -13,6 +13,54 @@ const feedUrls = [
     undefinedTitle: 'News in Brief for the week ending, ' + getOneWeekAgoDate(),
     getContentLink: 'https://www.s4me.info'
   },
+  { 
+    url: 'https://thesicktimes.org/feed/', 
+    name: 'The Sick Times', 
+    cutoffDate: new Date('2024-05-01'),
+    exclusionWords: ["National Covid-19 trends", "Research updates"]
+  },
+  { 
+    url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', 
+    name: 'Virology', 
+    cutoffDate: new Date('2024-05-29'),
+    exclusionWords: []
+  },
+  { 
+    url: 'https://politepol.com/fd/uu29e43WxMVl.xml', 
+    name: 'ME/CFS Research Review', 
+    cutoffDate: new Date('2024-05-30'),
+    exclusionWords: []
+  },
+  { 
+    url: 'https://politepol.com/fd/jyPhRAUUwOqs.xml', 
+    name: 'Science for ME', 
+    cutoffDate: new Date('2024-05-30'),
+    exclusionWords: []
+  },
+  { 
+    url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', 
+    name: 'The Canary', 
+    cutoffDate: new Date('2024-06-08'),
+    exclusionWords: []
+  },
+  { 
+    url: 'https://politepol.com/fd/5l40hlTQDRT0.xml', 
+    name: 'The Science Bit', 
+    cutoffDate: new Date('2024-06-06'),
+    exclusionWords: []
+  },
+  { 
+    url: 'https://www.healthrising.org/feed/', 
+    name: 'HealthRising', 
+    cutoffDate: new Date('2024-05-01'),
+    exclusionWords: ["Recovery", "Exercise Program"]
+  },
+  { 
+    url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
+    name: 'Thoughts about ME', 
+    cutoffDate: new Date('2024-06-15'),
+    exclusionWords: []
+  },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
 const localFile = 'news/rss/test.xml'; // Correct path to your XML file
