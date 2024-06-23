@@ -10,7 +10,8 @@ const feedUrls = [
     cutoffDate: new Date('2024-05-01'),
     exclusionWords: [],
     inclusionWords: ['News in Brief'],
-    undefinedTitle: 'News in Brief for the week starting, ' + getOneWeekAgoDate()
+    undefinedTitle: 'News in Brief for the week ending, ' + getOneWeekAgoDate(),
+    getContentLink: 'https://s4me.info'
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
@@ -32,7 +33,8 @@ async function fetchFeed(feedUrl) {
       cutoffDate: feedUrl.cutoffDate,
       exclusionWords: feedUrl.exclusionWords,
       inclusionWords: feedUrl.inclusionWords,
-      undefinedTitle: feedUrl.undefinedTitle
+      undefinedTitle: feedUrl.undefinedTitle,
+      getContentLink: feedUrl.getContentLink
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
@@ -96,9 +98,19 @@ async function filterAndUpdateFeed() {
     });
 
     newItems.forEach(item => {
+      // If getContentLink is defined, find the first link in content that matches the base URL
+      let link = item.link;
+      if (item.getContentLink && item.content) {
+        const regex = new RegExp(`(${item.getContentLink}[^\s]+)`, 'g');
+        const matches = item.content.match(regex);
+        if (matches && matches.length > 0) {
+          link = matches[0];
+        }
+      }
+
       localFeed.rss.channel[0].item.push({
         title: [item.processedTitle || item.content],
-        link: [item.link],
+        link: [link],
         author: [item.source],
         guid: [item.guid],
         pubDate: [item.pubDate]
