@@ -90,12 +90,13 @@ async function filterAndUpdateFeed() {
         console.log(`Including item: ${item.title || item.content}`);
       }
 
+      item.processedTitle = title;
       return !isExcluded && !isDuplicate;
     });
 
     newItems.forEach(item => {
       localFeed.rss.channel[0].item.push({
-        title: [item.title || item.content],
+        title: [item.processedTitle || item.content],
         link: [item.link],
         author: [item.source],
         guid: [item.guid],
