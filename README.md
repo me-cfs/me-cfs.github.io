@@ -23,7 +23,7 @@ Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden,
 * [What is ME/CFS?](me-cfs.md)
 
 <br/> <br/>
-![Image](https://me-cfs.github.io/files/img/me-very-severe.jpeg)
+![Image](https://me-cfs.github.io/files/img/me_very_severe.jpeg)
 This image shows how I am 99% of the time. I have extensive sound and light proofing becaude my brain usually cannot process the stimuli of sound and light without using too much energy. I am lucky enough to (as of now) be able to occasionally use my phone. I have spent periods unable to interact with the world at all: only daydreaming, when my brain has enough energy to do so.
 
 <br/><br/><br/>
