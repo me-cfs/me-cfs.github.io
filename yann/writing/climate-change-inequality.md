@@ -28,7 +28,7 @@ In general, the most powerful have the most to gain from CO2e emissions: they ha
 
 Downey (2015) elaborates upon the ideas advanced by Boyce, by arguing that the most powerful work to create entities and establishments separate from democracy and popular influence to strengthen their power and wealth, which often ends with environmentally destructive consequences. One example of this is using tools like the media and education to suppress public awareness about climate change and reframing pro-environmental behaviour to benefit the elite. This often leads to a lack of societal trust, solidarity, and support for public goods, which contributes to a disregard for climate concerns.
 
-**Discussion & Conclusion:*
+**Discussion & Conclusion:**
 
 In this essay, various literature has been combined to attempt to understand the possible theoretical mechanisms behind different types of inequalities and their effects on societal CO2e emissions. This question and relationship are crucial to understand in a world struggling with both climate change and inequalities. While there are some pervasive mechanisms, it seems many factors influence this relationship on different levels, which makes it extremely complex. On top of this, these factors often influence each other with various causalities and feedback loops. The mechanisms explored in the essay are summarised in the flowchart “Figure 1”; this attempt at simplification, however, shows how complex any representation of this relationship can be, whether visually or textually expressed. Additionally, there exists many other types of inequality (educational, gender etc.) and lenses to view inequality which could provide novel mechanisms and relationships not explored in this essay. 
 
@@ -45,7 +45,7 @@ Therefore, while the mechanisms are not explicitly clear, one can see a link bet
 
 
 
-Bibliography:
+**Bibliography:**
 
 Bowles, S., & Park, Y. (2005). Emulation, Inequality, and Work Hours: Was Thorsten Veblen Right? The Economic Journal, 115(507), F397–F412. https://doi.org/10.1111/j.1468-0297.2005.01042.x
 Boyce, J. K. (1994). Inequality as a cause of environmental degradation. Ecological Economics, 11(3), 169–178. https://doi.org/10.1016/0921-8009(94)90198-8
