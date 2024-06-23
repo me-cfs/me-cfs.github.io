@@ -48,13 +48,13 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
     const newItems = allFeedItems.filter(item => {
-      if (!item.title || !item.pubDate) {
+      const title = item.title ? item.title.toLowerCase() : item.content.toLowerCase();
+      const pubDate = item.pubDate ? new Date(item.pubDate) : null;
+
+      if (!title || !pubDate) {
         console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
         return false;
       }
-
-      const title = item.title.toLowerCase();
-      const pubDate = new Date(item.pubDate);
 
       const isExcluded = item.exclusionWords.some(word => title.includes(word.toLowerCase())) ||
         pubDate <= item.cutoffDate;
@@ -62,11 +62,11 @@ async function filterAndUpdateFeed() {
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
       if (isExcluded) {
-        console.log(`Excluding item due to exclusion words or cutoff date: ${item.title}`);
+        console.log(`Excluding item due to exclusion words or cutoff date: ${item.title || item.content}`);
       } else if (isDuplicate) {
-        console.log(`Excluding item due to duplication: ${item.title}`);
+        console.log(`Excluding item due to duplication: ${item.title || item.content}`);
       } else {
-        console.log(`Including item: ${item.title}`);
+        console.log(`Including item: ${item.title || item.content}`);
       }
 
       return !isExcluded && !isDuplicate;
@@ -74,7 +74,7 @@ async function filterAndUpdateFeed() {
 
     newItems.forEach(item => {
       localFeed.rss.channel[0].item.push({
-        title: [item.title],
+        title: [item.title || item.content],
         link: [item.link],
         author: [item.source],
         guid: [item.guid],
