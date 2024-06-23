@@ -8,11 +8,19 @@ const feedUrls = [
     url: 'https://med-mastodon.com/@s4me.rss',
     name: 'Science for ME', 
     cutoffDate: new Date('2024-05-01'),
-    exclusionWords: []
+    exclusionWords: [],
+    inclusionWords: ['News in Brief'],
+    undefinedTitle: 'News in Brief for the week ending, ' + getCurrentDate()
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
 const localFile = 'news/rss/test.xml'; // Correct path to your XML file
+
+function getCurrentDate() {
+  const date = new Date();
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  return date.toLocaleDateString('en-US', options);
+}
 
 async function fetchFeed(feedUrl) {
   try {
@@ -21,7 +29,9 @@ async function fetchFeed(feedUrl) {
       ...item,
       source: feedUrl.name,
       cutoffDate: feedUrl.cutoffDate,
-      exclusionWords: feedUrl.exclusionWords
+      exclusionWords: feedUrl.exclusionWords,
+      inclusionWords: feedUrl.inclusionWords,
+      undefinedTitle: feedUrl.undefinedTitle
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
@@ -48,8 +58,18 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
     const newItems = allFeedItems.filter(item => {
-      const title = item.title ? item.title.toLowerCase() : item.content.toLowerCase();
+      let title = item.title ? item.title.toLowerCase() : null;
+      const content = item.content ? item.content.toLowerCase() : '';
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
+
+      if (!title && content) {
+        const hasInclusionWords = item.inclusionWords.some(word => content.includes(word.toLowerCase()));
+        if (hasInclusionWords) {
+          title = item.undefinedTitle;
+        } else {
+          title = content;
+        }
+      }
 
       if (!title || !pubDate) {
         console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
