@@ -48,6 +48,10 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
     const newItems = allFeedItems.filter(item => {
+      if (!item.title || !item.pubDate) {
+        return false;
+      }
+
       const title = item.title.toLowerCase();
       const pubDate = new Date(item.pubDate);
 
