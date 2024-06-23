@@ -67,7 +67,8 @@ async function filterAndUpdateFeed() {
         if (hasInclusionWords) {
           title = item.undefinedTitle;
         } else {
-          title = content;
+          console.log(`Excluding item due to title and content not having inclusionwords: ${JSON.stringify(item)}`);
+          return false;
         }
       }
 
