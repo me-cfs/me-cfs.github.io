@@ -10,14 +10,15 @@ const feedUrls = [
     cutoffDate: new Date('2024-05-01'),
     exclusionWords: [],
     inclusionWords: ['News in Brief'],
-    undefinedTitle: 'News in Brief for the week ending, ' + getCurrentDate()
+    undefinedTitle: 'News in Brief for the week starting, ' + getOneWeekAgoDate()
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
 const localFile = 'news/rss/test.xml'; // Correct path to your XML file
 
-function getCurrentDate() {
+function getOneWeekAgoDate() {
   const date = new Date();
+  date.setDate(date.getDate() - 7);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   return date.toLocaleDateString('en-US', options);
 }
@@ -67,7 +68,7 @@ async function filterAndUpdateFeed() {
         if (hasInclusionWords) {
           title = item.undefinedTitle;
         } else {
-          console.log(`Excluding item due to title and content not having inclusionwords: ${JSON.stringify(item)}`);
+          console.log(`Excluding item due to title and content not having inclusion words: ${JSON.stringify(item)}`);
           return false;
         }
       }
