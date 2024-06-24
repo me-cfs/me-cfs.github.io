@@ -146,15 +146,19 @@ async function filterAndUpdateFeed() {
     });
 
     newItems.forEach(item => {
-      // If getContentLink is defined, find the first link in content that matches the base URL
-      let link = item.link;
-      if (item.getContentLink && item.content) {
-        const regex = new RegExp(`(${item.getContentLink}[^\s]+)`, 'g');
+    // If getContentLink is defined, find the first link in content that matches the base URL
+    let link = item.link;
+    if (item.getContentLink && item.content) {
+        // Improved regex to capture the full URL
+        const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
         const matches = item.content.match(regex);
         if (matches && matches.length > 0) {
-          link = matches[0];
+            link = matches[0];
         }
-      }
+    }
+    // Do something with the link
+    console.log(link);
+    });
 
       localFeed.rss.channel[0].item.push({
         title: [item.processedTitle || item.content],
