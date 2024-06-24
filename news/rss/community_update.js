@@ -4,7 +4,7 @@ const xml2js = require('xml2js');
 const feedUrls = require('./community_input'); // Adjust the path as necessary
 
 const parser = new Parser();
-const localFile = 'news/rss/test.xml'; // Correct path to your XML file
+const localFile = 'news/rss/community.xml'; // Correct path to your XML file
 
 async function fetchFeed(feedUrl) {
   try {
