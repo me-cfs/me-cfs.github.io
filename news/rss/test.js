@@ -16,12 +16,28 @@ async function fetchFeed(feedUrl) {
       exclusionWords: feedUrl.exclusionWords,
       inclusionWords: feedUrl.inclusionWords,
       undefinedTitle: feedUrl.undefinedTitle,
-      getContentLink: feedUrl.getContentLink
+      getContentLink: feedUrl.getContentLink,
+      titleHide: feedUrl.titleHide
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
     return [];
   }
+}
+
+function removeHiddenWords(title, titleHide) {
+  if (!titleHide || titleHide.length === 0) return title;
+
+  let processedTitle = title;
+  titleHide.forEach(word => {
+    const regex = new RegExp(`\\b${word}\\b`, 'gi'); // Match the whole word, case insensitive
+    processedTitle = processedTitle.replace(regex, '').trim();
+  });
+
+  // Clean up extra spaces
+  processedTitle = processedTitle.replace(/\s\s+/g, ' ');
+
+  return processedTitle;
 }
 
 const MAX_ITEMS = 500; // Maximum number of items to keep in the feed
@@ -62,20 +78,22 @@ async function filterAndUpdateFeed() {
         return false;
       }
 
-      const isExcluded = item.exclusionWords.some(word => title.toLowerCase().includes(word.toLowerCase())) ||
+      const processedTitle = removeHiddenWords(title, item.titleHide);
+
+      const isExcluded = item.exclusionWords.some(word => processedTitle.toLowerCase().includes(word.toLowerCase())) ||
         pubDate <= item.cutoffDate;
 
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
       if (isExcluded) {
-        console.log(`Excluding item due to exclusion words or cutoff date: ${item.title || item.content}`);
+        console.log(`Excluding item due to exclusion words or cutoff date: ${processedTitle}`);
       } else if (isDuplicate) {
-        console.log(`Excluding item due to duplication: ${item.title || item.content}`);
+        console.log(`Excluding item due to duplication: ${processedTitle}`);
       } else {
-        console.log(`Including item: ${item.title || item.content}`);
+        console.log(`Including item: ${processedTitle}`);
       }
 
-      item.processedTitle = title;
+      item.processedTitle = processedTitle;
       return !isExcluded && !isDuplicate;
     });
 
