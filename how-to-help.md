@@ -87,6 +87,7 @@ Contact your politician/reprsentative and tell them about your struggles with ME
 <details markdown="1">
   <summary>Places that advertise studies looking for Participants</summary>
 * Science for ME has a [collection of active studies looking for participants](https://www.s4me.info/forums/recruitment-into-current-me-cfs-research-studies.129/)
+* [Australian ME Registry](https://ausmeregistry.org)
 * Your local/national ME/CFS organisation will likely promote studies looking for volunteers; it can be useful to sign up to their newsletters or equivalent
 * [ME Research UK](https://www.meresearch.org.uk/research/volunteering/)
 </details>
