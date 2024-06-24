@@ -9,6 +9,7 @@ const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 // inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
 // undefinedTitle: "" If this var defined, and no title tag provided, this string replaces it
 // getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
+// titleHide: [] Contains strings that should be cut off from title
 
 const feedUrls = [
   { 
