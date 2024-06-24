@@ -6,13 +6,6 @@ const feedUrls = require('./community_input'); // Adjust the path as necessary
 const parser = new Parser();
 const localFile = 'news/rss/test.xml'; // Correct path to your XML file
 
-function getOneWeekAgoDate() {
-  const date = new Date();
-  date.setDate(date.getDate() - 7);
-  const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  return date.toLocaleDateString('en-US', options);
-}
-
 async function fetchFeed(feedUrl) {
   try {
     const feed = await parser.parseURL(feedUrl.url);
