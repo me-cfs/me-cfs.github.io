@@ -28,7 +28,7 @@ const feedUrls = [
   },
   { 
     url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', 
-    name: 'Trial By Error (Virology)', 
+    name: 'Trial By Error', 
     cutoffDate: new Date('2024-05-29'),
     titleHide: ["Trial By Error: "]
   },
