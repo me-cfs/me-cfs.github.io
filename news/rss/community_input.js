@@ -39,12 +39,6 @@ const feedUrls = [
     exclusionWords: []
   },
   { 
-    url: 'https://politepol.com/fd/jyPhRAUUwOqs.xml', 
-    name: 'Science for ME', 
-    cutoffDate: new Date('2024-05-30'),
-    exclusionWords: []
-  },
-  { 
     url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', 
     name: 'The Canary', 
     cutoffDate: new Date('2024-06-08'),
