@@ -3,6 +3,12 @@ function getCurrentTimestamp() {
     return new Date().toLocaleString('en-GB', options);
 }
 
+function getOneWeekAgoDate() {
+  const date = new Date();
+  date.setDate(date.getDate() - 7);
+  const options = { year: 'numeric', month: 'long', day: 'numeric' };
+  return date.toLocaleDateString('en-US', options);
+}
 
 function extractBaseUrl(url) {
     console.log(`Extracting base URL from: ${url}`);
@@ -58,4 +64,4 @@ function stripHtmlTags(html) {
     return tempDiv.textContent || tempDiv.innerText || '';
 }
 
-export {extractBaseUrl, decodeHtmlEntities, formatDate, stripHtmlTags };
+export {extractBaseUrl, decodeHtmlEntities, formatDate, stripHtmlTags, getOneWeekAgoDate };
