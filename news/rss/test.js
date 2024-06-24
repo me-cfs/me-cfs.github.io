@@ -13,11 +13,11 @@ async function fetchFeed(feedUrl) {
       ...item,
       source: feedUrl.name,
       cutoffDate: feedUrl.cutoffDate,
-      exclusionWords: feedUrl.exclusionWords,
-      inclusionWords: feedUrl.inclusionWords,
+      exclusionWords: feedUrl.exclusionWords || [],
+      inclusionWords: feedUrl.inclusionWords || [],
       undefinedTitle: feedUrl.undefinedTitle,
       getContentLink: feedUrl.getContentLink,
-      titleHide: feedUrl.titleHide
+      titleHide: feedUrl.titleHide || []
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
@@ -101,12 +101,12 @@ async function filterAndUpdateFeed() {
       // If getContentLink is defined, find the first link in content that matches the base URL
       let link = item.link;
       if (item.getContentLink && item.content) {
-          // Improved regex to capture the full URL
-          const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
-          const matches = item.content.match(regex);
-          if (matches && matches.length > 0) {
-              link = matches[0];
-          }
+        // Improved regex to capture the full URL
+        const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
+        const matches = item.content.match(regex);
+        if (matches && matches.length > 0) {
+          link = matches[0];
+        }
       }
       // Do something with the link
       console.log(link);
