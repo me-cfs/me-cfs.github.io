@@ -1,4 +1,5 @@
-import { getOneWeekAgoDate } from '/news/dev/utils.js';
+const { getOneWeekAgoDate } = require('/news/dev/utils.js');
+
 
 // feedUrls.js
 // url: "url" the URL of the RSS feed to import from
