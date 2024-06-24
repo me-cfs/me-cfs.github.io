@@ -109,7 +109,7 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
     const newItems = allFeedItems.filter(item => {
-      let title = item.title ? item.title.toLowerCase() : null;
+      let title = item.title ? item.title : null;
       const content = item.content ? item.content.toLowerCase() : '';
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
 
@@ -128,7 +128,7 @@ async function filterAndUpdateFeed() {
         return false;
       }
 
-      const isExcluded = item.exclusionWords.some(word => title.includes(word.toLowerCase())) ||
+      const isExcluded = item.exclusionWords.some(word => title.toLowerCase().includes(word.toLowerCase())) ||
         pubDate <= item.cutoffDate;
 
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
@@ -146,19 +146,18 @@ async function filterAndUpdateFeed() {
     });
 
     newItems.forEach(item => {
-    // If getContentLink is defined, find the first link in content that matches the base URL
-    let link = item.link;
-    if (item.getContentLink && item.content) {
-        // Improved regex to capture the full URL
-        const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
-        const matches = item.content.match(regex);
-        if (matches && matches.length > 0) {
-            link = matches[0];
-        }
-    }
-    // Do something with the link
-    console.log(link);
-    });
+      // If getContentLink is defined, find the first link in content that matches the base URL
+      let link = item.link;
+      if (item.getContentLink && item.content) {
+          // Improved regex to capture the full URL
+          const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
+          const matches = item.content.match(regex);
+          if (matches && matches.length > 0) {
+              link = matches[0];
+          }
+      }
+      // Do something with the link
+      console.log(link);
 
       localFeed.rss.channel[0].item.push({
         title: [item.processedTitle || item.content],
