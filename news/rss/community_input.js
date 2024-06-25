@@ -16,7 +16,6 @@ const feedUrls = [
     url: 'https://med-mastodon.com/@s4me.rss',
     name: 'Science for ME', 
     cutoffDate: new Date('2024-06-24'),
-    exclusionWords: [],
     inclusionWords: ['News in Brief'],
     undefinedTitle: 'News in Brief for the week beginning, ' + getOneWeekAgoDate(),
     getContentLink: 'https://www.s4me.info'
