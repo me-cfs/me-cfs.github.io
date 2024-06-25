@@ -36,19 +36,16 @@ const feedUrls = [
     url: 'https://politepol.com/fd/uu29e43WxMVl.xml', 
     name: 'ME/CFS Research Review', 
     cutoffDate: new Date('2024-05-30'),
-    exclusionWords: []
   },
   { 
     url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', 
     name: 'The Canary', 
     cutoffDate: new Date('2024-06-08'),
-    exclusionWords: []
   },
   { 
     url: 'https://politepol.com/fd/5l40hlTQDRT0.xml', 
     name: 'The Science Bit', 
     cutoffDate: new Date('2024-06-06'),
-    exclusionWords: []
   },
   { 
     url: 'https://www.healthrising.org/feed/', 
@@ -60,7 +57,6 @@ const feedUrls = [
     url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
     name: 'Thoughts about ME', 
     cutoffDate: new Date('2024-06-15'),
-    exclusionWords: []
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
