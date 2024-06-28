@@ -58,6 +58,11 @@ const feedUrls = [
     name: 'Thoughts about ME', 
     cutoffDate: new Date('2024-06-15'),
   },
+  {
+    name: 'ME/CFS Skeptic',
+    url: 'https://politepol.com/fd/GHk0kBtNHXGJ.xml',
+    cutoffDate: new Date('2024-06-29'),
+  },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
 
