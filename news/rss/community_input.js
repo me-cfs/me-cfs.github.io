@@ -2,8 +2,8 @@ const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 
 
 // feedUrls.js
-// url: "url" the URL of the RSS feed to import from
 // name: The name of the news source, displayed under title
+// url: "url" the URL of the RSS feed to import from
 // cutoffDate: Only consider items for import if newer than curoffDaye
 // exclusionWords: [] If any found in title, item excluded
 // inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
@@ -13,11 +13,11 @@ const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 
 const feedUrls = [
   { 
-    url: 'https://med-mastodon.com/@s4me.rss',
     name: 'Science for ME', 
+    url: 'https://med-mastodon.com/@s4me.rss',
     cutoffDate: new Date('2024-06-24'),
     inclusionWords: ['News in Brief'],
-    undefinedTitle: 'News in Brief for the week beginning, ' + getOneWeekAgoDate(),
+    undefinedTitle: 'News in Brief for the week of ' + getOneWeekAgoDate(),
     getContentLink: 'https://www.s4me.info'
   },
   { 
