@@ -48,10 +48,10 @@ const feedUrls = [
     cutoffDate: new Date('2024-06-06'),
   },
   { 
-    url: 'https://www.healthrising.org/feed/', 
     name: 'HealthRising', 
+    url: 'https://www.healthrising.org/feed/', 
     cutoffDate: new Date('2024-05-01'),
-    exclusionWords: ["Recovery", "Exercise Program", "Donation Drive"]
+    exclusionWords: ["Recovery", "Exercise Program", "Donation Drive", "Effort Preference"]
   },
   { 
     url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
