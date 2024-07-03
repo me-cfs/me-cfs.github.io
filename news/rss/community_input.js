@@ -10,6 +10,7 @@ const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 // undefinedTitle: "" If this var defined, and no title tag provided, this string replaces it
 // getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
 // titleHide: [] Contains strings that should be cut off from title
+// off: True/False If True, stops adding items from the feed
 
 const feedUrls = [
   { 
@@ -51,7 +52,8 @@ const feedUrls = [
     name: 'HealthRising', 
     url: 'https://www.healthrising.org/feed/', 
     cutoffDate: new Date('2024-05-01'),
-    exclusionWords: ["Recovery", "Exercise Program", "Donation Drive", "Effort Preference"]
+    exclusionWords: ["Recovery", "Exercise Program", "Donation Drive", "Effort Preference", "Caffeine"],
+    off: False,
   },
   { 
     url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
