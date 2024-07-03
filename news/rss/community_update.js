@@ -7,6 +7,11 @@ const parser = new Parser();
 const localFile = 'news/rss/community.xml'; // Correct path to your XML file
 
 async function fetchFeed(feedUrl) {
+  if (feedUrl.off) {
+    console.log(`Skipping feed ${feedUrl.url} because it is marked as off.`);
+    return [];
+  }
+
   try {
     const feed = await parser.parseURL(feedUrl.url);
     return feed.items.map(item => ({
