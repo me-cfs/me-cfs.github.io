@@ -19,6 +19,7 @@ module.exports = [
   {
     name: 'BBC News Australia Mentions',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
+    off: true,
   },
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
@@ -69,21 +70,26 @@ module.exports = [
   { 
     name: 'Climate Change - The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
+    off: true,
   },
   { 
     name: 'Fivethirtyeight',
     url: 'http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=14554755',
+    off: true,
   },
   { 
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business',
+    off: true,
   },
   { 
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
+    off: true,
   },
   { 
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
+    off: true,
   },
 ];
