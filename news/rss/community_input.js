@@ -12,7 +12,7 @@ const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 // titleHide: [] Contains strings that should be cut off from title
 // off: true/false If True, stops adding items from the feed
 
-const feedUrls = [
+module.exports = [
   { 
     name: 'Science for ME', 
     url: 'https://med-mastodon.com/@s4me.rss',
@@ -67,5 +67,3 @@ const feedUrls = [
   },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
-
-module.exports = feedUrls;
