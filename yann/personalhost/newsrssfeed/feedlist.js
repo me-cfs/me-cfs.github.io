@@ -23,19 +23,23 @@ module.exports = [
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
+    off: true,
   },
   { 
     name: 'Politico EUROPE', 
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
+    off: true,
   },
   { 
     name: 'Chapatte Dessins', 
     url: 'https://www.chappatte.com/images/feed/',
+    off: true,
   },
   { 
     name: 'Economist the World this Week', 
     url: 'https://www.economist.com/the-world-this-week/rss.xml', 
     titleReplace: [{original: 'Politics', replace: 'The world this week: Politics'}, {original: 'Business', replace: 'The world this week: Business'}],
+    off: true,
   },
   { 
     name: 'WorldPost (Huffington)',
@@ -45,18 +49,22 @@ module.exports = [
   { 
     name: 'Monbiot Guardian',
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
+    off: true,
   },
   {
     name: 'Krugman - NYT',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
+    off: true,
   },
   { 
     name: 'Economist',
     url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
+    off: true,
   },
   { 
     name: 'Healthcare - The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
+    off: true,
   },
   { 
     name: 'Climate Change - The Hill',
