@@ -1,3 +1,6 @@
+const { getOneWeekAgoDate } = require('../dev/node_utils.js');
+
+
 // feedUrls.js
 // name: The name of the news source, displayed under title
 // url: "url" the URL of the RSS feed to import from
@@ -9,60 +12,70 @@
 // titleHide: [] Contains strings that should be cut off from title
 // off: true/false If True, stops adding items from the feed
 
-const feedUrls = [
+module.export = [
   { 
-    name: 'Science for ME', 
-    url: 'https://med-mastodon.com/@s4me.rss',
-    cutoffDate: new Date('2024-06-24'),
-    inclusionWords: ['News in Brief'],
-    undefinedTitle: 'News in Brief for the week of ' + getOneWeekAgoDate(),
-    getContentLink: 'https://www.s4me.info'
-  },
-  { 
-    url: 'https://thesicktimes.org/feed/', 
-    name: 'The Sick Times', 
-    cutoffDate: new Date('2024-05-01'),
-    exclusionWords: ["National Covid-19 trends", "Research updates"]
-  },
-  { 
-    url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', 
-    name: 'Trial By Error', 
-    cutoffDate: new Date('2024-05-29'),
-    titleHide: ["Trial By Error: "]
-  },
-  { 
-    url: 'https://politepol.com/fd/uu29e43WxMVl.xml', 
-    name: 'ME/CFS Research Review', 
-    cutoffDate: new Date('2024-05-30'),
-  },
-  { 
-    url: 'http://fetchrss.com/rss/6663490de2588464cc0e7843666348e357063cb2e901eac3.xml', 
-    name: 'The Canary', 
-    cutoffDate: new Date('2024-06-08'),
-  },
-  { 
-    url: 'https://politepol.com/fd/5l40hlTQDRT0.xml', 
-    name: 'The Science Bit', 
-    cutoffDate: new Date('2024-06-06'),
-  },
-  { 
-    name: 'HealthRising', 
-    url: 'https://www.healthrising.org/feed/', 
-    cutoffDate: new Date('2024-05-01'),
-    exclusionWords: ["Recovery", "Exercise Program", "Donation Drive", "Effort Preference", "Caffeine"],
-    off: true,
-  },
-  { 
-    url: 'https://politepol.com/fd/lBx0N55ObPbU.xml', 
-    name: 'Thoughts about ME', 
-    cutoffDate: new Date('2024-06-15'),
+    name: 'Le Monde Grand Titres', 
+    url: 'https://politepol.com/fd/h1nNFk7PQ0iW.xml’,
   },
   {
-    name: 'ME/CFS Skeptic',
-    url: 'https://politepol.com/fd/GHk0kBtNHXGJ.xml',
-    cutoffDate: new Date('2024-06-29'),
+    name: 'BBC News - Australia Mentions’
+    url: ‘https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
   },
-  // Add more feeds with their respective cutoff dates and exclusion words as needed
+  { 
+    name: 'EURACTIV - Circular Economy Mentions', 
+    url: 'https://www.euractiv.com/sections/circular-economy/feed/‘,
+  },
+  { 
+    name: ‘Politico EUROPE', 
+    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
+  },
+  { 
+    name: 'Chapatte Dessins', 
+    url: ‘https://www.chappatte.com/images/feed/‘,
+  },
+  { 
+    name: 'Economist the World this Week', 
+    url: 'https://www.economist.com/the-world-this-week/rss.xml', 
+   titleReplace: [{original: ‘Politics’, replace: ‘The world this week: Politics'}, {original: 'Buisness', replace: 'The world this week: Buisness'}
+  },
+  { 
+    name: 'WorldPost (Huffington)’
+    url: 'http://www.huffingtonpost.com/feeds/verticals/world/index.xml’,
+  },
+  { 
+    name: ‘Monbiot - Guardian’,
+    url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss’,
+  },
+  {
+    name: 'Krugman - NYT',
+    url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
+  },
+{ 
+    name: ‘Economist’,
+    url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml’,
+  },
+{ 
+    name: ‘Healthcare - The Hill’,
+    url: 'https://thehill.com/policy/healthcare/feed/‘,
+  },
+{ 
+    name: ‘Climate Change - The Hill’,
+    url: 'https://thehill.com/social-tags/climate-change/feed/‘,
+  },
+{ 
+    name: ‘Fivethirtyeight’,
+    url: 'http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=14554755’,
+  },
+{ 
+    name: ‘Axios’,
+    url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business’,
+  },
+{ 
+    name: ‘BBC - Fiji’
+    url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml’
+  },
+{ 
+    name: ‘RTS Headlines’
+    url: 'https://www.rts.ch/info/suisse?format=rss/news’
+  },
 ];
-
-module.exports = feedUrls;
