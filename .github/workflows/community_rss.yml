@@ -23,6 +23,9 @@ jobs:
 
       - name: Run update script
         run: node news/rss/community_update.js
+        env:
+          FEED_CONFIG_PATH: './community_input.js'
+          LOCAL_FILE: 'news/rss/community.xml'
 
       - name: Commit and push changes if any
         run: |
@@ -36,6 +39,5 @@ jobs:
             git push
           else
             echo "No changes to commit"
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
