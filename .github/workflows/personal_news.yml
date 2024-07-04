@@ -25,7 +25,7 @@ jobs:
         run: node news/rss/community_update.js
         env:
           FEED_CONFIG_PATH: '../../yann/personalhost/newsrssfeed/feedlist.js'
-          LOCAL_FILE: '../../yann/personalhost/newsrssfeed/news.xml'
+          LOCAL_FILE: 'yann/personalhost/newsrssfeed/news.xml'
 
       - name: Configure Git
         run: |
