@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Long Covid News Mentions (Tracker)</title>
+    <link rel="stylesheet" type="text/css" href="/news/dev/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Long Covid News Mentions</h1>
+        <h2><a href="https://me-cfs.github.io" target="_blank">Yann’s ME/CFS Site</a></h2>
+    </header>
+    <div id="news-container">
+    </div>
+    <button id="load-more-button">Load More</button>
+    <footer>
+        <div class="footer-row">
+            <a href="https://me-cfs.github.io/news/community/" target="_blank">Community ME/LC News</a>
+            <a href="https://me-cfs.github.io/news/me/" target="_blank">ME News Mentions</a>
+            <a href="https://me-cfs.github.io/news/collection/mainstream.html" target="_blank">Mainstream News Collection</a>
+        </div>
+        <div class="footer-row">
+            <a href="https://me-cfs.github.io" target="_blank">Back to Mainpage</a>
+            <a href="https://me-cfs.github.io/useful-resources.html" target="_blank">ME Resources</a>
+            <a href="https://x.com/yann_mecfs" target="_blank">Twitter</a>
+        </div>
+    </footer>
+    <script>
+    rssFeed = 'https://me-cfs.github.io/yann/personalhost/rssnews/news.xml'
+    useBaseUrl = true;
+    </script>
+    <script type="module" src="/news/dev/rss_to_html.js"></script>
+</body>
+</html>
