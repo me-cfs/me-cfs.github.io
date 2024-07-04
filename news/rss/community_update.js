@@ -86,7 +86,7 @@ async function filterAndUpdateFeed() {
       const processedTitle = removeHiddenWords(title, item.titleHide);
 
       const isExcluded = item.exclusionWords.some(word => processedTitle.toLowerCase().includes(word.toLowerCase())) ||
-        pubDate <= item.cutoffDate;
+        (item.cutoffDate && pubDate <= item.cutoffDate);
 
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
