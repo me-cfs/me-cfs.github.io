@@ -1,10 +1,13 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 const xml2js = require('xml2js');
-const feedUrls = require('./community_input'); // Adjust the path as necessary
 
 const parser = new Parser();
-const localFile = 'news/rss/community.xml'; // Correct path to your XML file
+
+// Dynamically load configuration based on an environment variable
+const feedConfigPath = process.env.FEED_CONFIG_PATH;
+const feedUrls = require(feedConfigPath);
+const localFile = process.env.LOCAL_FILE;
 
 async function fetchFeed(feedUrl) {
   if (feedUrl.off) {
@@ -56,7 +59,7 @@ async function filterAndUpdateFeed() {
       const localData = fs.readFileSync(localFile, 'utf8');
       localFeed = await xml2js.parseStringPromise(localData);
     } else {
-      localFeed = { rss: { channel: [ { item: [] } ] } };
+      localFeed = { rss: { channel: [{ item: [] }] } };
     }
 
     if (!localFeed.rss) localFeed.rss = {};
