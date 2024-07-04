@@ -98,7 +98,11 @@ async function filterAndUpdateFeed() {
       } else if (isDuplicate) {
         console.log(`Excluding item due to duplication: ${processedTitle}`);
       } else {
+        if (typeof processedTitle === 'string') {
         console.log(`Including item: ${processedTitle}`);
+      } else {
+        console.log(`processedTitle is not a valid string.`);
+       }
       }
 
       item.processedTitle = processedTitle;
