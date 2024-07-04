@@ -18,7 +18,7 @@ module.export = [
     url: 'https://politepol.com/fd/h1nNFk7PQ0iW.xml’,
   },
   {
-    name: 'BBC News - Australia Mentions’
+    name: 'BBC News Australia Mentions’,
     url: ‘https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
   },
   { 
@@ -36,14 +36,14 @@ module.export = [
   { 
     name: 'Economist the World this Week', 
     url: 'https://www.economist.com/the-world-this-week/rss.xml', 
-   titleReplace: [{original: ‘Politics’, replace: ‘The world this week: Politics'}, {original: 'Buisness', replace: 'The world this week: Buisness'}
+   titleReplace: [{original: ‘Politics’, replace: ‘The world this week: Politics'}, {original: 'Buisness', replace: 'The world this week: Buisness'}],
   },
   { 
-    name: 'WorldPost (Huffington)’
+    name: 'WorldPost (Huffington)’,
     url: 'http://www.huffingtonpost.com/feeds/verticals/world/index.xml’,
   },
   { 
-    name: ‘Monbiot - Guardian’,
+    name: ‘Monbiot Guardian’,
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss’,
   },
   {
@@ -71,11 +71,11 @@ module.export = [
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business’,
   },
 { 
-    name: ‘BBC - Fiji’
-    url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml’
+    name: ‘BBC - Fiji’,
+    url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml’,
   },
 { 
-    name: ‘RTS Headlines’
-    url: 'https://www.rts.ch/info/suisse?format=rss/news’
+    name: ‘RTS Headlines’,
+    url: 'https://www.rts.ch/info/suisse?format=rss/news’,
   },
 ];
