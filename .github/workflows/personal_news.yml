@@ -24,8 +24,8 @@ jobs:
       - name: Run update script
         run: node news/rss/community_update.js
         env:
-          FEED_CONFIG_PATH: '/yann/personalhost/newsrssfeed/feedlist.js'
-          LOCAL_FILE: '/yann/personalhost/newsrssfeed/news.xml'
+          FEED_CONFIG_PATH: '../../yann/personalhost/newsrssfeed/feedlist.js'
+          LOCAL_FILE: '../../yann/personalhost/newsrssfeed/news.xml'
 
       - name: Configure Git
         run: |
@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push changes if any
         run: |
-          git add news/rss/community.xml
+          git add yann/personalhost/newsrssfeed/news.xml
 
           # Check for changes and commit if there are any
           if git diff --cached --quiet; then
