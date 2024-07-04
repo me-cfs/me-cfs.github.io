@@ -40,6 +40,7 @@ module.exports = [
   { 
     name: 'WorldPost (Huffington)',
     url: 'http://www.huffingtonpost.com/feeds/verticals/world/index.xml',
+    off: true,
   },
   { 
     name: 'Monbiot Guardian',
