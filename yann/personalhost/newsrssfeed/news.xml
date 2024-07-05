@@ -1,8 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0">
-<channel>
-<title>ME/LC Community News</title>
-<link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
-<description></description>
-</channel>
+  <channel>
+    <title>ME/LC Community News</title>
+    <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
+    <description/>
+    <item>
+      <title>Comment le RN s’est retrouvé aux portes du pouvoir</title>
+      <link>https://www.lemonde.fr/politique/article/2024/07/05/comment-le-rassemblement-national-s-est-retrouve-aux-portes-du-pouvoir_6246980_823448.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/politique/article/2024/07/05/comment-le-rassemblement-national-s-est-retrouve-aux-portes-du-pouvoir_6246980_823448.html</guid>
+      <pubDate>Fri, 05 Jul 2024 10:28:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>« Barbouzeries » autour du PSG : « c’est un film hollywoodien », dénonce Nasser Al-Khelaïfi</title>
+      <link>https://www.lemonde.fr/societe/article/2024/07/05/barbouzeries-autour-du-psg-c-est-un-film-hollywoodien-denonce-nasser-al-khelaifi_6247171_3224.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/societe/article/2024/07/05/barbouzeries-autour-du-psg-c-est-un-film-hollywoodien-denonce-nasser-al-khelaifi_6247171_3224.html</guid>
+      <pubDate>Fri, 05 Jul 2024 10:13:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Israël accapare la plus vaste étendue de terres en Cisjordanie depuis trois décennies</title>
+      <link>https://www.lemonde.fr/international/article/2024/07/05/israel-accapare-la-plus-vaste-etendue-de-terres-en-cisjordanie-depuis-trois-decennies_6247176_3210.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/international/article/2024/07/05/israel-accapare-la-plus-vaste-etendue-de-terres-en-cisjordanie-depuis-trois-decennies_6247176_3210.html</guid>
+      <pubDate>Fri, 05 Jul 2024 09:58:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Le futur premier ministre britannique Keir Starmer promet un « renouveau national » après la victoire des travaillistes</title>
+      <link>https://www.lemonde.fr/international/article/2024/07/05/keir-starmer-futur-premier-ministre-britannique-promet-un-renouveau-national-apres-la-victoire-des-travaillistes_6247152_3210.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/international/article/2024/07/05/keir-starmer-futur-premier-ministre-britannique-promet-un-renouveau-national-apres-la-victoire-des-travaillistes_6247152_3210.html</guid>
+      <pubDate>Fri, 05 Jul 2024 09:43:33 -0000</pubDate>
+    </item>
+  </channel>
 </rss>
