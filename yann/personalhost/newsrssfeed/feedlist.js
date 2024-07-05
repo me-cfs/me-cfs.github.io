@@ -55,12 +55,12 @@ module.exports = [
   {
     name: 'Krugman - NYT',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
-    off: false,
+    off: true,
   },
   { 
     name: 'Economist',
     url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
-    off: false,
+    off: true,
   },
   { 
     name: 'Healthcare - The Hill',
