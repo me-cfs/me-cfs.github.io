@@ -112,10 +112,10 @@ async function filterAndUpdateFeed() {
         console.log(`Excluding item due to duplication: ${processedTitle}`);
       } else {
         if (typeof processedTitle === 'string') {
-        console.log(`Including item: ${processedTitle}`);
-      } else {
-        console.log(`processedTitle is not a valid string.`);
-       }
+          console.log(`Including item: ${processedTitle}`);
+        } else {
+          console.log(`processedTitle is not a valid string.`);
+        }
       }
 
       item.processedTitle = processedTitle;
@@ -133,8 +133,11 @@ async function filterAndUpdateFeed() {
           link = matches[0];
         }
       }
-      // Do something with the link
-      console.log(link);
+      // Ensure link is not null or empty
+      if (!link || typeof link !== 'string' || link.trim() === '') {
+        console.error(`Invalid link for item with title "${item.title}":`, link);
+        return;
+      }
 
       localFeed.rss.channel[0].item.push({
         title: [item.processedTitle || item.content],
