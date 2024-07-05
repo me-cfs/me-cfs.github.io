@@ -54,6 +54,19 @@ async function filterAndUpdateFeed() {
   try {
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
 
+    // Deduplicate items based on GUID
+    const uniqueFeedItems = [];
+    const guidSet = new Set();
+
+    allFeedItems.forEach(item => {
+      if (!guidSet.has(item.guid)) {
+        guidSet.add(item.guid);
+        uniqueFeedItems.push(item);
+      } else {
+        console.log(`Removing duplicate item with GUID: ${item.guid}`);
+      }
+    });
+
     let localFeed;
     if (fs.existsSync(localFile)) {
       const localData = fs.readFileSync(localFile, 'utf8');
@@ -66,7 +79,7 @@ async function filterAndUpdateFeed() {
     if (!localFeed.rss.channel) localFeed.rss.channel = [{}];
     if (!localFeed.rss.channel[0].item) localFeed.rss.channel[0].item = [];
 
-    const newItems = allFeedItems.filter(item => {
+    const newItems = uniqueFeedItems.filter(item => {
       let title = item.title ? item.title : null;
       const content = item.content ? item.content.toLowerCase() : '';
       const pubDate = item.pubDate ? new Date(item.pubDate) : null;
