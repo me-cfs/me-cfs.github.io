@@ -59,6 +59,7 @@ async function loadFeeds() {
         const title = document.createElement('h2');
         const link = document.createElement('a');
         link.href = item.link;
+        link.target = '_blank'; // Open link in a new tab
         link.textContent = stripHtmlTags(item.title);
         title.appendChild(link);
         
