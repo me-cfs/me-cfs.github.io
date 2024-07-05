@@ -65,12 +65,12 @@ module.exports = [
   { 
     name: 'Healthcare - The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
-    off: true,
+    off: false,
   },
   { 
     name: 'Climate Change - The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
-    off: true,
+    off: false,
   },
   { 
     name: 'Fivethirtyeight',
