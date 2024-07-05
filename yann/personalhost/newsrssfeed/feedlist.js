@@ -75,7 +75,7 @@ module.exports = [
   { 
     name: 'Fivethirtyeight',
     url: 'http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=14554755',
-    off: true,
+    off: false,
   },
   { 
     name: 'Axios',
@@ -85,7 +85,7 @@ module.exports = [
   { 
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
-    off: true,
+    off: false,
   },
   { 
     name: 'RTS Headlines',
