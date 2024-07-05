@@ -55,7 +55,7 @@ module.exports = [
   {
     name: 'Krugman - NYT',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
-    off: true,
+    off: false,
   },
   { 
     name: 'Economist',
