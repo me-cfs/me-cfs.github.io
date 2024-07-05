@@ -19,17 +19,17 @@ module.exports = [
   {
     name: 'BBC News Australia Mentions',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
-    off: true,
+    off: false,
   },
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
-    off: true,
+    off: false,
   },
   { 
     name: 'Politico EUROPE', 
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
-    off: true,
+    off: false,
   },
   { 
     name: 'Chapatte Dessins', 
