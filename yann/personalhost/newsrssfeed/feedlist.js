@@ -85,7 +85,7 @@ module.exports = [
   { 
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
-    off: false,
+    off: true,
   },
   { 
     name: 'RTS Headlines',
