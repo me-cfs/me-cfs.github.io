@@ -14,7 +14,7 @@
 module.exports = [
   { 
     name: 'Le Monde Grand Titres', 
-    url: 'https://politepol.com/fd/h1nNFk7PQ0iW.xml',
+    url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
     exclusionWords: ['Tour de France']
   },
   {
