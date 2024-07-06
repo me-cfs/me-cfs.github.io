@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Faster spreading strain of mpox raises alarm in Congo</title>
+      <link>https://thehill.com/policy/healthcare/4754825-mpox-strain-spreads-drc/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4754825</guid>
+      <pubDate>Sat, 06 Jul 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Le Burkina Faso, le Mali et le Niger s’unissent au sein d’une « Confédération des Etats du Sahel »</title>
       <link>https://www.lemonde.fr/afrique/article/2024/07/06/le-burkina-faso-le-mali-et-le-niger-s-unissent-au-sein-d-une-confederation-des-etats-du-sahel_6247402_3212.html</link>
       <author>Le Monde Grand Titres</author>
@@ -1441,14 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/03/fda-brominated-vegetable-oil-ban-food-additives-ban</guid>
       <pubDate>Wed, 03 Jul 2024 05:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Starmer will have to walk a US-China tightrope					</title>
-      <link>https://www.politico.eu/article/keir-starmer-labour-party-united-states-china-donald-trump-trade-economy/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/keir-starmer-labour-party-united-states-china-donald-trump-trade-economy/</guid>
-      <pubDate>Wed, 03 Jul 2024 05:11:03 -0000</pubDate>
     </item>
   </channel>
 </rss>
