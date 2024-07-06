@@ -32,8 +32,9 @@ function getOneWeekAgoDate() {
   return dateString.replace(day, day + suffix);
 }
 
-// utils.js
 function removeHiddenWords(title, titleHide) {
+  if (typeof title !== 'string') return '';
+
   if (!titleHide || titleHide.length === 0) return title;
 
   let processedTitle = title;
