@@ -8,6 +8,7 @@ const parser = new Parser();
 const feedConfigPath = process.env.FEED_CONFIG_PATH;
 const feedUrls = require(feedConfigPath);
 const localFile = process.env.LOCAL_FILE;
+const MAX_ITEMS = process.env.MAX_ITEMS; 
 
 async function fetchFeed(feedUrl) {
   if (feedUrl.off) {
@@ -47,8 +48,6 @@ function removeHiddenWords(title, titleHide) {
 
   return processedTitle;
 }
-
-const MAX_ITEMS = 500; // Maximum number of items to keep in the feed
 
 async function filterAndUpdateFeed() {
   try {
