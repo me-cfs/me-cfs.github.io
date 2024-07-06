@@ -32,7 +32,24 @@ function getOneWeekAgoDate() {
   return dateString.replace(day, day + suffix);
 }
 
+// utils.js
+function removeHiddenWords(title, titleHide) {
+  if (!titleHide || titleHide.length === 0) return title;
+
+  let processedTitle = title;
+  titleHide.forEach(word => {
+    const regex = new RegExp(`\\b${word}\\b`, 'gi'); // Match the whole word, case insensitive
+    processedTitle = processedTitle.replace(regex, '').trim();
+  });
+
+  // Clean up extra spaces
+  processedTitle = processedTitle.replace(/\s\s+/g, ' ');
+
+  return processedTitle;
+}
+
 module.exports = {
   getOneWeekAgoDate,
+  removeHiddenWords,
   // Other exports if needed
 };
