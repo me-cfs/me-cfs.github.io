@@ -34,7 +34,7 @@ module.exports = [
   { 
     name: 'Chapatte Dessins', 
     url: 'https://www.chappatte.com/images/feed/',
-    off: true,
+    off: false,
   },
   { 
     name: 'Economist the World this Week', 
