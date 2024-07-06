@@ -15,6 +15,7 @@ module.exports = [
   { 
     name: 'Le Monde Grand Titres', 
     url: 'https://politepol.com/fd/h1nNFk7PQ0iW.xml',
+    exclusionWords: ['Tour de France']
   },
   {
     name: 'BBC News Australia Mentions',
@@ -40,7 +41,7 @@ module.exports = [
     name: 'Economist the World this Week', 
     url: 'https://www.economist.com/the-world-this-week/rss.xml', 
     titleReplace: [{original: 'Politics', replace: 'The world this week: Politics'}, {original: 'Business', replace: 'The world this week: Business'}],
-    off: true,
+    off: false,
   },
   { 
     name: 'WorldPost (Huffington)',
