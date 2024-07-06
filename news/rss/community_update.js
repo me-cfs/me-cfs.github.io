@@ -8,7 +8,7 @@ const parser = new Parser();
 const feedConfigPath = process.env.FEED_CONFIG_PATH;
 const feedUrls = require(feedConfigPath);
 const localFile = process.env.LOCAL_FILE;
-const MAX_ITEMS = process.env.MAX_ITEMS; 
+const MAX_ITEMS = parseInt(process.env.MAX_ITEMS, 10);
 
 async function fetchFeed(feedUrl) {
   if (feedUrl.off) {
