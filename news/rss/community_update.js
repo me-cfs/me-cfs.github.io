@@ -1,7 +1,7 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 const xml2js = require('xml2js');
-const { removeHiddenWords } = require('../utils'); // Import the function
+const { removeHiddenWords } = require('../dev/node_utils.js'); // Import the function
 
 const parser = new Parser();
 
