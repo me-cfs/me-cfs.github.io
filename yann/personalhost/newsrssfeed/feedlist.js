@@ -91,6 +91,6 @@ module.exports = [
   { 
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
-    off: true,
+    off: false,
   },
 ];
