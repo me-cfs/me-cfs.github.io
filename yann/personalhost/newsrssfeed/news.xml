@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>8.5 million watched Biden's ABC News interview</title>
+      <link>https://www.axios.com/2024/07/06/biden-abc-interview-ratings</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/06/biden-abc-interview-ratings</guid>
+      <pubDate>Sat, 06 Jul 2024 18:43:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump wins delay in classified documents case</title>
       <link>https://www.axios.com/2024/07/06/donald-trump-classified-documents-delay</link>
       <author>Axios</author>
@@ -1441,13 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/03/hottest-summer-destinations-travel</guid>
       <pubDate>Wed, 03 Jul 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fears for Australian child missing after croc attack</title>
-      <link>https://www.bbc.com/news/articles/c3gvregg7wxo</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c3gvregg7wxo#0</guid>
-      <pubDate>Wed, 03 Jul 2024 06:33:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
