@@ -61,7 +61,7 @@ module.exports = [
   { 
     name: 'Economist',
     url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
-    off: true,
+    off: false,
   },
   { 
     name: 'Healthcare - The Hill',
