@@ -26,6 +26,7 @@ jobs:
         env:
           FEED_CONFIG_PATH: './community_input.js'
           LOCAL_FILE: 'news/rss/community.xml'
+          MAX_ITEMS: 500
 
       - name: Configure Git
         run: |
