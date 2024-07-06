@@ -1,6 +1,7 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 const xml2js = require('xml2js');
+const { removeHiddenWords } = require('../utils'); // Import the function
 
 const parser = new Parser();
 
@@ -32,21 +33,6 @@ async function fetchFeed(feedUrl) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
     return [];
   }
-}
-
-function removeHiddenWords(title, titleHide) {
-  if (!titleHide || titleHide.length === 0) return title;
-
-  let processedTitle = title;
-  titleHide.forEach(word => {
-    const regex = new RegExp(`\\b${word}\\b`, 'gi'); // Match the whole word, case insensitive
-    processedTitle = processedTitle.replace(regex, '').trim();
-  });
-
-  // Clean up extra spaces
-  processedTitle = processedTitle.replace(/\s\s+/g, ' ');
-
-  return processedTitle;
 }
 
 async function filterAndUpdateFeed() {
@@ -106,9 +92,9 @@ async function filterAndUpdateFeed() {
       const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
       if (isExcluded) {
-        console.log(`Excluding item due to exclusion words or cutoff date: ${processedTitle}`);
+        console.log(`Excluding item due to exclusion words or cutoff date: ${String(processedTitle)}`);
       } else if (isDuplicate) {
-        console.log(`Excluding item due to duplication: ${processedTitle}`);
+        console.log(`Excluding item due to duplication: ${String(processedTitle)}`);
       } else {
         if (typeof processedTitle === 'string') {
           console.log(`Including item: ${processedTitle}`);
