@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump wins delay in classified documents case</title>
+      <link>https://www.axios.com/2024/07/06/donald-trump-classified-documents-delay</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/06/donald-trump-classified-documents-delay</guid>
+      <pubDate>Sat, 06 Jul 2024 18:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Faster spreading strain of mpox raises alarm in Congo</title>
       <link>https://thehill.com/policy/healthcare/4754825-mpox-strain-spreads-drc/</link>
       <author>Healthcare - The Hill</author>
@@ -1441,13 +1448,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/c3gvregg7wxo#0</guid>
       <pubDate>Wed, 03 Jul 2024 06:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA to ban additive used in sodas due to health concerns</title>
-      <link>https://www.axios.com/2024/07/03/fda-brominated-vegetable-oil-ban-food-additives-ban</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/03/fda-brominated-vegetable-oil-ban-food-additives-ban</guid>
-      <pubDate>Wed, 03 Jul 2024 05:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
