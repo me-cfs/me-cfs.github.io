@@ -26,6 +26,7 @@ jobs:
         env:
           FEED_CONFIG_PATH: '../../yann/personalhost/newsrssfeed/feedlist.js'
           LOCAL_FILE: 'yann/personalhost/newsrssfeed/news.xml'
+          MAX_ITEMS: 200
 
       - name: Configure Git
         run: |
