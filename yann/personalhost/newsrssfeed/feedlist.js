@@ -46,7 +46,7 @@ module.exports = [
   },
   { 
     name: 'WorldPost (Huffington)',
-    url: 'http://www.huffingtonpost.com/feeds/verticals/world/index.xml',
+    url: 'http://www.huffingtonpost.com/feeds/verticals/world/news.xml',
     off: false,
     // RSS feed seems not to work
   },
@@ -96,5 +96,9 @@ module.exports = [
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
+  },
+  { 
+    name: 'ME/LC News',
+    url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
 ];
