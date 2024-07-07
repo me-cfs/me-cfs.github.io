@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						France election results 2024: Who is winning across the country					</title>
+      <link>https://www.politico.eu/article/france-election-results-2024-map-constituencies-emmanuel-macron-marine-le-pen-live-new-popular-front-national-rally/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/france-election-results-2024-map-constituencies-emmanuel-macron-marine-le-pen-live-new-popular-front-national-rally/</guid>
+      <pubDate>Sun, 07 Jul 2024 14:06:26 -0000</pubDate>
+    </item>
+    <item>
       <title>Amy Coney Barrett makes her mark</title>
       <link>https://www.axios.com/2024/07/07/supreme-court-amy-coney-barrett-trump-immunity</link>
       <author>Axios</author>
@@ -1455,13 +1463,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4754808</guid>
       <pubDate>Wed, 03 Jul 2024 22:19:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consensus grows among Congress' fuming Democrats that Biden should "step aside"</title>
-      <link>https://www.axios.com/2024/07/03/house-democrats-biden-jeffries-withdraw</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/03/house-democrats-biden-jeffries-withdraw</guid>
-      <pubDate>Wed, 03 Jul 2024 21:56:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
