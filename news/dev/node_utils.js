@@ -49,8 +49,33 @@ function removeHiddenWords(title, titleHide) {
   return processedTitle;
 }
 
+async function fetchFeed(feedUrl) {
+  if (feedUrl.off) {
+    console.log(`Skipping feed ${feedUrl.url} because it is marked as off.`);
+    return [];
+  }
+
+  try {
+    const feed = await parser.parseURL(feedUrl.url);
+    return feed.items.map(item => ({
+      ...item,
+      source: feedUrl.name,
+      cutoffDate: feedUrl.cutoffDate,
+      exclusionWords: feedUrl.exclusionWords || [],
+      inclusionWords: feedUrl.inclusionWords || [],
+      undefinedTitle: feedUrl.undefinedTitle,
+      getContentLink: feedUrl.getContentLink,
+      titleHide: feedUrl.titleHide || []
+    }));
+  } catch (error) {
+    console.error(`Error fetching feed ${feedUrl.url}:`, error);
+    return [];
+  }
+}
+
 module.exports = {
   getOneWeekAgoDate,
   removeHiddenWords,
+  fetchFeed,
   // Other exports if needed
 };
