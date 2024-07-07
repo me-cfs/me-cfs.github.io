@@ -48,7 +48,6 @@ module.exports = [
     name: 'WorldPost (Huffington)',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    // RSS feed seems not to work
   },
   { 
     name: 'Monbiot Guardian',
@@ -85,6 +84,7 @@ module.exports = [
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business',
     off: false,
+    exclusionWords: ['Hurricane', 'Tropical Storm'],
   },
   { 
     name: 'BBC - Fiji',
