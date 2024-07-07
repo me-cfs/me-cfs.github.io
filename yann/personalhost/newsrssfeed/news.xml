@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En direct : le taux de participation pour le second tour des élections législatives atteint 59,71 % à 17 heures</title>
+      <link>https://www.lemonde.fr/politique/live/2024/07/07/en-direct-legislatives-2024-le-taux-de-participation-pour-le-second-tour-atteint-59-71-a-17-heures_6247441_823448.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/politique/live/2024/07/07/en-direct-legislatives-2024-le-taux-de-participation-pour-le-second-tour-atteint-59-71-a-17-heures_6247441_823448.html</guid>
+      <pubDate>Sun, 07 Jul 2024 15:24:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Sen. Rubio tries to distance Trump from Project 2025</title>
+      <link>https://www.axios.com/2024/07/07/rubio-trump-distance-project-2025</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/07/rubio-trump-distance-project-2025</guid>
+      <pubDate>Sun, 07 Jul 2024 15:12:14 +0000</pubDate>
+    </item>
+    <item>
       <title>France Votes In Key Election That Could Force Macron To Share Power With Far Right</title>
       <link>https://www.huffpost.com/entry/france-election-second-round_n_668a7b30e4b03682cba6809c</link>
       <author>WorldPost (Huffington)</author>
@@ -1446,20 +1460,6 @@
       <author>RTS Headlines</author>
       <guid>28559634</guid>
       <pubDate>Thu, 04 Jul 2024 06:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Body found in search for child missing in croc attack</title>
-      <link>https://www.bbc.com/news/articles/c729d8e0r09o</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c729d8e0r09o#0</guid>
-      <pubDate>Thu, 04 Jul 2024 04:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>It’s 2024, and yet there’s still no general election for ‘ME’</title>
-      <link>https://www.thecanary.co/opinion/2024/07/03/long-covid-general-election/</link>
-      <author>ME/LC News</author>
-      <guid>https://www.thecanary.co/opinion/2024/07/03/long-covid-general-election/</guid>
-      <pubDate>Thu, 04 Jul 2024 04:07:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
