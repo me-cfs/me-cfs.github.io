@@ -46,7 +46,7 @@ module.exports = [
   },
   { 
     name: 'WorldPost (Huffington)',
-    url: 'http://www.huffingtonpost.com/feeds/verticals/world/news.xml',
+    url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
     // RSS feed seems not to work
   },
