@@ -1,7 +1,7 @@
 const Parser = require('rss-parser');
 const fs = require('fs');
 const xml2js = require('xml2js');
-const { removeHiddenWords } = require('../dev/node_utils.js'); // Import the function
+const { removeHiddenWords, fetchFeed } = require('../dev/node_utils.js'); // Import the function
 
 const parser = new Parser();
 
@@ -10,30 +10,6 @@ const feedConfigPath = process.env.FEED_CONFIG_PATH;
 const feedUrls = require(feedConfigPath);
 const localFile = process.env.LOCAL_FILE;
 const MAX_ITEMS = parseInt(process.env.MAX_ITEMS, 10);
-
-async function fetchFeed(feedUrl) {
-  if (feedUrl.off) {
-    console.log(`Skipping feed ${feedUrl.url} because it is marked as off.`);
-    return [];
-  }
-
-  try {
-    const feed = await parser.parseURL(feedUrl.url);
-    return feed.items.map(item => ({
-      ...item,
-      source: feedUrl.name,
-      cutoffDate: feedUrl.cutoffDate,
-      exclusionWords: feedUrl.exclusionWords || [],
-      inclusionWords: feedUrl.inclusionWords || [],
-      undefinedTitle: feedUrl.undefinedTitle,
-      getContentLink: feedUrl.getContentLink,
-      titleHide: feedUrl.titleHide || []
-    }));
-  } catch (error) {
-    console.error(`Error fetching feed ${feedUrl.url}:`, error);
-    return [];
-  }
-}
 
 async function filterAndUpdateFeed() {
   try {
