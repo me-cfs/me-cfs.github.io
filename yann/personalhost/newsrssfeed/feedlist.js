@@ -15,12 +15,13 @@ module.exports = [
   { 
     name: 'Le Monde Grand Titres', 
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
-    exclusionWords: ['Tour de France']
+    exclusionWords: ['Tour de France'],
   },
   {
     name: 'BBC News Australia Mentions',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
     off: false,
+    exclusionWords: ['assault', 'rape'],
   },
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
@@ -89,6 +90,7 @@ module.exports = [
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
+    exclusionWords: ['assault', 'rape'],
   },
   { 
     name: 'RTS Headlines',
