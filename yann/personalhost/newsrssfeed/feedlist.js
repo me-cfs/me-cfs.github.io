@@ -93,7 +93,7 @@ module.exports = [
   },
   { 
     name: 'Axios',
-    url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business',
+    url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
     off: false,
     exclusionWords: ['Hurricane', 'Tropical Storm',
       'Paramount', 'Skydance', 'Fact Check: Biden',
