@@ -78,17 +78,13 @@ async function filterAndUpdateFeed() {
       }
 
       // URL Blacklist check
-      console.log('Made it to blacklist check');
       if (item.urlBlacklist && item.urlBlacklist.length > 0) {
         const itemBaseUrl = extractBaseUrl(item.link);
         const isBlacklisted = item.urlBlacklist.some(blacklistedUrl => itemBaseUrl.includes(blacklistedUrl));
-        console.log('this item has a corresponding blacklist');
         if (isBlacklisted) {
           console.log(`Excluding item due to blacklisted URL: ${item.link}`);
           return false;
-        } else {
-          console.log('Item with baseUrl: ${itemBaseUrl} is included due to url not being blacklisted');
-        }
+        } 
       }
 
       item.processedTitle = processedTitle;
