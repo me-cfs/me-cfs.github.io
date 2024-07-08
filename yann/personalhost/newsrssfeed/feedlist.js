@@ -1,15 +1,25 @@
-
-
 // feedUrls.js
+
+// Basic Info
 // name: The name of the news source, displayed under title
 // url: "url" the URL of the RSS feed to import from
+// off: true/false If True, stops adding items from the feed
+
+// Date
 // cutoffDate: Only consider items for import if newer than curoffDate
+
+// Title
 // exclusionWords: [] If any found in title, item excluded
 // inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
 // undefinedTitle: "" If this var defined, and no title tag provided, this string replaces it
-// getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
 // titleHide: [] Contains strings that should be cut off from title
-// off: true/false If True, stops adding items from the feed
+
+// Contents
+// inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
+// getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
+
+// Link
+// getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
 // urlBlacklist: [] if any base urls here match with item link, item not included
 
 module.exports = [
