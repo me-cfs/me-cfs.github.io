@@ -1,11 +1,9 @@
-const Parser = require('rss-parser');
+// Importa
 const fs = require('fs');
 const xml2js = require('xml2js');
 const { removeHiddenWords, fetchFeed } = require('../dev/node_utils.js'); // Import the function
 
-const parser = new Parser();
-
-// Dynamically load configuration based on an environment variable
+// Environment (YAML) predefined variables
 const feedConfigPath = process.env.FEED_CONFIG_PATH;
 const feedUrls = require(feedConfigPath);
 const localFile = process.env.LOCAL_FILE;
