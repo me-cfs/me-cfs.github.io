@@ -1,5 +1,6 @@
 // utils file in node.js export language -- urgh JS is confusing
-
+const Parser = require('rss-parser');
+const parser = new Parser();
 
 function getOneWeekAgoDate() {
   const date = new Date();
