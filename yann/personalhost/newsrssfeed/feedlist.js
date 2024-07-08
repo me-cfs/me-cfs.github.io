@@ -84,7 +84,9 @@ module.exports = [
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business',
     off: false,
-    exclusionWords: ['Hurricane', 'Tropical Storm'],
+    exclusionWords: ['Hurricane', 'Tropical Storm',
+      'Paramount', 'Skydance',
+    ],
   },
   { 
     name: 'BBC - Fiji',
