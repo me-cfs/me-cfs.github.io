@@ -86,6 +86,9 @@ async function filterAndUpdateFeed() {
           console.log(`Excluding item due to blacklisted URL: ${item.link}`);
           return false;
         }
+        else {
+          console.log('Item with baseUrl: {itemBaseUrl} is included due to url not being blacklisted');
+        }
       }
 
       item.processedTitle = processedTitle;
