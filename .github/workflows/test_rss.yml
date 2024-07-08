@@ -1,4 +1,4 @@
-name: TEST RSS
+name: Test RSS
 
 on:
   # schedule:
@@ -11,12 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false # Important to disable default token usage
+        uses: actions/checkout@v2
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v2
         with:
           node-version: '16'
 
@@ -24,20 +22,27 @@ jobs:
         run: npm install rss-parser xml2js
 
       - name: Run update script
-        run: node news/rss/test.js
+        run: node news/rss/community_update.js
+        env:
+          FEED_CONFIG_PATH: '../../yann/personalhost/newsrssfeed/feedlist.js'
+          LOCAL_FILE: 'news/rss/test.xml'
+          MAX_ITEMS: 50
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
       - name: Commit and push changes if any
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
           git add news/rss/test.xml
 
           # Check for changes and commit if there are any
-          if ! git diff --cached --quiet; then
-            git commit -m "UpdatDone"
-            git push https://me-cfs:${{ secrets.PAT_TOKEN }}@github.com/me-cfs/me-cfs.github.io.git HEAD:main
-          else
+          if git diff --cached --quiet; then
             echo "No changes to commit"
+          else
+            git commit -m "Update RSS feed"
+            git push origin HEAD:main
           fi
+        env:
+          PAT_TOKEN: ${{ secrets.PATTOKEN }}
