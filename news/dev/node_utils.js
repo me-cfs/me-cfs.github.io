@@ -74,9 +74,35 @@ async function fetchFeed(feedUrl) {
   }
 }
 
+function extractBaseUrl(url) {
+    console.log(`Extracting base URL from: ${url}`);
+    try {
+        const parsedUrl = new URL(url);
+        let baseUrl;
+
+        // Check if it's a Google redirect URL
+        if (parsedUrl.hostname.includes('google') && parsedUrl.searchParams.get('url')) {
+            const targetUrl = parsedUrl.searchParams.get('url');
+            const targetUrlObj = new URL(targetUrl);
+            baseUrl = targetUrlObj.hostname.replace('www.', '');
+            console.log(`Base URL extracted from Google redirect: ${baseUrl}`);
+        } else {
+            // Handle normal URL
+            baseUrl = parsedUrl.hostname.replace('www.', '');
+            console.log(`Base URL extracted: ${baseUrl}`);
+        }
+
+        return baseUrl;
+    } catch (error) {
+        console.error(`Error extracting base URL from: ${url}`, error);
+        return "Unknown Source";
+    }
+}
+
 module.exports = {
   getOneWeekAgoDate,
   removeHiddenWords,
   fetchFeed,
+  extractBaseUrl
   // Other exports if needed
 };
