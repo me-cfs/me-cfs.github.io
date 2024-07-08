@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Marine Le Pen: 0. Kylian Mbappé: 1.					</title>
+      <link>https://www.politico.eu/article/marine-le-pen-0-kylian-mbappe-and-friends-1-french-football-vote/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/marine-le-pen-0-kylian-mbappe-and-friends-1-french-football-vote/</guid>
+      <pubDate>Mon, 08 Jul 2024 12:15:01 -0000</pubDate>
+    </item>
+    <item>
       <title>AI is the engine behind VC gains</title>
       <link>https://www.axios.com/2024/07/08/ai-stock-market</link>
       <author>Axios</author>
@@ -64,11 +72,25 @@
       <pubDate>Mon, 08 Jul 2024 10:08:38 -0000</pubDate>
     </item>
     <item>
+      <title>STDs jumped nearly a quarter among seniors during the pandemic</title>
+      <link>https://www.axios.com/2024/07/08/stds-rise-among-seniors-syphilis-hpv-hiv-aids-gonorrhea</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/08/stds-rise-among-seniors-syphilis-hpv-hiv-aids-gonorrhea</guid>
+      <pubDate>Mon, 08 Jul 2024 09:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump's dream regime</title>
       <link>https://www.axios.com/2024/07/08/trump-election-2024-dream-government</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/08/trump-election-2024-dream-government</guid>
       <pubDate>Mon, 08 Jul 2024 09:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Southwest incidents in the spotlight amid boardroom battle</title>
+      <link>https://www.axios.com/2024/07/08/southwest-boeing-airline-plane-incident-investigations</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/08/southwest-boeing-airline-plane-incident-investigations</guid>
+      <pubDate>Mon, 08 Jul 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Biden's team faces a tough, pivotal week in D.C.</title>
@@ -1443,29 +1465,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/protectionism-emmanuel-macron-loses-clout-to-european-free-traders-eu-trade-election-mercosur/</guid>
       <pubDate>Fri, 05 Jul 2024 02:24:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron’s gamble creates major fiscal headaches for the EU					</title>
-      <link>https://www.politico.eu/article/emmanuel-macron-france-election-gamble-major-fiscal-headache-eu-kyiv-ukraine-russia-g7/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/emmanuel-macron-france-election-gamble-major-fiscal-headache-eu-kyiv-ukraine-russia-g7/</guid>
-      <pubDate>Fri, 05 Jul 2024 02:09:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>West Coast faces record temperatures as 150 million under heat alerts across U.S.</title>
-      <link>https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/04/july-fourth-heat-wave-21-states-forecast</guid>
-      <pubDate>Fri, 05 Jul 2024 01:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						UK election results 2024: Who won across the country					</title>
-      <link>https://www.politico.eu/article/uk-general-election-results-2024-who-won-maps/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/uk-general-election-results-2024-who-won-maps/</guid>
-      <pubDate>Fri, 05 Jul 2024 01:12:32 -0000</pubDate>
     </item>
   </channel>
 </rss>
