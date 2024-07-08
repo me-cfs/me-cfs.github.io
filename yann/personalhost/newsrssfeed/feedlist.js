@@ -88,7 +88,7 @@ module.exports = [
   },
   { 
     name: 'Fivethirtyeight',
-    url: 'http://espn.go.com/espnradio/feeds/rss/podcast.xml?id=14554755',
+    url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
     off: false,
     // seems to be broken link
   },
