@@ -114,4 +114,13 @@ module.exports = [
     name: 'ME/LC News',
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
+  { 
+    name: 'The Athletic Football',
+    url: 'https://www.nytimes.com/athletic/rss/football/',
+    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia'],
+  },
+  {
+    name: 'NYT Most .Viewed',
+    url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
+  },
 ];
