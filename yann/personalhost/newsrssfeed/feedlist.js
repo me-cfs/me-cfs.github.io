@@ -90,14 +90,13 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
     off: false,
-    // seems to be broken link
   },
   { 
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=business',
     off: false,
     exclusionWords: ['Hurricane', 'Tropical Storm',
-      'Paramount', 'Skydance',
+      'Paramount', 'Skydance', 'Fact Check: Biden',
     ],
   },
   { 
