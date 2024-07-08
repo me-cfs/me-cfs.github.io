@@ -1,7 +1,7 @@
 // Importa
 const fs = require('fs');
 const xml2js = require('xml2js');
-const { removeHiddenWords, fetchFeed } = require('../dev/node_utils.js'); // Import the function
+const { removeHiddenWords, fetchFeed, extractBaseUrl } = require('../dev/node_utils.js'); 
 
 // Environment (YAML) predefined variables
 const feedConfigPath = process.env.FEED_CONFIG_PATH;
@@ -77,42 +77,53 @@ async function filterAndUpdateFeed() {
         }
       }
 
+      // URL Blacklist check
+      if (item.urlBlacklist && item.urlBlacklist.length > 0) {
+        const itemBaseUrl = extractBaseUrl(item.link);
+        const isBlacklisted = item.urlBlacklist.some(blacklistedUrl => itemBaseUrl.includes(blacklistedUrl));
+
+        if (isBlacklisted) {
+          console.log(`Excluding item due to blacklisted URL: ${item.link}`);
+          return false;
+        }
+      }
+
       item.processedTitle = processedTitle;
       return !isExcluded && !isDuplicate;
     });
 
     newItems.forEach(item => {
-  // If getContentLink is defined, find the first link in content that matches the base URL
-  let link = item.link;
-  if (item.getContentLink && item.content) {
-    // Improved regex to capture the full URL
-    const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
-    const matches = item.content.match(regex);
-    if (matches && matches.length > 0) {
-      link = matches[0];
-    }
-  }
-  
-  // Ensure link is not null or empty
-  if (!link || typeof link !== 'string' || link.trim() === '') {
-    console.error(`Invalid link for item with title "${item.title}":`, link);
-    return;
-  }
+      // If getContentLink is defined, find the first link in content that matches the base URL
+      let link = item.link;
+      if (item.getContentLink && item.content) {
+        // Improved regex to capture the full URL
+        const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
+        const matches = item.content.match(regex);
+        if (matches && matches.length > 0) {
+          link = matches[0];
+        }
+      }
 
-  // Ensure guid is not null or empty
-  if (!item.guid || typeof item.guid !== 'string' || item.guid.trim() === '') {
-    console.error(`Invalid guid for item with title "${item.title}":`, item.guid);
-    return;
-  }
+      // Ensure link is not null or empty
+      if (!link || typeof link !== 'string' || link.trim() === '') {
+        console.error(`Invalid link for item with title "${item.title}":`, link);
+        return;
+      }
 
-  localFeed.rss.channel[0].item.push({
-    title: [item.processedTitle || item.content],
-    link: [link],
-    author: [item.source],
-    guid: [item.guid],
-    pubDate: [item.pubDate]
-  });
-});
+      // Ensure guid is not null or empty
+      if (!item.guid || typeof item.guid !== 'string' || item.guid.trim() === '') {
+        console.error(`Invalid guid for item with title "${item.title}":`, item.guid);
+        return;
+      }
+
+      localFeed.rss.channel[0].item.push({
+        title: [item.processedTitle || item.content],
+        link: [link],
+        author: [item.source],
+        guid: [item.guid],
+        pubDate: [item.pubDate]
+      });
+    });
 
     // Sort by date
     localFeed.rss.channel[0].item.sort((a, b) => new Date(b.pubDate[0]) - new Date(a.pubDate[0]));
