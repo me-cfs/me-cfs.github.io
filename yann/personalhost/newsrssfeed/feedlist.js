@@ -43,7 +43,7 @@ module.exports = [
     name: 'Politico EUROPE', 
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
     off: false,
-    urlBlacklist: ['https://politico.com']
+    urlBlacklist: ['politico.com']
   },
   { 
     name: 'Chapatte Dessins', 
