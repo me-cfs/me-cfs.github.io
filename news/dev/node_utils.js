@@ -66,7 +66,8 @@ async function fetchFeed(feedUrl) {
       inclusionWords: feedUrl.inclusionWords || [],
       undefinedTitle: feedUrl.undefinedTitle,
       getContentLink: feedUrl.getContentLink,
-      titleHide: feedUrl.titleHide || []
+      titleHide: feedUrl.titleHide || [],
+      urlBlacklist: feedUrl.urlBlacklist || [],
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
