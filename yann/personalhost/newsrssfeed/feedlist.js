@@ -10,6 +10,7 @@
 // getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
 // titleHide: [] Contains strings that should be cut off from title
 // off: true/false If True, stops adding items from the feed
+// urlBlacklist: [] if any base urls here match with item link, item not included
 
 module.exports = [
   { 
@@ -32,6 +33,7 @@ module.exports = [
     name: 'Politico EUROPE', 
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
     off: false,
+    urlBlacklist: ['https://politico.com']
   },
   { 
     name: 'Chapatte Dessins', 
