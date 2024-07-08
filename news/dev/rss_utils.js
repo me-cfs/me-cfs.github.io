@@ -32,33 +32,53 @@ function filterItems(items, localFeed) {
     let title = item.title || null;
     const content = item.content ? item.content.toLowerCase() : '';
     const pubDate = item.pubDate ? new Date(item.pubDate) : null;
-
-    if (!title && content) {
-      const hasInclusionWords = item.inclusionWords.some(word => content.includes(word.toLowerCase()));
-      if (hasInclusionWords) {
-        title = item.undefinedTitle;
-      } else {
-        console.log(`Excluding item due to title and content not having inclusion words: ${JSON.stringify(item)}`);
-        return false;
-      }
+    
+    // filter inclusionWords
+    if (item.inclusionWords && item.inclusionWords.length > 0) {
+        const lowercaseInclusionWords = item.inclusionWords.map(word => word.toLowerCase());
+        
+        if (title) {
+            const hasInclusionWords = lowercaseInclusionWords.some(word => title.toLowerCase().includes(word));
+            if (!hasInclusionWords) {
+                console.log(`Excluding item due to title not having inclusion words: ${JSON.stringify(item)}`);
+                return false;
+            }
+        } else if (content) {
+            const hasInclusionWords = lowercaseInclusionWords.some(word => content.toLowerCase().includes(word));
+            if (hasInclusionWords) {
+                title = item.undefinedTitle; // Make sure this is what you want
+            } else {
+                console.log(`Excluding item due to content not having inclusion words: ${JSON.stringify(item)}`);
+                return false;
+            }
+        } else {
+            console.log(`Excluding item due to missing title and content: ${JSON.stringify(item)}`);
+            return false;
+        }
     }
 
+    //check atleast has both title and pubdate
     if (!title || !pubDate) {
       console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
       return false;
     }
 
+    // remove hidden words from title
     const processedTitle = removeHiddenWords(title, item.titleHide);
+    
+    // Check no exclusion words or date problems
     const isExcluded = item.exclusionWords.some(word => processedTitle.toLowerCase().includes(word.toLowerCase())) ||
       (item.cutoffDate && pubDate <= item.cutoffDate);
-
+    
+    // make sure isn't duplicate
     const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
     if (isExcluded || isDuplicate) {
       console.log(`Excluding item: ${String(processedTitle)}`);
       return false;
     }
-
+    
+    // check baseurl isn't in blacklist
     if (item.urlBlacklist && item.urlBlacklist.length > 0) {
       const itemBaseUrl = extractBaseUrl(item.link);
       const isBlacklisted = item.urlBlacklist.some(blacklistedUrl => itemBaseUrl.includes(blacklistedUrl));
