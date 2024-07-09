@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Marine Le Pen hit by shock probe into 2022 presidential campaign funding  					</title>
+      <link>https://www.politico.eu/article/france-probe-marine-le-pen-2022-presidential-election-campaign-financing/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/france-probe-marine-le-pen-2022-presidential-election-campaign-financing/</guid>
+      <pubDate>Tue, 09 Jul 2024 11:46:54 -0000</pubDate>
+    </item>
+    <item>
       <title>The Ukrainian Boxer Who Sacrificed His Olympic Dreams -- And His Life -- Fighting Russia</title>
       <link>https://www.huffpost.com/entry/maksym-halinichev-paris-2024_n_668d1639e4b0a62057b8408c</link>
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/maksym-halinichev-paris-2024_n_668d1639e4b0a62057b8408c</guid>
       <pubDate>Tue, 09 Jul 2024 11:32:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Office vacancy rate hits record high</title>
+      <link>https://www.axios.com/2024/07/09/office-vacancy-rate-record-high</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/09/office-vacancy-rate-record-high</guid>
+      <pubDate>Tue, 09 Jul 2024 11:30:00 +0000</pubDate>
     </item>
     <item>
       <title>1-2 alcoholic drinks a day may shorten life by 2 months: Research</title>
@@ -1431,21 +1446,6 @@
       <author>Le Monde Grand Titres</author>
       <guid>https://www.lemonde.fr/videos/video/2024/07/06/masoud-pezeshkian-candidat-reformateur-remporte-l-election-presidentielle-en-iran_6247396_1669088.html</guid>
       <pubDate>Sat, 06 Jul 2024 15:58:06 -0000</pubDate>
-    </item>
-    <item>
-      <title>Hollywood moguls want to replace Biden for America’s leading role</title>
-      <link>https://www.axios.com/2024/07/06/biden-loses-hollywood-donors-support</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/06/biden-loses-hollywood-donors-support</guid>
-      <pubDate>Sat, 06 Jul 2024 15:50:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						How Britain voted: Charts and maps					</title>
-      <link>https://www.politico.eu/article/united-kingdom-general-election-maps-results-charts-seats-how-britain-voted/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/united-kingdom-general-election-maps-results-charts-seats-how-britain-voted/</guid>
-      <pubDate>Sat, 06 Jul 2024 15:25:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
