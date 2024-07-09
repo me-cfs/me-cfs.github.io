@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Cook Political Report moves three swing states to "Lean Republican"</title>
+      <link>https://www.axios.com/2024/07/09/trump-biden-swing-states-ratings-report</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/09/trump-biden-swing-states-ratings-report</guid>
+      <pubDate>Tue, 09 Jul 2024 22:35:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Why 538's forecast hasn't moved much post-debate</title>
       <link>https://abcnews.go.com/538/538s-forecast-moved-post-debate/story?id=111783096</link>
       <author>Fivethirtyeight</author>
@@ -1432,13 +1439,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4754938</guid>
       <pubDate>Sun, 07 Jul 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>McCarthy’s Revenge Tour Rolls On, With Mixed Results</title>
-      <link>https://www.nytimes.com/2024/07/07/us/politics/kevin-mccarthy-revenge-tour.html</link>
-      <author>NYT Most .Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/07/us/politics/kevin-mccarthy-revenge-tour.html</guid>
-      <pubDate>Sun, 07 Jul 2024 09:00:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
