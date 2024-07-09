@@ -1,7 +1,7 @@
 ---
 title: Clinical and Academic Introduction to ME
 ---
-Here are some resources to get to know ME/CFS that are academic/clinucal:
+Here are some resources to get to know ME/CFS that are academic/clinical:
 
 * MEAction's [Primer for Clinicians](https://www.meaction.net/learn/healthcare-providers/) (US + International)
 
