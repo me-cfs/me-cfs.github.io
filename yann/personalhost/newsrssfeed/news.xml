@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden awards Medal of Freedom to NATO chief Jens Stoltenberg</title>
+      <link>https://www.axios.com/2024/07/09/biden-medal-of-freedom-nato-jens-stoltenberg</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/09/biden-medal-of-freedom-nato-jens-stoltenberg</guid>
+      <pubDate>Tue, 09 Jul 2024 23:00:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Cook Political Report moves three swing states to "Lean Republican"</title>
       <link>https://www.axios.com/2024/07/09/trump-biden-swing-states-ratings-report</link>
       <author>Axios</author>
@@ -38,6 +45,20 @@
       <author>Le Monde Grand Titres</author>
       <guid>https://www.lemonde.fr/politique/live/2024/07/09/en-direct-legislatives-2024-nombreux-appels-a-droite-pour-une-alliance-entre-lr-et-le-camp-presidentiel-emmanuel-macron-a-recu-gerard-larcher-a-l-elysee_6247441_823448.html</guid>
       <pubDate>Tue, 09 Jul 2024 20:46:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Some Republicans unhappy with RNC's abortion platform</title>
+      <link>https://www.axios.com/2024/07/09/abortion-ban-gop-rnc-platform</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/09/abortion-ban-gop-rnc-platform</guid>
+      <pubDate>Tue, 09 Jul 2024 20:19:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian court orders arrest of Yulia Navalnaya</title>
+      <link>https://www.axios.com/2024/07/09/yulia-navalnaya-alexei-navalny-russia-arrest</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/09/yulia-navalnaya-alexei-navalny-russia-arrest</guid>
+      <pubDate>Tue, 09 Jul 2024 19:37:51 +0000</pubDate>
     </item>
     <item>
       <title>Xavier Bertrand et Olivier Marleix veulent un premier ministre issu de LR ; Edouard Philippe plaide pour un « bloc » allant de la droite au camp présidentiel</title>
@@ -1418,27 +1439,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.com/news/2024/07/06/american-allies-fear-biden-trump-00166700</guid>
       <pubDate>Sun, 07 Jul 2024 10:46:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>News in Brief for the week of June 30th</title>
-      <link>https://www.s4me.info/threads/news-in-brief-july-2024.39237/#post-541568/</link>
-      <author>ME/LC News</author>
-      <guid>https://med-mastodon.com/@s4me/112744759099500066</guid>
-      <pubDate>Sun, 07 Jul 2024 10:34:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jim Clyburn Is Right About What Democrats Should Do Next</title>
-      <link>https://www.nytimes.com/2024/07/07/opinion/biden-jim-clyburn-democrats.html</link>
-      <author>NYT Most .Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/07/opinion/biden-jim-clyburn-democrats.html</guid>
-      <pubDate>Sun, 07 Jul 2024 10:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fears grow among conservatives over abortion in GOP platform</title>
-      <link>https://thehill.com/policy/healthcare/4754938-rnc-trump-abortion-platform/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4754938</guid>
-      <pubDate>Sun, 07 Jul 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
