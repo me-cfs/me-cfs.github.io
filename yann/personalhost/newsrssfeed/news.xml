@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pesticides dans les eaux suisses: léger mieux mais encore du travail</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/pesticides-dans-les-eaux-suisses-leger-mieux-mais-encore-du-travail-28565751.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28565751</guid>
+      <pubDate>Wed, 10 Jul 2024 13:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>CIA director holds Gaza talks with Qatari, Egyptian and Israeli officials</title>
+      <link>https://www.axios.com/2024/07/10/gaza-ceasefire-hostage-deal-qatar-egypt-israel</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/10/gaza-ceasefire-hostage-deal-qatar-egypt-israel</guid>
+      <pubDate>Wed, 10 Jul 2024 13:44:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Pelosi: "Time is running short" for Biden to decide on re-election bid</title>
       <link>https://www.axios.com/2024/07/10/nancy-pelosi-biden-2024-run</link>
       <author>Axios</author>
@@ -1429,20 +1443,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.com/news/2024/07/07/jerry-nadler-adam-smith-congress-biden-00166733</guid>
       <pubDate>Mon, 08 Jul 2024 06:33:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Do global election trends provide insight into the US election? </title>
-      <link>https://abcnews.go.com/538/video/global-election-trends-provide-insight-uselection-111288310</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/global-election-trends-provide-insight-uselection-111288310</guid>
-      <pubDate>Mon, 08 Jul 2024 06:28:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>Des élus fédéraux ne veulent plus des algorithmes discriminants</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/des-elus-federaux-ne-veulent-plus-des-algorithmes-discriminants-28562834.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28562834</guid>
-      <pubDate>Mon, 08 Jul 2024 06:27:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
