@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Exclusive: House Oversight subpoenas top Biden aides over his mental fitness</title>
+      <link>https://www.axios.com/2024/07/10/biden-house-oversight-committee-subpoena-aides</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/10/biden-house-oversight-committee-subpoena-aides</guid>
+      <pubDate>Wed, 10 Jul 2024 20:16:39 +0000</pubDate>
+    </item>
+    <item>
       <title>CNN boss lays out plans for digital future, layoffs to come</title>
       <link>https://www.axios.com/2024/07/10/cnn-layoffs-mark-thompson-digital-future</link>
       <author>Axios</author>
@@ -25,6 +32,13 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/israeli-military-orders-palestinians-evacuate-gaza-city_n_668ecae2e4b0fb744166c52f</guid>
       <pubDate>Wed, 10 Jul 2024 19:46:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>AWS releases new AI tools to simplify app development, improve accuracy</title>
+      <link>https://www.axios.com/2024/07/10/aws-generative-ai-cloud-competition</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/10/aws-generative-ai-cloud-competition</guid>
+      <pubDate>Wed, 10 Jul 2024 19:36:39 +0000</pubDate>
     </item>
     <item>
       <title>What the Democrats doubting Biden have in common</title>
@@ -1430,20 +1444,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/08/trump-election-2024-dream-government</guid>
       <pubDate>Mon, 08 Jul 2024 09:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Would Biden step aside in 2024 election? </title>
-      <link>https://abcnews.go.com/538/video/biden-step-aside-2024-election-111516397</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/biden-step-aside-2024-election-111516397</guid>
-      <pubDate>Mon, 08 Jul 2024 09:28:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>Joe Biden, in the Goodest Bunker Ever</title>
-      <link>https://www.nytimes.com/2024/07/07/opinion/joe-biden-goodest.html</link>
-      <author>NYT Most .Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/07/opinion/joe-biden-goodest.html</guid>
-      <pubDate>Mon, 08 Jul 2024 09:27:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
