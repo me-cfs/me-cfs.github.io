@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Senators unveil bipartisan deal on stock trading ban</title>
+      <link>https://www.axios.com/2024/07/10/stock-trading-ban-congress-deal</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/10/stock-trading-ban-congress-deal</guid>
+      <pubDate>Wed, 10 Jul 2024 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>New human plague case confirmed in Colorado</title>
       <link>https://thehill.com/policy/healthcare/4763660-human-plague-case-colorado/</link>
       <author>Healthcare - The Hill</author>
@@ -1435,13 +1442,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/video/polls-change-after-1st-presidential-debate-111419350</guid>
       <pubDate>Mon, 08 Jul 2024 07:13:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>15 elections to watch in New York, Colorado, Utah and South Carolina</title>
-      <link>https://abcnews.go.com/538/15-elections-watch-new-york-colorado-utah-south/story?id=111358930</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/15-elections-watch-new-york-colorado-utah-south/story?id=111358930</guid>
-      <pubDate>Mon, 08 Jul 2024 06:58:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
