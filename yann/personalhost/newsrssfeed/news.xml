@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Nouveau Front populaire : les « insoumis » proposent quatre noms de premier ministre potentiel, dont Jean-Luc Mélenchon</title>
+      <link>https://www.lemonde.fr/politique/article/2024/07/12/nouveau-front-populaire-les-insoumis-proposent-quatre-premiers-ministres-potentiels-dont-jean-luc-melenchon_6248867_823448.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/politique/article/2024/07/12/nouveau-front-populaire-les-insoumis-proposent-quatre-premiers-ministres-potentiels-dont-jean-luc-melenchon_6248867_823448.html</guid>
+      <pubDate>Thu, 11 Jul 2024 22:34:44 -0000</pubDate>
+    </item>
+    <item>
       <title>House GOP frustrated by self-inflicted distractions from Biden woes</title>
       <link>https://www.axios.com/2024/07/11/house-gop-frustrated-by-self-inflicted-distractions-from-biden-woes</link>
       <author>Axios</author>
@@ -1430,13 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/09/biden-era-worker-protections-supreme-court</guid>
       <pubDate>Tue, 09 Jul 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Office vacancy rate hits record high</title>
-      <link>https://www.axios.com/2024/07/09/office-vacancy-rate-record-high</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/09/office-vacancy-rate-record-high</guid>
-      <pubDate>Tue, 09 Jul 2024 11:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
