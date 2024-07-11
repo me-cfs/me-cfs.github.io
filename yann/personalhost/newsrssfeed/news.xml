@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian man charged with killing children in fire</title>
+      <link>https://www.bbc.com/news/articles/cp682l0x1lgo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cp682l0x1lgo#0</guid>
+      <pubDate>Thu, 11 Jul 2024 00:54:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Peter Welch becomes first Senate Democrat to call for Biden to step aside</title>
       <link>https://www.axios.com/2024/07/10/peter-welch-biden-democrats-2024</link>
       <author>Axios</author>
@@ -1088,6 +1095,13 @@
       <pubDate>Mon, 08 Jul 2024 21:52:27 +0000</pubDate>
     </item>
     <item>
+      <title>The Democratic Party Must Speak the Plain Truth to the President</title>
+      <link>https://www.nytimes.com/2024/07/08/opinion/editorials/democrats-biden-truth.html</link>
+      <author>NYT Most .Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/08/opinion/editorials/democrats-biden-truth.html</guid>
+      <pubDate>Mon, 08 Jul 2024 21:26:43 +0000</pubDate>
+    </item>
+    <item>
       <title>House Democrats’ defense chief Adam Smith joins calls for Biden to drop out</title>
       <link>https://www.axios.com/2024/07/08/biden-drop-out-adam-smith-armed-services</link>
       <author>Axios</author>
@@ -1430,20 +1444,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/france-election-national-assembly-voters-marine-le-pen-far-right-national-rally-jordan-bardella-emmanuel-macron-jean-luc-melenchon-french-politics/</guid>
       <pubDate>Mon, 08 Jul 2024 10:38:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Missiles Hit Children's Hospital In Kyiv And Kill At Least 20 Elsewhere</title>
-      <link>https://www.huffpost.com/entry/russia-ukraine-war_n_668bba97e4b09003289af4fe</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/russia-ukraine-war_n_668bba97e4b09003289af4fe</guid>
-      <pubDate>Mon, 08 Jul 2024 10:38:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>What the polls say after the first presidential debate</title>
-      <link>https://abcnews.go.com/538/polls-after-presidential-debate/story?id=111610497</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/polls-after-presidential-debate/story?id=111610497</guid>
-      <pubDate>Mon, 08 Jul 2024 10:28:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
