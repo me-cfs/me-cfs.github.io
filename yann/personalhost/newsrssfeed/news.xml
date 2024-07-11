@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>"Heat islands" worsening extreme temperatures across the U.S.</title>
+      <link>https://www.axios.com/2024/07/11/heat-islands-us-record-temperatures</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/11/heat-islands-us-record-temperatures</guid>
+      <pubDate>Thu, 11 Jul 2024 08:14:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Samsung's new lineup shows how AI is driving smartphone growth</title>
       <link>https://www.axios.com/2024/07/11/samsung-ai-features-google-apple</link>
       <author>Axios</author>
@@ -1441,13 +1448,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4759481</guid>
       <pubDate>Mon, 08 Jul 2024 13:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden warns Congress' Democrats he is "staying in this race"</title>
-      <link>https://www.axios.com/2024/07/08/biden-house-senate-democrats-staying-in-race</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/08/biden-house-senate-democrats-staying-in-race</guid>
-      <pubDate>Mon, 08 Jul 2024 13:12:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
