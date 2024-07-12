@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Climate change disrupting housing markets, insurance industry</title>
+      <link>https://www.axios.com/2024/07/12/nantucket-beach-house-cliamte-change-housing-insurance</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/12/nantucket-beach-house-cliamte-change-housing-insurance</guid>
+      <pubDate>Fri, 12 Jul 2024 06:15:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Bruno Le Maire, Gérald Darmanin, Edouard Philippe ou Gabriel Attal... Dans le camp présidentiel, la crise politique rebat les cartes</title>
       <link>https://www.lemonde.fr/politique/article/2024/07/12/bruno-le-maire-gerald-darmanin-edouard-philippe-ou-gabriel-attal-dans-le-camp-presidentiel-la-crise-politique-rebat-le-jeu-des-ambitions_6248878_823448.html</link>
       <author>Le Monde Grand Titres</author>
@@ -1431,13 +1438,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/video/democrats-biden-continuing-run-538-politics-podcast-111781734</guid>
       <pubDate>Tue, 09 Jul 2024 18:15:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>Why Trump will probably stay in the race despite Republican dissent </title>
-      <link>https://abcnews.go.com/538/video/trump-stay-race-despite-republican-dissent-538-politics-111781457</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/trump-stay-race-despite-republican-dissent-538-politics-111781457</guid>
-      <pubDate>Tue, 09 Jul 2024 18:00:21 -0000</pubDate>
     </item>
   </channel>
 </rss>
