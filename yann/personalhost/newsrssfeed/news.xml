@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Here’s President Putin! The 5 weirdest political mix-ups ever					</title>
+      <link>https://www.politico.eu/article/top-x-politicians-mixed-up-names-tentative-joe-biden-donald-trump/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/top-x-politicians-mixed-up-names-tentative-joe-biden-donald-trump/</guid>
+      <pubDate>Fri, 12 Jul 2024 12:46:01 -0000</pubDate>
+    </item>
+    <item>
       <title>At Least 200 Crocodiles Crawl Into Cities As Heavy Rains Hit Northern Mexico</title>
       <link>https://www.huffpost.com/entry/mexico-rains-crocodiles_n_669107e5e4b0c4c9f3a79536</link>
       <author>WorldPost (Huffington)</author>
@@ -31,6 +39,13 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/un-united-nations-ukraine-nuclear-plants_n_6690fda4e4b0a1f9fa856770</guid>
       <pubDate>Fri, 12 Jul 2024 10:46:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Democrats link Trump to Project 2025 in billboards drive launched in battleground states</title>
+      <link>https://www.axios.com/2024/07/12/trump-project-2025-dnc-billboards-biden</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/12/trump-project-2025-dnc-billboards-biden</guid>
+      <pubDate>Fri, 12 Jul 2024 10:30:00 +0000</pubDate>
     </item>
     <item>
       <title>En direct : cinq figures politiques en rupture avec La France insoumise lancent le mouvement L’Après</title>
@@ -1424,20 +1439,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/09/trump-biden-swing-states-ratings-report</guid>
       <pubDate>Tue, 09 Jul 2024 22:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why 538's forecast hasn't moved much post-debate</title>
-      <link>https://abcnews.go.com/538/538s-forecast-moved-post-debate/story?id=111783096</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/538s-forecast-moved-post-debate/story?id=111783096</guid>
-      <pubDate>Tue, 09 Jul 2024 22:27:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>Euro 2024, day 26 - Spain's captain 'tackled' by security guard, Yamal record, France out</title>
-      <link>https://www.nytimes.com/athletic/5627332/2024/07/09/euro-2024-day-26-morata-tackled/</link>
-      <author>The Athletic Football</author>
-      <guid>https://www.nytimes.com/athletic/5627332/2024/07/09/euro-2024-day-26-morata-tackled/</guid>
-      <pubDate>Tue, 09 Jul 2024 22:17:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
