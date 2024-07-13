@@ -24,6 +24,8 @@ filename: useful-resources.md
 * [The Science for ME forum](https://www.s4me.info)
 * Facebook: [25% of ME](https://www.facebook.com/share/4Fw5hGB6y1h8F4vt/?mibextid=K35XfP) (for severe people)
 * Twitter: [List of useful accounts](https://x.com/i/lists/1792252442643509657)
+* Bluesky: [ME/CFS Feed](https://bsky.app/profile/did:plc:6ydksqmdcz6nreadftvdf35l/feed/aaaozu4oohcxg)
+* Reddit: [ME/CFS Communities Directory](https://www.reddit.com/r/MECFSPatients/comments/1dfotxm/mecfs_reddit_communities_directory_pinned/)
 <details markdown="1">
   <summary>More Communities</summary>
 * Reddit: [The r/cfs Community](https://www.reddit.com/r/cfs/s/FOHNXA7Cu1) Disclaimer:
