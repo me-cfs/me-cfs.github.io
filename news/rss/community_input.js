@@ -65,5 +65,11 @@ module.exports = [
     url: 'https://politepol.com/fd/GHk0kBtNHXGJ.xml',
     cutoffDate: new Date('2024-06-29'),
   },
+  {
+    name: 'Long Covid Advocacy',
+    url: 'https://politepol.com/fd/pduAk8UryRf1.xml',
+    cutoffDate: new Date('2024-07-14'),
+    exclusionWords: ['L.I.V.E.', 'free download'],
+  },
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
