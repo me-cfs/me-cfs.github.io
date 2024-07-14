@@ -27,6 +27,7 @@ module.exports = [
     name: 'Le Monde Grand Titres', 
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
     exclusionWords: ['Tour de France'],
+    off: true,
   },
   {
     name: 'BBC News Australia Mentions',
@@ -120,7 +121,11 @@ module.exports = [
     inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia'],
   },
   {
-    name: 'NYT Most .Viewed',
+    name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
+  },
+  {
+    name: 'Euronews France -- Le plus grand titre',
+    url: 'https://politepol.com/fd/LcHcJqeI4RKt.xml',
   },
 ];
