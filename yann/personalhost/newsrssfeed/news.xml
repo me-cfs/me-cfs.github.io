@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU to boycott Hungary’s foreign affairs summit					</title>
+      <link>https://www.politico.eu/article/hungary-boycott-foreign-affairs-summit-eu-ukraine-pm-viktor-orban-event-august-budapest/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/hungary-boycott-foreign-affairs-summit-eu-ukraine-pm-viktor-orban-event-august-budapest/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:07:57 -0000</pubDate>
+    </item>
+    <item>
       <title>FBI investigating Trump rally shooting as potential domestic terrorism</title>
       <link>https://www.axios.com/2024/07/14/fbi-investigating-trump-rally-shooting-as-potential-domestic-terrorism</link>
       <author>Axios</author>
@@ -1430,13 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/11/biden-drop-out-poll-democrats-trump-harris</guid>
       <pubDate>Thu, 11 Jul 2024 13:01:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inflation cools again in June in another positive sign for U.S. economy</title>
-      <link>https://www.axios.com/2024/07/11/cpi-june-2024-inflation-economy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/11/cpi-june-2024-inflation-economy</guid>
-      <pubDate>Thu, 11 Jul 2024 12:46:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
