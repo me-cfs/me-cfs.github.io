@@ -17,7 +17,7 @@ module.exports = [
     name: 'Science for ME', 
     url: 'https://med-mastodon.com/@s4me.rss',
     cutoffDate: new Date('2024-06-24'),
-    inclusionWords: ['News in Brief'],
+    inclusionWords: ['News in Brief', 'Brief Headline'],
     undefinedTitle: 'News in Brief for the week of ' + getOneWeekAgoDate(),
     getContentLink: 'https://www.s4me.info'
   },
