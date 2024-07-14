@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Sunday Snapshot: "The show must go on"</title>
+      <link>https://www.axios.com/2024/07/14/trump-attempted-assassination-sunday-shows-news</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/14/trump-attempted-assassination-sunday-shows-news</guid>
+      <pubDate>Sun, 14 Jul 2024 17:28:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Global allies and rivals react to the assassination attempt against Donald Trump</title>
       <link>https://www.axios.com/2024/07/14/trump-assassination-attempt-world-leaders-us-democracy</link>
       <author>Axios</author>
@@ -1430,13 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/local/atlanta/2024/07/11/joe-biden-down-ballot-races-effects-georgia</guid>
       <pubDate>Thu, 11 Jul 2024 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NYT Connections Answers for July 12, 2024</title>
-      <link>https://www.nytimes.com/2024/07/11/crosswords/connections-companion-397.html</link>
-      <author>NYT Most .Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/11/crosswords/connections-companion-397.html</guid>
-      <pubDate>Thu, 11 Jul 2024 10:00:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
