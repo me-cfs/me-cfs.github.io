@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Thomas Matthew Crooks, l’auteur présumé de la tentative d’assassinat contre Donald Trump, un jeune homme de 20 ans aux motivations inconnues</title>
+      <link>https://www.lemonde.fr/international/article/2024/07/14/ce-que-l-on-sait-de-thomas-matthew-crooks-l-auteur-de-la-tentative-d-assassinat-contre-donald-trump_6249978_3210.html</link>
+      <author>Le Monde Grand Titres</author>
+      <guid>https://www.lemonde.fr/international/article/2024/07/14/ce-que-l-on-sait-de-thomas-matthew-crooks-l-auteur-de-la-tentative-d-assassinat-contre-donald-trump_6249978_3210.html</guid>
+      <pubDate>Sun, 14 Jul 2024 11:21:58 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						European leaders denounce political violence after shocking Trump shooting					</title>
       <link>https://www.politico.eu/article/european-leaders-denounce-political-violence-shocking-donald-trump-rally-shooting/</link>
@@ -1426,13 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/11/house-democrats-nancy-pelosi-biden-drop-out</guid>
       <pubDate>Thu, 11 Jul 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Heat islands" worsening extreme temperatures across the U.S.</title>
-      <link>https://www.axios.com/2024/07/11/heat-islands-us-record-temperatures</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/11/heat-islands-us-record-temperatures</guid>
-      <pubDate>Thu, 11 Jul 2024 08:14:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
