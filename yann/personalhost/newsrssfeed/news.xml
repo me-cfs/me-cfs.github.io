@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>OpenAI says chat bots will soon be able to perform human-level reasoning</title>
+      <link>https://www.axios.com/2024/07/15/openai-chatgpt-reasoning-ai-levels</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/15/openai-chatgpt-reasoning-ai-levels</guid>
+      <pubDate>Mon, 15 Jul 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Everything we know about the attempted assassination of former President Trump</title>
       <link>https://www.axios.com/2024/07/15/trump-rally-shooting-assassination-attempt-what-to-know</link>
       <author>Axios</author>
@@ -1436,13 +1443,6 @@
       <author>Le Monde Grand Titres</author>
       <guid>https://www.lemonde.fr/les-decodeurs/article/2024/07/11/ces-deputes-que-le-rn-ne-considere-pas-comme-des-brebis-galeuses-malgre-leurs-prises-de-position-racistes-anti-ivg-ou-climatosceptiques_6248828_4355770.html</guid>
       <pubDate>Thu, 11 Jul 2024 16:46:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>Confidence is building that inflation is receding</title>
-      <link>https://www.axios.com/2024/07/11/inflation-receding-cpi-report-prices</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/11/inflation-receding-cpi-report-prices</guid>
-      <pubDate>Thu, 11 Jul 2024 16:19:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
