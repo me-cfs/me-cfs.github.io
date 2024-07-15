@@ -1,4 +1,4 @@
-=const { getOneWeekAgoDate } = require('../dev/node_utils.js');
+const { getOneWeekAgoDate } = require('../dev/node_utils.js');
 
 
 // feedUrls.js
