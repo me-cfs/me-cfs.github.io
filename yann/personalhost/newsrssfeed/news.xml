@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Welcome to Milwaukee</title>
+      <link>https://abcnews.go.com/538/video/milwaukee--111957250</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/milwaukee--111957250</guid>
+      <pubDate>Mon, 15 Jul 2024 17:33:03 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						Europe’s populists use Trump shooting to slam the left					</title>
       <link>https://www.politico.eu/article/europe-populist-politicians-donald-trump-shooting-assassination-attempt/</link>
@@ -1394,6 +1401,13 @@
       <pubDate>Thu, 11 Jul 2024 23:00:06 +0000</pubDate>
     </item>
     <item>
+      <title>How to watch Biden's NATO Summit press conference live Thursday night</title>
+      <link>https://www.axios.com/2024/07/11/biden-press-conference-live-stream-nato-summit-watch</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/11/biden-press-conference-live-stream-nato-summit-watch</guid>
+      <pubDate>Thu, 11 Jul 2024 22:54:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Nouveau Front populaire : les « insoumis » proposent quatre noms de premier ministre potentiel, dont Jean-Luc Mélenchon</title>
       <link>https://www.lemonde.fr/politique/article/2024/07/12/nouveau-front-populaire-les-insoumis-proposent-quatre-premiers-ministres-potentiels-dont-jean-luc-melenchon_6248867_823448.html</link>
       <author>Le Monde Grand Titres</author>
@@ -1434,20 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/11/rate-cut-expectations-spike</guid>
       <pubDate>Thu, 11 Jul 2024 21:24:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 reasons to beware of post-debate polling takes</title>
-      <link>https://abcnews.go.com/538/4-reasons-beware-post-debate-polling-takes/story?id=111841994</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/4-reasons-beware-post-debate-polling-takes/story?id=111841994</guid>
-      <pubDate>Thu, 11 Jul 2024 21:08:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Des institutions offrent la possibilité aux proches aidants de prendre eux aussi des vacances</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/des-institutions-offrent-la-possibilite-aux-proches-aidants-de-prendre-eux-aussi-des-vacances-28567096.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28567096</guid>
-      <pubDate>Thu, 11 Jul 2024 21:05:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
