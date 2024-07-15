@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Greetings from the RNC in Milwaukee</title>
+      <link>https://abcnews.go.com/538/rnc-milwaukee/story?id=111843699</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/rnc-milwaukee/story?id=111843699</guid>
+      <pubDate>Mon, 15 Jul 2024 20:24:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Secret Service protocols under fire following Trump assassination attempt</title>
+      <link>https://www.axios.com/2024/07/15/trump-shooting-secret-service-scrutiny</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/15/trump-shooting-secret-service-scrutiny</guid>
+      <pubDate>Mon, 15 Jul 2024 20:23:25 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Von der Leyen will skip Britain’s biggest European summit in years					</title>
       <link>https://www.politico.eu/article/von-der-leyen-keir-starmer-european-political-community-summit/</link>
@@ -1436,20 +1450,6 @@
       <author>Krugman - NYT</author>
       <guid>https://www.nytimes.com/2024/07/11/opinion/trump-republican-platform.html</guid>
       <pubDate>Thu, 11 Jul 2024 23:00:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to watch Biden's NATO Summit press conference live Thursday night</title>
-      <link>https://www.axios.com/2024/07/11/biden-press-conference-live-stream-nato-summit-watch</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/11/biden-press-conference-live-stream-nato-summit-watch</guid>
-      <pubDate>Thu, 11 Jul 2024 22:54:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nouveau Front populaire : les « insoumis » proposent quatre noms de premier ministre potentiel, dont Jean-Luc Mélenchon</title>
-      <link>https://www.lemonde.fr/politique/article/2024/07/12/nouveau-front-populaire-les-insoumis-proposent-quatre-premiers-ministres-potentiels-dont-jean-luc-melenchon_6248867_823448.html</link>
-      <author>Le Monde Grand Titres</author>
-      <guid>https://www.lemonde.fr/politique/article/2024/07/12/nouveau-front-populaire-les-insoumis-proposent-quatre-premiers-ministres-potentiels-dont-jean-luc-melenchon_6248867_823448.html</guid>
-      <pubDate>Thu, 11 Jul 2024 22:34:44 -0000</pubDate>
     </item>
   </channel>
 </rss>
