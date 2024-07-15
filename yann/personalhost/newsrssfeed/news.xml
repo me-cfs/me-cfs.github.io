@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Project 2025 and the New Spoils System</title>
+      <link>https://www.nytimes.com/2024/07/15/opinion/trump-project-2025.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/07/15/opinion/trump-project-2025.html</guid>
+      <pubDate>Mon, 15 Jul 2024 23:00:05 +0000</pubDate>
+    </item>
+    <item>
       <title>What else do we know about JD Vance? | 538 Politics Podcast</title>
       <link>https://abcnews.go.com/538/video/jd-vance-538-politics-podcast-111969110</link>
       <author>Fivethirtyeight</author>
@@ -1439,14 +1446,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-heir-election-france-chaos-2024-gabriel-attal-national-assembly/</guid>
       <pubDate>Fri, 12 Jul 2024 03:05:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Draghi’s EU competitiveness plan set to be delayed until September					</title>
-      <link>https://www.politico.eu/article/mario-draghi-europe-eu-union-italy-politics-report-central-bank-china-commission-france/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/mario-draghi-europe-eu-union-italy-politics-report-central-bank-china-commission-france/</guid>
-      <pubDate>Fri, 12 Jul 2024 02:50:39 -0000</pubDate>
     </item>
   </channel>
 </rss>
