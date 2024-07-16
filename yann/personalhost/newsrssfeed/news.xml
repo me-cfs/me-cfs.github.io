@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Giorgia Meloni’s hard-right European Parliament group split on supporting von der Leyen					</title>
+      <link>https://www.politico.eu/article/giorgia-meloni-hard-right-parliament-group-split-support-ursula-von-der-leyen-european-parliament/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/giorgia-meloni-hard-right-parliament-group-split-support-ursula-von-der-leyen-european-parliament/</guid>
+      <pubDate>Tue, 16 Jul 2024 13:32:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Americans' retail spending flat in June as gas prices, auto sales dip</title>
+      <link>https://www.axios.com/2024/07/16/us-spending-retail-sales-economy-june</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/16/us-spending-retail-sales-economy-june</guid>
+      <pubDate>Tue, 16 Jul 2024 13:31:59 +0000</pubDate>
+    </item>
+    <item>
       <title>La Poste teste un nouveau format de guichet, la vidéo cabine par écrans interposés</title>
       <link>https://www.rts.ch/info/suisse/2024/article/la-poste-teste-un-nouveau-format-de-guichet-la-video-cabine-par-ecrans-interposes-28571124.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1437,20 +1452,6 @@
       <author>NYT Most .Viewed</author>
       <guid>https://www.nytimes.com/2024/07/07/magazine/kidnapping-long-island.html</guid>
       <pubDate>Fri, 12 Jul 2024 18:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Behind The Fed's stealth tightening</title>
-      <link>https://www.axios.com/2024/07/12/fed-inflation-funds-rates-tightening</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/12/fed-inflation-funds-rates-tightening</guid>
-      <pubDate>Fri, 12 Jul 2024 17:59:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>The End of the Affair? Not for Eric Schmidt.</title>
-      <link>https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html</link>
-      <author>NYT Most .Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html</guid>
-      <pubDate>Fri, 12 Jul 2024 17:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
