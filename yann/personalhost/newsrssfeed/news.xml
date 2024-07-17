@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden tests positive for COVID while campaigning in Las Vegas</title>
+      <link>https://www.axios.com/2024/07/17/biden-tests-positive-for-covid-while-campaigning-in-las-vegas</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/17/biden-tests-positive-for-covid-while-campaigning-in-las-vegas</guid>
+      <pubDate>Wed, 17 Jul 2024 22:16:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel Kills More Than 60 Palestinians In South, Central Gaza — Including 'Safe Zone'</title>
       <link>https://www.huffpost.com/entry/israel-kills-60-palestinians-south-central-gaza-safe-zone_n_669830d1e4b05a9a604f7ad2</link>
       <author>WorldPost (Huffington)</author>
@@ -1457,13 +1464,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/13/opinion/donald-trump-rally-shooting.html</guid>
       <pubDate>Sun, 14 Jul 2024 19:59:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>What to Know About the Assassination Attempt on Trump</title>
-      <link>https://www.nytimes.com/2024/07/14/us/politics/shooting-trump-rally.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/14/us/politics/shooting-trump-rally.html</guid>
-      <pubDate>Sun, 14 Jul 2024 19:49:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
