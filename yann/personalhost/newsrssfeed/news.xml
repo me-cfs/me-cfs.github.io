@@ -5,6 +5,16 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+                                                    
+                              Un automobiliste fonce sur la terrasse d'un restaurant à Paris
+                          </title>
+      <link>https://fr.euronews.com/my-europe/2024/07/17/un-automobiliste-fonce-sur-la-terrasse-dun-restaurant-a-paris-au-moins-un-mort</link>
+      <author>Euronews France -- Le plus grand titre</author>
+      <guid>https://fr.euronews.com/my-europe/2024/07/17/un-automobiliste-fonce-sur-la-terrasse-dun-restaurant-a-paris-au-moins-un-mort</guid>
+      <pubDate>Wed, 17 Jul 2024 20:08:28 -0000</pubDate>
+    </item>
+    <item>
       <title>Jack Smith appeals dismissal of Trump's classified documents case</title>
       <link>https://www.axios.com/2024/07/17/jack-smith-appeal-dismissal-classified-documents</link>
       <author>Axios</author>
@@ -1454,13 +1464,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/13/opinion/joe-biden-president.html</guid>
       <pubDate>Sun, 14 Jul 2024 17:33:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Snapshot: "The show must go on"</title>
-      <link>https://www.axios.com/2024/07/14/trump-attempted-assassination-sunday-shows-news</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/trump-attempted-assassination-sunday-shows-news</guid>
-      <pubDate>Sun, 14 Jul 2024 17:28:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
