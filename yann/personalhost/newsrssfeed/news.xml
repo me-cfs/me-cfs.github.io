@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Will the RNC give Trump a polling bounce?</title>
+      <link>https://abcnews.go.com/538/rnc-give-trump-polling-bounce/story?id=112026669</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/rnc-give-trump-polling-bounce/story?id=112026669</guid>
+      <pubDate>Wed, 17 Jul 2024 19:17:07 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						Germany slashes Ukraine funding in savings push					</title>
       <link>https://www.politico.eu/article/germany-war-slashes-funds-ukraine-russia-savings-aid-drat-2025-budget-defense-deal/</link>
@@ -1043,6 +1050,13 @@
       <pubDate>Mon, 15 Jul 2024 18:46:33 -0000</pubDate>
     </item>
     <item>
+      <title>Trump Injured in Assassination Attempt at Campaign Rally</title>
+      <link>https://www.nytimes.com/2024/07/14/us/politics/trump-assassination-attempt-wounded.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/14/us/politics/trump-assassination-attempt-wounded.html</guid>
+      <pubDate>Mon, 15 Jul 2024 17:50:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Welcome to Milwaukee</title>
       <link>https://abcnews.go.com/538/video/milwaukee--111957250</link>
       <author>Fivethirtyeight</author>
@@ -1450,20 +1464,6 @@
       <author>Euronews France -- Le plus grand titre</author>
       <guid>https://fr.euronews.com/2024/07/14/france-la-flamme-olympique-sest-invitee-au-defile-du-14-juillet</guid>
       <pubDate>Sun, 14 Jul 2024 16:10:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>Melania Trump urges nation to "ascend above the hate" after assassination attempt</title>
-      <link>https://www.axios.com/2024/07/14/melania-trump-response-rally-shooting</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/melania-trump-response-rally-shooting</guid>
-      <pubDate>Sun, 14 Jul 2024 15:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rally shooting spurs bill to boost Secret Service protection for Biden, Trump and RFK Jr.</title>
-      <link>https://www.axios.com/2024/07/14/trump-shooting-bill-rfk-biden-security--new</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/trump-shooting-bill-rfk-biden-security--new</guid>
-      <pubDate>Sun, 14 Jul 2024 15:33:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
