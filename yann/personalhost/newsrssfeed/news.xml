@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Jack Smith appeals dismissal of Trump's classified documents case</title>
+      <link>https://www.axios.com/2024/07/17/jack-smith-appeal-dismissal-classified-documents</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/17/jack-smith-appeal-dismissal-classified-documents</guid>
+      <pubDate>Wed, 17 Jul 2024 19:32:57 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Supreme Court rewrote the presidency</title>
       <link>https://www.axios.com/2024/07/17/supreme-court-presidential-power-chevron-immunity</link>
       <author>Axios</author>
@@ -54,6 +61,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/17/turkey-hair-transplants-americans-cosmetic-tourism</guid>
       <pubDate>Wed, 17 Jul 2024 18:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>What to Know About the Assassination Attempt on Trump</title>
+      <link>https://www.nytimes.com/article/shooting-trump-rally.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/article/shooting-trump-rally.html</guid>
+      <pubDate>Wed, 17 Jul 2024 18:40:17 +0000</pubDate>
     </item>
     <item>
       <title>Rep. Adam Schiff calls for Biden to end his 2024 candidacy</title>
@@ -1447,20 +1461,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/14/trump-attempted-assassination-sunday-shows-news</guid>
       <pubDate>Sun, 14 Jul 2024 17:28:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump rally attendee remembered as "hero" who died protecting his family</title>
-      <link>https://www.axios.com/2024/07/14/trump-rally-shooting-victim-corey-comperatore</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/trump-rally-shooting-victim-corey-comperatore</guid>
-      <pubDate>Sun, 14 Jul 2024 17:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global allies and rivals react to the assassination attempt against Donald Trump</title>
-      <link>https://www.axios.com/2024/07/14/trump-assassination-attempt-world-leaders-us-democracy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/trump-assassination-attempt-world-leaders-us-democracy</guid>
-      <pubDate>Sun, 14 Jul 2024 17:01:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
