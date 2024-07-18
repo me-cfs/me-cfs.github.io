@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden jokingly alludes to COVID diagnosis in fundraising pitch targeting Musk donations</title>
+      <link>https://thehill.com/homenews/campaign/4778793-biden-covid-fundraising-musk-donations/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4778793</guid>
+      <pubDate>Thu, 18 Jul 2024 01:12:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Schumer confronted Biden with Democrats' concerns on presidential race</title>
       <link>https://www.axios.com/2024/07/17/schumer-biden-2024-president-drop-out</link>
       <author>Axios</author>
@@ -97,6 +104,20 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/rnc-give-trump-polling-bounce/story?id=112026669</guid>
       <pubDate>Wed, 17 Jul 2024 19:17:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: U.S. privately warned Iran over suspicious nuclear activities</title>
+      <link>https://www.axios.com/2024/07/17/iran-nuclear-program-research-warning</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/17/iran-nuclear-program-research-warning</guid>
+      <pubDate>Wed, 17 Jul 2024 19:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schumer and Jeffries quietly pushed to delay virtual DNC vote to nominate Biden</title>
+      <link>https://www.axios.com/2024/07/17/chuck-schumer-hakeem-jeffries-biden-dnc-vote</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/17/chuck-schumer-hakeem-jeffries-biden-dnc-vote</guid>
+      <pubDate>Wed, 17 Jul 2024 19:11:41 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1439,28 +1460,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/fake-parts-for-russias-stolen-airliners/</guid>
       <pubDate>Mon, 15 Jul 2024 03:08:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						What Washington thinks of Keir Starmer					</title>
-      <link>https://www.politico.eu/article/washington-us-politics-keir-starmer-us-president-joe-biden-democrats-labour-congress-party-elections-2024/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/washington-us-politics-keir-starmer-us-president-joe-biden-democrats-labour-congress-party-elections-2024/</guid>
-      <pubDate>Mon, 15 Jul 2024 02:53:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>Secret Service questioned on security shortcomings at Trump rally</title>
-      <link>https://www.axios.com/2024/07/15/green-secret-service-director-trump-assassination</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/15/green-secret-service-director-trump-assassination</guid>
-      <pubDate>Mon, 15 Jul 2024 02:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI investigating Trump rally shooting as potential domestic terrorism</title>
-      <link>https://www.axios.com/2024/07/14/fbi-investigating-trump-rally-shooting-as-potential-domestic-terrorism</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/14/fbi-investigating-trump-rally-shooting-as-potential-domestic-terrorism</guid>
-      <pubDate>Mon, 15 Jul 2024 02:40:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
