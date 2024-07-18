@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s cover</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/18/this-weeks-cover</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/2siu4kncbomtdbtdcbpttaoof2696ose</guid>
+      <pubDate>Thu, 18 Jul 2024 15:15:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Viola Amherd tire un bilan positif du sommet du Bürgenstock</title>
       <link>https://www.rts.ch/info/suisse/2024/article/viola-amherd-tire-un-bilan-positif-du-sommet-du-burgenstock-28573458.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1457,13 +1464,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/video/attempted-assassination-trump-affect-lawmakers-work-538-politics-111968729</guid>
       <pubDate>Mon, 15 Jul 2024 22:11:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>Paramedics Share One Tip That May Save Your Life</title>
-      <link>https://www.nytimes.com/2024/07/12/well/paramedics-health-history.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/12/well/paramedics-health-history.html</guid>
-      <pubDate>Mon, 15 Jul 2024 21:57:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
