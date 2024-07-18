@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Von der Leyen threads the climate needle to keep her job					</title>
+      <link>https://www.politico.eu/article/european-commission-president-ursula-von-der-leyen-european-peoples-party-green-party-climate-change/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/european-commission-president-ursula-von-der-leyen-european-peoples-party-green-party-climate-change/</guid>
+      <pubDate>Thu, 18 Jul 2024 21:22:07 -0000</pubDate>
+    </item>
+    <item>
       <title>DNC's mad dash to finalize virtual voting plan for Biden nomination</title>
       <link>https://www.axios.com/2024/07/18/dnc-biden-presidential-nomination-virtual-vote</link>
       <author>Axios</author>
@@ -1377,6 +1385,13 @@
       <pubDate>Tue, 16 Jul 2024 10:46:31 -0000</pubDate>
     </item>
     <item>
+      <title>Australian charity founder accused of faking stories</title>
+      <link>https://www.bbc.com/news/articles/ckkgdwer3rvo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/ckkgdwer3rvo#0</guid>
+      <pubDate>Tue, 16 Jul 2024 10:40:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Inside J.D. Vance's life in Washington</title>
       <link>https://www.axios.com/local/washington-dc/2024/07/16/jd-vance-washington-life-trump-vp-pick</link>
       <author>Axios</author>
@@ -1454,20 +1469,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/letter-63-meps-call-to-strip-hungary-eu-voting-rights-after-viktor-orban-peace-missions/</guid>
       <pubDate>Tue, 16 Jul 2024 08:14:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Défauts sur un quart des appareils électriques contrôlés en Suisse</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/defauts-sur-un-quart-des-appareils-electriques-controles-en-suisse-28570854.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28570854</guid>
-      <pubDate>Tue, 16 Jul 2024 07:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cave found on Moon not far from Apollo 11 landing raises hopes that humans could stay there</title>
-      <link>https://www.axios.com/2024/07/16/moon-cave-found-humans-live-underground-potential</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/16/moon-cave-found-humans-live-underground-potential</guid>
-      <pubDate>Tue, 16 Jul 2024 05:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
