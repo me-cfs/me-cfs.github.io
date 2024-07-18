@@ -5,6 +5,22 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Von der Leyen slams Viktor Orbán over trip to Russia					</title>
+      <link>https://www.politico.eu/article/ursula-von-der-leyen-slams-viktor-orban-trip-russia/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ursula-von-der-leyen-slams-viktor-orban-trip-russia/</guid>
+      <pubDate>Thu, 18 Jul 2024 08:27:18 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						The Olympics have always been political					</title>
+      <link>https://www.politico.eu/article/paris-summer-olympics-2024-politics-sports/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/paris-summer-olympics-2024-politics-sports/</guid>
+      <pubDate>Thu, 18 Jul 2024 08:12:18 -0000</pubDate>
+    </item>
+    <item>
       <title>Historic Detroit bankruptcy featured in new documentary</title>
       <link>https://www.axios.com/2024/07/18/gradually-then-suddenly-bankruptcy-of-detroit</link>
       <author>Axios</author>
@@ -17,6 +33,14 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/18/tech-giants-eu-regulation-withholding-products</guid>
       <pubDate>Thu, 18 Jul 2024 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Making the Olympics cheap again					</title>
+      <link>https://www.politico.eu/article/making-the-olympics-cheap-again/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/making-the-olympics-cheap-again/</guid>
+      <pubDate>Thu, 18 Jul 2024 07:57:18 -0000</pubDate>
     </item>
     <item>
       <title>
@@ -1440,27 +1464,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/14/health/therapy-family-estrangement.html</guid>
       <pubDate>Mon, 15 Jul 2024 13:45:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global investors are expecting a Trump presidency</title>
-      <link>https://www.axios.com/2024/07/15/trump-trade-election-rally</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/15/trump-trade-election-rally</guid>
-      <pubDate>Mon, 15 Jul 2024 13:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secret Service vows to cooperate with Congress’ Trump shooting probes</title>
-      <link>https://www.axios.com/2024/07/15/secret-service-congress-trump-shooting-probes</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/15/secret-service-congress-trump-shooting-probes</guid>
-      <pubDate>Mon, 15 Jul 2024 12:59:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate change poses growing NATO threat, including disinformation</title>
-      <link>https://www.axios.com/2024/07/15/climate-change-nato-threat-cyber</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/15/climate-change-nato-threat-cyber</guid>
-      <pubDate>Mon, 15 Jul 2024 12:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
