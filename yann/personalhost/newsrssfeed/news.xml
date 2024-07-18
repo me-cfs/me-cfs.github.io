@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/18/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/gv1e4hdol8cfs69a5hlk1if7tl1hj4cd</guid>
+      <pubDate>Thu, 18 Jul 2024 13:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/18/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/b1fj0au2f3ha1u7inuhc9pip5indjabn</guid>
+      <pubDate>Thu, 18 Jul 2024 13:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAL’s cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/18/kals-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/gi1jobopq8clm2k9claag8lciveoa3dr</guid>
+      <pubDate>Thu, 18 Jul 2024 13:16:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Spanish Court Sentences Person Who Racially Insulted Black Soccer Stars Online</title>
       <link>https://www.huffpost.com/entry/spain-court-vinicius-comments-marca_n_66990160e4b0e9707971b7a1</link>
       <author>WorldPost (Huffington)</author>
@@ -1443,28 +1464,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/15/trump-shooting-secret-service-scrutiny</guid>
       <pubDate>Mon, 15 Jul 2024 20:23:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Photo Appears to Capture Path of Bullet Used in Assassination Attempt</title>
-      <link>https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html</guid>
-      <pubDate>Mon, 15 Jul 2024 20:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>McConnell drowned out by boos during RNC roll call</title>
-      <link>https://www.axios.com/2024/07/15/mitch-mcconnell-republican-convention-2024-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/15/mitch-mcconnell-republican-convention-2024-trump</guid>
-      <pubDate>Mon, 15 Jul 2024 20:08:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Von der Leyen will skip Britain’s biggest European summit in years					</title>
-      <link>https://www.politico.eu/article/von-der-leyen-keir-starmer-european-political-community-summit/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/von-der-leyen-keir-starmer-european-political-community-summit/</guid>
-      <pubDate>Mon, 15 Jul 2024 19:47:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
