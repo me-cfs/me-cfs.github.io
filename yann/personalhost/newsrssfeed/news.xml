@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Global tech outage takes down banks, media, airports					</title>
+      <link>https://www.politico.eu/article/global-tech-outage-affects-banks-media-airports/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/global-tech-outage-affects-banks-media-airports/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:59:58 -0000</pubDate>
+    </item>
+    <item>
       <title>White House awards law enforcement combatting illicit drug trafficking</title>
       <link>https://thehill.com/homenews/administration/4781685-white-house-awards-law-enforcement-combatting-drug-trafficking/</link>
       <author>Healthcare - The Hill</author>
@@ -1459,13 +1467,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/hard-measure-support-political-violence/story?id=111991539</guid>
       <pubDate>Tue, 16 Jul 2024 20:23:14 -0000</pubDate>
-    </item>
-    <item>
-      <title>'Very high' COVID levels detected in 7 states</title>
-      <link>https://thehill.com/policy/healthcare/4775575-very-high-covid-levels-california-texas-florida-maryland/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4775575&amp;preview=true&amp;preview_id=4775575/</guid>
-      <pubDate>Tue, 16 Jul 2024 20:09:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
