@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>FIFA delays decision on Israel's suspension until after Paris Olympics</title>
+      <link>https://www.nytimes.com/athletic/5646818/2024/07/19/israel-fifa-paris-olympics/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/5646818/2024/07/19/israel-fifa-paris-olympics/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:42:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Censorship is slowing AI progress in China</title>
       <link>https://www.axios.com/2024/07/19/china-ai-race-government-censorship</link>
       <author>Axios</author>
@@ -1456,13 +1463,6 @@
       <author>RTS Headlines</author>
       <guid>28571338</guid>
       <pubDate>Tue, 16 Jul 2024 15:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump echoes Kennedy's vaccine conspiracies in leaked phone call</title>
-      <link>https://www.axios.com/2024/07/16/trump-rfk-jr-vaccines-leaked-phone-call</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/16/trump-rfk-jr-vaccines-leaked-phone-call</guid>
-      <pubDate>Tue, 16 Jul 2024 14:49:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
