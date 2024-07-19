@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Mass IT outage affects airlines, media and banks</title>
+      <link>https://www.bbc.com/news/articles/cv2g5lvwkl2o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cv2g5lvwkl2o#0</guid>
+      <pubDate>Fri, 19 Jul 2024 06:28:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Why Dana White, not Melania Trump, is introducing Donald Trump at the RNC</title>
       <link>https://www.axios.com/2024/07/18/dana-white-rnc-trump-melania</link>
       <author>Axios</author>
@@ -1458,13 +1465,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/french-government-officially-resign-ushering-indefinite-transition-period-france-gabriel-attal-emmanuel-macron/</guid>
       <pubDate>Tue, 16 Jul 2024 13:53:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>What VP nominee J.D. Vance has said about Trump</title>
-      <link>https://www.axios.com/2024/07/16/jd-vance-trump-statements</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/16/jd-vance-trump-statements</guid>
-      <pubDate>Tue, 16 Jul 2024 13:40:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
