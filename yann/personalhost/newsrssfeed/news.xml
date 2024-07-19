@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Censorship is slowing AI progress in China</title>
+      <link>https://www.axios.com/2024/07/19/china-ai-race-government-censorship</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/19/china-ai-race-government-censorship</guid>
+      <pubDate>Fri, 19 Jul 2024 08:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Worldwide Tech Outage Impacts Banks, Airlines And Broadcasters</title>
       <link>https://www.huffpost.com/entry/microsoft-users-worldwide-widespread-outages-crowdstrike_n_669a18a7e4b086df0a297d8c</link>
       <author>WorldPost (Huffington)</author>
@@ -1456,13 +1463,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/16/trump-rfk-jr-vaccines-leaked-phone-call</guid>
       <pubDate>Tue, 16 Jul 2024 14:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most of Gen Z using TikTok for health advice: Survey</title>
-      <link>https://thehill.com/policy/technology/4774795-tiktok-gen-z-health-advice/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4774795</guid>
-      <pubDate>Tue, 16 Jul 2024 14:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
