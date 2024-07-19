@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What We Know About the Global Microsoft Outage</title>
+      <link>https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html</guid>
+      <pubDate>Fri, 19 Jul 2024 21:27:17 +0000</pubDate>
+    </item>
+    <item>
       <title>DOJ says largest housing provider for migrant kids engaged in pervasive sexual abuse</title>
       <link>https://thehill.com/policy/healthcare/4782611-southwest-key-programs-sexual-abuse-doj-lawsuit/</link>
       <author>Healthcare - The Hill</author>
@@ -1459,14 +1466,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ecb-to-leave-rates-on-hold-in-hope-for-quiet-summer/</guid>
       <pubDate>Wed, 17 Jul 2024 02:42:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Israel’s ultra-Orthodox headache					</title>
-      <link>https://www.politico.eu/article/israel-ultra-orthodox-jewish-minority-opinion-religion-government-study-hamas-massacre-gaza/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/israel-ultra-orthodox-jewish-minority-opinion-religion-government-study-hamas-massacre-gaza/</guid>
-      <pubDate>Wed, 17 Jul 2024 02:28:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
