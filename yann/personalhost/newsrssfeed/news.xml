@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How Project 2025 would change American life</title>
+      <link>https://www.axios.com/2024/07/20/project-2025-trump-what-to-know</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/20/project-2025-trump-what-to-know</guid>
+      <pubDate>Sat, 20 Jul 2024 19:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sununu signs bill barring gender-affirming surgeries for youth into law</title>
       <link>https://thehill.com/policy/healthcare/4783681-sununu-bill-barring-gender-affirming-surgeries-youth/</link>
       <author>Healthcare - The Hill</author>
@@ -1466,13 +1473,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/17/style/rawdog-flights-term.html</guid>
       <pubDate>Wed, 17 Jul 2024 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jack Black axes tour over bandmate's Trump comment</title>
-      <link>https://www.bbc.com/news/articles/c0dmx4p4m0lo</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c0dmx4p4m0lo#0</guid>
-      <pubDate>Wed, 17 Jul 2024 15:40:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
