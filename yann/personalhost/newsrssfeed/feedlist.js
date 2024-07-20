@@ -3,24 +3,7 @@
 // Basic Info
 // name: The name of the news source, displayed under title
 // url: "url" the URL of the RSS feed to import from
-// off: true/false If True, stops adding items from the feed
 
-// Date
-// cutoffDate: Only consider items for import if newer than curoffDate
-
-// Title
-// exclusionWords: [] If any found in title, item excluded
-// inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
-// undefinedTitle: "" If this var defined, and no title tag provided, this string replaces it
-// titleHide: [] Contains strings that should be cut off from title
-
-// Contents
-// inclusionWords: [] If no title found, and has items, only include if contents tag matches with one of these
-// getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
-
-// Link
-// getContentLink: "" If this var defined, and there is content tag, link tag will be replaced by first url in content that finds this link
-// urlBlacklist: [] if any base urls here match with item link, item not included
 
 module.exports = [
   { 
@@ -38,7 +21,7 @@ module.exports = [
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
-    off: false,
+    off: true,
   },
   { 
     name: 'Politico EUROPE', 
@@ -98,6 +81,7 @@ module.exports = [
     off: false,
     exclusionWords: ['Hurricane', 'Tropical Storm',
       'Paramount', 'Skydance', 'Fact Check: Biden',
+      'fans',
     ],
   },
   { 
@@ -118,7 +102,7 @@ module.exports = [
   { 
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia'],
+    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer'],
   },
   {
     name: 'NYT Most Viewed',
