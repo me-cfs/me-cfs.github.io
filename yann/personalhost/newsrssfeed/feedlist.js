@@ -94,6 +94,7 @@ module.exports = [
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
+    exclusionWords: ['bouchon'],
   },
   { 
     name: 'ME/LC News',
