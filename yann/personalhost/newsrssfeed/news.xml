@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harris endorsements: VP amasses support after Biden exits race</title>
+      <link>https://www.axios.com/2024/07/22/kamala-harris-house-senate-governor-endorsements</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/22/kamala-harris-house-senate-governor-endorsements</guid>
+      <pubDate>Mon, 22 Jul 2024 19:50:40 +0000</pubDate>
+    </item>
+    <item>
       <title>How Harris’s polling numbers compare to Biden’s | 538 Politics Podcast</title>
       <link>https://abcnews.go.com/538/video/harriss-polling-numbers-compare-bidens-538-politics-podcast-112174281</link>
       <author>Fivethirtyeight</author>
@@ -31,6 +38,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/video/harris-time-campaign-538-politics-podcast-112173882</guid>
       <pubDate>Mon, 22 Jul 2024 19:02:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Kamala Harris Performs Against Donald Trump in the Polls</title>
+      <link>https://www.nytimes.com/2024/07/21/us/politics/kamala-harris-trump-polls.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/21/us/politics/kamala-harris-trump-polls.html</guid>
+      <pubDate>Mon, 22 Jul 2024 18:13:17 +0000</pubDate>
     </item>
     <item>
       <title>Nancy Pelosi endorses Kamala Harris to replace Biden as Democratic nominee</title>
@@ -1450,20 +1464,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4779975</guid>
       <pubDate>Thu, 18 Jul 2024 17:38:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>How is the Republican Party talking about the American dream?</title>
-      <link>https://abcnews.go.com/538/video/republican-party-talking-american-dream-538-politics-podcast-112068792</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/republican-party-talking-american-dream-538-politics-podcast-112068792</guid>
-      <pubDate>Thu, 18 Jul 2024 17:25:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>How is the Republican Party trying to broaden its appeal?</title>
-      <link>https://abcnews.go.com/538/video/republican-party-broaden-appeal-538-politics-podcast-112068639</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/republican-party-broaden-appeal-538-politics-podcast-112068639</guid>
-      <pubDate>Thu, 18 Jul 2024 17:10:42 -0000</pubDate>
     </item>
   </channel>
 </rss>
