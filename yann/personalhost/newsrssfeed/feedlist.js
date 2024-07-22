@@ -103,7 +103,9 @@ module.exports = [
   { 
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer'],
+    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer', 'Lausanne', 'Embolo',
+      'Zakaria',
+    ],
   },
   {
     name: 'NYT Most Viewed',
@@ -112,5 +114,6 @@ module.exports = [
   {
     name: 'Euronews France -- Le plus grand titre',
     url: 'https://politepol.com/fd/LcHcJqeI4RKt.xml',
+    off: true,
   },
 ];
