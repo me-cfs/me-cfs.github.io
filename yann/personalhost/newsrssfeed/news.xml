@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Macron slaps back at left’s bid to govern France					</title>
+      <link>https://www.politico.eu/article/emmanual-macron-france-nfp-president-europe-paris-government-snap-elections/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/emmanual-macron-france-nfp-president-europe-paris-government-snap-elections/</guid>
+      <pubDate>Tue, 23 Jul 2024 22:26:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>How retired Matildas striker earned Olympic comeback</title>
+      <link>https://www.bbc.com/news/articles/clmy2yppmmjo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/clmy2yppmmjo#0</guid>
+      <pubDate>Tue, 23 Jul 2024 22:13:50 GMT</pubDate>
+    </item>
+    <item>
       <title>A "disruptive" Capitol Hill protest spikes security fears around Netanyahu speech</title>
       <link>https://www.axios.com/2024/07/23/capitol-gaza-protest-netanyahu-security-concerns</link>
       <author>Axios</author>
@@ -1445,20 +1460,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/microsoft-users-worldwide-widespread-outages-crowdstrike_n_669a18a7e4b086df0a297d8c</guid>
       <pubDate>Fri, 19 Jul 2024 21:31:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>What We Know About the Global Microsoft Outage</title>
-      <link>https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html</guid>
-      <pubDate>Fri, 19 Jul 2024 21:27:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike-Microsoft Outage: What Caused the IT Meltdown</title>
-      <link>https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html</guid>
-      <pubDate>Fri, 19 Jul 2024 21:19:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
