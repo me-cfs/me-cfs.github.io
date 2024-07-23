@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>GOP mulls shaky legal action over Biden-Harris swap</title>
+      <link>https://www.axios.com/2024/07/23/biden-harris-swap-republican-legal-action-take-to-court</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/23/biden-harris-swap-republican-legal-action-take-to-court</guid>
+      <pubDate>Tue, 23 Jul 2024 19:59:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Is Kamala Harris the presumptive Democratic nominee? Not quite.</title>
       <link>https://abcnews.go.com/538/kamala-harris-presumptive-democratic-nominee/story?id=112198203</link>
       <author>Fivethirtyeight</author>
@@ -1417,6 +1424,13 @@
       <pubDate>Fri, 19 Jul 2024 21:27:17 +0000</pubDate>
     </item>
     <item>
+      <title>CrowdStrike-Microsoft Outage: What Caused the IT Meltdown</title>
+      <link>https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html</guid>
+      <pubDate>Fri, 19 Jul 2024 21:19:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump calls for UAW chief Shawn Fain to be "fired immediately"</title>
       <link>https://www.axios.com/2024/07/19/trump-uaw-president-shawn-fain-fire</link>
       <author>Axios</author>
@@ -1443,20 +1457,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/18/nyregion/fandango-j-michael-cline-dead.html</guid>
       <pubDate>Fri, 19 Jul 2024 19:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le secteur du chocolat mise sur le jus de cacao et l'endocarpe, plus sains et durables</title>
-      <link>https://www.rts.ch/info/economie/2024/article/le-secteur-du-chocolat-mise-sur-le-jus-de-cacao-et-l-endocarpe-plus-sains-et-durables-28573544.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28573544</guid>
-      <pubDate>Fri, 19 Jul 2024 19:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Friday's massive air travel delays, mapped</title>
-      <link>https://www.axios.com/2024/07/19/fridays-massive-air-travel-delays-mapped</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/19/fridays-massive-air-travel-delays-mapped</guid>
-      <pubDate>Fri, 19 Jul 2024 18:48:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
