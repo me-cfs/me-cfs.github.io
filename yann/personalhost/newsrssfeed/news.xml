@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Bob Menendez to resign Aug. 20</title>
+      <link>https://www.axios.com/2024/07/23/menendez-resign</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/23/menendez-resign</guid>
+      <pubDate>Tue, 23 Jul 2024 18:31:14 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						No to Orbán, yes to Meloni. European Parliament hands out top jobs but cuts out (parts of) the far right					</title>
       <link>https://www.politico.eu/article/doors-wide-open-to-giorgia-meloni-right-wing-group-in-eu-parliaments-top-jobs-allocation-viktor-orban-cut-from-positions-italy-hungary/</link>
@@ -1453,13 +1460,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/global-tech-outage-affects-banks-media-airports/</guid>
       <pubDate>Fri, 19 Jul 2024 15:59:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Taylor Swift's tour could contribute to European inflation</title>
-      <link>https://www.axios.com/2024/07/19/taylor-swift-eras-tour-europe-economy-inflation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/19/taylor-swift-eras-tour-europe-economy-inflation</guid>
-      <pubDate>Fri, 19 Jul 2024 15:39:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
