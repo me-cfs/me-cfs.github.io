@@ -5,6 +5,34 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/25/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/79j369sut27dlq2n5tfu8193mf2sc666</guid>
+      <pubDate>Thu, 25 Jul 2024 13:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/25/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/qmemstp6q1kfv9emspofm1aktm3qviqq</guid>
+      <pubDate>Thu, 25 Jul 2024 13:57:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAL’s cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/25/kals-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/gua1k8uae3q5mfkhaa4ejh1ij3jfht56</guid>
+      <pubDate>Thu, 25 Jul 2024 13:57:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Rep. Jim Clyburn says Democrats need a “lovefest” at DNC</title>
+      <link>https://www.axios.com/2024/07/25/jim-clyburn-democratic-convention-harris-lovefest</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/25/jim-clyburn-democratic-convention-harris-lovefest</guid>
+      <pubDate>Thu, 25 Jul 2024 13:54:33 +0000</pubDate>
+    </item>
+    <item>
       <title>This week’s covers</title>
       <link>https://www.economist.com/the-world-this-week/2024/07/25/this-weeks-covers</link>
       <author>Economist the World this Week</author>
@@ -1411,34 +1439,6 @@
       <author>Climate Change - The Hill</author>
       <guid>https://thehill.com/?p=4782252</guid>
       <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prediction markets notch win with Biden's drop out</title>
-      <link>https://www.axios.com/2024/07/22/prediction-markets-biden-drop-out</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/22/prediction-markets-biden-drop-out</guid>
-      <pubDate>Mon, 22 Jul 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Olympic silver medalists seem less happy than bronze winners</title>
-      <link>https://www.axios.com/local/des-moines/2024/07/22/olympics-medals-silver-bronze-happiness</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/local/des-moines/2024/07/22/olympics-medals-silver-bronze-happiness</guid>
-      <pubDate>Mon, 22 Jul 2024 11:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Obama Hasn’t Endorsed Harris</title>
-      <link>https://www.nytimes.com/2024/07/21/us/politics/why-obama-hasnt-endorsed-harris.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/21/us/politics/why-obama-hasnt-endorsed-harris.html</guid>
-      <pubDate>Mon, 22 Jul 2024 11:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Republicans want to take Florida educational model nationwide with party platform</title>
-      <link>https://www.axios.com/local/miami/2024/07/22/republican-platform-florida-education</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/local/miami/2024/07/22/republican-platform-florida-education</guid>
-      <pubDate>Mon, 22 Jul 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
