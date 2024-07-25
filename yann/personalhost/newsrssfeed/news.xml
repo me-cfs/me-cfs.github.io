@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Moscow impedes ‘anti-Russian’ YouTube					</title>
+      <link>https://www.politico.eu/article/russia-deliberately-slows-down-anti-russian-youtube/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/russia-deliberately-slows-down-anti-russian-youtube/</guid>
+      <pubDate>Thu, 25 Jul 2024 19:06:27 -0000</pubDate>
+    </item>
+    <item>
       <title>Mental health inequities projected to cost US $14 trillion over 16 years, new study says</title>
       <link>https://thehill.com/policy/healthcare/4792942-mental-health-inequities-cost/</link>
       <author>Healthcare - The Hill</author>
@@ -1123,6 +1131,13 @@
       <pubDate>Tue, 23 Jul 2024 11:44:56 +0000</pubDate>
     </item>
     <item>
+      <title>Kamala Harris Rapidly Picks Up Democratic Support as 2024 Race Is Reborn</title>
+      <link>https://www.nytimes.com/2024/07/21/us/politics/harris-democrats-campaign-nominee-biden.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/21/us/politics/harris-democrats-campaign-nominee-biden.html</guid>
+      <pubDate>Tue, 23 Jul 2024 11:44:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Colombia's President Signs Bill To Ban Bullfighting</title>
       <link>https://www.huffpost.com/entry/colombia-bullfighting-ban-bill_n_669f8846e4b08943f2a0f66a</link>
       <author>WorldPost (Huffington)</author>
@@ -1423,20 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/22/kamala-harris-senate-republicans-nrsc-president</guid>
       <pubDate>Mon, 22 Jul 2024 19:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Does Harris have enough time to campaign? | 538 Politics Podcast</title>
-      <link>https://abcnews.go.com/538/video/harris-time-campaign-538-politics-podcast-112173882</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/harris-time-campaign-538-politics-podcast-112173882</guid>
-      <pubDate>Mon, 22 Jul 2024 19:02:12 -0000</pubDate>
-    </item>
-    <item>
-      <title>How Kamala Harris Performs Against Donald Trump in the Polls</title>
-      <link>https://www.nytimes.com/2024/07/21/us/politics/kamala-harris-trump-polls.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/21/us/politics/kamala-harris-trump-polls.html</guid>
-      <pubDate>Mon, 22 Jul 2024 18:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
