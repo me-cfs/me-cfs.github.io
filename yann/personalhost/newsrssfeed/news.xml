@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia finds shipwreck 55 years after deadly disaster</title>
+      <link>https://www.bbc.com/news/articles/cd1eprng96eo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cd1eprng96eo#0</guid>
+      <pubDate>Thu, 25 Jul 2024 01:48:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Speaker Johnson, Netanyahu exchange gifts during Capitol visit</title>
       <link>https://thehill.com/homenews/4791750-mike-johnson-benjamin-netanyahu-exchange-gifts-capitol/</link>
       <author>Climate Change - The Hill</author>
       <guid>https://thehill.com/?p=4791750</guid>
       <pubDate>Thu, 25 Jul 2024 01:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can Deadpool and Wolverine spark Marvel's revival?</title>
+      <link>https://www.bbc.com/news/articles/cx82r5wdz22o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cx82r5wdz22o#0</guid>
+      <pubDate>Thu, 25 Jul 2024 00:01:09 GMT</pubDate>
     </item>
     <item>
       <title>Biden isn't the first president to drop a reelection bid</title>
@@ -31,6 +45,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/24/biden-netanyahu-gaza-hostage-ceasefire-deal-meeting</guid>
       <pubDate>Wed, 24 Jul 2024 23:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Six guests arrested, charged for "disrupting" Netanyahu speech to Congress</title>
+      <link>https://www.axios.com/2024/07/24/netanyahu-speech-guests-arrested-charged-t-shirts</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/24/netanyahu-speech-guests-arrested-charged-t-shirts</guid>
+      <pubDate>Wed, 24 Jul 2024 22:50:36 +0000</pubDate>
     </item>
     <item>
       <title>Appeals court dismisses GOP states' attempt to intervene in mifepristone challenge</title>
@@ -204,6 +225,13 @@
       <author>RTS Headlines</author>
       <guid>28579085</guid>
       <pubDate>Wed, 24 Jul 2024 12:29:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s Lies, Debunked by Data</title>
+      <link>https://www.nytimes.com/2024/07/24/opinion/trump-lies-charts-data.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/24/opinion/trump-lies-charts-data.html</guid>
+      <pubDate>Wed, 24 Jul 2024 11:52:39 +0000</pubDate>
     </item>
     <item>
       <title>How 15 years of stagnant federal minimum wage affects hourly workers</title>
@@ -1420,34 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/21/kamala-harris-nomination-president-statement</guid>
       <pubDate>Sun, 21 Jul 2024 20:58:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Kamala Harris works phones, trying to secure presidential nomination</title>
-      <link>https://www.axios.com/2024/07/21/kamala-harris-democrats-president-nomination</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/21/kamala-harris-democrats-president-nomination</guid>
-      <pubDate>Sun, 21 Jul 2024 20:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Republicans pile on Biden to resign after he quits 2024 race</title>
-      <link>https://www.axios.com/2024/07/21/republicans-biden-drops-out-race-resign</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/21/republicans-biden-drops-out-race-resign</guid>
-      <pubDate>Sun, 21 Jul 2024 20:54:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>What's next for Democrats, delegates to replace Biden on the ticket</title>
-      <link>https://www.axios.com/2024/07/21/kamala-harris-democratic-nomination-biden</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/21/kamala-harris-democratic-nomination-biden</guid>
-      <pubDate>Sun, 21 Jul 2024 20:51:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump on Biden's withdrawal: "Crooked Joe Biden was not fit to run"</title>
-      <link>https://www.axios.com/2024/07/21/biden-drops-out-trump-response-truth-social</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/21/biden-drops-out-trump-response-truth-social</guid>
-      <pubDate>Sun, 21 Jul 2024 20:48:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
