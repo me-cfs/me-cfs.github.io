@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s covers</title>
+      <link>https://www.economist.com/the-world-this-week/2024/07/25/this-weeks-covers</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/2rnc8ubv635qlge5na8ql6arteoe81uc</guid>
+      <pubDate>Thu, 25 Jul 2024 13:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Sen. Chris Murphy says Harris endorsements weren't "pre-organized"</title>
+      <link>https://www.axios.com/2024/07/25/chris-murphy-kamala-harris-endorsements</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/25/chris-murphy-kamala-harris-endorsements</guid>
+      <pubDate>Thu, 25 Jul 2024 12:53:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Exclusive: Jason Miller says a Trump-Harris debate "will happen"</title>
       <link>https://www.axios.com/2024/07/25/trump-harris-debate-stephen-miller-2024</link>
       <author>Axios</author>
@@ -1425,23 +1439,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/18/us/politics/biden-election-drop-out.html</guid>
       <pubDate>Mon, 22 Jul 2024 10:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden Made a Courageous Choice in Dropping Out</title>
-      <link>https://www.nytimes.com/2024/07/21/opinion/editorials/joe-biden-drops-out-courage.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/21/opinion/editorials/joe-biden-drops-out-courage.html</guid>
-      <pubDate>Mon, 22 Jul 2024 10:13:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-                                                    
-                              120 ans d'histoire olympique : qui a remporté le plus de médailles ? 
-                          </title>
-      <link>https://fr.euronews.com/2024/07/22/120-ans-dhistoire-olympique-qui-a-remporte-le-plus-de-medailles</link>
-      <author>Euronews France -- Le plus grand titre</author>
-      <guid>https://fr.euronews.com/2024/07/22/120-ans-dhistoire-olympique-qui-a-remporte-le-plus-de-medailles</guid>
-      <pubDate>Mon, 22 Jul 2024 10:08:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
