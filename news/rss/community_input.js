@@ -77,6 +77,11 @@ module.exports = [
     cutoffDate: new Date('2024-07-16'),
     inclusionWords: ['ME/CFS', 'CFS', 'Long Covid', 'Myalgic'],
   },
+  {
+    name: 'Making Sense of ME/CFS',
+    url: 'https://mecfs.substack.com/feed',
+    cutoffDate: new Date('2024-07-24'),
+  },
   
   
   // Add more feeds with their respective cutoff dates and exclusion words as needed
