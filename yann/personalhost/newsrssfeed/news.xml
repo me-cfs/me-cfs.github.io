@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why more U.S. adults are choosing not to have kids</title>
+      <link>https://www.axios.com/2024/07/25/adults-no-children-why-pew-data</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/25/adults-no-children-why-pew-data</guid>
+      <pubDate>Thu, 25 Jul 2024 14:22:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Politics</title>
       <link>https://www.economist.com/the-world-this-week/2024/07/25/politics</link>
       <author>Economist the World this Week</author>
@@ -1432,13 +1439,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/22/wildfires-erupt-california-canada-heat-wave</guid>
       <pubDate>Mon, 22 Jul 2024 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Climate inflation is eating your paycheck — and it’s only going to get worse </title>
-      <link>https://thehill.com/opinion/energy-environment/4782252-climate-inflation-economic-impact/</link>
-      <author>Climate Change - The Hill</author>
-      <guid>https://thehill.com/?p=4782252</guid>
-      <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
