@@ -44,6 +44,7 @@ module.exports = [
     name: 'WorldPost (Huffington)',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
+    exclusionWords: ['Hilarious'],
   },
   { 
     name: 'Monbiot Guardian',
