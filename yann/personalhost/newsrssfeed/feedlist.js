@@ -81,7 +81,7 @@ module.exports = [
     off: false,
     exclusionWords: ['Hurricane', 'Tropical Storm',
       'Paramount', 'Skydance', 'Fact Check: Biden',
-      'fans', 'collection:', 'peggy',
+      'fans', 'collection:', 'peggy', 'Simone', 'LeBron',
     ],
   },
   { 
