@@ -75,6 +75,7 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
     off: false,
+    exclusionWords: ['Podcast', 'Quiz'],
   },
   { 
     name: 'Axios',
