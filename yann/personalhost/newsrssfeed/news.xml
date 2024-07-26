@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian hockey star amputates finger to play at Olympics</title>
+      <link>https://www.bbc.com/news/articles/ckmg7ngkgjeo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/ckmg7ngkgjeo#0</guid>
+      <pubDate>Fri, 26 Jul 2024 04:37:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Fierce wildfires force thousands to evacuate in California, Canada</title>
       <link>https://www.axios.com/2024/07/25/wildfires-california-canada-evacuations-jasper</link>
       <author>Axios</author>
@@ -17,6 +24,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/26/israel-netanyahu-harris-ceasefire-hostage-deal-talks</guid>
       <pubDate>Fri, 26 Jul 2024 04:01:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Lot of Major Shifts Beneath the Surface in a New Trump-Harris Poll</title>
+      <link>https://www.nytimes.com/2024/07/25/upshot/poll-kamala-harris-trump.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/25/upshot/poll-kamala-harris-trump.html</guid>
+      <pubDate>Fri, 26 Jul 2024 03:31:43 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1423,20 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/23/trump-harris-message-fundraising</guid>
       <pubDate>Tue, 23 Jul 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Summer Olympics 2024 uniforms are fit for a Paris runway</title>
-      <link>https://www.axios.com/2024/07/23/olympic-games-uniform-paris-fashion-ralph-lauren-lululemon</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/23/olympic-games-uniform-paris-fashion-ralph-lauren-lululemon</guid>
-      <pubDate>Tue, 23 Jul 2024 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris says she looks forward to accepting Democrats' nomination soon</title>
-      <link>https://www.axios.com/2024/07/23/kamala-harris-nomination-delegates-dnc</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/23/kamala-harris-nomination-delegates-dnc</guid>
-      <pubDate>Tue, 23 Jul 2024 05:59:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
