@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Israel sends Gaza hostage and ceasefire proposal to U.S.</title>
+      <link>https://www.axios.com/2024/07/27/israel-gaza-hostage-deal</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/27/israel-gaza-hostage-deal</guid>
+      <pubDate>Sat, 27 Jul 2024 15:26:53 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						The EU says it wants food security. It really wants exports.					</title>
       <link>https://www.politico.eu/article/eu-food-security-affordability-exports-farming-agricultural-agenda/</link>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/24/trump-rallies-secret-service-shift</guid>
       <pubDate>Wed, 24 Jul 2024 03:07:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Race Against Harris May Bring Out His Harshest Instincts</title>
-      <link>https://www.nytimes.com/2024/07/23/us/politics/trump-harris-attack-lines.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/23/us/politics/trump-harris-attack-lines.html</guid>
-      <pubDate>Wed, 24 Jul 2024 02:57:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
