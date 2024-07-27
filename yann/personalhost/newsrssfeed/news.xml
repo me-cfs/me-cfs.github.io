@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This is AI's brain on AI</title>
+      <link>https://www.axios.com/2024/07/27/synthetic-ai-data-effects</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/27/synthetic-ai-data-effects</guid>
+      <pubDate>Sat, 27 Jul 2024 10:55:00 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						POLITICO Confidential: A restful summer? Not in the world of politics					</title>
       <link>https://www.politico.eu/newsletter/politico-confidential/a-restful-summer-not-in-the-world-of-politics/</link>
@@ -1427,13 +1434,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4789275</guid>
       <pubDate>Wed, 24 Jul 2024 00:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hillary Clinton: How Kamala Harris Can Win and Make History</title>
-      <link>https://www.nytimes.com/2024/07/23/opinion/kamala-harris-donald-trump.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/23/opinion/kamala-harris-donald-trump.html</guid>
-      <pubDate>Wed, 24 Jul 2024 00:01:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
