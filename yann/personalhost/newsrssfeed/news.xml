@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Un loisir dangereux: pourquoi la randonnée est-elle si périlleuse?</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/un-loisir-dangereux-pourquoi-la-randonnee-est-elle-si-perilleuse-28580510.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28580510</guid>
+      <pubDate>Sat, 27 Jul 2024 08:25:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Les producteurs de patates tirent la sonnette d'alarme à cause de l'instabilité météorologique</title>
       <link>https://www.rts.ch/info/suisse/2024/article/les-producteurs-de-patates-tirent-la-sonnette-d-alarme-a-cause-de-l-instabilite-meteorologique-28579666.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1425,14 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/23/capitol-gaza-protest-netanyahu-security-concerns</guid>
       <pubDate>Tue, 23 Jul 2024 22:39:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron slaps back at left’s bid to govern France					</title>
-      <link>https://www.politico.eu/article/emmanual-macron-france-nfp-president-europe-paris-government-snap-elections/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/emmanual-macron-france-nfp-president-europe-paris-government-snap-elections/</guid>
-      <pubDate>Tue, 23 Jul 2024 22:26:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
