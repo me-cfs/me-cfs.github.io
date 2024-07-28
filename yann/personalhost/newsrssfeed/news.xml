@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Media rebounds on seismic news cycle</title>
+      <link>https://www.axios.com/2024/07/28/media-news-cycle-harris-trump-biden</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/28/media-news-cycle-harris-trump-biden</guid>
+      <pubDate>Sun, 28 Jul 2024 12:34:32 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						‘Quoi? What? Wat?’ Languages and demographics of Brussels 					</title>
       <link>https://www.politico.eu/article/languages-demographics-brussels/</link>
@@ -1428,13 +1435,6 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/5655203/2024/07/24/ali-riley-new-zealand-olympics/</guid>
       <pubDate>Wed, 24 Jul 2024 11:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Harris blasts Trump's Mar-A-Lago meeting with oil executives</title>
-      <link>https://www.axios.com/2024/07/24/kamala-harris-opening-energy-move</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/24/kamala-harris-opening-energy-move</guid>
-      <pubDate>Wed, 24 Jul 2024 10:34:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
