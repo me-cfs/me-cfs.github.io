@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						‘Quoi? What? Wat?’ Languages and demographics of Brussels 					</title>
+      <link>https://www.politico.eu/article/languages-demographics-brussels/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/languages-demographics-brussels/</guid>
+      <pubDate>Sun, 28 Jul 2024 10:35:14 -0000</pubDate>
+    </item>
+    <item>
       <title>News in Brief for the week of July 21st</title>
       <link>https://www.s4me.info/threads/news-in-brief-july-2024.39237/#post-545544/</link>
       <author>ME/LC News</author>
@@ -1427,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/24/kamala-harris-opening-energy-move</guid>
       <pubDate>Wed, 24 Jul 2024 10:34:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>"The house is on fire": U.S. officials confront Russia, China threat to West</title>
-      <link>https://www.axios.com/2024/07/24/china-russia-nato-military-challenges</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/24/china-russia-nato-military-challenges</guid>
-      <pubDate>Wed, 24 Jul 2024 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
