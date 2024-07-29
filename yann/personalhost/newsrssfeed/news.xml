@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Iowa's six-week abortion ban takes effect</title>
+      <link>https://thehill.com/policy/healthcare/4797941-iowa-abortion-ban-effective/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4797941</guid>
+      <pubDate>Mon, 29 Jul 2024 15:30:59 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						French fiber optic cables hit by ‘major sabotage’ in second Olympics attack					</title>
       <link>https://www.politico.eu/article/french-fiber-optic-cable-hit-with-alleged-acts-of-sabotage/</link>
@@ -1433,13 +1440,6 @@
       <author>RTS Headlines</author>
       <guid>28579786</guid>
       <pubDate>Thu, 25 Jul 2024 10:57:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slight Temperature Drop Makes Tuesday The World's Second-Hottest Day</title>
-      <link>https://www.huffpost.com/entry/climate-global-heat_n_66a21f73e4b0af62b424d2ed</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/climate-global-heat_n_66a21f73e4b0af62b424d2ed</guid>
-      <pubDate>Thu, 25 Jul 2024 10:29:23 -0000</pubDate>
     </item>
   </channel>
 </rss>
