@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Israel conducts airstrike in Beirut targeting Hezbollah commander</title>
+      <link>https://www.axios.com/2024/07/30/israel-airstrike-beirut-hezbollah-commander</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/30/israel-airstrike-beirut-hezbollah-commander</guid>
+      <pubDate>Tue, 30 Jul 2024 17:30:53 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Greek prosecutor closes spyware scandal probe, infuriating opposition and victims					</title>
       <link>https://www.politico.eu/article/greek-prosecutor-closes-spyware-scandal-probe-infuriating-opposition/</link>
@@ -1437,13 +1444,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/24/us/politics/kamala-harris-democrats-nomination.html</guid>
       <pubDate>Fri, 26 Jul 2024 10:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obamas endorse Harris</title>
-      <link>https://www.axios.com/2024/07/26/kamala-harris-obama-endorses-election-2024</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/26/kamala-harris-obama-endorses-election-2024</guid>
-      <pubDate>Fri, 26 Jul 2024 09:46:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
