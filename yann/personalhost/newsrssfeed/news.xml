@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Tierna Davidson to miss USWNT's final Olympic group stage game vs. Australia</title>
+      <link>https://www.nytimes.com/athletic/5668717/2024/07/30/tierna-davidson-injury-uswnt-australia-olympics/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/5668717/2024/07/30/tierna-davidson-injury-uswnt-australia-olympics/</guid>
+      <pubDate>Tue, 30 Jul 2024 15:07:22 GMT</pubDate>
+    </item>
+    <item>
       <title>L'ATE veut des liaisons de train internationales directes depuis Genève</title>
       <link>https://www.rts.ch/info/suisse/2024/article/l-ate-veut-des-liaisons-de-train-internationales-directes-depuis-geneve-28585225.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -335,6 +342,13 @@
       <author>RTS Headlines</author>
       <guid>28584311</guid>
       <pubDate>Mon, 29 Jul 2024 18:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scammers Are Targeting Older Americans and Their Retirement Savings</title>
+      <link>https://www.nytimes.com/2024/07/29/business/retirement-savings-scams.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/29/business/retirement-savings-scams.html</guid>
+      <pubDate>Mon, 29 Jul 2024 18:02:14 +0000</pubDate>
     </item>
     <item>
       <title>FDA approves blood test for colorectal cancer</title>
@@ -1430,20 +1444,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/25/wildfires-california-canada-evacuations-jasper</guid>
       <pubDate>Fri, 26 Jul 2024 04:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu concerned Harris' comments may harm hostage and ceasefire deal, officials say</title>
-      <link>https://www.axios.com/2024/07/26/israel-netanyahu-harris-ceasefire-hostage-deal-talks</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/26/israel-netanyahu-harris-ceasefire-hostage-deal-talks</guid>
-      <pubDate>Fri, 26 Jul 2024 04:01:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Lot of Major Shifts Beneath the Surface in a New Trump-Harris Poll</title>
-      <link>https://www.nytimes.com/2024/07/25/upshot/poll-kamala-harris-trump.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/25/upshot/poll-kamala-harris-trump.html</guid>
-      <pubDate>Fri, 26 Jul 2024 03:31:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
