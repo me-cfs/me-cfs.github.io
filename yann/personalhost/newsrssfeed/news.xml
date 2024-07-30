@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: Kamala Harris bringing California ally to presidential campaign</title>
+      <link>https://www.axios.com/2024/07/30/brian-nelson-kamala-harris-presidential-campaign</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/07/30/brian-nelson-kamala-harris-presidential-campaign</guid>
+      <pubDate>Tue, 30 Jul 2024 22:05:04 +0000</pubDate>
+    </item>
+    <item>
       <title>CDC investing $10M into bird flu response among farmworkers</title>
       <link>https://thehill.com/policy/healthcare/4801257-cdc-bird-flu-response-farmworkers/</link>
       <author>Healthcare - The Hill</author>
@@ -1438,13 +1445,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/25/style/usha-vance-jd-vance-trump-political-wife.html</guid>
       <pubDate>Fri, 26 Jul 2024 14:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paris AI Action summit will focus on concrete action on AI safety</title>
-      <link>https://www.axios.com/2024/07/26/ai-action-summit-anne-bouverot-france</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/26/ai-action-summit-anne-bouverot-france</guid>
-      <pubDate>Fri, 26 Jul 2024 13:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
