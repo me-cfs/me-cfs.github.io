@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The potential of Tim Walz as the Harris VP pick</title>
+      <link>https://abcnews.go.com/538/video/potential-tim-walz-harris-vp-pick-112447066</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/potential-tim-walz-harris-vp-pick-112447066</guid>
+      <pubDate>Wed, 31 Jul 2024 18:40:55 -0000</pubDate>
+    </item>
+    <item>
+      <title>Could Josh Shapiro be the Harris VP pick?</title>
+      <link>https://abcnews.go.com/538/video/josh-shapiro-harris-vp-pick-112446898</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/josh-shapiro-harris-vp-pick-112446898</guid>
+      <pubDate>Wed, 31 Jul 2024 18:25:55 -0000</pubDate>
+    </item>
+    <item>
       <title>Fed holds interest rates steady, but hints at cut ahead</title>
       <link>https://www.axios.com/2024/07/31/fed-interest-rate-decision-july</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/07/31/fed-interest-rate-decision-july</guid>
       <pubDate>Wed, 31 Jul 2024 18:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does the VP pick impact a presidential candidate’s support?</title>
+      <link>https://abcnews.go.com/538/video/vp-pick-impact-presidential-candidates-support-112446749</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/vp-pick-impact-presidential-candidates-support-112446749</guid>
+      <pubDate>Wed, 31 Jul 2024 18:10:55 -0000</pubDate>
     </item>
     <item>
       <title>
@@ -1428,28 +1449,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/slovakia-proposes-technical-solution-to-blocked-russian-oil-supplies/</guid>
       <pubDate>Sun, 28 Jul 2024 02:35:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						World’s cartoonists on this week’s events 					</title>
-      <link>https://www.politico.eu/article/cartoons-olympics-us-election-2024-kamala-harris-donald-trump-joe-biden/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/cartoons-olympics-us-election-2024-kamala-harris-donald-trump-joe-biden/</guid>
-      <pubDate>Sun, 28 Jul 2024 02:20:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>JD Vance Stumbles in His Debut as Democrats Go on Offense</title>
-      <link>https://www.nytimes.com/2024/07/27/us/politics/jd-vance-trump.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/07/27/us/politics/jd-vance-trump.html</guid>
-      <pubDate>Sun, 28 Jul 2024 01:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Golan Heights attack raises concerns of war between Israel and Hezbollah</title>
-      <link>https://www.axios.com/2024/07/27/golan-heights-attack-israel-hezbollah-war</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/27/golan-heights-attack-israel-hezbollah-war</guid>
-      <pubDate>Sat, 27 Jul 2024 20:09:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
