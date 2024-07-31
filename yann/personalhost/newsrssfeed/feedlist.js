@@ -109,6 +109,7 @@ module.exports = [
     inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer', 'Lausanne', 'Embolo',
       'Zakaria',
     ],
+    exclusionWords: ['USWNT'],
   },
   {
     name: 'NYT Most Viewed',
