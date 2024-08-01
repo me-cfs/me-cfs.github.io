@@ -44,7 +44,7 @@ module.exports = [
     name: 'WorldPost (Huffington)',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['Hilarious'],
+    exclusionWords: ['Hilarious', 'Spirit of'],
   },
   { 
     name: 'Monbiot Guardian',
@@ -97,7 +97,7 @@ module.exports = [
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: ['bouchon'],
+    exclusionWords: ['bouchon', 'pour vous?'],
   },
   { 
     name: 'ME/LC News',
