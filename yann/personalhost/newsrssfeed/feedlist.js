@@ -28,6 +28,7 @@ module.exports = [
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
     off: false,
     urlBlacklist: ['politico.com']
+    exclusionWords: ['boxing']
   },
   { 
     name: 'Chapatte Dessins', 
@@ -108,7 +109,7 @@ module.exports = [
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
     inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer', 'Lausanne', 'Embolo',
-      'Zakaria',
+      'Zakaria', 'Germain', 
     ],
     exclusionWords: ['USWNT'],
   },
