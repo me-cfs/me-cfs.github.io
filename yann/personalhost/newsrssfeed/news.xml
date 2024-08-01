@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/08/01/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/qcs6q9perdc70st8gak8ums4c90ep503</guid>
+      <pubDate>Thu, 01 Aug 2024 14:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/08/01/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/7tptni2tnge98lgs3jo0vdevqq48r12q</guid>
+      <pubDate>Thu, 01 Aug 2024 14:27:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>KAL’s cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/08/01/kals-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/1q6edjirq703kmo37qqtsds3fg9cved4</guid>
+      <pubDate>Thu, 01 Aug 2024 14:27:18 +0000</pubDate>
+    </item>
+    <item>
       <title>A major ME charity shared an article gaslighting Maeve after her death</title>
       <link>https://www.thecanary.co/opinion/2024/07/31/maeve-inquest-me-association/</link>
       <author>ME/LC News</author>
@@ -39,6 +60,20 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ignore-critics-paris-olympics-are-hit/</guid>
       <pubDate>Thu, 01 Aug 2024 11:32:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>How Microsoft's earnings juiced Nvidia's stock</title>
+      <link>https://www.axios.com/2024/08/01/microsoft-earnings-nvidia-stock</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/01/microsoft-earnings-nvidia-stock</guid>
+      <pubDate>Thu, 01 Aug 2024 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Ackman's $25B IPO plan crumbled by investor doubts</title>
+      <link>https://www.axios.com/2024/08/01/bill-ackman-hedge-fund-failed-ipo</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/01/bill-ackman-hedge-fund-failed-ipo</guid>
+      <pubDate>Thu, 01 Aug 2024 11:31:00 +0000</pubDate>
     </item>
     <item>
       <title>Israel Claims Hamas Military Leader Killed In Airstrike</title>
@@ -1407,41 +1442,6 @@ NABJ interview</title>
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html</guid>
       <pubDate>Mon, 29 Jul 2024 12:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>French fiber optic cables cut in latest Olympics sabotage</title>
-      <link>https://www.axios.com/2024/07/29/france-fiber-optic-olympic-attack</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/29/france-fiber-optic-olympic-attack</guid>
-      <pubDate>Mon, 29 Jul 2024 12:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Record Number Of Openly LGBTQ Athletes Competing At 2024 Olympics</title>
-      <link>https://www.huffpost.com/entry/paris-olympics-lgbtq_n_66a77ca1e4b07ad170cff1a8</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/paris-olympics-lgbtq_n_66a77ca1e4b07ad170cff1a8</guid>
-      <pubDate>Mon, 29 Jul 2024 12:15:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's falling legal fees free up campaign cash</title>
-      <link>https://www.axios.com/2024/07/29/trump-falling-legal-costs-fundraising</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/29/trump-falling-legal-costs-fundraising</guid>
-      <pubDate>Mon, 29 Jul 2024 11:17:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Communication Lines Hit In France Amid Olympics, Follows Earlier Arson Attacks</title>
-      <link>https://www.huffpost.com/entry/olympics-communications-lines-france_n_66a76e38e4b0c2bbb131a7b4</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/olympics-communications-lines-france_n_66a76e38e4b0c2bbb131a7b4</guid>
-      <pubDate>Mon, 29 Jul 2024 10:46:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>Paris Olympics Swim Training Canceled For Second Day Over Seine's Water Quality</title>
-      <link>https://www.huffpost.com/entry/seine-water-quality-olympics_n_66a76c84e4b0cb371c893529</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/seine-water-quality-olympics_n_66a76c84e4b0cb371c893529</guid>
-      <pubDate>Mon, 29 Jul 2024 10:31:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
