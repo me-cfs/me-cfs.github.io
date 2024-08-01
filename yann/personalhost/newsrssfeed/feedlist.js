@@ -85,6 +85,7 @@ module.exports = [
       'Paramount', 'Skydance', 'Fact Check: Biden',
       'fans', 'collection:', 'peggy', 'Simone', 'LeBron',
       'NBA', 'NFL', 'Warner', 'soccer', 'GOAT',
+      'Glow Up',
     ],
   },
   { 
