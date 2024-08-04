@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Top U.S. general in the Middle East as U.S. and Israel prepare for possible Iran attack</title>
+      <link>https://www.axios.com/2024/08/04/israel-iran-top-us-general-middle-east-preparation-attack</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/04/israel-iran-top-us-general-middle-east-preparation-attack</guid>
+      <pubDate>Sun, 04 Aug 2024 00:47:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Canada eliminated from Paris Olympics after penalty shootout defeat against Germany in quarterfinal</title>
       <link>https://www.nytimes.com/athletic/5678382/2024/08/03/canada-germany-result-paris-olympics/</link>
       <author>The Athletic Football</author>
@@ -365,6 +372,13 @@
       <author>Climate Change - The Hill</author>
       <guid>https://thehill.com/?p=4806097</guid>
       <pubDate>Fri, 02 Aug 2024 15:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Sahm Rule Hints at Recession, But Don’t Panic</title>
+      <link>https://www.nytimes.com/2024/07/30/opinion/sahm-rule-unemployment-recession.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/07/30/opinion/sahm-rule-unemployment-recession.html</guid>
+      <pubDate>Fri, 02 Aug 2024 15:15:22 +0000</pubDate>
     </item>
     <item>
       <title>At WTO there’s a climate emergency, but not in international relations</title>
@@ -1080,6 +1094,13 @@ NABJ interview</title>
       <pubDate>Wed, 31 Jul 2024 14:54:31 GMT</pubDate>
     </item>
     <item>
+      <title>Kamala Harris Is Dressing to Be President</title>
+      <link>https://www.nytimes.com/2024/07/30/style/kamala-harris-presidential-style.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/07/30/style/kamala-harris-presidential-style.html</guid>
+      <pubDate>Wed, 31 Jul 2024 14:28:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Google's AI Olympics ad featuring Gemini chatbot draws backlash</title>
       <link>https://www.axios.com/2024/07/31/google-olympics-ad-ai-gemini-ire</link>
       <author>Axios</author>
@@ -1418,27 +1439,6 @@ NABJ interview</title>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4801375</guid>
       <pubDate>Tue, 30 Jul 2024 21:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump invite sparks fierce infighting within Black journalist group</title>
-      <link>https://www.axios.com/2024/07/30/trump-nabj-chicago-speech</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/30/trump-nabj-chicago-speech</guid>
-      <pubDate>Tue, 30 Jul 2024 20:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abortion-rights ballot measures may not help Democrats as much as they think</title>
-      <link>https://abcnews.go.com/538/abortion-rights-ballot-measures-democrats/story?id=112114926</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/abortion-rights-ballot-measures-democrats/story?id=112114926</guid>
-      <pubDate>Tue, 30 Jul 2024 20:08:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Project 2025 director steps down at Heritage Foundation</title>
-      <link>https://www.axios.com/2024/07/30/heritage-foundation-project-2025-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/07/30/heritage-foundation-project-2025-trump</guid>
-      <pubDate>Tue, 30 Jul 2024 20:00:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
