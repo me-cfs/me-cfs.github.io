@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Global markets plunge over recession fears</title>
+      <link>https://www.axios.com/2024/08/05/global-markets-plunge-recession-fears</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/05/global-markets-plunge-recession-fears</guid>
+      <pubDate>Mon, 05 Aug 2024 11:08:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Le moustique tigre est en forte progression dans de plusieurs cantons en Suisse</title>
       <link>https://www.rts.ch/info/suisse/2024/article/le-moustique-tigre-est-en-forte-progression-dans-de-plusieurs-cantons-en-suisse-28589830.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1435,13 +1442,6 @@ NABJ interview</title>
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/07/30/world/europe/southport-stabbing-uk-suspect.html</guid>
       <pubDate>Wed, 31 Jul 2024 11:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tous les TGV Lyria entre la Suisse et la France supprimés</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/tous-les-tgv-lyria-entre-la-suisse-et-la-france-supprimes-28586189.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28586189</guid>
-      <pubDate>Wed, 31 Jul 2024 11:13:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
