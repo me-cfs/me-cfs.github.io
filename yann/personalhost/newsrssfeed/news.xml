@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Abortion numbers have increased since Roe was overturned, mostly from telehealth</title>
+      <link>https://thehill.com/policy/healthcare/4816373-us-abortion-trends-roe-v-wade/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4816373</guid>
+      <pubDate>Wed, 07 Aug 2024 17:02:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Lancement d'un concours d'idées pour repêcher les munitions dans les lacs suisses</title>
       <link>https://www.rts.ch/info/suisse/2024/article/lancement-d-un-concours-d-idees-pour-repecher-les-munitions-dans-les-lacs-suisses-28592323.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -24,6 +31,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/07/tim-walz-midwestern-dad-internet</guid>
       <pubDate>Wed, 07 Aug 2024 15:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Did Kamala Harris Pick Tim Walz? She Trusted Her Gut.</title>
+      <link>https://www.nytimes.com/2024/08/06/us/politics/harris-tim-walz-vp-pick.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/06/us/politics/harris-tim-walz-vp-pick.html</guid>
+      <pubDate>Wed, 07 Aug 2024 15:14:43 +0000</pubDate>
     </item>
     <item>
       <title>Gov. Tim Walz doesn't own a single stock</title>
@@ -1434,21 +1448,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/video/political-parties-apart-112494293</guid>
       <pubDate>Fri, 02 Aug 2024 19:23:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Keir Starmer’s worst nightmare? Becoming Margaret Thatcher.					</title>
-      <link>https://www.politico.eu/article/keir-starmer-margaret-thatcher-conservatives-labour-government-tory-downing-street-climate-decarbonize/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/keir-starmer-margaret-thatcher-conservatives-labour-government-tory-downing-street-climate-decarbonize/</guid>
-      <pubDate>Fri, 02 Aug 2024 19:08:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>How will sexism impact Harris's presidential campaign?</title>
-      <link>https://abcnews.go.com/538/sexism-impact-harriss-presidential-campaign/story?id=112444102</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/sexism-impact-harriss-presidential-campaign/story?id=112444102</guid>
-      <pubDate>Fri, 02 Aug 2024 19:08:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
