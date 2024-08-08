@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Facing arrest, defiant separatist leader Carles Puigdemont returns to Barcelona					</title>
+      <link>https://www.politico.eu/article/carles-puigdemont-arrested-separatist-barcelona-catalan-parliament/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/carles-puigdemont-arrested-separatist-barcelona-catalan-parliament/</guid>
+      <pubDate>Thu, 08 Aug 2024 07:46:34 -0000</pubDate>
+    </item>
+    <item>
       <title>La semaine de travail de quatre jours: bonne ou mauvaise idée?</title>
       <link>https://www.rts.ch/info/societe/2024/article/la-semaine-de-travail-de-quatre-jours-bonne-ou-mauvaise-idee-28592225.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1442,13 +1450,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/03/trump-harris-pennsylvania-ad-spending-president</guid>
       <pubDate>Sat, 03 Aug 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'été 2024 marque le retour en force des vacances "last minute"</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/l-ete-2024-marque-le-retour-en-force-des-vacances-last-minute-28587712.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28587712</guid>
-      <pubDate>Sat, 03 Aug 2024 10:59:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
