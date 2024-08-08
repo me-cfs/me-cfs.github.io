@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Federal court tosses Chamber of Commerce's Medicare negotiation challenge</title>
+      <link>https://thehill.com/policy/healthcare/4819264-court-dismisses-chamber-medicare-lawsuit/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4819264</guid>
+      <pubDate>Thu, 08 Aug 2024 21:49:37 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S., Qatar and Egypt invite Israel and Hamas for summit to finalize Gaza deal</title>
       <link>https://www.axios.com/2024/08/08/biden-gaza-hostage-ceasefire-deal-israel-hamas-summit</link>
       <author>Axios</author>
@@ -168,6 +175,13 @@
       <author>RTS Headlines</author>
       <guid>28593166</guid>
       <pubDate>Thu, 08 Aug 2024 14:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tim Walz’s Rise in the Democratic Party Was No Accident</title>
+      <link>https://www.nytimes.com/2024/08/07/us/politics/tim-walz-kamala-harris-2024.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/07/us/politics/tim-walz-kamala-harris-2024.html</guid>
+      <pubDate>Thu, 08 Aug 2024 13:54:15 +0000</pubDate>
     </item>
     <item>
       <title>L'immigration en Suisse est moins élevée au premier semestre 2024 qu'un an auparavant</title>
@@ -1430,22 +1444,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/french-general-army-mobility-military-troop-movements-exercise-red-tape-russia-ukraine-war/</guid>
       <pubDate>Mon, 05 Aug 2024 02:22:31 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Labour plots radical shake-up at heart of British government					</title>
-      <link>https://www.politico.eu/article/labour-united-kingdom-cabinet-office-shake-up/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/labour-united-kingdom-cabinet-office-shake-up/</guid>
-      <pubDate>Mon, 05 Aug 2024 02:07:31 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Cooking oil won’t be enough to make aviation sustainable					</title>
-      <link>https://www.politico.eu/article/sustainable-aviation-cooking-oil-kerosene-jet-fuel-emissions/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/sustainable-aviation-cooking-oil-kerosene-jet-fuel-emissions/</guid>
-      <pubDate>Mon, 05 Aug 2024 01:52:31 -0000</pubDate>
     </item>
   </channel>
 </rss>
