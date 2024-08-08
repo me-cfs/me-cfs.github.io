@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>KAL’s cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/08/08/kals-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/6tb823cjribnhtjt7uo3dlkfkits7dbb</guid>
+      <pubDate>Thu, 08 Aug 2024 08:46:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump lashes out at Harris and Walz with personal insults, "stolen valor" claims</title>
       <link>https://www.axios.com/2024/08/08/trump-walz-stolen-valor-attacks-harris-2024</link>
       <author>Axios</author>
@@ -1443,13 +1450,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/this-is-breaking-him-vladimir-putin-prisoner-swap-trap-1000-more-left-behind/</guid>
       <pubDate>Sat, 03 Aug 2024 11:31:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘An End to the Trump Story’: Three Columnists Size Up Kamala Harris and Her V.P. Options</title>
-      <link>https://www.nytimes.com/2024/08/03/opinion/kamala-harris-vp-pick.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/03/opinion/kamala-harris-vp-pick.html</guid>
-      <pubDate>Sat, 03 Aug 2024 11:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
