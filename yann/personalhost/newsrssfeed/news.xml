@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les enseignants se disent insatisfaits dans leur profession et demandent plus de moyens</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-enseignants-se-disent-insatisfaits-dans-leur-profession-et-demandent-plus-de-moyens-28593166.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28593166</guid>
+      <pubDate>Thu, 08 Aug 2024 14:03:30 GMT</pubDate>
+    </item>
+    <item>
       <title>L'immigration en Suisse est moins élevée au premier semestre 2024 qu'un an auparavant</title>
       <link>https://www.rts.ch/info/suisse/2024/article/l-immigration-en-suisse-est-moins-elevee-au-premier-semestre-2024-qu-un-an-auparavant-28593160.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -24,6 +31,13 @@
       <author>Economist the World this Week</author>
       <guid>/content/t35bbgpa92e02ouf1e72rrtql95crtg5</guid>
       <pubDate>Thu, 08 Aug 2024 13:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Anthropic wants to pay hackers to find model flaws</title>
+      <link>https://www.axios.com/2024/08/08/anthropic-model-hackers-security-flaws</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/08/anthropic-model-hackers-security-flaws</guid>
+      <pubDate>Thu, 08 Aug 2024 13:00:00 +0000</pubDate>
     </item>
     <item>
       <title>What's happened to real estate commissions since the big settlement</title>
@@ -1436,21 +1450,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/uk-us-to-nationals-in-lebanon-leave-now/</guid>
       <pubDate>Sun, 04 Aug 2024 03:08:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine claims sinking of Russia submarine in Sevastopol					</title>
-      <link>https://www.politico.eu/article/russia-submarine-sunk-by-ukraine-military-claims/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/russia-submarine-sunk-by-ukraine-military-claims/</guid>
-      <pubDate>Sun, 04 Aug 2024 02:53:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>Top U.S. general in the Middle East as U.S. and Israel prepare for possible Iran attack</title>
-      <link>https://www.axios.com/2024/08/04/israel-iran-top-us-general-middle-east-preparation-attack</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/04/israel-iran-top-us-general-middle-east-preparation-attack</guid>
-      <pubDate>Sun, 04 Aug 2024 00:47:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
