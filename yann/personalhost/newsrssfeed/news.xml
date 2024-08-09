@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Elon Musk shares fake news claiming UK rioters will be sent to ‘detainment camps’					</title>
+      <link>https://www.politico.eu/article/elon-musk-share-fake-news-uk-rioters-detainment-camp/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/elon-musk-share-fake-news-uk-rioters-detainment-camp/</guid>
+      <pubDate>Fri, 09 Aug 2024 01:51:43 -0000</pubDate>
+    </item>
+    <item>
       <title>Tim Walz and the Weird Politics of Free School Lunches</title>
       <link>https://www.nytimes.com/2024/08/08/opinion/tim-walz-school-lunch.html</link>
       <author>Krugman - NYT</author>
@@ -60,6 +68,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/08/vance-trump-attack-dog-2024-election</guid>
       <pubDate>Thu, 08 Aug 2024 19:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How an Instagram-Perfect Life in the Hamptons Ended in Tragedy</title>
+      <link>https://www.nytimes.com/2024/08/08/nyregion/brandon-miller-suicide-debt.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/08/nyregion/brandon-miller-suicide-debt.html</guid>
+      <pubDate>Thu, 08 Aug 2024 19:27:49 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1427,20 +1442,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/05/medicaid-trump-republican-cuts</guid>
       <pubDate>Mon, 05 Aug 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Hillstone Restaurant Group’s French Dip Is a Corporate Pleasure</title>
-      <link>https://www.nytimes.com/2024/08/05/dining/houston-hillstone-restaurant-group.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/05/dining/houston-hillstone-restaurant-group.html</guid>
-      <pubDate>Mon, 05 Aug 2024 09:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why budget airlines are suddenly going premium</title>
-      <link>https://www.axios.com/2024/08/05/lights-economy-plus-spirit-southwest</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/05/lights-economy-plus-spirit-southwest</guid>
-      <pubDate>Mon, 05 Aug 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
