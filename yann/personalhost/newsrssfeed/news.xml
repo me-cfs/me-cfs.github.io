@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>FDA approves epinephrine nasal spray, a needle-free alternative to EpiPen</title>
+      <link>https://thehill.com/policy/healthcare/4820727-fda-approves-epinephrine-nasal-spray/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4820727</guid>
+      <pubDate>Fri, 09 Aug 2024 17:45:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enquête ouverte en Suisse contre un homme soupçonné d'espionnage</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/enquete-ouverte-en-suisse-contre-un-homme-soupconne-d-espionnage-28594584.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28594584</guid>
+      <pubDate>Fri, 09 Aug 2024 17:36:17 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Kyiv’s offensive gets a greenish light from its allies					</title>
       <link>https://www.politico.eu/article/berlin-allies-support-ukraines-surprise-offensive-at-least-so-far-kursk-zelenskyy-putin/</link>
@@ -1434,21 +1448,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/russia-spy-children-prisoner-swap-anna-dultseva-artyom-dultsev/</guid>
       <pubDate>Tue, 06 Aug 2024 07:46:24 -0000</pubDate>
-    </item>
-    <item>
-      <title>La météo humide de cette année affecte durement les moissons</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/la-meteo-humide-de-cette-annee-affecte-durement-les-moissons-28591002.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28591002</guid>
-      <pubDate>Tue, 06 Aug 2024 07:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Race riots put Britain on collision course with Elon Musk					</title>
-      <link>https://www.politico.eu/article/united-kingdom-riots-elon-musk-x-twitter-fake-news-disinformation/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/united-kingdom-riots-elon-musk-x-twitter-fake-news-disinformation/</guid>
-      <pubDate>Tue, 06 Aug 2024 03:09:16 -0000</pubDate>
     </item>
   </channel>
 </rss>
