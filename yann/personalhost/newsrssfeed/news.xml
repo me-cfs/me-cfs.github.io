@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Self-driving labs are the new AI asset</title>
+      <link>https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research</guid>
+      <pubDate>Fri, 09 Aug 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Maduro Suspends X Social Network In Venezuela For 10 Days: 'Elon Musk Out!'</title>
       <link>https://www.huffpost.com/entry/venezuela-x-musk_n_66b5d1c2e4b044cc5e996041</link>
       <author>WorldPost (Huffington)</author>
@@ -1440,13 +1447,6 @@
       <author>RTS Headlines</author>
       <guid>28590525</guid>
       <pubDate>Mon, 05 Aug 2024 15:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kamala Harris Surprises Everyone</title>
-      <link>https://www.nytimes.com/2024/08/05/opinion/kamala-harris-trump-birthrate.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/05/opinion/kamala-harris-trump-birthrate.html</guid>
-      <pubDate>Mon, 05 Aug 2024 15:21:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
