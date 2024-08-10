@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How college sports deliver the world's Olympic stars</title>
+      <link>https://www.axios.com/2024/08/10/ncaa-sports-paris-olympics-nil</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/10/ncaa-sports-paris-olympics-nil</guid>
+      <pubDate>Sat, 10 Aug 2024 21:03:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump campaign says it was hacked</title>
       <link>https://www.axios.com/2024/08/10/trump-campaign-hacked</link>
       <author>Axios</author>
@@ -1440,13 +1447,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4814309</guid>
       <pubDate>Tue, 06 Aug 2024 19:47:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>How would a general election debate impact the presidential campaign?</title>
-      <link>https://abcnews.go.com/538/video/general-election-debate-impact-presidential-campaign-112618371</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/general-election-debate-impact-presidential-campaign-112618371</guid>
-      <pubDate>Tue, 06 Aug 2024 19:46:42 -0000</pubDate>
     </item>
   </channel>
 </rss>
