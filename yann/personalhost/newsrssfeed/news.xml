@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>CBS News’ Biden interview: When to watch president’s interview with Robert Costa</title>
+      <link>https://www.axios.com/2024/08/11/joe-biden-cbs-interview-robert-costa-sunday</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/11/joe-biden-cbs-interview-robert-costa-sunday</guid>
+      <pubDate>Sun, 11 Aug 2024 09:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Glissements de terrain en Suisse: comment se protéger?</title>
       <link>https://www.rts.ch/info/suisse/2024/article/glissements-de-terrain-en-suisse-comment-se-proteger-28592334.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1440,13 +1447,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/tim-walz-safe-vp-pick/story?id=112619412</guid>
       <pubDate>Tue, 06 Aug 2024 21:07:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>Walz’s record on health care: Progressive with a dash of pragmatism</title>
-      <link>https://thehill.com/policy/healthcare/4814551-minnesota-gov-tim-walz-health-care/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4814551</guid>
-      <pubDate>Tue, 06 Aug 2024 20:49:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
