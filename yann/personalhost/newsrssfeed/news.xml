@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>New York judge says RFK Jr. should be booted from state's ballot</title>
+      <link>https://www.axios.com/2024/08/13/rfk-jr-new-york-residency-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/13/rfk-jr-new-york-residency-2024</guid>
+      <pubDate>Tue, 13 Aug 2024 00:13:57 +0000</pubDate>
+    </item>
+    <item>
       <title>FBI investigating alleged Trump campaign hack</title>
       <link>https://www.axios.com/2024/08/12/trump-campaign-hack-fbi</link>
       <author>Axios</author>
@@ -111,6 +118,13 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=3107</guid>
       <pubDate>Mon, 12 Aug 2024 15:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biden Made Trump Bigger. Harris Makes Him Smaller.</title>
+      <link>https://www.nytimes.com/2024/08/11/opinion/kamala-harris-trump-attention.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/11/opinion/kamala-harris-trump-attention.html</guid>
+      <pubDate>Mon, 12 Aug 2024 14:01:54 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -603,6 +617,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/10/harris-walz-joy-trump-revenge</guid>
       <pubDate>Sat, 10 Aug 2024 11:02:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>There Is Still a Biden Scandal</title>
+      <link>https://www.nytimes.com/2024/08/10/opinion/joe-biden-president.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/10/opinion/joe-biden-president.html</guid>
+      <pubDate>Sat, 10 Aug 2024 11:00:13 +0000</pubDate>
     </item>
     <item>
       <title>New Battleground Polls Show Harris Has Fundamentally Changed the Race</title>
@@ -1426,27 +1447,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/japan-nagasaki-israel_n_66b4863be4b042ee2cd0148a</guid>
       <pubDate>Thu, 08 Aug 2024 09:25:37 -0000</pubDate>
-    </item>
-    <item>
-      <title>KAL’s cartoon</title>
-      <link>https://www.economist.com/the-world-this-week/2024/08/08/kals-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/6tb823cjribnhtjt7uo3dlkfkits7dbb</guid>
-      <pubDate>Thu, 08 Aug 2024 08:46:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump lashes out at Harris and Walz with personal insults, "stolen valor" claims</title>
-      <link>https://www.axios.com/2024/08/08/trump-walz-stolen-valor-attacks-harris-2024</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/08/trump-walz-stolen-valor-attacks-harris-2024</guid>
-      <pubDate>Thu, 08 Aug 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>British croc expert jailed for sexual abuse of dogs</title>
-      <link>https://www.bbc.com/news/articles/c33nv8x64mlo</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c33nv8x64mlo#0</guid>
-      <pubDate>Thu, 08 Aug 2024 08:24:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
