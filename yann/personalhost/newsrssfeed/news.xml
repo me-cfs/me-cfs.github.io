@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Oil companies have begun tapping the Gulf of Mexico's next frontier</title>
+      <link>https://www.axios.com/2024/08/13/gulf-mexico-oil-basin-growth</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/13/gulf-mexico-oil-basin-growth</guid>
+      <pubDate>Tue, 13 Aug 2024 12:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dockworkers along the East Coast are threatening to strike in October</title>
       <link>https://www.axios.com/2024/08/13/strike-dockworkers-port-workers-east-coast-2024</link>
       <author>Axios</author>
@@ -1445,13 +1452,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/08/presidential-election-harris-trump-democracy-poll</guid>
       <pubDate>Thu, 08 Aug 2024 16:00:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>CDC warns of more severe mpox strain spreading in Central Africa</title>
-      <link>https://thehill.com/policy/healthcare/4818485-cdc-health-warning-mpox-strain-central-africa/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4818485</guid>
-      <pubDate>Thu, 08 Aug 2024 15:56:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
