@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>New data show homicides down in Biden's last year vs. Trump's so far</title>
+      <link>https://www.axios.com/2024/08/14/homicides-biden-trump-violent-crime-drop</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/14/homicides-biden-trump-violent-crime-drop</guid>
+      <pubDate>Wed, 14 Aug 2024 08:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Les cas de coqueluche sont en augmentation en Suisse</title>
       <link>https://www.rts.ch/info/suisse/2024/article/les-cas-de-coqueluche-sont-en-augmentation-en-suisse-28598311.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1439,13 +1446,6 @@
       <author>ME/LC News</author>
       <guid>https://www.thecanary.co/opinion/2024/08/08/severe-me-day-8-august/</guid>
       <pubDate>Fri, 09 Aug 2024 15:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le message et le livret de vote sur AVS 21 contenaient des chiffres erronés</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-message-et-le-livret-de-vote-sur-avs-21-contenaient-des-chiffres-errones-28594561.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28594561</guid>
-      <pubDate>Fri, 09 Aug 2024 14:50:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
