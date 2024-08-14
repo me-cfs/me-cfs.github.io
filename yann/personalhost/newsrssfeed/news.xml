@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden administration releases national heat strategy</title>
+      <link>https://thehill.com/policy/energy-environment/4827757-biden-administration-heat-strategy/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4827757</guid>
+      <pubDate>Wed, 14 Aug 2024 18:24:29 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						German authorities suspect water supply sabotage on military base					</title>
       <link>https://www.politico.eu/article/water-supply-sabotage-military-bases-germany-nato-cologne-geilenkirchen/</link>
@@ -1438,13 +1445,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/belarus-potash-sanction-cyprus-company-alexander-lukashenko/</guid>
       <pubDate>Sat, 10 Aug 2024 06:30:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>Le transport de voyageurs toujours perturbé au Gothard, un an après le déraillement d'un train</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-transport-de-voyageurs-toujours-perturbe-au-gothard-un-an-apres-le-deraillement-d-un-train-28594376.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28594376</guid>
-      <pubDate>Sat, 10 Aug 2024 06:16:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
