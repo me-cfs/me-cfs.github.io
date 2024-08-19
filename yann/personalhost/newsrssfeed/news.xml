@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>News Corp boss apologises for doing Nazi salute</title>
+      <link>https://www.bbc.com/news/articles/cj08mjmq107o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cj08mjmq107o#0</guid>
+      <pubDate>Mon, 19 Aug 2024 06:51:54 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Serbia’s leader wins the West with promises of ‘white gold’ — but loses the people					</title>
       <link>https://www.politico.eu/article/serbia-president-aleksandar-vucic-win-west-promise-white-gold-lose-people/</link>
@@ -636,6 +643,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/carles-puigdemont-catalonia-independence-spain-operation-arc-de-triomf-escape-exile/</guid>
       <pubDate>Fri, 16 Aug 2024 08:54:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Raygun says Olympic criticism has been 'devastating'</title>
+      <link>https://www.bbc.com/sport/olympics/articles/cq82yjw5xelo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/sport/olympics/articles/cq82yjw5xelo#1</guid>
+      <pubDate>Fri, 16 Aug 2024 05:33:48 GMT</pubDate>
     </item>
     <item>
       <title>L’erreur de calcul sur l’AVS, ça change quoi pour vous ?</title>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/14/trump-harris-us-tipping-policy</guid>
       <pubDate>Wed, 14 Aug 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le démarchage téléphonique à froid pour des assurances  bientôt interdit</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-demarchage-telephonique-a-froid-pour-des-assurances-bientot-interdit-28598578.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28598578</guid>
-      <pubDate>Wed, 14 Aug 2024 11:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Genève, les discussions sur un cessez-le-feu au Soudan commencent sous la direction des Etats-Unis</title>
-      <link>https://www.rts.ch/info/monde/2024/article/a-geneve-les-discussions-sur-un-cessez-le-feu-au-soudan-commencent-sous-la-direction-des-etats-unis-28598426.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28598426</guid>
-      <pubDate>Wed, 14 Aug 2024 11:13:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
