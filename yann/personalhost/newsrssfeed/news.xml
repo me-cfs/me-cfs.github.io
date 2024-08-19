@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Greetings from the 2024 DNC in Chicago</title>
+      <link>https://abcnews.go.com/538/video/2024-dnc-chicago-112950870</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/2024-dnc-chicago-112950870</guid>
+      <pubDate>Mon, 19 Aug 2024 17:26:33 -0000</pubDate>
+    </item>
+    <item>
       <title>Why the White House has a "vibe-rarian"</title>
       <link>https://www.axios.com/2024/08/19/economy-inflation-biden-white-house</link>
       <author>Axios</author>
@@ -1434,14 +1441,6 @@
       <author>RTS Headlines</author>
       <guid>28599121</guid>
       <pubDate>Wed, 14 Aug 2024 19:14:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						WHO declares mpox global emergency					</title>
-      <link>https://www.politico.eu/article/world-health-organization-who-mpox-virus-global-emergency-africa-democratic-republic-of-congo/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/world-health-organization-who-mpox-virus-global-emergency-africa-democratic-republic-of-congo/</guid>
-      <pubDate>Wed, 14 Aug 2024 19:07:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
