@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Tony Blair’s NHS dream? Fewer GPs, more chatbots					</title>
+      <link>https://www.politico.eu/article/tony-blair-nhs-chatbots-uk-gp-healthcare/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/tony-blair-nhs-chatbots-uk-gp-healthcare/</guid>
+      <pubDate>Mon, 19 Aug 2024 17:34:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Une mère, accusée d'avoir envoyé de l'argent à son fils parti rejoindre Daech, défend son fils</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/une-mere-accusee-d-avoir-envoye-de-l-argent-a-son-fils-parti-rejoindre-daech-defend-son-fils-28603299.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28603299</guid>
+      <pubDate>Mon, 19 Aug 2024 17:28:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Greetings from the 2024 DNC in Chicago</title>
       <link>https://abcnews.go.com/538/video/2024-dnc-chicago-112950870</link>
       <author>Fivethirtyeight</author>
@@ -1427,20 +1442,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4828128</guid>
       <pubDate>Wed, 14 Aug 2024 20:31:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas sues Biden administration over nursing home staffing rule</title>
-      <link>https://thehill.com/policy/healthcare/4828076-texas-biden-nursing-home-staffing-rule-lawsuit/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4828076</guid>
-      <pubDate>Wed, 14 Aug 2024 20:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les soeurs Dittli, deux conseillères d'Etat dans des cantons aux réalités bien différentes</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/les-soeurs-dittli-deux-conseilleres-d-etat-dans-des-cantons-aux-realites-bien-differentes-28599121.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28599121</guid>
-      <pubDate>Wed, 14 Aug 2024 19:14:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
