@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Greetings from the 2024 DNC in Chicago</title>
+      <link>https://abcnews.go.com/538/2024-dnc-chicago/story?id=112951316</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/2024-dnc-chicago/story?id=112951316</guid>
+      <pubDate>Mon, 19 Aug 2024 18:31:23 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						Tony Blair’s NHS dream? Fewer GPs, more chatbots					</title>
       <link>https://www.politico.eu/article/tony-blair-nhs-chatbots-uk-gp-healthcare/</link>
@@ -1435,13 +1442,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/14/google-biden-harris-trump-iran-cyberattacks</guid>
       <pubDate>Wed, 14 Aug 2024 20:39:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Study finds bursts of rapid aging at 44, 60</title>
-      <link>https://thehill.com/policy/healthcare/4828128-rapid-aging-bursts-middle-age/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4828128</guid>
-      <pubDate>Wed, 14 Aug 2024 20:31:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
