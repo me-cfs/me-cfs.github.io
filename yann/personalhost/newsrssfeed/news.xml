@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harris blasts Trump for saying he has 'no regrets' about end of Roe v. Wade</title>
+      <link>https://thehill.com/homenews/campaign/4838200-harris-criticizes-trump-roe-v-wade/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4838200</guid>
+      <pubDate>Wed, 21 Aug 2024 01:32:36 +0000</pubDate>
+    </item>
+    <item>
       <title>&lt;img width="1600" height="1036" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-08/L240821c-small_0.jpg?itok=GMyYF_eT" class="attachment-medium size-medium wp-post-image" /&gt;</title>
       <link>https://www.chappatte.com/fr/images/kamala-et-tim</link>
       <author>Chapatte Dessins</author>
@@ -102,6 +109,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4837169</guid>
       <pubDate>Tue, 20 Aug 2024 17:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joe Biden’s Interrupted Presidency</title>
+      <link>https://www.nytimes.com/2024/08/18/magazine/joe-biden-president-legacy.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/18/magazine/joe-biden-president-legacy.html</guid>
+      <pubDate>Tue, 20 Aug 2024 17:24:15 +0000</pubDate>
     </item>
     <item>
       <title>Exclusive: DSCC's Peters pegs Montana as Dems' toughest Senate race</title>
@@ -1424,22 +1438,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/chief-of-staff-sue-gray-labour-party-keir-starmer-british-politics/</guid>
       <pubDate>Fri, 16 Aug 2024 02:07:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Belgian bankruptcy dents Europe’s microchip dreams					</title>
-      <link>https://www.politico.eu/article/belgian-bankruptcy-dents-europe-microchips-industry-belgan-china/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/belgian-bankruptcy-dents-europe-microchips-industry-belgan-china/</guid>
-      <pubDate>Fri, 16 Aug 2024 01:52:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine’s raid into Russia has shifted the tactical narrative					</title>
-      <link>https://www.politico.eu/article/ukraines-raid-kursk-russia-shift-tactical-narrative/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ukraines-raid-kursk-russia-shift-tactical-narrative/</guid>
-      <pubDate>Fri, 16 Aug 2024 01:37:08 -0000</pubDate>
     </item>
   </channel>
 </rss>
