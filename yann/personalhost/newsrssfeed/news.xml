@@ -5,11 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Donald Trump rages at claim Queen Elizabeth II found him ‘very rude’					</title>
+      <link>https://www.politico.eu/article/queen-elizabeth-ii-verdict-donald-trump-very-rude/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/queen-elizabeth-ii-verdict-donald-trump-very-rude/</guid>
+      <pubDate>Thu, 22 Aug 2024 15:07:15 -0000</pubDate>
+    </item>
+    <item>
       <title>Scoop: Moms of Black men killed by police to attend Kamala Harris DNC speech</title>
       <link>https://www.axios.com/2024/08/22/moms-police-killing-black-lives-kamala-harris</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/22/moms-police-killing-black-lives-kamala-harris</guid>
       <pubDate>Thu, 22 Aug 2024 14:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Privacy group fights European Parliament over ‘massive’ HR data breach					</title>
+      <link>https://www.politico.eu/article/privacy-group-fights-european-parliament-over-massive-hr-data-breach/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/privacy-group-fights-european-parliament-over-massive-hr-data-breach/</guid>
+      <pubDate>Thu, 22 Aug 2024 14:52:15 -0000</pubDate>
     </item>
     <item>
       <title>L'UDC et le Centre rejettent l'adaptation de la loi sur les étrangers</title>
@@ -1427,22 +1443,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/sweden-first-case-mpox-clade-i-virus-africa/</guid>
       <pubDate>Mon, 19 Aug 2024 01:53:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						19 killed in Israeli strikes in Gaza as Blinken looks to broker cease-fire deal					</title>
-      <link>https://www.politico.eu/article/19-killed-israel-strike-gaza-antony-blinken-broker-cease-fire/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/19-killed-israel-strike-gaza-antony-blinken-broker-cease-fire/</guid>
-      <pubDate>Mon, 19 Aug 2024 00:39:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Safety deteriorating at Ukraine nuclear plant after drone strike, IAEA warns					</title>
-      <link>https://www.politico.eu/article/safety-deteriorate-zaporizhzhia-nuclear-power-plant-drone-strike/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/safety-deteriorate-zaporizhzhia-nuclear-power-plant-drone-strike/</guid>
-      <pubDate>Mon, 19 Aug 2024 00:24:22 -0000</pubDate>
     </item>
   </channel>
 </rss>
