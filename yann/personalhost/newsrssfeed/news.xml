@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Chicago's young voters talk 2024 presidential election at the DNC</title>
+      <link>https://abcnews.go.com/538/video/chicagos-young-voters-talk-2024-presidential-election-dnc-113038267</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/chicagos-young-voters-talk-2024-presidential-election-dnc-113038267</guid>
+      <pubDate>Thu, 22 Aug 2024 00:39:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tim Walz's "aww shucks" force field</title>
+      <link>https://www.axios.com/2024/08/21/tim-walz-polls-relatability</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/21/tim-walz-polls-relatability</guid>
+      <pubDate>Wed, 21 Aug 2024 23:56:36 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						EU top diplomat calls for lifting restrictions on  weapons to Ukraine					</title>
       <link>https://www.politico.eu/article/eu-top-diplomat-calls-for-lifting-restrictions-on-weapons-to-ukraine/</link>
@@ -111,6 +125,13 @@
       <author>RTS Headlines</author>
       <guid>28605125</guid>
       <pubDate>Wed, 21 Aug 2024 15:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Barack Obama at DNC: I Am ‘Stupid Enough to Speak After Michelle’</title>
+      <link>https://www.nytimes.com/2024/08/21/us/politics/obamas-convention.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/21/us/politics/obamas-convention.html</guid>
+      <pubDate>Wed, 21 Aug 2024 15:44:48 +0000</pubDate>
     </item>
     <item>
       <title>CNN's Jake Tapper knocks Walz's IVF claims: 'That's not accurate'</title>
@@ -1419,27 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/17/real-estate-agent-broker-commissions-settlement-nar</guid>
       <pubDate>Sat, 17 Aug 2024 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Walz amplifies Harris’s attacks on GOP weak spot: infertility treatment</title>
-      <link>https://thehill.com/policy/healthcare/4828532-walz-fertility-treatments-abortion/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4828532</guid>
-      <pubDate>Sat, 17 Aug 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lacs fiévreux sous surveillance, témoins de la guerre à Gaza et deux soeurs au Conseil d'Etat</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/lacs-fievreux-sous-surveillance-temoins-de-la-guerre-a-gaza-et-deux-soeurs-au-conseil-d-etat-28600582.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28600582</guid>
-      <pubDate>Sat, 17 Aug 2024 05:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop aux secousses: les CFF transforment leur train duplex</title>
-      <link>https://www.rts.ch/info/dialogue/2024/article/stop-aux-secousses-les-cff-transforment-leur-train-duplex-28599843.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28599843</guid>
-      <pubDate>Sat, 17 Aug 2024 05:29:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
