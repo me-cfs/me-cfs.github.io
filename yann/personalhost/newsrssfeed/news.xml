@@ -5,11 +5,33 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Russia accuses top CNN reporter of illegally crossing border					</title>
+      <link>https://www.politico.eu/article/russia-charges-cnn-reporter-nick-paton-walsh-olesya-borovik-diana-butsko-illegally-crossing-border-ukraine/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/russia-charges-cnn-reporter-nick-paton-walsh-olesya-borovik-diana-butsko-illegally-crossing-border-ukraine/</guid>
+      <pubDate>Thu, 22 Aug 2024 18:31:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>FDA approves new COVID shots from Moderna, Pfizer</title>
+      <link>https://www.axios.com/2024/08/22/fda-approves-new-covid-shots-moderna-pfizer</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/22/fda-approves-new-covid-shots-moderna-pfizer</guid>
+      <pubDate>Thu, 22 Aug 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Arkansas Supreme Court rejects bid to put abortion initiative on the ballot</title>
       <link>https://thehill.com/policy/healthcare/4842064-abortion-rights-ballot-measure-denied-arkansas/</link>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4842064</guid>
       <pubDate>Thu, 22 Aug 2024 18:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House slams Trump for "Antisemitic, dangerous" attack on Shapiro</title>
+      <link>https://www.axios.com/2024/08/22/shapiro-trump-white-house-antisemitism</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/22/shapiro-trump-white-house-antisemitism</guid>
+      <pubDate>Thu, 22 Aug 2024 18:01:57 +0000</pubDate>
     </item>
     <item>
       <title>FDA approves this season's Moderna, Pfizer COVID-19 vaccines</title>
@@ -1398,6 +1420,14 @@
       <pubDate>Mon, 19 Aug 2024 09:49:56 +0000</pubDate>
     </item>
     <item>
+      <title>
+						Meloni’s head-on collision with Italy’s last big carmaker					</title>
+      <link>https://www.politico.eu/article/giorgia-meloni-italy-carmaker-stellantis-collision-fiat-cars-economic-patriot-investing/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/giorgia-meloni-italy-carmaker-stellantis-collision-fiat-cars-economic-patriot-investing/</guid>
+      <pubDate>Mon, 19 Aug 2024 09:26:17 -0000</pubDate>
+    </item>
+    <item>
       <title>Rachel Maddow: What Worries Me Most About Election Night</title>
       <link>https://www.nytimes.com/2024/08/19/opinion/trump-election-vote-certification.html</link>
       <author>NYT Most Viewed</author>
@@ -1410,34 +1440,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/08/19/opinion/chris-murphy-democrats.html</guid>
       <pubDate>Mon, 19 Aug 2024 09:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Don't make these people martyrs": Harris-Walz probes ignite House GOP divisions</title>
-      <link>https://www.axios.com/2024/08/19/harris-walz-house-republican-investigations</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/19/harris-walz-house-republican-investigations</guid>
-      <pubDate>Mon, 19 Aug 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Albert Rösti: "Il faut une pesée d'intérêt entre la biodiversité et les infrastructures"</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/albert-rosti-il-faut-une-pesee-d-interet-entre-la-biodiversite-et-les-infrastructures-28602492.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28602492</guid>
-      <pubDate>Mon, 19 Aug 2024 08:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Les parents d'un combattant suisse du djihad sont accusés de "financement du terrorisme"</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/les-parents-d-un-combattant-suisse-du-djihad-sont-accuses-de-financement-du-terrorisme-28602352.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28602352</guid>
-      <pubDate>Mon, 19 Aug 2024 07:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>News Corp boss apologises for doing Nazi salute</title>
-      <link>https://www.bbc.com/news/articles/cj08mjmq107o</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/cj08mjmq107o#0</guid>
-      <pubDate>Mon, 19 Aug 2024 06:51:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
