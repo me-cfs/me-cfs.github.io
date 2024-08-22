@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Arkansas Supreme Court rejects bid to put abortion initiative on the ballot</title>
+      <link>https://thehill.com/policy/healthcare/4842064-abortion-rights-ballot-measure-denied-arkansas/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4842064</guid>
+      <pubDate>Thu, 22 Aug 2024 18:04:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>FDA approves this season's Moderna, Pfizer COVID-19 vaccines</title>
+      <link>https://thehill.com/policy/healthcare/4841888-fda-moderna-pfizer-covid-19-vaccine-coronavirus/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4841888</guid>
+      <pubDate>Thu, 22 Aug 2024 18:00:43 +0000</pubDate>
+    </item>
+    <item>
       <title>La Fédération de hockey sur glace devant la justice pour son utilisation des armoiries suisses</title>
       <link>https://www.rts.ch/info/suisse/2024/article/la-federation-de-hockey-sur-glace-devant-la-justice-pour-son-utilisation-des-armoiries-suisses-28605896.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -343,6 +357,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/party-conventions-matter/story?id=113020634</guid>
       <pubDate>Wed, 21 Aug 2024 20:36:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Isn’t Finished</title>
+      <link>https://www.nytimes.com/2024/08/21/opinion/trump-second-term-2025.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/21/opinion/trump-second-term-2025.html</guid>
+      <pubDate>Wed, 21 Aug 2024 19:39:20 +0000</pubDate>
     </item>
     <item>
       <title>A Givisiez, un foyer accueille les requérants d'asile âgés, toujours plus nombreux</title>
@@ -1417,30 +1438,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/cj08mjmq107o#0</guid>
       <pubDate>Mon, 19 Aug 2024 06:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Serbia’s leader wins the West with promises of ‘white gold’ — but loses the people					</title>
-      <link>https://www.politico.eu/article/serbia-president-aleksandar-vucic-win-west-promise-white-gold-lose-people/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/serbia-president-aleksandar-vucic-win-west-promise-white-gold-lose-people/</guid>
-      <pubDate>Mon, 19 Aug 2024 02:53:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Meloni’s head-on collision with Italy’s only carmaker					</title>
-      <link>https://www.politico.eu/article/giorgia-meloni-italy-carmaker-stellantis-collision-fiat-cars-economic-patriot-investing/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/giorgia-meloni-italy-carmaker-stellantis-collision-fiat-cars-economic-patriot-investing/</guid>
-      <pubDate>Mon, 19 Aug 2024 02:38:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Tony Blair’s AI mania sweeps Britain’s new government					</title>
-      <link>https://www.politico.eu/article/tony-blairs-ai-mania-sweeps-britains-new-government/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/tony-blairs-ai-mania-sweeps-britains-new-government/</guid>
-      <pubDate>Mon, 19 Aug 2024 02:23:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
