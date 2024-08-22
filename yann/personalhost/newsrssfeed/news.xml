@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>1 in 3 say COVID poses risk to their health: Survey </title>
+      <link>https://thehill.com/policy/healthcare/4841334-covid-19-health-risk-survey/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4841334</guid>
+      <pubDate>Thu, 22 Aug 2024 13:28:57 +0000</pubDate>
+    </item>
+    <item>
       <title>La Suisse prend des mesures contre les pénuries de médicaments</title>
       <link>https://www.rts.ch/info/suisse/2024/article/la-suisse-prend-des-mesures-contre-les-penuries-de-medicaments-28606024.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1436,13 +1443,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/08/18/opinion/pelosi-trump-biden-harris.html</guid>
       <pubDate>Sun, 18 Aug 2024 22:55:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Snapshot: Republicans admit Trump the "provocateur" could lose</title>
-      <link>https://www.axios.com/2024/08/18/trump-provocateur-gop-concern-sunday-snapshot</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/18/trump-provocateur-gop-concern-sunday-snapshot</guid>
-      <pubDate>Sun, 18 Aug 2024 19:52:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
