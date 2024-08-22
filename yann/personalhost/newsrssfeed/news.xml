@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s cover</title>
+      <link>https://www.economist.com/the-world-this-week/2024/08/22/this-weeks-cover</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/7q0kj2olfb34endso2ct82fdms3f16e2</guid>
+      <pubDate>Thu, 22 Aug 2024 11:54:19 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Donald Tusk’s battle to oust Polish central bank boss hits hurdle 					</title>
       <link>https://www.politico.eu/article/donald-tusk-campaign-oust-nbp-adam-glapinski-constitutional-clash/</link>
@@ -1436,13 +1443,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/18/bernie-moreno-ohio-immigration-border-trump</guid>
       <pubDate>Sun, 18 Aug 2024 12:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's devil-in-Georgia problem</title>
-      <link>https://www.axios.com/2024/08/18/trump-2024-election-georgia-brian-kemp</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/18/trump-2024-election-georgia-brian-kemp</guid>
-      <pubDate>Sun, 18 Aug 2024 12:34:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
