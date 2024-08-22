@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Donald Tusk’s battle to oust Polish central bank boss hits hurdle 					</title>
+      <link>https://www.politico.eu/article/donald-tusk-campaign-oust-nbp-adam-glapinski-constitutional-clash/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/donald-tusk-campaign-oust-nbp-adam-glapinski-constitutional-clash/</guid>
+      <pubDate>Thu, 22 Aug 2024 11:05:58 -0000</pubDate>
+    </item>
+    <item>
       <title>La réforme de la LPP est "bâclée", estime l'association de défense des retraités</title>
       <link>https://www.rts.ch/info/suisse/2024/article/la-reforme-de-la-lpp-est-baclee-estime-l-association-de-defense-des-retraites-28605681.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -250,6 +258,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4839833</guid>
       <pubDate>Wed, 21 Aug 2024 19:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘The Blind Side’ Made Him Famous. But He Has a Different Story to Tell.</title>
+      <link>https://www.nytimes.com/2024/08/18/magazine/blind-side-michael-oher.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/18/magazine/blind-side-michael-oher.html</guid>
+      <pubDate>Wed, 21 Aug 2024 18:59:28 +0000</pubDate>
     </item>
     <item>
       <title>Lawmakers say US firms conducting drug trials in Xinjiang hospitals</title>
@@ -1429,20 +1444,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ukraine-destroy-second-bridge-kursk-region-russia-war/</guid>
       <pubDate>Sun, 18 Aug 2024 12:15:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>Wedding invites go to SMS</title>
-      <link>https://www.axios.com/2024/08/18/text-digital-wedding-invitations</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/18/text-digital-wedding-invitations</guid>
-      <pubDate>Sun, 18 Aug 2024 12:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>The most expensive Senate race this year stars MAGA's immigrant enforcer</title>
-      <link>https://www.axios.com/2024/08/18/bernie-moreno-ohio-immigration-border-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/18/bernie-moreno-ohio-immigration-border-trump</guid>
-      <pubDate>Sun, 18 Aug 2024 11:16:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
