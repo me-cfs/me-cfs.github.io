@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>U.S. accuses RealPage of helping landlords collude to raise rents</title>
+      <link>https://www.axios.com/2024/08/23/realpage-antitrust-lawsuit-justice-department-rentals</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/23/realpage-antitrust-lawsuit-justice-department-rentals</guid>
+      <pubDate>Fri, 23 Aug 2024 16:14:27 +0000</pubDate>
+    </item>
+    <item>
       <title>How 538's 2024 presidential election forecast works</title>
       <link>https://abcnews.go.com/538/538s-2024-presidential-election-forecast-works/story?id=113068753</link>
       <author>Fivethirtyeight</author>
@@ -1384,6 +1391,13 @@
       <pubDate>Tue, 20 Aug 2024 15:08:33 -0000</pubDate>
     </item>
     <item>
+      <title>Les systèmes informatiques des CFF fonctionnent à nouveau après une panne majeure</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-systemes-informatiques-des-cff-fonctionnent-a-nouveau-apres-une-panne-majeure-28603869.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28603869</guid>
+      <pubDate>Tue, 20 Aug 2024 14:44:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Tammy Baldwin snags DNC speaker slot on same night as Harris</title>
       <link>https://www.axios.com/2024/08/20/democratic-national-convention-senate-speeches</link>
       <author>Axios</author>
@@ -1426,20 +1440,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4835086&amp;preview=true&amp;preview_id=4835086/</guid>
       <pubDate>Tue, 20 Aug 2024 11:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kamala Harris Isn’t Bluffing</title>
-      <link>https://www.nytimes.com/2024/08/20/opinion/kamala-harris-democrats-risk.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/20/opinion/kamala-harris-democrats-risk.html</guid>
-      <pubDate>Tue, 20 Aug 2024 10:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘There Was a Whole Lot of Sass for a Gathering of Democrats’: The Best and Worst Moments From Night 1 of the Convention</title>
-      <link>https://www.nytimes.com/2024/08/20/opinion/democratic-convention-kamala-harris-night-1.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/20/opinion/democratic-convention-kamala-harris-night-1.html</guid>
-      <pubDate>Tue, 20 Aug 2024 10:27:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
