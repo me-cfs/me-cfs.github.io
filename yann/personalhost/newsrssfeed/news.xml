@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>WHO unveils effort to fight mpox outbreak</title>
+      <link>https://thehill.com/policy/healthcare/4847877-who-releases-mpox-outbreak-plan/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4847877</guid>
+      <pubDate>Mon, 26 Aug 2024 16:33:07 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Macron on Telegram CEO’s arrest: French government was not involved					</title>
       <link>https://www.politico.eu/article/telegram-pavel-durov-arrest-france-emmanuel-macron/</link>
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/telegram-pavel-durov-arrest-france-emmanuel-macron/</guid>
       <pubDate>Mon, 26 Aug 2024 16:11:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>The sense of global gloom is abating</title>
+      <link>https://www.axios.com/2024/08/26/central-bankers-economy-inflation-jackson-hole</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/26/central-bankers-economy-inflation-jackson-hole</guid>
+      <pubDate>Mon, 26 Aug 2024 15:59:19 +0000</pubDate>
     </item>
     <item>
       <title>Trump and Harris fight over rules for Sept. 10 debate</title>
@@ -1428,21 +1442,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/5-things-to-know-europe-electric-vehicle-transition-green-deal/</guid>
       <pubDate>Thu, 22 Aug 2024 01:53:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Satire isn’t a defense for antisemitism and hate					</title>
-      <link>https://www.politico.eu/article/antisemitic-belgium-europe-france-israel-gaza-islamophobia-racism-satire-jews/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/antisemitic-belgium-europe-france-israel-gaza-islamophobia-racism-satire-jews/</guid>
-      <pubDate>Thu, 22 Aug 2024 01:38:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-Jan. 6 committe chair Thompson says Trump is "plotting again" to steal election</title>
-      <link>https://www.axios.com/2024/08/22/bennie-thompson-trump-jan-6-dnc-speech</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/22/bennie-thompson-trump-jan-6-dnc-speech</guid>
-      <pubDate>Thu, 22 Aug 2024 01:22:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
