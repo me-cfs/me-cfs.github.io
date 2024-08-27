@@ -5,11 +5,51 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Von der Leyen’s second term from hell					</title>
+      <link>https://www.politico.eu/article/ursula-von-der-leyen-eu-commission-hellacious-ukraine-pandemic-trump-war-challenge/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ursula-von-der-leyen-eu-commission-hellacious-ukraine-pandemic-trump-war-challenge/</guid>
+      <pubDate>Tue, 27 Aug 2024 03:09:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						France’s love-hate relationship with Telegram					</title>
+      <link>https://www.politico.eu/article/telegram-pavel-durov-arrest-emmanuel-macron-france-social-media/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/telegram-pavel-durov-arrest-emmanuel-macron-france-social-media/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:54:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						UK Labour faces a scandal of its own making					</title>
+      <link>https://www.politico.eu/article/uk-labour-faces-a-scandal-of-its-own-making/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/uk-labour-faces-a-scandal-of-its-own-making/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:39:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Restructuration radicale à Tamedia qui va supprimer des emplois et fermer des imprimeries</title>
       <link>https://www.rts.ch/info/suisse/2024/article/restructuration-radicale-a-tamedia-qui-va-supprimer-des-emplois-et-fermer-des-imprimeries-28610025.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
       <guid>28610025</guid>
       <pubDate>Tue, 27 Aug 2024 02:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+						Ukraine doubles down on Russian reactors in nuclear power push					</title>
+      <link>https://www.politico.eu/article/ukraine-russia-reactor-khmelnytskyi-nuclear-power-station/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ukraine-russia-reactor-khmelnytskyi-nuclear-power-station/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:24:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						How to rein in Russia’s shadow fleet					</title>
+      <link>https://www.politico.eu/article/russia-shadow-fleet-vessel-oil-tanker-hazard-china-turkey-sanctions/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/russia-shadow-fleet-vessel-oil-tanker-hazard-china-turkey-sanctions/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:09:13 -0000</pubDate>
     </item>
     <item>
       <title>Aucun canton sur la voie de l'accord de Paris sur le climat, dénonce WWF Suisse</title>
@@ -1406,41 +1446,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/russian-take-kyiv-three-day-install-concrete-shelter-kursk-ukraine-war/</guid>
       <pubDate>Thu, 22 Aug 2024 10:09:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Man Opens Plane's Door And Walks On Wing Before He's Arrested On Airport Tarmac</title>
-      <link>https://www.huffpost.com/entry/australia-emergency-exit_n_66c709bfe4b0b9c7b360791f</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/australia-emergency-exit_n_66c709bfe4b0b9c7b360791f</guid>
-      <pubDate>Thu, 22 Aug 2024 10:09:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>The coach, Oprah and Clinton: Takeaways from Walz Night at the DNC</title>
-      <link>https://www.axios.com/2024/08/22/dnc-walz-kamala-harris-vp</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/22/dnc-walz-kamala-harris-vp</guid>
-      <pubDate>Thu, 22 Aug 2024 10:05:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tirée par les statuts S, la population suisse a fortement augmenté en 2023</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/tiree-par-les-statuts-s-la-population-suisse-a-fortement-augmente-en-2023-28605709.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28605709</guid>
-      <pubDate>Thu, 22 Aug 2024 09:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Where it all went wrong for RFK Jr.</title>
-      <link>https://www.axios.com/2024/08/22/rfk-jr-end-campaign-polls</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/22/rfk-jr-end-campaign-polls</guid>
-      <pubDate>Thu, 22 Aug 2024 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Axios-Ipsos poll: Uptick in Americans feeling COVID risk</title>
-      <link>https://www.axios.com/2024/08/22/poll-covid-health-risk-axios-ipsos</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/22/poll-covid-health-risk-axios-ipsos</guid>
-      <pubDate>Thu, 22 Aug 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
