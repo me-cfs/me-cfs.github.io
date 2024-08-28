@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How 538 is adjusting our election model for Harris versus Trump</title>
+      <link>https://abcnews.go.com/538/538-adjusting-election-model-harris-versus-trump/story?id=112563822</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/538-adjusting-election-model-harris-versus-trump/story?id=112563822</guid>
+      <pubDate>Wed, 28 Aug 2024 15:35:50 -0000</pubDate>
+    </item>
+    <item>
       <title>Heat wave roasts more than 50 million from Ohio Valley to Washington D.C.</title>
       <link>https://www.axios.com/2024/08/28/heat-wave-dc-new-york-records</link>
       <author>Axios</author>
@@ -1437,13 +1444,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/23/trump-robert-f-kennedy-jr-endorsement</guid>
       <pubDate>Fri, 23 Aug 2024 18:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dueling measures to expand or limit abortion will be on the ballot in Nebraska</title>
-      <link>https://thehill.com/policy/healthcare/4844520-nebraska-abortion-ballot-initiatives/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4844520</guid>
-      <pubDate>Fri, 23 Aug 2024 18:32:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
