@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>CDC: 9 now dead in listeria outbreak linked to deli meat</title>
+      <link>https://thehill.com/policy/healthcare/4853661-cdc-listeria-outbreak-deli-meat-death-toll/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4853661</guid>
+      <pubDate>Thu, 29 Aug 2024 14:49:27 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Ursula von der Leyen has taken green enforcement behind closed doors					</title>
       <link>https://www.politico.eu/article/ursula-von-der-leyen-green-enforcement-environmental-law-policy-lack-transparency/</link>
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ursula-von-der-leyen-green-enforcement-environmental-law-policy-lack-transparency/</guid>
       <pubDate>Thu, 29 Aug 2024 14:09:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Campaign Filming at Arlington Cemetery Dismayed Family of Green Beret</title>
+      <link>https://www.nytimes.com/2024/08/28/us/politics/trump-arlington-cemetery.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/28/us/politics/trump-arlington-cemetery.html</guid>
+      <pubDate>Thu, 29 Aug 2024 14:05:37 +0000</pubDate>
     </item>
     <item>
       <title>Tech, talent and TikTok: Inside ESPN's survival plan</title>
@@ -1434,20 +1448,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/france-arrests-suspect-synagogue-arson-attack-darmanin/</guid>
       <pubDate>Mon, 26 Aug 2024 00:24:31 -0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Harris builds an army of House surrogates in drastic break with Biden</title>
-      <link>https://www.axios.com/2024/08/25/kamala-harris-campaign-biden-house-surrogates</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/25/kamala-harris-campaign-biden-house-surrogates</guid>
-      <pubDate>Sun, 25 Aug 2024 23:18:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>NASA Extends Boeing Starliner Astronauts’ Space Station Stay to 2025</title>
-      <link>https://www.nytimes.com/2024/08/24/science/nasa-boeing-starliner-astronauts.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/24/science/nasa-boeing-starliner-astronauts.html</guid>
-      <pubDate>Sun, 25 Aug 2024 23:06:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
