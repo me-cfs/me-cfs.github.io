@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Naked Emperors and Crypto Campaign Cash</title>
+      <link>https://www.nytimes.com/2024/08/29/opinion/cryptocurrency-election.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/08/29/opinion/cryptocurrency-election.html</guid>
+      <pubDate>Thu, 29 Aug 2024 23:00:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump says he would have government or insurance pay for IVF treatments if elected</title>
       <link>https://thehill.com/homenews/campaign/4854701-trump-would-have-government-insurance-pay-ivf-treatments/</link>
       <author>Healthcare - The Hill</author>
@@ -1438,13 +1445,6 @@
       <link>https://www.axios.com/2024/08/26/trump-harris-economy-inflation</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/26/trump-harris-economy-inflation</guid>
-      <pubDate>Mon, 26 Aug 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris ramps up strategy for sprint to the election</title>
-      <link>https://www.axios.com/2024/08/26/kamala-harris-strategy-election-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/26/kamala-harris-strategy-election-trump</guid>
       <pubDate>Mon, 26 Aug 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
