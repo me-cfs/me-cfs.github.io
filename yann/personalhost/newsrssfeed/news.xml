@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>America's fastest-growing job, mapped</title>
+      <link>https://www.axios.com/2024/08/30/us-jobs-fastest-growing-wind-energy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/30/us-jobs-fastest-growing-wind-energy</guid>
+      <pubDate>Fri, 30 Aug 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>All the biggest tech giants want to be the hottest bot</title>
+      <link>https://www.axios.com/2024/08/30/microsoft-salesforce-openai-meta-chatbot-wars</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/30/microsoft-salesforce-openai-meta-chatbot-wars</guid>
+      <pubDate>Fri, 30 Aug 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside Harris' delicate balancing act on the economy</title>
       <link>https://www.axios.com/2024/08/30/kamala-harris-economy-biden-balancing-act</link>
       <author>Axios</author>
@@ -1434,21 +1448,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/pavel-durov-russia-telegram-ceo-facebook-elon-musk-tech/</guid>
       <pubDate>Mon, 26 Aug 2024 19:46:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Daffy Donald, Turning Pea Green With Envy</title>
-      <link>https://www.nytimes.com/2024/08/24/opinion/trump-harris-dnc-election.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/24/opinion/trump-harris-dnc-election.html</guid>
-      <pubDate>Mon, 26 Aug 2024 19:37:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						‘Russians do everything via Telegram.’ Pavel Durov’s arrest upends Kremlin military comms					</title>
-      <link>https://www.politico.eu/article/telegram-ceo-arrest-pavel-durov-russian-military-communications-france/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/telegram-ceo-arrest-pavel-durov-russian-military-communications-france/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:31:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
