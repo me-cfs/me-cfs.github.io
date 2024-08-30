@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Starlink says Brazil judge has blocked its accounts amid X shutdown threat</title>
+      <link>https://www.axios.com/2024/08/29/brazil-starlink-x-shutdown</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/29/brazil-starlink-x-shutdown</guid>
+      <pubDate>Fri, 30 Aug 2024 04:31:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Walz defends misstatements as "candid" words in 1st TV interview as vice presidential nominee</title>
+      <link>https://www.axios.com/2024/08/30/harris-walz-cnn-interview-military-record</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/30/harris-walz-cnn-interview-military-record</guid>
+      <pubDate>Fri, 30 Aug 2024 03:46:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump asks federal court to seize N.Y. hush-money case</title>
       <link>https://www.axios.com/2024/08/30/trump-hush-money-case-ny-federal-court-request</link>
       <author>Axios</author>
@@ -92,6 +106,13 @@
       <author>Krugman - NYT</author>
       <guid>https://www.nytimes.com/2024/08/29/opinion/cryptocurrency-election.html</guid>
       <pubDate>Thu, 29 Aug 2024 23:00:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump: Six-week abortion limit is "too short"</title>
+      <link>https://www.axios.com/2024/08/29/trump-abortion-limit-too-short</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/29/trump-abortion-limit-too-short</guid>
+      <pubDate>Thu, 29 Aug 2024 22:34:21 +0000</pubDate>
     </item>
     <item>
       <title>Mining boss opposes staff leaving office for coffee</title>
@@ -1428,28 +1449,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/26/dont-tell-comedy-viral-stars</guid>
       <pubDate>Mon, 26 Aug 2024 17:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>WHO unveils effort to fight mpox outbreak</title>
-      <link>https://thehill.com/policy/healthcare/4847877-who-releases-mpox-outbreak-plan/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4847877</guid>
-      <pubDate>Mon, 26 Aug 2024 16:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron on Telegram CEO’s arrest: French government was not involved					</title>
-      <link>https://www.politico.eu/article/telegram-pavel-durov-arrest-france-emmanuel-macron/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/telegram-pavel-durov-arrest-france-emmanuel-macron/</guid>
-      <pubDate>Mon, 26 Aug 2024 16:11:07 -0000</pubDate>
-    </item>
-    <item>
-      <title>The sense of global gloom is abating</title>
-      <link>https://www.axios.com/2024/08/26/central-bankers-economy-inflation-jackson-hole</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/26/central-bankers-economy-inflation-jackson-hole</guid>
-      <pubDate>Mon, 26 Aug 2024 15:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
