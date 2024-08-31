@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Voting enthusiasm way up since Harris replaces Biden, poll shows</title>
+      <link>https://www.axios.com/2024/08/31/voting-enthusiasm-presidential-election</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/31/voting-enthusiasm-presidential-election</guid>
+      <pubDate>Sat, 31 Aug 2024 20:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Health experts fear RFK Jr.’s 'dangerous' influence on Trump </title>
       <link>https://thehill.com/policy/healthcare/4856265-kennedy-trump-public-health-policies/</link>
       <author>Healthcare - The Hill</author>
@@ -647,6 +654,13 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/08/29/us/politics/wes-moore-bronze-star.html</guid>
       <pubDate>Thu, 29 Aug 2024 20:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Father Searches for His Homeless Son in California</title>
+      <link>https://www.nytimes.com/2024/08/29/us/father-son-search-homeless.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/08/29/us/father-son-search-homeless.html</guid>
+      <pubDate>Thu, 29 Aug 2024 20:20:21 +0000</pubDate>
     </item>
     <item>
       <title>Trump's Truth Social spree: QAnon, sexism and threats of vengeance</title>
@@ -1429,22 +1443,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/kremlin-france-come-up-strong-evidence-pavel-durov-telegram/</guid>
       <pubDate>Wed, 28 Aug 2024 01:57:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						UK’s Starmer wants to ‘turn a corner on Brexit’					</title>
-      <link>https://www.politico.eu/article/uk-prime-minister-keir-starmer-brexit-diplomacy-europe-olaf-scholz-emmanuel-macron/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/uk-prime-minister-keir-starmer-brexit-diplomacy-europe-olaf-scholz-emmanuel-macron/</guid>
-      <pubDate>Wed, 28 Aug 2024 01:54:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						UAE demands ‘urgent’ access to Telegram CEO locked up in France					</title>
-      <link>https://www.politico.eu/article/uae-demands-access-telegram-ceo-locked-up-france/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/uae-demands-access-telegram-ceo-locked-up-france/</guid>
-      <pubDate>Wed, 28 Aug 2024 01:42:18 -0000</pubDate>
     </item>
   </channel>
 </rss>
