@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Rebecca Balestra: "Les insultes que je reçois sont un grand moteur de création"</title>
+      <link>https://www.rts.ch/info/regions/geneve/2024/article/rebecca-balestra-les-insultes-que-je-recois-sont-un-grand-moteur-de-creation-28613030.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28613030</guid>
+      <pubDate>Sat, 31 Aug 2024 12:27:09 GMT</pubDate>
+    </item>
+    <item>
       <title>FDA approves updated Novavax COVID vaccine amid summer surge</title>
       <link>https://thehill.com/policy/healthcare/4856959-fda-approval-updated-novavax-covid-vaccine/</link>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4856959</guid>
       <pubDate>Sat, 31 Aug 2024 11:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>La justice bernoise veut lever l'immunité des politiciens UDC Marco Chiesa et Peter Keller</title>
+      <link>https://www.rts.ch/info/regions/berne/2024/article/la-justice-bernoise-veut-lever-l-immunite-des-politiciens-udc-marco-chiesa-et-peter-keller-28615495.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28615495</guid>
+      <pubDate>Sat, 31 Aug 2024 11:44:16 GMT</pubDate>
     </item>
     <item>
       <title>How Trump keeps undermining his own strategy</title>
@@ -1414,6 +1428,13 @@
       <pubDate>Tue, 27 Aug 2024 21:29:09 +0000</pubDate>
     </item>
     <item>
+      <title>Trump says agreement reached on Sept. 10 debate terms</title>
+      <link>https://www.axios.com/2024/08/27/trump-agreement-presidential-debate</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/08/27/trump-agreement-presidential-debate</guid>
+      <pubDate>Tue, 27 Aug 2024 20:49:08 +0000</pubDate>
+    </item>
+    <item>
       <title>New indictment filed against Trump in Jan. 6 case</title>
       <link>https://www.axios.com/2024/08/27/trump-jan-6-indictment-jack-smith</link>
       <author>Axios</author>
@@ -1426,27 +1447,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/27/jan-6-riot-michael-sparks-four-years-prison</guid>
       <pubDate>Tue, 27 Aug 2024 20:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 reasons why racist attacks on Harris could backfire</title>
-      <link>https://abcnews.go.com/538/3-reasons-racist-attacks-harris-backfire/story?id=113178995</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/3-reasons-racist-attacks-harris-backfire/story?id=113178995</guid>
-      <pubDate>Tue, 27 Aug 2024 20:09:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>Why Some Young, Undecided Voters Changed Their Minds About Kamala Harris After Her Speech</title>
-      <link>https://www.nytimes.com/2024/08/27/opinion/harris-trump-undecided-voters.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/08/27/opinion/harris-trump-undecided-voters.html</guid>
-      <pubDate>Tue, 27 Aug 2024 20:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Court clears way for Florida to enforce ban on gender-affirming care for minors</title>
-      <link>https://thehill.com/homenews/4850211-florida-puberty-blockers-ban-enforcement/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4850211</guid>
-      <pubDate>Tue, 27 Aug 2024 20:06:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
