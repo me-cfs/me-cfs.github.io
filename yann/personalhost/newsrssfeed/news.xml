@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Gender gap widens in support for Harris vs. Trump: poll</title>
+      <link>https://www.axios.com/2024/09/02/gender-gap-voters-harris-trump-2024-election</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/02/gender-gap-voters-harris-trump-2024-election</guid>
+      <pubDate>Mon, 02 Sep 2024 15:22:01 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						EU Commission mulls delaying budget proposal until after German election					</title>
       <link>https://www.politico.eu/article/european-commission-budget-proposal-delay-negotiations-germany-election/</link>
@@ -1436,13 +1443,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/israel-raids-west-bank_n_66ceeb4ce4b02e9516050bac</guid>
       <pubDate>Thu, 29 Aug 2024 03:12:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceX's Falcon 9 grounded ahead of historic Polaris Dawn mission</title>
-      <link>https://www.axios.com/2024/08/29/spacex-falcon9-grounded-polaris-faa</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/29/spacex-falcon9-grounded-polaris-faa</guid>
-      <pubDate>Thu, 29 Aug 2024 03:01:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
