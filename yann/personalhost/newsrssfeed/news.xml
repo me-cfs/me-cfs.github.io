@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU Commission mulls delaying budget proposal until after German election					</title>
+      <link>https://www.politico.eu/article/european-commission-budget-proposal-delay-negotiations-germany-election/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/european-commission-budget-proposal-delay-negotiations-germany-election/</guid>
+      <pubDate>Mon, 02 Sep 2024 15:08:58 -0000</pubDate>
+    </item>
+    <item>
       <title>Au paradis des Lego, de l’eau potable partout et un nouveau vivre ensemble</title>
       <link>https://www.rts.ch/info/suisse/2024/article/au-paradis-des-lego-de-l-eau-potable-partout-et-un-nouveau-vivre-ensemble-28612944.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1435,14 +1443,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/08/29/spacex-falcon9-grounded-polaris-faa</guid>
       <pubDate>Thu, 29 Aug 2024 03:01:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Putin’s next coup					</title>
-      <link>https://www.politico.eu/article/vladimir-putin-next-coup/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/vladimir-putin-next-coup/</guid>
-      <pubDate>Thu, 29 Aug 2024 02:56:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
