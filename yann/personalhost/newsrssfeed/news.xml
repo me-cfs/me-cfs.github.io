@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>ChatGPT text checkers are still bad at catching plagiarism</title>
+      <link>https://www.axios.com/2024/09/03/teachers-still-cant-trust-ai-text-checkers</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/03/teachers-still-cant-trust-ai-text-checkers</guid>
+      <pubDate>Tue, 03 Sep 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>'We All Failed You.' Heartbreak At Funeral For Israeli-American Hostage In Jerusalem</title>
       <link>https://www.huffpost.com/entry/funeral-israel-palestinians-hostage_n_66d6989de4b0f968d26d8db7</link>
       <author>WorldPost (Huffington)</author>
@@ -1439,13 +1446,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/08/28/us/politics/trump-arlington-cemetery.html</guid>
       <pubDate>Thu, 29 Aug 2024 14:05:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech, talent and TikTok: Inside ESPN's survival plan</title>
-      <link>https://www.axios.com/2024/08/29/espns-business-cable-streaming-sports-betting</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/08/29/espns-business-cable-streaming-sports-betting</guid>
-      <pubDate>Thu, 29 Aug 2024 13:37:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
