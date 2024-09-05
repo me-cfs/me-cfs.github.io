@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Poll: Jon Tester faces tough deficit in pivotal Montana Senate race</title>
+      <link>https://www.axios.com/2024/09/05/montana-senate-aarp-poll-tester-sheehy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/05/montana-senate-aarp-poll-tester-sheehy</guid>
+      <pubDate>Thu, 05 Sep 2024 16:09:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heat wave intensifies in Southwest and West, roasting Phoenix, LA and Portland</title>
+      <link>https://www.axios.com/2024/09/05/heat-wave-intensifies-southwest-phoenix-portland</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/05/heat-wave-intensifies-southwest-phoenix-portland</guid>
+      <pubDate>Thu, 05 Sep 2024 15:56:50 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						France uses arcane cyber law to charge Telegram CEO					</title>
       <link>https://www.politico.eu/article/telegram-ceo-pavel-durov-arrest-france-charges-cyber-laws/</link>
@@ -229,6 +243,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/eu-g7-council-ukraine-italy-russia-canada-kyiv-war-nato/</guid>
       <pubDate>Thu, 05 Sep 2024 02:24:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>Liz Cheney, a Top G.O.P. Trump Critic, Says She Will Vote for Harris</title>
+      <link>https://www.nytimes.com/2024/09/04/us/politics/liz-cheney-kamala-harris-vote.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/04/us/politics/liz-cheney-kamala-harris-vote.html</guid>
+      <pubDate>Thu, 05 Sep 2024 01:20:31 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -523,6 +544,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4860618</guid>
       <pubDate>Wed, 04 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Trump Wins (and Harris and the Democrats Blow It)</title>
+      <link>https://www.nytimes.com/2024/09/04/opinion/trump-win-election-harris.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/04/opinion/trump-win-election-harris.html</guid>
+      <pubDate>Wed, 04 Sep 2024 09:46:36 +0000</pubDate>
     </item>
     <item>
       <title>Behind the curtain: 12 voter groups that will decide the election</title>
@@ -1420,34 +1448,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/israeli-american-hostage-hersh-goldberg-polin-killed-gaza-cease-fire_n_66d4bf22e4b0c1583a904732</guid>
       <pubDate>Sun, 01 Sep 2024 21:46:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>In photos: Thousands protest in Israel to demand Gaza deal</title>
-      <link>https://www.axios.com/2024/09/01/israel-protests-hostages-war-gaza-photos</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/01/israel-protests-hostages-war-gaza-photos</guid>
-      <pubDate>Sun, 01 Sep 2024 21:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Groupe romand des amis du teckel a organisé une balade canine géante, une première suisse</title>
-      <link>https://www.rts.ch/info/regions/geneve/2024/article/le-groupe-romand-des-amis-du-teckel-a-organise-une-balade-canine-geante-une-premiere-suisse-28616668.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28616668</guid>
-      <pubDate>Sun, 01 Sep 2024 21:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>&lt;img width="1600" height="1026" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-09/TD240901c-small.jpg?itok=_mMOSf8I" class="attachment-medium size-medium wp-post-image" /&gt;</title>
-      <link>https://www.chappatte.com/fr/images/laffaire-telegram</link>
-      <author>Chapatte Dessins</author>
-      <guid>https://www.chappatte.com/node/22788</guid>
-      <pubDate>09/01/2024 21:00</pubDate>
-    </item>
-    <item>
-      <title>How a Leading Chain of Psychiatric Hospitals Traps Patients</title>
-      <link>https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/01/business/acadia-psychiatric-patients-trapped.html</guid>
-      <pubDate>Sun, 01 Sep 2024 20:51:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
