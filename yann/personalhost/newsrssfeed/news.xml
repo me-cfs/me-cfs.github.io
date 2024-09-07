@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harris campaign unveils three ads targeting Trump on abortion ahead of debate</title>
+      <link>https://thehill.com/homenews/campaign/4866977-kamala-harris-donald-trump-abortion-rights-advertisements-2024/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4866977</guid>
+      <pubDate>Sat, 07 Sep 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La recherche avance pour rendre le béton plus respectueux de l'environnement</title>
       <link>https://www.rts.ch/info/sciences-tech/environnement/2024/article/la-recherche-avance-pour-rendre-le-beton-plus-respectueux-de-l-environnement-28623060.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -468,6 +475,13 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/c79w8g21098o#0</guid>
       <pubDate>Thu, 05 Sep 2024 23:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Junkification of American Life</title>
+      <link>https://www.nytimes.com/2024/09/05/opinion/entertainment-junk-psychology.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/05/opinion/entertainment-junk-psychology.html</guid>
+      <pubDate>Thu, 05 Sep 2024 23:00:09 +0000</pubDate>
     </item>
     <item>
       <title>Bacon Prices and the Windmills of Trump’s Mind</title>
@@ -1431,20 +1445,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=3435</guid>
       <pubDate>Tue, 03 Sep 2024 17:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Control of U.S. House may come down to these six races</title>
-      <link>https://www.axios.com/2024/09/03/elections-congress-control-california</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/03/elections-congress-control-california</guid>
-      <pubDate>Tue, 03 Sep 2024 17:10:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>100 Easy Dinner Ideas for Right Now</title>
-      <link>https://www.nytimes.com/2024/09/03/dining/easy-dinner-recipes-ideas-meal-planning.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/03/dining/easy-dinner-recipes-ideas-meal-planning.html</guid>
-      <pubDate>Tue, 03 Sep 2024 17:03:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
