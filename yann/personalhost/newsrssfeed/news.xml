@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>America braces for perfect storm of election chaos</title>
+      <link>https://www.axios.com/2024/09/08/election-chaos-cheating-violence-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/08/election-chaos-cheating-violence-trump</guid>
+      <pubDate>Sun, 08 Sep 2024 12:43:15 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Why the Kremlin loves social media					</title>
       <link>https://www.politico.eu/pro/why-the-kremlin-loves-social-media/</link>
@@ -1437,13 +1444,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/ckg54k40857o#0</guid>
       <pubDate>Wed, 04 Sep 2024 10:44:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump ties himself in knots on abortion</title>
-      <link>https://thehill.com/policy/healthcare/4860618-trump-abortion-twist-knots/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4860618</guid>
-      <pubDate>Wed, 04 Sep 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
