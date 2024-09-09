@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>COVID subcommittee accuses Cuomo of 'wrongdoing' in investigation report</title>
+      <link>https://thehill.com/homenews/house/4870027-cuomo-house-committee-covid-investigation/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4870027</guid>
+      <pubDate>Mon, 09 Sep 2024 21:10:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump wants to halve energy prices, but experts say that's doubtful</title>
       <link>https://www.axios.com/2024/09/09/trump-cut-energy-prices</link>
       <author>Axios</author>
@@ -1439,14 +1446,6 @@
       <author>RTS Headlines</author>
       <guid>28621316</guid>
       <pubDate>Thu, 05 Sep 2024 13:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						What’s the point of a housing commissioner?					</title>
-      <link>https://www.politico.eu/article/european-commission-president-ursula-von-der-leyen-affordable-housing-construction/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/european-commission-president-ursula-von-der-leyen-affordable-housing-construction/</guid>
-      <pubDate>Thu, 05 Sep 2024 13:35:52 -0000</pubDate>
     </item>
   </channel>
 </rss>
