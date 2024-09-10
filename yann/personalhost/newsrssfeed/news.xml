@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Fall is getting warmer nationwide</title>
+      <link>https://www.axios.com/2024/09/10/fall-warmer-climate-change-map</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/10/fall-warmer-climate-change-map</guid>
+      <pubDate>Tue, 10 Sep 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside Harris' high-risk, high-reward debate with Trump</title>
       <link>https://www.axios.com/2024/09/10/kamala-harris-debate-trump-2024</link>
       <author>Axios</author>
@@ -1445,13 +1452,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/05/us/politics/hunter-biden-tax-trial.html</guid>
       <pubDate>Thu, 05 Sep 2024 22:59:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge lays out schedule in Trump's Jan. 6 case as election nears</title>
-      <link>https://www.axios.com/2024/09/05/trump-jan-6-case-immunity-schedule</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/05/trump-jan-6-case-immunity-schedule</guid>
-      <pubDate>Thu, 05 Sep 2024 22:48:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
