@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ukraine backs Russian oil loophole for Hungary					</title>
+      <link>https://www.politico.eu/article/ukraine-russian-oil-hungary-mol-lukoil-sanctions/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ukraine-russian-oil-hungary-mol-lukoil-sanctions/</guid>
+      <pubDate>Tue, 10 Sep 2024 17:35:17 -0000</pubDate>
+    </item>
+    <item>
       <title>What polling says about key voting groups in the 2024 election</title>
       <link>https://abcnews.go.com/538/video/polling-key-voting-groups-2024-election-538-politics-113554479</link>
       <author>Fivethirtyeight</author>
@@ -1438,13 +1446,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/06/american-school-closures-neighborhood-impact</guid>
       <pubDate>Fri, 06 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La réforme du 2e pilier expliquée en trois décryptages illustrés</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/la-reforme-du-2e-pilier-expliquee-en-trois-decryptages-illustres-28622149.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28622149</guid>
-      <pubDate>Fri, 06 Sep 2024 09:39:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
