@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ukraine’s hopes rise on permission for long-range strikes against Russia					</title>
+      <link>https://www.politico.eu/article/ukraine-calls-partners-abandon-fear-escalation-war-strategy-antony-blinken-david-lammy-kyiv/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ukraine-calls-partners-abandon-fear-escalation-war-strategy-antony-blinken-david-lammy-kyiv/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:15:45 -0000</pubDate>
+    </item>
+    <item>
       <title>The gender pay gap just widened for the first time in 20 years</title>
       <link>https://www.axios.com/2024/09/11/gender-wage-gap-rate-earnings</link>
       <author>Axios</author>
@@ -1435,13 +1443,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/07/us/politics/trump-harris-debate-prep.html</guid>
       <pubDate>Sat, 07 Sep 2024 09:04:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris campaign unveils three ads targeting Trump on abortion ahead of debate</title>
-      <link>https://thehill.com/homenews/campaign/4866977-kamala-harris-donald-trump-abortion-rights-advertisements-2024/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4866977</guid>
-      <pubDate>Sat, 07 Sep 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
