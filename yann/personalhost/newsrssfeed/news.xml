@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The gender pay gap just widened for the first time in 20 years</title>
+      <link>https://www.axios.com/2024/09/11/gender-wage-gap-rate-earnings</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/11/gender-wage-gap-rate-earnings</guid>
+      <pubDate>Wed, 11 Sep 2024 11:32:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Les gagnants et les perdants de la réforme des retraites</title>
       <link>https://www.rts.ch/info/suisse/2024/article/les-gagnants-et-les-perdants-de-la-reforme-des-retraites-28626623.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1435,13 +1442,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4866977</guid>
       <pubDate>Sat, 07 Sep 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La recherche avance pour rendre le béton plus respectueux de l'environnement</title>
-      <link>https://www.rts.ch/info/sciences-tech/environnement/2024/article/la-recherche-avance-pour-rendre-le-beton-plus-respectueux-de-l-environnement-28623060.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28623060</guid>
-      <pubDate>Sat, 07 Sep 2024 07:44:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
