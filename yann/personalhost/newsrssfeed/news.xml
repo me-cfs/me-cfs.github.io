@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les salariés suisses sont mal protégés contre les risques liés à l'IA</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-salaries-suisses-sont-mal-proteges-contre-les-risques-lies-a-l-ia-28597549.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28597549</guid>
+      <pubDate>Thu, 12 Sep 2024 04:34:38 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Brussels questions whether Starmer really wants a Brexit reset					</title>
       <link>https://www.politico.eu/article/keir-starmer-european-union-brexit-relationship-reset/</link>
@@ -1440,14 +1447,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/08/trump-nikki-haley-voting</guid>
       <pubDate>Sun, 08 Sep 2024 16:37:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Venezuela opposition leader flees to Spain					</title>
-      <link>https://www.politico.eu/article/venezuela-opposition-leader-flees-spain-edmundo-gonzalez-nicolas-maduro/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/venezuela-opposition-leader-flees-spain-edmundo-gonzalez-nicolas-maduro/</guid>
-      <pubDate>Sun, 08 Sep 2024 16:10:18 -0000</pubDate>
     </item>
   </channel>
 </rss>
