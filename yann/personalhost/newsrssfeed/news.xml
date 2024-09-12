@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>North Dakota judge strikes down state's abortion ban</title>
+      <link>https://thehill.com/policy/healthcare/4877105-north-dakota-abortion-ban/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4877105</guid>
+      <pubDate>Thu, 12 Sep 2024 20:14:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump says he won't do another presidential debate</title>
       <link>https://www.axios.com/2024/09/12/trump-debate-2024-harris-democrats-republicans</link>
       <author>Axios</author>
@@ -1433,13 +1440,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/customize-2024-presidential-election-forecast/story?id=113471978</guid>
       <pubDate>Mon, 09 Sep 2024 15:46:46 -0000</pubDate>
-    </item>
-    <item>
-      <title>Le National veut couper la contribution suisse à l'UNRWA</title>
-      <link>https://www.rts.ch/info/2024/minute-par-minute/le-national-veut-couper-la-contribution-suisse-a-l-unrwa-28624849.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28624849</guid>
-      <pubDate>Mon, 09 Sep 2024 15:33:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
