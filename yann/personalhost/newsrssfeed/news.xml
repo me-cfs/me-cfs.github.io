@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>SpaceX crew conducts first commercial spacewalk</title>
+      <link>https://www.axios.com/2024/09/12/spacex-first-commercial-spacewalk-live</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/12/spacex-first-commercial-spacewalk-live</guid>
+      <pubDate>Thu, 12 Sep 2024 12:01:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Why the U.S. economy is a model for Europe's problems</title>
       <link>https://www.axios.com/2024/09/12/us-economy-strength-report</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/12/trump-debate-harris-bait</guid>
       <pubDate>Thu, 12 Sep 2024 10:03:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>News photographers slam Harris for reduced access</title>
+      <link>https://www.axios.com/2024/09/12/harris-media-access-photographers-limits</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/12/harris-media-access-photographers-limits</guid>
+      <pubDate>Thu, 12 Sep 2024 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scoop: Conservative activist Leonard Leo threatens funding for right-wing groups</title>
@@ -187,6 +201,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/12/mike-johnson-trump-speaker-government-shutdown</guid>
       <pubDate>Thu, 12 Sep 2024 00:36:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Says He Had a Great Debate. His Allies Privately Say Otherwise.</title>
+      <link>https://www.nytimes.com/2024/09/11/us/politics/trump-debate-performance.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/11/us/politics/trump-debate-performance.html</guid>
+      <pubDate>Thu, 12 Sep 2024 00:28:28 +0000</pubDate>
     </item>
     <item>
       <title>CNN's Acosta repeatedly cuts off GOP strategist: 'This ain't C-SPAN'</title>
@@ -1054,6 +1075,14 @@
     </item>
     <item>
       <title>
+						Conservative conference used to be a business magnet. Now it’s a joke.					</title>
+      <link>https://www.politico.eu/article/tories-britain-politics-rishi-sunak-external-small-businesses/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/tories-britain-politics-rishi-sunak-external-small-businesses/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:55:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>
 						The flip side of debt: The EU’s urgent need for new resources					</title>
       <link>https://www.politico.eu/article/urgent-resources-debt-europe-costs-agenda-summer/</link>
       <author>Politico EUROPE</author>
@@ -1411,37 +1440,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/great-commission-eu-council-parliament-ursula-von-der-leyen/</guid>
       <pubDate>Mon, 09 Sep 2024 03:11:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s Draghi report unleashed: These are the 5 things to watch					</title>
-      <link>https://www.politico.eu/article/europe-mario-draghi-report-unleashed-eurozone-debt-crisis-ecb-competition-investment/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/europe-mario-draghi-report-unleashed-eurozone-debt-crisis-ecb-competition-investment/</guid>
-      <pubDate>Mon, 09 Sep 2024 02:56:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Michel Barnier’s new secret EU mission					</title>
-      <link>https://www.politico.eu/article/french-prime-minister-michel-barnier-france-budget-debt/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/french-prime-minister-michel-barnier-france-budget-debt/</guid>
-      <pubDate>Mon, 09 Sep 2024 02:41:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>House GOP-led report blasts Biden admin's handling of U.S. troop withdrawal from Afghanistan</title>
-      <link>https://www.axios.com/2024/09/09/house-republicans-us-troops-afghanistan-withdrawal-report</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/09/house-republicans-us-troops-afghanistan-withdrawal-report</guid>
-      <pubDate>Mon, 09 Sep 2024 02:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The men with their mouths sewn shut magnify Georgia’s ‘existential’ election					</title>
-      <link>https://www.politico.eu/article/shukruti-chiatura-georgia-tbilisi-parliamentary-election-russia-europe/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/shukruti-chiatura-georgia-tbilisi-parliamentary-election-russia-europe/</guid>
-      <pubDate>Mon, 09 Sep 2024 02:26:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
