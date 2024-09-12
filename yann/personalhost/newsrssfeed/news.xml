@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why the U.S. economy is a model for Europe's problems</title>
+      <link>https://www.axios.com/2024/09/12/us-economy-strength-report</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/12/us-economy-strength-report</guid>
+      <pubDate>Thu, 12 Sep 2024 11:31:00 +0000</pubDate>
+    </item>
+    <item>
       <title>This week’s cover</title>
       <link>https://www.economist.com/the-world-this-week/2024/09/12/this-weeks-cover</link>
       <author>Economist the World this Week</author>
@@ -1435,14 +1442,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/shukruti-chiatura-georgia-tbilisi-parliamentary-election-russia-europe/</guid>
       <pubDate>Mon, 09 Sep 2024 02:26:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The Tories used to be the party of business. Now they’re a joke.					</title>
-      <link>https://www.politico.eu/article/tories-britain-politics-rishi-sunak-external-small-businesses/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/tories-britain-politics-rishi-sunak-external-small-businesses/</guid>
-      <pubDate>Mon, 09 Sep 2024 02:11:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
