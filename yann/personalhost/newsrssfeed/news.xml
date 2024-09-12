@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						You’re on your own implementing Draghi report, Lagarde tells governments					</title>
+      <link>https://www.politico.eu/article/european-central-bank-christine-lagarde-critique-mario-draghi-plan-fix-europe-economy/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/european-central-bank-christine-lagarde-critique-mario-draghi-plan-fix-europe-economy/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:32:44 -0000</pubDate>
+    </item>
+    <item>
       <title>Abortions dropped after Florida's six-week ban started, but not as much as neighboring states</title>
       <link>https://thehill.com/policy/healthcare/4876420-abortions-dropped-after-floridas-six-week-ban-started-but-not-as-much-as-neighboring-states/</link>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4876420</guid>
       <pubDate>Thu, 12 Sep 2024 15:59:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consulting firms' hiring conundrum ahead of Harris-Trump election</title>
+      <link>https://www.axios.com/2024/09/12/edelman-nikki-haley-2024-election</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/12/edelman-nikki-haley-2024-election</guid>
+      <pubDate>Thu, 12 Sep 2024 15:58:00 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -18,6 +33,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/donald-trump-germany-foreign-ministry-berlin/</guid>
       <pubDate>Thu, 12 Sep 2024 15:27:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>"Climate whiplash" fuels California's raging wildfires</title>
+      <link>https://www.axios.com/2024/09/12/california-nevada-wildfires-climate-whiplash</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/12/california-nevada-wildfires-climate-whiplash</guid>
+      <pubDate>Thu, 12 Sep 2024 15:25:42 +0000</pubDate>
     </item>
     <item>
       <title>Israel destroyed reported Iranian underground missile factory in Syria ground raid</title>
@@ -1419,28 +1441,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4869189</guid>
       <pubDate>Mon, 09 Sep 2024 12:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU’s shiny new defense commissioner post turns into a ‘Plan B job’					</title>
-      <link>https://www.politico.eu/article/the-eus-shiny-new-defense-commissioner-post-turns-into-a-plan-b-job/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/the-eus-shiny-new-defense-commissioner-post-turns-into-a-plan-b-job/</guid>
-      <pubDate>Mon, 09 Sep 2024 12:39:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>Demander à sa commune pour quels référendums et initiatives sa signature a été validée est un droit</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/demander-a-sa-commune-pour-quels-referendums-et-initiatives-sa-signature-a-ete-validee-est-un-droit-28625029.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28625029</guid>
-      <pubDate>Mon, 09 Sep 2024 12:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Israeli Strikes In Syria Leave 14 Dead, Syrian State Media Says</title>
-      <link>https://www.huffpost.com/entry/bc-ml-syria-israel-strike-14-dead_n_66dee0f5e4b01b464f3e1a4f</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/bc-ml-syria-israel-strike-14-dead_n_66dee0f5e4b01b464f3e1a4f</guid>
-      <pubDate>Mon, 09 Sep 2024 12:16:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
