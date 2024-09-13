@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump endorsed more Republicans in 2024 than ever before</title>
+      <link>https://abcnews.go.com/538/trump-endorsed-republicans-2024/story?id=113667841</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/trump-endorsed-republicans-2024/story?id=113667841</guid>
+      <pubDate>Fri, 13 Sep 2024 21:32:06 -0000</pubDate>
+    </item>
+    <item>
       <title>Boeing workers just walked off the job</title>
       <link>https://www.axios.com/2024/09/13/boeing-strike-737-seattle-workers</link>
       <author>Axios</author>
@@ -31,6 +38,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4878768</guid>
       <pubDate>Fri, 13 Sep 2024 18:54:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pope Francis says both Trump and Harris are "against life"</title>
+      <link>https://www.axios.com/2024/09/13/pope-francis-trump-harris-2024-election</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/13/pope-francis-trump-harris-2024-election</guid>
+      <pubDate>Fri, 13 Sep 2024 18:45:27 +0000</pubDate>
     </item>
     <item>
       <title>Ohio town at center of GOP pet-eating conspiracy evacuates multiple schools</title>
@@ -1417,20 +1431,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/6-primaries-watch-new-hampshire-delaware/story?id=113507699</guid>
       <pubDate>Tue, 10 Sep 2024 15:55:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>Big bank regulations get a makeover</title>
-      <link>https://www.axios.com/2024/09/10/fed-big-bank-regulation-reboot</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/10/fed-big-bank-regulation-reboot</guid>
-      <pubDate>Tue, 10 Sep 2024 15:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les passeports des voyageurs hors Schengen contrôlés informatiquement dès novembre</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/les-passeports-des-voyageurs-hors-schengen-controles-informatiquement-des-novembre-28626199.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28626199</guid>
-      <pubDate>Tue, 10 Sep 2024 15:21:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
