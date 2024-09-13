@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Boeing workers vote to go on strike Friday after rejecting contract offer</title>
+      <link>https://www.axios.com/2024/09/13/boeing-union-strike-factory-workers</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/13/boeing-union-strike-factory-workers</guid>
+      <pubDate>Fri, 13 Sep 2024 05:35:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Des Etats-Unis à la Suisse, comment le lobby de la viande nous influence</title>
       <link>https://www.rts.ch/info/suisse/2024/article/des-etats-unis-a-la-suisse-comment-le-lobby-de-la-viande-nous-influence-28626451.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1429,14 +1436,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ursula-von-der-leyen-european-commission-gender-balance-middle-fingers-europe-slovenia-romania/</guid>
       <pubDate>Tue, 10 Sep 2024 02:40:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s new normal: High energy bills, fading industry and one chance to fix it					</title>
-      <link>https://www.politico.eu/article/europe-energy-bills-germany-brussels-pipeline-prices/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/europe-energy-bills-germany-brussels-pipeline-prices/</guid>
-      <pubDate>Tue, 10 Sep 2024 02:25:48 -0000</pubDate>
     </item>
   </channel>
 </rss>
