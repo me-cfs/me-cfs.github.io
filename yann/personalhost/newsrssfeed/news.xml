@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Disney, DirecTV reach deal to end TV blackout</title>
+      <link>https://www.axios.com/2024/09/14/disney-directv-reach-deal-end-tv-blackout</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/14/disney-directv-reach-deal-end-tv-blackout</guid>
+      <pubDate>Sat, 14 Sep 2024 13:53:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Nuria Gorrite: "J'essaie de faire en sorte que l'exercice du pouvoir ne me transforme pas"</title>
       <link>https://www.rts.ch/info/suisse/2024/article/nuria-gorrite-j-essaie-de-faire-en-sorte-que-l-exercice-du-pouvoir-ne-me-transforme-pas-28628777.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1432,13 +1439,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/04/us/politics/trump-fox-news-town-hall.html</guid>
       <pubDate>Wed, 11 Sep 2024 01:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump denies any link to Project 2025 under pressure from Harris</title>
-      <link>https://www.axios.com/2024/09/11/trump-harris-project-2025-debate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/11/trump-harris-project-2025-debate</guid>
-      <pubDate>Wed, 11 Sep 2024 01:41:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
