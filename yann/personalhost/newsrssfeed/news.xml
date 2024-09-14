@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						POLITICO Confidential: Chinese zodiac be damned, American democracy will survive					</title>
+      <link>https://www.politico.eu/newsletter/politico-confidential/chinese-zodiac-be-damned-american-democracy-will-survive/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/newsletter/politico-confidential/chinese-zodiac-be-damned-american-democracy-will-survive/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:11:01 -0000</pubDate>
+    </item>
+    <item>
       <title>Des prêtres amoureux, le profil "chic type" du violeur et le retour aux affaires d'Alain Berset</title>
       <link>https://www.rts.ch/info/suisse/2024/article/des-pretres-amoureux-le-profil-chic-type-du-violeur-et-le-retour-aux-affaires-d-alain-berset-28629302.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1431,13 +1439,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4872314</guid>
       <pubDate>Tue, 10 Sep 2024 20:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Share of Americans with insurance falls despite record Obamacare enrollment</title>
-      <link>https://thehill.com/policy/healthcare/4871559-health-insurance-coverage-2023/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4871559</guid>
-      <pubDate>Tue, 10 Sep 2024 20:02:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
