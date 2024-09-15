@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Death toll climbs as rain, flooding batter Central Europe					</title>
+      <link>https://www.politico.eu/article/poland-czech-republic-romania-floods-rain-extreme-weather/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/poland-czech-republic-romania-floods-rain-extreme-weather/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:09:39 -0000</pubDate>
+    </item>
+    <item>
       <title>"We live in danger times": Secret Service after Trump apparent assassination attempt</title>
       <link>https://www.axios.com/2024/09/15/trump-secret-service-republican-2024-fbi</link>
       <author>Axios</author>
@@ -1432,13 +1440,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/11/us/politics/trump-harris-debate-who-won.html</guid>
       <pubDate>Wed, 11 Sep 2024 12:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>The gender pay gap just widened for the first time in 20 years</title>
-      <link>https://www.axios.com/2024/09/11/gender-wage-gap-rate-earnings</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/11/gender-wage-gap-rate-earnings</guid>
-      <pubDate>Wed, 11 Sep 2024 11:32:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
