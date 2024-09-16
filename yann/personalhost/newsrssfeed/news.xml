@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This Smelly Penguin Is New Zealand's Bird Of The Year</title>
+      <link>https://www.huffpost.com/entry/hoiho-new-zealand-bird-of-the-year_n_66e8479ce4b0b7fef8320214</link>
+      <author>WorldPost (Huffington)</author>
+      <guid>https://www.huffpost.com/entry/hoiho-new-zealand-bird-of-the-year_n_66e8479ce4b0b7fef8320214</guid>
+      <pubDate>Mon, 16 Sep 2024 16:10:58 -0000</pubDate>
+    </item>
+    <item>
       <title>How to read political polls in 2024</title>
       <link>https://abcnews.go.com/538/read-political-polls-2024/story?id=113560546</link>
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/read-political-polls-2024/story?id=113560546</guid>
       <pubDate>Mon, 16 Sep 2024 15:38:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing Long COVID Essentials, a new resource series</title>
+      <link>https://thesicktimes.org/2024/09/16/introducing-long-covid-essentials-a-new-resource-series/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=introducing-long-covid-essentials-a-new-resource-series</link>
+      <author>ME/LC News</author>
+      <guid>https://thesicktimes.org/?p=3568</guid>
+      <pubDate>Mon, 16 Sep 2024 15:32:13 +0000</pubDate>
     </item>
     <item>
       <title>Suspected gunman charged in apparent Trump assassination attempt</title>
@@ -1429,20 +1443,6 @@
       <author>RTS Headlines</author>
       <guid>28628336</guid>
       <pubDate>Thu, 12 Sep 2024 09:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building smart robots will be a slog, says former Google leader</title>
-      <link>https://www.axios.com/2024/09/12/ai-robots-real-world-google</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/12/ai-robots-real-world-google</guid>
-      <pubDate>Thu, 12 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatomy of a Trump conspiracy theory</title>
-      <link>https://www.axios.com/2024/09/12/trump-conspiracy-theory-haitians-immigrants</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/12/trump-conspiracy-theory-haitians-immigrants</guid>
-      <pubDate>Thu, 12 Sep 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
