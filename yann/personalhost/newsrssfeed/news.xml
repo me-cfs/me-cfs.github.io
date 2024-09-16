@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What we know about the suspect in the apparent assassination attempt on Trump in Florida</title>
+      <link>https://www.axios.com/2024/09/16/trump-florida-assassination-attempt-suspect-ryan-routh</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/16/trump-florida-assassination-attempt-suspect-ryan-routh</guid>
+      <pubDate>Mon, 16 Sep 2024 04:31:18 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						When freedom means exile: Inside the Russian prisoner swap					</title>
       <link>https://www.politico.eu/article/freedom-exile-russia-prisoner-swap-sasha-skochilenko-vadim-krasikov-evan-gershkovich/</link>
@@ -1439,13 +1446,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/11/us/politics/trump-harris-debate-analysis.html</guid>
       <pubDate>Wed, 11 Sep 2024 18:04:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin price fell as the presidential debate began</title>
-      <link>https://www.axios.com/2024/09/11/bitcoin-price-donald-trump-proxy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/11/bitcoin-price-donald-trump-proxy</guid>
-      <pubDate>Wed, 11 Sep 2024 17:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
