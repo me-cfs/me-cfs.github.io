@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Volkswagen is the anti-Tesla and China is to blame					</title>
+      <link>https://www.politico.eu/article/volkswagen-tesla-china-evs-europe-herbert-diess-elon-musk/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/volkswagen-tesla-china-evs-europe-herbert-diess-elon-musk/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:32:16 -0000</pubDate>
+    </item>
+    <item>
       <title>Amazon mandating return to five days in office</title>
       <link>https://www.axios.com/2024/09/16/amazon-five-day-in-person-work-mandate</link>
       <author>Axios</author>
@@ -1437,13 +1445,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ukraine-russia-antony-blinken-kyiv-war-united-states-defense/</guid>
       <pubDate>Thu, 12 Sep 2024 09:54:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Conservative activist Leonard Leo threatens funding for right-wing groups</title>
-      <link>https://www.axios.com/2024/09/12/leonard-leo-conservative-groups-funding</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/12/leonard-leo-conservative-groups-funding</guid>
-      <pubDate>Thu, 12 Sep 2024 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
