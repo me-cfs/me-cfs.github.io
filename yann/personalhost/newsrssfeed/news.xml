@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>End of an economic era</title>
+      <link>https://www.axios.com/2024/09/16/federal-reserve-interest-rate-cut-inflation-economy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/16/federal-reserve-interest-rate-cut-inflation-economy</guid>
+      <pubDate>Mon, 16 Sep 2024 10:53:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump's close call</title>
       <link>https://www.axios.com/2024/09/16/trump-assassination-attempt-florida-golf-course</link>
       <author>Axios</author>
@@ -1442,13 +1449,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/12/taylor-swift-endorsement-post-instagram</guid>
       <pubDate>Thu, 12 Sep 2024 01:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: McConnell's power play over vote for his replacement</title>
-      <link>https://www.axios.com/2024/09/12/mconnell-senate-republican-leader-vote</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/12/mconnell-senate-republican-leader-vote</guid>
-      <pubDate>Thu, 12 Sep 2024 00:47:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
