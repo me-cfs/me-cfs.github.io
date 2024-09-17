@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>&lt;img width="1600" height="1177" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-09/L240918c-small.jpg?itok=Ghb1-7l5" class="attachment-medium size-medium wp-post-image" /&gt;</title>
+      <link>https://www.chappatte.com/fr/images/mahsa-amini-deux-ans-apres</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22802</guid>
+      <pubDate>09/18/2024 00:12</pubDate>
+    </item>
+    <item>
+      <title>Superbugs could kill 40 million by 2050: Research</title>
+      <link>https://thehill.com/policy/healthcare/4884566-superbugs-antimicrobial-resistance-deaths/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4884566</guid>
+      <pubDate>Tue, 17 Sep 2024 19:02:29 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						What just happened? A beginner’s guide to von der Leyen’s European Commission					</title>
       <link>https://www.politico.eu/article/beginners-guide-ursula-von-der-leyen-european-commission-brussels/</link>
@@ -451,6 +465,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4883091</guid>
       <pubDate>Mon, 16 Sep 2024 23:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>We Cannot Go On Like This</title>
+      <link>https://www.nytimes.com/2024/09/16/opinion/trump-harris-attempted-assassination-debate.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/16/opinion/trump-harris-attempted-assassination-debate.html</guid>
+      <pubDate>Mon, 16 Sep 2024 22:07:28 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1434,27 +1455,6 @@
       <author>Krugman - NYT</author>
       <guid>https://www.nytimes.com/2024/09/12/opinion/trump-harris-concepts-obamacare.html</guid>
       <pubDate>Fri, 13 Sep 2024 14:03:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil fédéral veut près de 100 millions de francs pour reconstruire l'Ukraine</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-conseil-federal-veut-pres-de-100-millions-de-francs-pour-reconstruire-l-ukraine-28629817.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28629817</guid>
-      <pubDate>Fri, 13 Sep 2024 13:57:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aucune initiative suspendue suite aux soupçons de signatures falsifiées</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/aucune-initiative-suspendue-suite-aux-soupcons-de-signatures-falsifiees-28629812.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28629812</guid>
-      <pubDate>Fri, 13 Sep 2024 13:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Harris Can Win on the Economy, but She Needs a Stronger Message</title>
-      <link>https://www.nytimes.com/2024/09/12/opinion/harris-economy-message.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/12/opinion/harris-economy-message.html</guid>
-      <pubDate>Fri, 13 Sep 2024 13:24:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
