@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ursula von der Leyen’s new European Commission					</title>
+      <link>https://www.politico.eu/article/ursula-von-der-leyen-new-european-commission-portfolio/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ursula-von-der-leyen-new-european-commission-portfolio/</guid>
+      <pubDate>Tue, 17 Sep 2024 09:35:54 -0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Obama hits TikTok to register young voters</title>
+      <link>https://www.axios.com/2024/09/17/obama-harris-tiktok-election</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/17/obama-harris-tiktok-election</guid>
+      <pubDate>Tue, 17 Sep 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Central Europe Flooding Leaves 16 Dead In Romania, Poland, Czech Republic And Austria</title>
       <link>https://www.huffpost.com/entry/central-europe-floods_n_66e93fcee4b06998fbecdda6</link>
       <author>WorldPost (Huffington)</author>
@@ -1434,20 +1449,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4877215</guid>
       <pubDate>Thu, 12 Sep 2024 20:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senators target false prescription medication marketing on social media with new bill</title>
-      <link>https://thehill.com/policy/healthcare/4876749-bipartisan-legislation-durbin-braun-social-media-prescription-drug-ads/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4876749</guid>
-      <pubDate>Thu, 12 Sep 2024 20:47:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's election interference case in Georgia narrowed by judge</title>
-      <link>https://www.axios.com/2024/09/12/trump-georgia-election-interference-charges</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/12/trump-georgia-election-interference-charges</guid>
-      <pubDate>Thu, 12 Sep 2024 20:46:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
