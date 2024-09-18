@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Superbugs forecast to kill nearly 40 million people by 2050					</title>
+      <link>https://www.politico.eu/article/amr-death-superbugs-40-million-2050-study-antibiotic/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/amr-death-superbugs-40-million-2050-study-antibiotic/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:01:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mike Johnson leaves colleagues baffled with his "puzzling" shutdown strategy</title>
+      <link>https://www.axios.com/2024/09/18/johnsons-colleagues-baffled-by-his-shutdown-strategy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/18/johnsons-colleagues-baffled-by-his-shutdown-strategy</guid>
+      <pubDate>Wed, 18 Sep 2024 00:49:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel Blocking Over 80% Of Food Assistance Into A Starving Gaza, Aid Groups Say</title>
       <link>https://www.huffpost.com/entry/israel-blocking-80-percent-food-gaza-aid_n_66ea02d9e4b0bcfae11a3364</link>
       <author>WorldPost (Huffington)</author>
@@ -17,6 +32,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/18/trump-salt-tax-cuts-senate</guid>
       <pubDate>Wed, 18 Sep 2024 00:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Sen. Kirsten Gillibrand plots top role for 2026</title>
+      <link>https://www.axios.com/2024/09/18/kirsten-gillibrand-senate-democrats-campaign-dscc-2026</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/18/kirsten-gillibrand-senate-democrats-campaign-dscc-2026</guid>
+      <pubDate>Wed, 18 Sep 2024 00:19:00 +0000</pubDate>
     </item>
     <item>
       <title>Mike Johnson's December nightmare</title>
@@ -598,6 +620,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4883091</guid>
       <pubDate>Mon, 16 Sep 2024 23:29:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tense Teamsters Meeting With Harris Ends With an Endorsement Still Dangling</title>
+      <link>https://www.nytimes.com/2024/09/16/us/politics/teamsters-harris.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/16/us/politics/teamsters-harris.html</guid>
+      <pubDate>Mon, 16 Sep 2024 22:10:34 +0000</pubDate>
     </item>
     <item>
       <title>We Cannot Go On Like This</title>
@@ -1425,36 +1454,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/13/laura-loomer-conspiracy-theories-trump</guid>
       <pubDate>Fri, 13 Sep 2024 23:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Says Both Trump and Harris Are ‘Against Life’</title>
-      <link>https://www.nytimes.com/2024/09/13/world/europe/pope-us-election-abortion-immigration.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/13/world/europe/pope-us-election-abortion-immigration.html</guid>
-      <pubDate>Fri, 13 Sep 2024 22:48:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Starmer and Biden brush off Putin’s threat of war					</title>
-      <link>https://www.politico.eu/article/uk-prime-minister-keir-starmer-us-president-joe-biden-vladimir-putin-threat-war-storm-shadow-missiles-ukraine/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/uk-prime-minister-keir-starmer-us-president-joe-biden-vladimir-putin-threat-war-storm-shadow-missiles-ukraine/</guid>
-      <pubDate>Fri, 13 Sep 2024 22:38:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s defense minister on Putin’s war threat: Yawn					</title>
-      <link>https://www.politico.eu/article/germany-on-putins-war-threat-yawn/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/germany-on-putins-war-threat-yawn/</guid>
-      <pubDate>Fri, 13 Sep 2024 22:23:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump threatens to withhold fire aid over political differences with Newsom</title>
-      <link>https://www.axios.com/2024/09/13/trump-threatens-california-fire-aid-newsom</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/13/trump-threatens-california-fire-aid-newsom</guid>
-      <pubDate>Fri, 13 Sep 2024 21:51:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
