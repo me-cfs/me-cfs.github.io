@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s covers</title>
+      <link>https://www.economist.com/the-world-this-week/2024/09/19/this-weeks-covers</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/vgqqsc9rah0d0nb39qrnc3i94kq6fm9u</guid>
+      <pubDate>Thu, 19 Sep 2024 14:17:29 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						That’s all, folks! Breton’s exit wraps 5 years of EU policy drama					</title>
       <link>https://www.politico.eu/article/policy-thierry-breton-europe-ukraine-military-eu/</link>
@@ -1443,13 +1450,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/poland-pis-mariusz-blaszczak-jaroslaw-kaczynski-mp-cash-shortfall/</guid>
       <pubDate>Mon, 16 Sep 2024 18:48:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. warns Netanyahu against starting a war in Lebanon</title>
-      <link>https://www.axios.com/2024/09/16/israel-netanyahu-lebanon-hezbollah</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/16/israel-netanyahu-lebanon-hezbollah</guid>
-      <pubDate>Mon, 16 Sep 2024 18:10:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
