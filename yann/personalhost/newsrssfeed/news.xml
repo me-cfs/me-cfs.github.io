@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Fed’s Big Rate Cut Wasn’t Political. It Was an Economic No-Brainer.</title>
+      <link>https://www.nytimes.com/2024/09/19/opinion/interest-rates-federal-reserve.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/09/19/opinion/interest-rates-federal-reserve.html</guid>
+      <pubDate>Thu, 19 Sep 2024 19:03:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Walz met families of U.S. hostages held in Gaza</title>
       <link>https://www.axios.com/2024/09/19/walz-meet-gaza-hostage-families</link>
       <author>Axios</author>
@@ -31,6 +38,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/19/defense-secretary-postpones-israel-trip-lebanon-war-concerns</guid>
       <pubDate>Thu, 19 Sep 2024 17:29:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Israel Built a Modern-Day Trojan Horse: Exploding Pagers</title>
+      <link>https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html</guid>
+      <pubDate>Thu, 19 Sep 2024 17:27:48 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1434,21 +1448,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/kursk-russia-incursion-objections-war-in-ukraine-volodymyr-zelenskyy/</guid>
       <pubDate>Tue, 17 Sep 2024 02:01:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump recounts apparent assassination attempt: "All of a sudden we heard shots"</title>
-      <link>https://www.axios.com/2024/09/17/trump-assassination-attempt-x-spaces-crypto-platform</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/17/trump-assassination-attempt-x-spaces-crypto-platform</guid>
-      <pubDate>Tue, 17 Sep 2024 01:48:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Even Britain’s left-wing government seeks lessons from Giorgia Meloni					</title>
-      <link>https://www.politico.eu/article/britain-left-wing-government-giorgia-meloni/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/britain-left-wing-government-giorgia-meloni/</guid>
-      <pubDate>Tue, 17 Sep 2024 01:46:51 -0000</pubDate>
     </item>
   </channel>
 </rss>
