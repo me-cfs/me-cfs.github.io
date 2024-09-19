@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/09/19/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/q1lkoto7hm7ohkn1k65pptp5smorn8ml</guid>
+      <pubDate>Thu, 19 Sep 2024 12:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/09/19/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/6ctacun9e137c6bn4l2u8a9194tr0us1</guid>
+      <pubDate>Thu, 19 Sep 2024 12:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/09/19/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/b0vtp27tqneqdtpa91m3629uj43q78nd</guid>
+      <pubDate>Thu, 19 Sep 2024 12:42:08 +0000</pubDate>
+    </item>
+    <item>
       <title>KKR, Axel Springer reach deal to break up the media giant</title>
       <link>https://www.axios.com/2024/09/19/axel-springer-kkr-break-up</link>
       <author>Axios</author>
@@ -1428,27 +1449,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/15/arts/television/emmy-awards-winners.html</guid>
       <pubDate>Mon, 16 Sep 2024 17:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>2024 Emmys: Best and Worst Moments From the Awards Show</title>
-      <link>https://www.nytimes.com/2024/09/16/arts/television/emmys-best-worst-moments.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/16/arts/television/emmys-best-worst-moments.html</guid>
-      <pubDate>Mon, 16 Sep 2024 17:03:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>This Smelly Penguin Is New Zealand's Bird Of The Year</title>
-      <link>https://www.huffpost.com/entry/hoiho-new-zealand-bird-of-the-year_n_66e8479ce4b0b7fef8320214</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/hoiho-new-zealand-bird-of-the-year_n_66e8479ce4b0b7fef8320214</guid>
-      <pubDate>Mon, 16 Sep 2024 16:10:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>How to read political polls in 2024</title>
-      <link>https://abcnews.go.com/538/read-political-polls-2024/story?id=113560546</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/read-political-polls-2024/story?id=113560546</guid>
-      <pubDate>Mon, 16 Sep 2024 15:38:30 -0000</pubDate>
     </item>
   </channel>
 </rss>
