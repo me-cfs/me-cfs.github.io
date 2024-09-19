@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>New York City's web of scandals</title>
+      <link>https://www.axios.com/2024/09/19/eric-adams-nyc-mayor-scandal-investigations</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/19/eric-adams-nyc-mayor-scandal-investigations</guid>
+      <pubDate>Thu, 19 Sep 2024 19:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Two cities rocked by false Trump claims prepare for him to visit</title>
+      <link>https://www.axios.com/2024/09/19/trump-springfield-aurora-visit-immigrants-mayors</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/19/trump-springfield-aurora-visit-immigrants-mayors</guid>
+      <pubDate>Thu, 19 Sep 2024 19:38:15 +0000</pubDate>
+    </item>
+    <item>
       <title>The Fed’s Big Rate Cut Wasn’t Political. It Was an Economic No-Brainer.</title>
       <link>https://www.nytimes.com/2024/09/19/opinion/interest-rates-federal-reserve.html</link>
       <author>Krugman - NYT</author>
@@ -1432,22 +1446,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ursula-von-leyen-thierry-brenton-european-commission/</guid>
       <pubDate>Tue, 17 Sep 2024 02:46:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						‘Anyone but him’: Inside Ursula von der Leyen’s long breakup with Thierry Breton					</title>
-      <link>https://www.politico.eu/article/ursula-von-der-leyen-thierry-breton-resignation-france-emmanuel-macron-european-commission/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ursula-von-der-leyen-thierry-breton-resignation-france-emmanuel-macron-european-commission/</guid>
-      <pubDate>Tue, 17 Sep 2024 02:31:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						West funding Putin’s soldiers with growing Russian fuel purchases, report warns					</title>
-      <link>https://www.politico.eu/article/west-funding-vladimir-putin-soldier-russia-fuel-oil-ukraine-war/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/west-funding-vladimir-putin-soldier-russia-fuel-oil-ukraine-war/</guid>
-      <pubDate>Tue, 17 Sep 2024 02:16:51 -0000</pubDate>
     </item>
   </channel>
 </rss>
