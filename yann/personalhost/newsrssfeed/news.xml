@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le défi des drones pour l'armée suisse</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/le-defi-des-drones-pour-l-armee-suisse-28632577.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28632577</guid>
+      <pubDate>Fri, 20 Sep 2024 04:22:24 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Germany’s Scholz risks Biden’s fate					</title>
       <link>https://www.politico.eu/article/germanys-olaf-scholz-joe-biden-un-politics-afd-vote/</link>
@@ -1442,13 +1449,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/15/us/politics/trump-routh-ukraine-interview.html</guid>
       <pubDate>Tue, 17 Sep 2024 12:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspected Gunman at Trump Golf Course Said He Was Willing to Fight and Die in Ukraine</title>
-      <link>https://www.nytimes.com/2024/09/15/us/politics/trump-shooting-suspect-routh.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/15/us/politics/trump-shooting-suspect-routh.html</guid>
-      <pubDate>Tue, 17 Sep 2024 12:40:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
