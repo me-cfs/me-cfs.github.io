@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden rolls out global Cancer Moonshot effort, targeting cervical cancer</title>
+      <link>https://thehill.com/policy/healthcare/4892574-biden-cancer-moonshot-quad-cervical-cancer/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4892574</guid>
+      <pubDate>Sun, 22 Sep 2024 00:10:53 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. fears war in Lebanon but hopes Israeli attacks push Hezbollah to a deal</title>
       <link>https://www.axios.com/2024/09/21/us-israel-lebanon-hezbollah-war-pressure-diplomatic-deal</link>
       <author>Axios</author>
@@ -454,6 +461,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/20/israel-palestinian-bank-us-economic-collapse-concerns</guid>
       <pubDate>Fri, 20 Sep 2024 09:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Strange Afterlife of Tucker Carlson</title>
+      <link>https://www.nytimes.com/2024/09/20/opinion/vance-tucker-carlson-interview.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/20/opinion/vance-tucker-carlson-interview.html</guid>
+      <pubDate>Fri, 20 Sep 2024 09:03:44 +0000</pubDate>
     </item>
     <item>
       <title>Biden unleashes Cabinet sprint ahead of election</title>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/18/anduril-texas-cca-autonomy</guid>
       <pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Harris ramps up Asian American voter outreach with ad about her mother</title>
-      <link>https://www.axios.com/2024/09/18/harris-asian-american-voter-outreach-ad</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/18/harris-asian-american-voter-outreach-ad</guid>
-      <pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les universités mettent peu à peu en place des règles du jeu face à l'IA</title>
-      <link>https://www.rts.ch/info/societe/2024/article/les-universites-mettent-peu-a-peu-en-place-des-regles-du-jeu-face-a-l-ia-28634532.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28634532</guid>
-      <pubDate>Wed, 18 Sep 2024 09:44:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
