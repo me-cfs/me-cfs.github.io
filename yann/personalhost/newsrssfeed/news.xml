@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Germany fact-checks Russia for defending 1939 invasion of Poland					</title>
+      <link>https://www.politico.eu/article/germany-mocks-russia-defending-1939-invasion-poland-protect-ukrainian-population-pseudo-historical-theory/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/germany-mocks-russia-defending-1939-invasion-poland-protect-ukrainian-population-pseudo-historical-theory/</guid>
+      <pubDate>Sun, 22 Sep 2024 02:16:05 -0000</pubDate>
+    </item>
+    <item>
       <title>Biden rolls out global Cancer Moonshot effort, targeting cervical cancer</title>
       <link>https://thehill.com/policy/healthcare/4892574-biden-cancer-moonshot-quad-cervical-cancer/</link>
       <author>Healthcare - The Hill</author>
@@ -292,6 +300,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4891338</guid>
       <pubDate>Fri, 20 Sep 2024 20:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Hollywood Actress Finds a Farm, and Her Leading Man, in the Midwest</title>
+      <link>https://www.nytimes.com/2024/09/20/style/torrey-devitto-jared-lapine-wedding.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/20/style/torrey-devitto-jared-lapine-wedding.html</guid>
+      <pubDate>Fri, 20 Sep 2024 20:13:22 +0000</pubDate>
     </item>
     <item>
       <title>Mike DeWine: I Don’t Recognize the Springfield That Trump and Vance Describe</title>
@@ -1427,20 +1442,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/17/world/middleeast/israel-hezbollah-pagers-explosives.html</guid>
       <pubDate>Wed, 18 Sep 2024 10:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris avoids getting too detailed as she battles with Trump</title>
-      <link>https://thehill.com/policy/healthcare/4885027-vice-president-harris-avoids-policy-details/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4885027</guid>
-      <pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In remote Texas, Anduril probes future of drone warfare</title>
-      <link>https://www.axios.com/2024/09/18/anduril-texas-cca-autonomy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/18/anduril-texas-cca-autonomy</guid>
-      <pubDate>Wed, 18 Sep 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
