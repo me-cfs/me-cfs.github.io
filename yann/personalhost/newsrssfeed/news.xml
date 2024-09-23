@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						German coalition teeters in ‘autumn of decisions’					</title>
+      <link>https://www.politico.eu/article/german-coalition-teeter-autumn-decisions-olaf-scholz-spd/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/german-coalition-teeter-autumn-decisions-olaf-scholz-spd/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:27:56 -0000</pubDate>
+    </item>
+    <item>
       <title>Michael Steele predicts Harris will flip Florida, North Carolina</title>
       <link>https://thehill.com/homenews/campaign/4894389-michael-steele-predicts-harris-victory/</link>
       <author>Healthcare - The Hill</author>
@@ -303,6 +311,13 @@
       <link>https://www.nytimes.com/2024/09/22/us/politics/controversies-erupt-as-trump-and-gop-make-critical-push-to-voters.html</link>
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/22/us/politics/controversies-erupt-as-trump-and-gop-make-critical-push-to-voters.html</guid>
+      <pubDate>Sun, 22 Sep 2024 19:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Controversies Erupt as Trump and G.O.P. Make Critical Push to Voters</title>
+      <link>https://www.nytimes.com/2024/09/22/us/politics/trump-gop-voters.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/22/us/politics/trump-gop-voters.html</guid>
       <pubDate>Sun, 22 Sep 2024 19:37:35 +0000</pubDate>
     </item>
     <item>
@@ -1426,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/19/fed-rate-cuts-us-markets</guid>
       <pubDate>Thu, 19 Sep 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KKR, Axel Springer reach deal to break up the media giant</title>
-      <link>https://www.axios.com/2024/09/19/axel-springer-kkr-break-up</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/19/axel-springer-kkr-break-up</guid>
-      <pubDate>Thu, 19 Sep 2024 11:29:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Fed Interest Rate Cuts Means for Mortgages, Car Loans and More</title>
-      <link>https://www.nytimes.com/2024/09/17/business/fed-rates-mortgages-car-loans.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/17/business/fed-rates-mortgages-car-loans.html</guid>
-      <pubDate>Thu, 19 Sep 2024 11:00:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
