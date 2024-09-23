@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Macron’s old guard spooked by new government’s rightward shift					</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-gabriel-attal-new-government-right-shift-michel-barnier-bruno-retailleau-laurence-garnier/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-gabriel-attal-new-government-right-shift-michel-barnier-bruno-retailleau-laurence-garnier/</guid>
+      <pubDate>Mon, 23 Sep 2024 14:08:34 -0000</pubDate>
+    </item>
+    <item>
       <title>Lebanon Says Israeli Airstrikes Kill 100 People, Wound More Than 400</title>
       <link>https://www.huffpost.com/entry/lebanon-israel-airstrikes_n_66f14fc5e4b0451ba1299341</link>
       <author>WorldPost (Huffington)</author>
@@ -52,6 +60,13 @@
       <author>Climate Change - The Hill</author>
       <guid>https://thehill.com/?p=4890898</guid>
       <pubDate>Mon, 23 Sep 2024 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Trump Can’t Shake Project 2025</title>
+      <link>https://www.nytimes.com/2024/09/22/opinion/project-2025-trump-election.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/22/opinion/project-2025-trump-election.html</guid>
+      <pubDate>Mon, 23 Sep 2024 11:36:57 +0000</pubDate>
     </item>
     <item>
       <title>Companies aren't as quick to the layoff trigger</title>
@@ -1425,21 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/19/opioid-overdose-deaths-falling</guid>
       <pubDate>Thu, 19 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI's Strawberry, the reasoning bot, is still in early days: Sam Altman</title>
-      <link>https://www.axios.com/2024/09/19/openai-sam-altman-chatgpt-strawberry-o1</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/19/openai-sam-altman-chatgpt-strawberry-o1</guid>
-      <pubDate>Thu, 19 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						How to speak von der Leyen					</title>
-      <link>https://www.politico.eu/article/how-to-speak-ursula-von-der-leyen-new-european-commission/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/how-to-speak-ursula-von-der-leyen-new-european-commission/</guid>
-      <pubDate>Thu, 19 Sep 2024 07:58:05 -0000</pubDate>
     </item>
   </channel>
 </rss>
