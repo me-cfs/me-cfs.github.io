@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>NY governor declares deadly mosquito virus public health threat after confirmed case</title>
+      <link>https://thehill.com/policy/healthcare/4896827-new-york-declares-public-health-threat-eastern-equine-encephalitis/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4896827</guid>
+      <pubDate>Tue, 24 Sep 2024 18:38:34 +0000</pubDate>
+    </item>
+    <item>
       <title>CDC widens mpox vaccine recommendations</title>
       <link>https://thehill.com/policy/healthcare/4896263-cdc-widens-mpox-vaccine-recommendations/</link>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4896263</guid>
       <pubDate>Tue, 24 Sep 2024 18:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOJ sues Visa for monopolizing debit card market</title>
+      <link>https://www.axios.com/2024/09/24/visa-antitrust-debit-card-monopoly-lawsuit</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/24/visa-antitrust-debit-card-monopoly-lawsuit</guid>
+      <pubDate>Tue, 24 Sep 2024 18:30:06 +0000</pubDate>
     </item>
     <item>
       <title>U.S. News &amp; World Report Released Its College Rankings</title>
@@ -1426,20 +1440,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/18/world/middleeast/israel-exploding-pagers-hezbollah.html</guid>
       <pubDate>Fri, 20 Sep 2024 13:57:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI closes in on largest VC round of all time</title>
-      <link>https://www.axios.com/2024/09/20/openai-largest-vc-round</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/20/openai-largest-vc-round</guid>
-      <pubDate>Fri, 20 Sep 2024 13:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Mile Island nuclear plant to restart, power Microsoft data centers</title>
-      <link>https://www.axios.com/2024/09/20/three-mile-island-nuclear-microsoft-ai-deal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/20/three-mile-island-nuclear-microsoft-ai-deal</guid>
-      <pubDate>Fri, 20 Sep 2024 13:33:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
