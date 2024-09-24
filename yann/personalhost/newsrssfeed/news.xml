@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>U.S. News &amp; World Report Released Its College Rankings</title>
+      <link>https://www.nytimes.com/2024/09/24/us/us-news-rankings-colleges.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/24/us/us-news-rankings-colleges.html</guid>
+      <pubDate>Tue, 24 Sep 2024 17:41:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Nebraska Governor admits defeat in GOP push for electoral vote reform</title>
       <link>https://www.axios.com/2024/09/24/nebraska-electoral-vote-reform</link>
       <author>Axios</author>
@@ -1433,13 +1440,6 @@
       <author>RTS Headlines</author>
       <guid>28637646</guid>
       <pubDate>Fri, 20 Sep 2024 13:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Child care costs more than rent across 100 largest US metros</title>
-      <link>https://thehill.com/policy/healthcare/4889500-child-care-costs-more-than-rent-across-usa/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4889500&amp;preview=true&amp;preview_id=4889500</guid>
-      <pubDate>Fri, 20 Sep 2024 12:03:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
