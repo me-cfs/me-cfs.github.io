@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Meet Pesto: the fat baby penguin and viral superstar</title>
+      <link>https://www.bbc.com/news/articles/cp3w4nld5e3o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cp3w4nld5e3o#0</guid>
+      <pubDate>Tue, 24 Sep 2024 04:50:47 GMT</pubDate>
+    </item>
+    <item>
       <title>"Weaponizing environmental law": Texas AG sues Biden admin for listing lizard as "endangered"</title>
       <link>https://www.axios.com/2024/09/24/texas-biden-administration-lizard-endangered-oil-lawsuit</link>
       <author>Axios</author>
@@ -1437,13 +1444,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/democrats-finally-win-north-carolina-2024/story?id=113842324</guid>
       <pubDate>Thu, 19 Sep 2024 20:26:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Report: Cancer deaths have dropped, but alcohol is factor in new cases</title>
-      <link>https://thehill.com/policy/healthcare/4889293-cancer-death-rate-decline-report/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4889293</guid>
-      <pubDate>Thu, 19 Sep 2024 20:18:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
