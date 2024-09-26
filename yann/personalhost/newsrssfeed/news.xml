@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Andrew Cuomo eyes NYC mayor job</title>
+      <link>https://www.axios.com/2024/09/26/andrew-cuomo-nyc-mayor-eric-adams-indictment</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/26/andrew-cuomo-nyc-mayor-eric-adams-indictment</guid>
+      <pubDate>Thu, 26 Sep 2024 13:13:19 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Trump gives strongest signal yet he won’t back Ukraine and Zelenskyy against Putin					</title>
       <link>https://www.politico.eu/article/donald-trump-signal-us-stop-ukraine-election-russia-volodymyr-zelenskyy-vladimir-putin/</link>
@@ -119,6 +126,13 @@
       <author>RTS Headlines</author>
       <guid>28642738</guid>
       <pubDate>Thu, 26 Sep 2024 07:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eric Adams Is Indicted After Federal Corruption Investigation</title>
+      <link>https://www.nytimes.com/2024/09/25/nyregion/eric-adams-indicted.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/25/nyregion/eric-adams-indicted.html</guid>
+      <pubDate>Thu, 26 Sep 2024 04:47:21 +0000</pubDate>
     </item>
     <item>
       <title>"Sans une rente AVS pour mon fils, je serais à la limite", témoigne un retraité suisse en Thaïlande</title>
@@ -831,6 +845,13 @@
       <pubDate>Tue, 24 Sep 2024 17:38:40 +0000</pubDate>
     </item>
     <item>
+      <title>Putin Is Hunting Down Ordinary People All Over the World</title>
+      <link>https://www.nytimes.com/2024/09/23/opinion/russia-putin-kremlin.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/23/opinion/russia-putin-kremlin.html</guid>
+      <pubDate>Tue, 24 Sep 2024 17:37:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Democrats are doing better in Senate races than presidentially</title>
       <link>https://abcnews.go.com/538/video/democrats-senate-races-presidentially-538-politics-podcast-113975945</link>
       <author>Fivethirtyeight</author>
@@ -1294,6 +1315,13 @@
       <pubDate>Mon, 23 Sep 2024 17:27:56 -0000</pubDate>
     </item>
     <item>
+      <title>Just When You Thought Politics Couldn’t Get Any Grosser</title>
+      <link>https://www.nytimes.com/2024/09/23/opinion/donald-trump-mark-robinson-maga.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/23/opinion/donald-trump-mark-robinson-maga.html</guid>
+      <pubDate>Mon, 23 Sep 2024 17:10:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Michael Steele predicts Harris will flip Florida, North Carolina</title>
       <link>https://thehill.com/homenews/campaign/4894389-michael-steele-predicts-harris-victory/</link>
       <author>Healthcare - The Hill</author>
@@ -1419,34 +1447,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/23/companies-attitudes-toward-layoffs-are-changing-heres-why</guid>
       <pubDate>Mon, 23 Sep 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How America’s health care system fails women in pain</title>
-      <link>https://thehill.com/policy/healthcare/4890390-pain-treatment-disparities-women/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?post_type=future_america_post&amp;p=4890390</guid>
-      <pubDate>Mon, 23 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>America's new apartment wave is peaking</title>
-      <link>https://www.axios.com/2024/09/23/apartment-building-construction-rent-prices</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/23/apartment-building-construction-rent-prices</guid>
-      <pubDate>Mon, 23 Sep 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats are outspending Republicans nationwide</title>
-      <link>https://www.axios.com/2024/09/23/political-campaign-spending-2024</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/23/political-campaign-spending-2024</guid>
-      <pubDate>Mon, 23 Sep 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris, Trump go light on religion in '24 campaign</title>
-      <link>https://www.axios.com/2024/09/23/harris-trump-religion-campaign</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/23/harris-trump-religion-campaign</guid>
-      <pubDate>Mon, 23 Sep 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
