@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Tech Bro Style in American Politics</title>
+      <link>https://www.nytimes.com/2024/09/26/opinion/cryptocurrency-election-moreno-vance.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/09/26/opinion/cryptocurrency-election-moreno-vance.html</guid>
+      <pubDate>Thu, 26 Sep 2024 23:00:07 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Hungary would have given in to Russia, says Orbán’s top aide					</title>
       <link>https://www.politico.eu/article/hungary-russia-viktor-orban-balazs-orban-ukraine-war-volodymyr-zelenskyy-vladimir-putin/</link>
@@ -69,6 +76,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/26/homeownership-mortgage-refinancing-rate-cut</guid>
       <pubDate>Thu, 26 Sep 2024 16:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ricciardo replaced by Lawson at RB for rest of 2024</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c5y076prkero</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/sport/formula1/articles/c5y076prkero#0</guid>
+      <pubDate>Thu, 26 Sep 2024 16:05:08 GMT</pubDate>
     </item>
     <item>
       <title>Primes maladie: notre calculateur pour comparer les prix et les risques</title>
@@ -1434,20 +1448,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/23/us/politics/kamala-harris-kimberly-guilfoyle-san-francisco-da.html</guid>
       <pubDate>Mon, 23 Sep 2024 18:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Hispanic Americans in new survey support legal abortion</title>
-      <link>https://thehill.com/latino/4894609-hispanic-americans-legal-abortion-reproductive-rights/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4894609</guid>
-      <pubDate>Mon, 23 Sep 2024 18:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where Are America’s Most Expensive Towns?</title>
-      <link>https://www.nytimes.com/2024/09/19/realestate/us-towns-home-prices.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/19/realestate/us-towns-home-prices.html</guid>
-      <pubDate>Mon, 23 Sep 2024 17:39:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
