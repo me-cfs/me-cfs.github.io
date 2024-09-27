@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Kentucky sues Express Scripts, alleging it helped fuel state's opioid crisis</title>
+      <link>https://thehill.com/policy/healthcare/4904375-kentucky-sues-express-scripts-opioid-crisis/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4904375</guid>
+      <pubDate>Fri, 27 Sep 2024 21:42:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Book predicts the coming Gen Z political wave</title>
       <link>https://www.axios.com/2024/09/27/gen-z-politics-new-book-2024-election</link>
       <author>Axios</author>
@@ -1440,13 +1447,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4896192</guid>
       <pubDate>Tue, 24 Sep 2024 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Britain’s ‘green’ foreign policy innovative or mere posturing?</title>
-      <link>https://thehill.com/opinion/international/4894462-is-britains-green-foreign-policy-innovative-or-mere-posturing/</link>
-      <author>Climate Change - The Hill</author>
-      <guid>https://thehill.com/?p=4894462</guid>
-      <pubDate>Tue, 24 Sep 2024 14:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
