@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Elon Musk's China's trap</title>
+      <link>https://www.axios.com/2024/09/27/elon-musks-china-tesla</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/27/elon-musks-china-tesla</guid>
+      <pubDate>Fri, 27 Sep 2024 19:48:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Nevada is so close in 2024</title>
       <link>https://abcnews.go.com/538/nevada-close-2024/story?id=114284320</link>
       <author>Fivethirtyeight</author>
@@ -531,6 +538,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4899774</guid>
       <pubDate>Thu, 26 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Signs of Dementia That Aren’t Memory Loss</title>
+      <link>https://www.nytimes.com/2024/09/26/well/mind/dementia-signs-symptoms.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/26/well/mind/dementia-signs-symptoms.html</guid>
+      <pubDate>Thu, 26 Sep 2024 09:00:06 +0000</pubDate>
     </item>
     <item>
       <title>Americans point finger at politicians on misinformation threat</title>
@@ -1433,20 +1447,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=3671</guid>
       <pubDate>Tue, 24 Sep 2024 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The end of "market uncertainty"</title>
-      <link>https://www.axios.com/2024/09/24/the-end-of-market-uncertainty</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/24/the-end-of-market-uncertainty</guid>
-      <pubDate>Tue, 24 Sep 2024 13:46:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Green Tea ‘Nature’s Ozempic’? The Beverage’s Link to Weight Loss</title>
-      <link>https://www.nytimes.com/2024/09/24/well/green-tea-weight-loss-ozempic.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/24/well/green-tea-weight-loss-ozempic.html</guid>
-      <pubDate>Tue, 24 Sep 2024 13:23:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
