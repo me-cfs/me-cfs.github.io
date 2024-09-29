@@ -5,11 +5,35 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Breton slams ‘empress’ von der Leyen’s power grab and France’s loss of influence in EU					</title>
+      <link>https://www.politico.eu/article/thierry-breton-slam-empress-ursula-von-der-leyen-power-grab-france-loss-influence-brussels/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/thierry-breton-slam-empress-ursula-von-der-leyen-power-grab-france-loss-influence-brussels/</guid>
+      <pubDate>Sun, 29 Sep 2024 15:08:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Middle East braces for wider conflict as Israel and Iran trade threats					</title>
+      <link>https://www.politico.eu/article/middle-east-conflict-israel-iran-threat-lebanon/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/middle-east-conflict-israel-iran-threat-lebanon/</guid>
+      <pubDate>Sun, 29 Sep 2024 14:53:53 -0000</pubDate>
+    </item>
+    <item>
       <title>Dark Trump: Former president calls Harris “mentally disabled”</title>
       <link>https://www.axios.com/2024/09/29/trump-harris-mentally-disabled-wisconsin-rally</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/29/trump-harris-mentally-disabled-wisconsin-rally</guid>
       <pubDate>Sun, 29 Sep 2024 14:38:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Top Labour MP resigns, decrying ‘greed and power’ of Starmer’s party 					</title>
+      <link>https://www.politico.eu/article/rosie-duffield-labour-mp-resign-decry-greed-power-gifts-scandal-waheed-alli-keir-starmer-party/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/rosie-duffield-labour-mp-resign-decry-greed-power-gifts-scandal-waheed-alli-keir-starmer-party/</guid>
+      <pubDate>Sun, 29 Sep 2024 14:23:53 -0000</pubDate>
     </item>
     <item>
       <title>Hezbollah Confirms A 7th Top Commander Was Killed In Israeli Strikes In Recent Days</title>
@@ -281,6 +305,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/28/young-men-women-divided-politics-religion</guid>
       <pubDate>Sat, 28 Sep 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘The Interview’: John Oliver Is Still Working Through the Rage</title>
+      <link>https://www.nytimes.com/2024/09/28/magazine/john-oliver-interview.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/28/magazine/john-oliver-interview.html</guid>
+      <pubDate>Sat, 28 Sep 2024 09:15:09 +0000</pubDate>
     </item>
     <item>
       <title>Des maxi-centrales solaires, "Médor" au bureau et la mue écolo d'un quartier de Nyon</title>
@@ -1424,36 +1455,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/cvg3qmj2pz5o#0</guid>
       <pubDate>Wed, 25 Sep 2024 08:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Harris won't say whether she still wants to end death penalty</title>
-      <link>https://www.axios.com/2024/09/25/kamala-harris-death-penalty-2024</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/25/kamala-harris-death-penalty-2024</guid>
-      <pubDate>Wed, 25 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump: "Big threats on my life by Iran"</title>
-      <link>https://www.axios.com/2024/09/25/trump-iran-assassinate-threats-intelligence-briefing-odi</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/25/trump-iran-assassinate-threats-intelligence-briefing-odi</guid>
-      <pubDate>Wed, 25 Sep 2024 05:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s financial ambitions slam into German opposition					</title>
-      <link>https://www.politico.eu/article/europe-financial-ambition-slam-germany-opposition-olaf-scholz-commerzbank/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/europe-financial-ambition-slam-germany-opposition-olaf-scholz-commerzbank/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:21:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine bets on India to help get peace deal with Putin					</title>
-      <link>https://www.politico.eu/article/ukraine-india-russia-narendra-modi-volodymyr-zelenskyy-vladimir-putin-peace-kyiv/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ukraine-india-russia-narendra-modi-volodymyr-zelenskyy-vladimir-putin-peace-kyiv/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:06:22 -0000</pubDate>
     </item>
   </channel>
 </rss>
