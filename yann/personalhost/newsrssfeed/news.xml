@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>School cellphone bans spread nationwide</title>
+      <link>https://www.axios.com/2024/09/29/cell-phone-schools-bans-states</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/09/29/cell-phone-schools-bans-states</guid>
+      <pubDate>Sun, 29 Sep 2024 11:09:09 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						World’s cartoonists on this week’s events					</title>
       <link>https://www.politico.eu/article/political-cartoons-us-election-donald-trump-vladimir-putin-elon-musk/</link>
@@ -1453,13 +1460,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/25/senate-republicans-schumer-government-funding-vote</guid>
       <pubDate>Wed, 25 Sep 2024 00:27:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Univision to hold separate town halls with Harris, Trump</title>
-      <link>https://www.axios.com/2024/09/25/univision-harris-trump-town-halls</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/25/univision-harris-trump-town-halls</guid>
-      <pubDate>Wed, 25 Sep 2024 00:25:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
