@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						World’s cartoonists on this week’s events					</title>
+      <link>https://www.politico.eu/article/political-cartoons-us-election-donald-trump-vladimir-putin-elon-musk/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/political-cartoons-us-election-donald-trump-vladimir-putin-elon-musk/</guid>
+      <pubDate>Sun, 29 Sep 2024 10:29:20 -0000</pubDate>
+    </item>
+    <item>
       <title>Senate Democrats think risk of nixing filibuster for abortion is worth the reward</title>
       <link>https://thehill.com/policy/healthcare/4904116-senate-democrats-filibuster-abortion/</link>
       <author>Healthcare - The Hill</author>
@@ -1452,13 +1460,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/25/univision-harris-trump-town-halls</guid>
       <pubDate>Wed, 25 Sep 2024 00:25:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hakeem Jeffries prepares another bailout for Mike Johnson</title>
-      <link>https://www.axios.com/2024/09/25/hakeem-jeffries-bailout-mike-johnson-shutdown</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/25/hakeem-jeffries-bailout-mike-johnson-shutdown</guid>
-      <pubDate>Wed, 25 Sep 2024 00:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
