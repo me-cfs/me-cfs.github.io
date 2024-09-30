@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The 2024 election could come down to a single tipping-point state</title>
+      <link>https://abcnews.go.com/538/2024-election-single-tipping-point-state/story?id=114339944</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/2024-election-single-tipping-point-state/story?id=114339944</guid>
+      <pubDate>Mon, 30 Sep 2024 22:29:08 -0000</pubDate>
+    </item>
+    <item>
       <title>Why East and Gulf coast ports strike could push up consumer prices</title>
       <link>https://www.axios.com/2024/09/30/port-workers-strike-2024-east-coast</link>
       <author>Axios</author>
@@ -1446,13 +1453,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/26/eric-adams-nyc-mayor-indicted-reports</guid>
       <pubDate>Thu, 26 Sep 2024 06:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eric Adams Is Indicted After Federal Corruption Investigation</title>
-      <link>https://www.nytimes.com/2024/09/25/nyregion/eric-adams-indicted.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/25/nyregion/eric-adams-indicted.html</guid>
-      <pubDate>Thu, 26 Sep 2024 04:47:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
