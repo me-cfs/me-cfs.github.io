@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Georgia judge strikes down state's six-week abortion ban</title>
+      <link>https://thehill.com/policy/healthcare/4907993-georgia-abortion-ban-unconstitutional/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4907993</guid>
+      <pubDate>Mon, 30 Sep 2024 21:12:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel Is Preparing A Risky Incursion Into Lebanon — As Biden Stands By</title>
       <link>https://www.huffpost.com/entry/lebanon-invasion-israel-biden_n_66fae3cee4b029b6b7a6f0dc</link>
       <author>WorldPost (Huffington)</author>
@@ -1446,13 +1453,6 @@
       <author>RTS Headlines</author>
       <guid>28637720</guid>
       <pubDate>Thu, 26 Sep 2024 04:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>US, EU, Australia and allies call for Lebanon ceasefire</title>
-      <link>https://www.bbc.com/news/articles/c20m1d77m86o</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c20m1d77m86o#0</guid>
-      <pubDate>Thu, 26 Sep 2024 03:22:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
