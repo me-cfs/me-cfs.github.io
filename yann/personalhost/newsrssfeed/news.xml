@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The stock market's astonishing returns</title>
+      <link>https://www.axios.com/2024/10/01/stock-market-returns</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/01/stock-market-returns</guid>
+      <pubDate>Tue, 01 Oct 2024 11:33:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Past wars loom over Israel’s ground operation in southern Lebanon</title>
       <link>https://www.axios.com/2024/10/01/israel-lebanon-hezbollah-middle-east-wars</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>RTS Headlines</author>
       <guid>28642980</guid>
       <pubDate>Thu, 26 Sep 2024 15:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Partis, faîtières, assureurs, cantons: les principales réactions après l'annonce de la hausse des primes maladie</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/partis-faitieres-assureurs-cantons-les-principales-reactions-apres-l-annonce-de-la-hausse-des-primes-maladie-28643601.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28643601</guid>
-      <pubDate>Thu, 26 Sep 2024 15:53:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
