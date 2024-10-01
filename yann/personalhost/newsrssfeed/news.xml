@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: Michigan Senate race explodes with new super PAC spending</title>
+      <link>https://www.axios.com/2024/10/01/michigan-senate-race-rogers-slotkin-super-pac</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/01/michigan-senate-race-rogers-slotkin-super-pac</guid>
+      <pubDate>Tue, 01 Oct 2024 00:56:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Republicans subpoena HHS secretary for details on unaccompanied minors</title>
       <link>https://thehill.com/policy/healthcare/4908386-republicans-subpoena-hhs-secretary-unaccompanied-minors/</link>
       <author>Healthcare - The Hill</author>
@@ -256,6 +263,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/30/artificial-intelligence-ability-advanced-chatgpt</guid>
       <pubDate>Mon, 30 Sep 2024 09:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>What We Know About Hurricane Helene’s Destruction So Far</title>
+      <link>https://www.nytimes.com/2024/09/29/us/helene-destruction-florida-north-carolina.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/29/us/helene-destruction-florida-north-carolina.html</guid>
+      <pubDate>Mon, 30 Sep 2024 09:22:41 +0000</pubDate>
     </item>
     <item>
       <title>Harris blasts Trump’s 'concepts of a plan' for health care in run-up to VP debate</title>
@@ -1439,20 +1453,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/26/electric-vehicles-evs-theft-gas-cars</guid>
       <pubDate>Thu, 26 Sep 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Child care didn't quite fall off a cliff ... yet</title>
-      <link>https://www.axios.com/2024/09/26/child-care-costs</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/26/child-care-costs</guid>
-      <pubDate>Thu, 26 Sep 2024 11:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris’s call for filibuster reform gets pushback from Democrats</title>
-      <link>https://thehill.com/policy/healthcare/4899774-filibuster-reform-democrats-alarm/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4899774</guid>
-      <pubDate>Thu, 26 Sep 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
