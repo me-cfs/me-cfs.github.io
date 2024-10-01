@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Dikembe Mutombo, a Towering N.B.A. Presence, Dies at 58</title>
+      <link>https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/30/sports/dikembe-mutombo-dead.html</guid>
+      <pubDate>Tue, 01 Oct 2024 04:29:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Thousands of dockworkers strike at East Coast and Gulf ports</title>
       <link>https://www.axios.com/2024/10/01/port-strike-dockworkers-east-coast-gulf-coast</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/26/andrew-cuomo-nyc-mayor-eric-adams-indictment</guid>
       <pubDate>Thu, 26 Sep 2024 14:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suicides steady near highest level recorded: CDC</title>
-      <link>https://thehill.com/policy/healthcare/4900734-us-suicides-remain-high-cdc/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4900734</guid>
-      <pubDate>Thu, 26 Sep 2024 13:47:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
