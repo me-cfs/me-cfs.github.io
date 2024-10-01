@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Helene adds stress to election in North Carolina</title>
+      <link>https://www.axios.com/2024/10/01/hurricane-helene-north-carolina-voting-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/01/hurricane-helene-north-carolina-voting-2024</guid>
+      <pubDate>Tue, 01 Oct 2024 08:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>"He's lying": Biden blasts Trump's political play over storm</title>
       <link>https://www.axios.com/2024/10/01/trump-biden-lying-hurricane-helene</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4901084</guid>
       <pubDate>Thu, 26 Sep 2024 15:26:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>NYC Mayor Eric Adams indicted on bribery, fraud charges</title>
-      <link>https://www.axios.com/2024/09/26/eric-adams-indictment-charges-wire-fraud-bribery</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/26/eric-adams-indictment-charges-wire-fraud-bribery</guid>
-      <pubDate>Thu, 26 Sep 2024 15:00:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
