@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>OpenAI keeps releasing products as it weighs safety and speed</title>
+      <link>https://www.axios.com/2024/10/02/chatgpt-openai-products-shift-profit</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/02/chatgpt-openai-products-shift-profit</guid>
+      <pubDate>Wed, 02 Oct 2024 09:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>America's time machine: Takeaways from a refreshingly civil VP debate</title>
       <link>https://www.axios.com/2024/10/02/vp-debate-takeaways-vance-walz</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4904375</guid>
       <pubDate>Fri, 27 Sep 2024 21:42:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Book predicts the coming Gen Z political wave</title>
-      <link>https://www.axios.com/2024/09/27/gen-z-politics-new-book-2024-election</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/27/gen-z-politics-new-book-2024-election</guid>
-      <pubDate>Fri, 27 Sep 2024 21:30:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
