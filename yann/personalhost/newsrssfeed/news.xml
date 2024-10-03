@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why Trump Is Lying About Disaster Relief</title>
+      <link>https://www.nytimes.com/2024/10/03/opinion/trump-biden-hurricane-helene.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/10/03/opinion/trump-biden-hurricane-helene.html</guid>
+      <pubDate>Thu, 03 Oct 2024 23:00:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel targets potential Hezbollah successor in Beirut airstrike</title>
       <link>https://www.axios.com/2024/10/03/hezbollah-leader-israel-airstrike-beirut-lebanon</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/30/vance-walz-vp-debate-strategy</guid>
       <pubDate>Mon, 30 Sep 2024 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'armée s'intéresse au bien-être des personnes non-binaires dans ses rangs</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/l-armee-s-interesse-au-bien-etre-des-personnes-non-binaires-dans-ses-rangs-28630679.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28630679</guid>
-      <pubDate>Mon, 30 Sep 2024 07:27:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
