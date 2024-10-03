@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						How a law on truck movements divided the EU					</title>
+      <link>https://www.politico.eu/article/eu-mobility-package-trucks-divided/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/eu-mobility-package-trucks-divided/</guid>
+      <pubDate>Thu, 03 Oct 2024 14:30:07 -0000</pubDate>
+    </item>
+    <item>
+      <title>Melania Trump in new video: 'No room for compromise' on abortion rights</title>
+      <link>https://thehill.com/blogs/in-the-know/4913648-melania-trump-supports-abortion-rights/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4913648</guid>
+      <pubDate>Thu, 03 Oct 2024 14:26:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Politics</title>
       <link>https://www.economist.com/the-world-this-week/2024/10/03/politics</link>
       <author>Economist the World this Week</author>
@@ -1439,20 +1454,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/29/sunday-snapshot-trump-harris-middle-east-immigration</guid>
       <pubDate>Sun, 29 Sep 2024 19:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>En pleine campagne, les services d'Albert Rösti tardent à publier un rapport sur le coût des transports</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/en-pleine-campagne-les-services-d-albert-rosti-tardent-a-publier-un-rapport-sur-le-cout-des-transports-28646412.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28646412</guid>
-      <pubDate>Sun, 29 Sep 2024 19:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Israeli Strikes Kill Dozens In Lebanon, Including A Top Hezbollah Commander</title>
-      <link>https://www.huffpost.com/entry/mideast-tensions-hezbollah-israel_n_66f93e8fe4b01ee971d9e011</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/mideast-tensions-hezbollah-israel_n_66f93e8fe4b01ee971d9e011</guid>
-      <pubDate>Sun, 29 Sep 2024 18:46:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
