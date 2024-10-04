@@ -5,6 +5,29 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						BBC cancels primetime Boris Johnson interview after journalist gaffe					</title>
+      <link>https://www.politico.eu/article/bbc-cancels-primetime-boris-johnson-interview-journalist-gaffe-laura-kuenssberg/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/bbc-cancels-primetime-boris-johnson-interview-journalist-gaffe-laura-kuenssberg/</guid>
+      <pubDate>Fri, 04 Oct 2024 02:07:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Macron: EU has only 2 or 3 years to stave off total US, China dominance					</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-france-europe-competition-united-states-china-climate-change-defense-security/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-france-europe-competition-united-states-china-climate-change-defense-security/</guid>
+      <pubDate>Fri, 04 Oct 2024 01:52:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>Democratic fears emerge on Wisconsin Senate race</title>
+      <link>https://www.axios.com/2024/10/04/wisconsin-senate-race-baldwin-hovde</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/04/wisconsin-senate-race-baldwin-hovde</guid>
+      <pubDate>Fri, 04 Oct 2024 00:34:10 +0000</pubDate>
+    </item>
+    <item>
       <title>House Democrats' cash advantage in the top 10 most expensive races</title>
       <link>https://www.axios.com/2024/10/04/house-democrats-jeffries-ad-spending</link>
       <author>Axios</author>
@@ -523,6 +546,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/pope-francis-progressive-legacy-crossroads-theological-experiment-lgbt-catholic-vatican-church/</guid>
       <pubDate>Wed, 02 Oct 2024 14:38:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Pete Rose, Baseball Star Who Earned Glory and Shame, Dies at 83</title>
+      <link>https://www.nytimes.com/2024/09/30/sports/baseball/pete-rose-dead.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/09/30/sports/baseball/pete-rose-dead.html</guid>
+      <pubDate>Wed, 02 Oct 2024 14:28:29 +0000</pubDate>
     </item>
     <item>
       <title>Vance Dodged a Jan. 6 Question in the Debate, but Said Plenty</title>
@@ -1427,34 +1457,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/eu-austria-election-herbert-kickl-far-right_n_66f9aa13e4b09733f203fbfd</guid>
       <pubDate>Mon, 30 Sep 2024 10:47:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>Behind the Curtain: Future of AI will mean having a Ph.D. army in your pocket</title>
-      <link>https://www.axios.com/2024/09/30/artificial-intelligence-ability-advanced-chatgpt</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/09/30/artificial-intelligence-ability-advanced-chatgpt</guid>
-      <pubDate>Mon, 30 Sep 2024 09:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>What We Know About Hurricane Helene’s Destruction So Far</title>
-      <link>https://www.nytimes.com/2024/09/29/us/helene-destruction-florida-north-carolina.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/29/us/helene-destruction-florida-north-carolina.html</guid>
-      <pubDate>Mon, 30 Sep 2024 09:22:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Are Oversized Glasses So Popular?</title>
-      <link>https://www.nytimes.com/2024/09/30/style/oversized-glasses-frames-women.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/30/style/oversized-glasses-frames-women.html</guid>
-      <pubDate>Mon, 30 Sep 2024 09:05:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is Tuna Healthy? What to Know About Mercury and Sustainability.</title>
-      <link>https://www.nytimes.com/2024/09/30/well/eat/tuna-fish-mercury.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/09/30/well/eat/tuna-fish-mercury.html</guid>
-      <pubDate>Mon, 30 Sep 2024 09:03:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
