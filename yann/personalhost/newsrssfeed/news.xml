@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why a potential CVS breakup matters</title>
+      <link>https://www.axios.com/2024/10/04/cvs-breakup-implications-health</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/04/cvs-breakup-implications-health</guid>
+      <pubDate>Fri, 04 Oct 2024 15:10:46 +0000</pubDate>
+    </item>
+    <item>
       <title>White House wants to use Hezbollah's weakness to elect new Lebanese president</title>
       <link>https://www.axios.com/2024/10/04/israel-lebanon-hezbollah-new-leader-us</link>
       <author>Axios</author>
@@ -1450,14 +1457,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/09/29/opinion/iran-israel-hezbollah-hamas-lebanon-nasrallah.html</guid>
       <pubDate>Mon, 30 Sep 2024 19:23:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Target Iran: Israel seizes its moment to reshape the Middle East					</title>
-      <link>https://www.politico.eu/article/target-iran-israel-seizes-reshapes-middle-east-hamas-hezbollah-tehran/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/target-iran-israel-seizes-reshapes-middle-east-hamas-hezbollah-tehran/</guid>
-      <pubDate>Mon, 30 Sep 2024 19:19:09 -0000</pubDate>
     </item>
   </channel>
 </rss>
