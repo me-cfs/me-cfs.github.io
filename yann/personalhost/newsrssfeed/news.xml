@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU countries overcome German resistance to back duties on Chinese EVs					</title>
+      <link>https://www.politico.eu/article/eu-countries-clear-way-for-duties-on-chinese-evs/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/eu-countries-clear-way-for-duties-on-chinese-evs/</guid>
+      <pubDate>Fri, 04 Oct 2024 10:32:53 -0000</pubDate>
+    </item>
+    <item>
       <title>Le colonel EMG Alexandre Vautravers intronisé no2 de la KFOR</title>
       <link>https://www.rts.ch/info/suisse/2024/article/le-colonel-emg-alexandre-vautravers-intronise-no2-de-la-kfor-28651926.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1451,13 +1459,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/09/30/trump-assassination-attempt-suspect-ryan-routh-plea-guilty</guid>
       <pubDate>Mon, 30 Sep 2024 16:31:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>La flotte de F/A-18 de l'armée suisse à nouveau en service</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/la-flotte-de-f-a-18-de-l-armee-suisse-a-nouveau-en-service-28647611.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28647611</guid>
-      <pubDate>Mon, 30 Sep 2024 16:24:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
