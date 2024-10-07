@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Asteroid mission aims to save humans from the fate of the dinosaurs					</title>
+      <link>https://www.politico.eu/article/asteroid-diversion-mission-european-space-agency-hera-spacecraft-dimorphos-asteroid/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/asteroid-diversion-mission-european-space-agency-hera-spacecraft-dimorphos-asteroid/</guid>
+      <pubDate>Mon, 07 Oct 2024 17:37:37 -0000</pubDate>
+    </item>
+    <item>
       <title>What Americans think about Israel's war in Gaza, a year after the Oct. 7 attacks</title>
       <link>https://abcnews.go.com/538/americans-israels-war-gaza-year-after-oct-7/story?id=114489775</link>
       <author>Fivethirtyeight</author>
@@ -1455,13 +1463,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/02/biden-israel-strike-iran-nuclear-program</guid>
       <pubDate>Wed, 02 Oct 2024 18:56:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>HHS expecting 'limited' impact on drug supply chain from port strike</title>
-      <link>https://thehill.com/policy/healthcare/4912018-port-strike-hhs-medical-supply-chain-drug-availability/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4912018</guid>
-      <pubDate>Wed, 02 Oct 2024 18:50:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
