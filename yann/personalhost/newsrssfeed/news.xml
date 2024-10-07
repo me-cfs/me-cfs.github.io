@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How the Good Economic News Vindicates Bidenomics</title>
+      <link>https://www.nytimes.com/2024/10/07/opinion/biden-trump-harris-economy.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/10/07/opinion/biden-trump-harris-economy.html</guid>
+      <pubDate>Mon, 07 Oct 2024 21:00:08 +0000</pubDate>
+    </item>
+    <item>
       <title>In photos: Oct. 7 attacks spark year of war and anguish</title>
       <link>https://www.axios.com/2024/10/07/oct-7-anniversary-photos-gaza-war</link>
       <author>Axios</author>
@@ -1456,13 +1463,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/02/israel-iran-arrow-missiles-iai</guid>
       <pubDate>Wed, 02 Oct 2024 20:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rwanda records at least 9 deaths from Marburg outbreak</title>
-      <link>https://thehill.com/policy/international/4912397-marburg-outbreak-rwanda/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4912397</guid>
-      <pubDate>Wed, 02 Oct 2024 20:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
