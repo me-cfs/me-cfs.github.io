@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						The rise and fall of Macronomics					</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-france-economics-business-tax-increases-spending-cuts-budget-crisis/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-france-economics-business-tax-increases-spending-cuts-budget-crisis/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:46:26 -0000</pubDate>
+    </item>
+    <item>
+      <title>Biden and Netanyahu closer to consensus on Israel's plans to attack Iran</title>
+      <link>https://www.axios.com/2024/10/10/biden-netanyahu-call-israel-attack-iran</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/10/biden-netanyahu-call-israel-attack-iran</guid>
+      <pubDate>Thu, 10 Oct 2024 20:35:46 +0000</pubDate>
+    </item>
+    <item>
       <title>US approves temporary imports of IV fluids as hospitals grapple with storm-related shortages</title>
       <link>https://thehill.com/policy/healthcare/4927223-us-temporary-imports-iv-fluids-shortages-hurricane-milton-helene/</link>
       <author>Healthcare - The Hill</author>
@@ -1443,21 +1458,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/06/harris-trump-abortion-call-her-daddy-podcast</guid>
       <pubDate>Sun, 06 Oct 2024 23:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine will never join NATO on my watch, says Slovakia PM Fico					</title>
-      <link>https://www.politico.eu/article/nato-ukraine-slovakia-robert-fico-military-defense-alliance/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/nato-ukraine-slovakia-robert-fico-military-defense-alliance/</guid>
-      <pubDate>Sun, 06 Oct 2024 23:08:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>Israel Intensifies Bombardment Of Gaza And Southern Lebanon On The Eve Of Oct. 7 Anniversary</title>
-      <link>https://www.huffpost.com/entry/israel-gaza-beirut-conflict_n_670279e0e4b0c8e79502ccee</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/israel-gaza-beirut-conflict_n_670279e0e4b0c8e79502ccee</guid>
-      <pubDate>Sun, 06 Oct 2024 21:23:16 -0000</pubDate>
     </item>
   </channel>
 </rss>
