@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>California reports third confirmed human case of bird flu, plus two more potential cases</title>
+      <link>https://thehill.com/policy/healthcare/4926260-california-bird-flu-third-case-dairy-cattle/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4926260</guid>
+      <pubDate>Thu, 10 Oct 2024 14:14:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Albert Rösti lance la campagne pour le développement des autoroutes</title>
       <link>https://www.rts.ch/info/suisse/2024/article/albert-rosti-lance-la-campagne-pour-le-developpement-des-autoroutes-28658495.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1297,6 +1304,13 @@
       <pubDate>Mon, 07 Oct 2024 03:09:48 -0000</pubDate>
     </item>
     <item>
+      <title>Trump’s Rambling Speeches Reinforce Question of Age</title>
+      <link>https://www.nytimes.com/2024/10/06/us/politics/trump-speeches-age-cognitive-decline.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/06/us/politics/trump-speeches-age-cognitive-decline.html</guid>
+      <pubDate>Mon, 07 Oct 2024 03:02:47 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						How Sue Gray blew up Downing Street inside 100 days					</title>
       <link>https://www.politico.eu/article/sue-gray-downing-street-100-days-election-victory-keir-starmer-british/</link>
@@ -1442,20 +1456,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/06/netanyahu-israel-political-strategy</guid>
       <pubDate>Sun, 06 Oct 2024 12:26:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Zealand loses first naval ship to sea since WW2</title>
-      <link>https://www.bbc.com/news/articles/ced0wlqnvlno</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/ced0wlqnvlno#0</guid>
-      <pubDate>Sun, 06 Oct 2024 11:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le conseiller fédéral Beat Jans critiqué pour sa communication sur l'asile</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-conseiller-federal-beat-jans-critique-pour-sa-communication-sur-l-asile-28653605.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28653605</guid>
-      <pubDate>Sun, 06 Oct 2024 11:36:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
