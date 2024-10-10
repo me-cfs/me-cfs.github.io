@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>US approves temporary imports of IV fluids as hospitals grapple with storm-related shortages</title>
+      <link>https://thehill.com/policy/healthcare/4927223-us-temporary-imports-iv-fluids-shortages-hurricane-milton-helene/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4927223</guid>
+      <pubDate>Thu, 10 Oct 2024 19:44:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Bill Clinton joins Obama as part of Harris campaign blitz</title>
       <link>https://www.axios.com/2024/10/10/bill-clinton-harris-campaign-events-battleground-states</link>
       <author>Axios</author>
@@ -1451,13 +1458,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/israel-gaza-beirut-conflict_n_670279e0e4b0c8e79502ccee</guid>
       <pubDate>Sun, 06 Oct 2024 21:23:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>Potential Trump loss threatens destruction of modern GOP</title>
-      <link>https://www.axios.com/2024/10/06/trump-election-loss-republican-future</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/06/trump-election-loss-republican-future</guid>
-      <pubDate>Sun, 06 Oct 2024 20:23:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
