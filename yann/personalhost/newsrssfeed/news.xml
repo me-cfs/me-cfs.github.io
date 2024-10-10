@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/10/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/vcqr8q60akfftc09ogf61ofeughqe153</guid>
+      <pubDate>Thu, 10 Oct 2024 13:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/10/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/j7u9spe9oedbdo0do4vpstumb17v9fn7</guid>
+      <pubDate>Thu, 10 Oct 2024 13:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/10/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/c94dg79hp4a0h12ke13gm7pfomldl3ac</guid>
+      <pubDate>Thu, 10 Oct 2024 13:24:39 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Ukraine appeals for EU help, fearing Russian nuclear plant strikes					</title>
       <link>https://www.politico.eu/article/ukraine-appeal-eu-help-fear-russia-nuclear-plant-strike-kadri-simson-german-galushchenko/</link>
@@ -1435,28 +1456,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/06/harris-vouches-for-bidens-mental-fitness-stamina</guid>
       <pubDate>Sun, 06 Oct 2024 10:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Central Europe cheers EU court truck ruling					</title>
-      <link>https://www.politico.eu/article/central-europe-eu-court-truck-ruling-justice-mobility/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/central-europe-eu-court-truck-ruling-justice-mobility/</guid>
-      <pubDate>Sun, 06 Oct 2024 10:08:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>Kamala Harris Can Beat Donald Trump at Protecting America</title>
-      <link>https://www.nytimes.com/2024/10/06/opinion/kamala-harris-donald-trump-security.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/06/opinion/kamala-harris-donald-trump-security.html</guid>
-      <pubDate>Sun, 06 Oct 2024 10:00:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>News in Brief for the week of September 29th</title>
-      <link>https://www.s4me.info/threads/news-in-brief-october-2024.40523/#post-557577</link>
-      <author>ME/LC News</author>
-      <guid>https://med-mastodon.com/@s4me/113259683702043757</guid>
-      <pubDate>Sun, 06 Oct 2024 09:07:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
