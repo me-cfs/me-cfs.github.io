@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>&lt;img width="1600" height="1234" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-10/L241012c-small.jpg?itok=ri9sAc0d" class="attachment-medium size-medium wp-post-image" /&gt;</title>
+      <link>https://www.chappatte.com/fr/images/dette-de-la-france</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22825</guid>
+      <pubDate>10/12/2024 00:10</pubDate>
+    </item>
+    <item>
+      <title>Israel firing on UN peacekeepers in Lebanon raises international alarm</title>
+      <link>https://www.axios.com/2024/10/11/israel-attack-un-peacekeepers-unifil-pentagon</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/11/israel-attack-un-peacekeepers-unifil-pentagon</guid>
+      <pubDate>Fri, 11 Oct 2024 18:04:37 +0000</pubDate>
+    </item>
+    <item>
       <title>How Elon Musk is helping Donald Trump to win the 2024 election</title>
       <link>https://www.axios.com/2024/10/11/elon-musk-trump-president-election</link>
       <author>Axios</author>
@@ -18,6 +32,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/italy-offshore-detention-centers-albania-migration-asylum-processing-giorgia-meloni/</guid>
       <pubDate>Fri, 11 Oct 2024 17:27:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk Is Going All In to Elect Donald Trump</title>
+      <link>https://www.nytimes.com/2024/10/11/us/politics/elon-musk-donald-trump-pennsylvania.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/11/us/politics/elon-musk-donald-trump-pennsylvania.html</guid>
+      <pubDate>Fri, 11 Oct 2024 17:00:15 +0000</pubDate>
     </item>
     <item>
       <title>Florida IV factory restarting after Milton shutdown </title>
@@ -1435,27 +1456,6 @@
       <author>Krugman - NYT</author>
       <guid>https://www.nytimes.com/2024/10/07/opinion/biden-trump-harris-economy.html</guid>
       <pubDate>Mon, 07 Oct 2024 21:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anthony Fauci: My West Nile Virus Nightmare</title>
-      <link>https://www.nytimes.com/2024/10/07/opinion/fauci-west-nile-virus.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/07/opinion/fauci-west-nile-virus.html</guid>
-      <pubDate>Mon, 07 Oct 2024 20:48:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kamala Harris Can Beat Donald Trump at Protecting America</title>
-      <link>https://www.nytimes.com/2024/10/06/opinion/kamala-harris-donald-trump-security.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/06/opinion/kamala-harris-donald-trump-security.html</guid>
-      <pubDate>Mon, 07 Oct 2024 20:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>In photos: Oct. 7 attacks spark year of war and anguish</title>
-      <link>https://www.axios.com/2024/10/07/oct-7-anniversary-photos-gaza-war</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/07/oct-7-anniversary-photos-gaza-war</guid>
-      <pubDate>Mon, 07 Oct 2024 18:26:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
