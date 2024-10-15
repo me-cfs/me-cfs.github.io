@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les Etats membres de l'UE s'opposent à des exceptions suisses</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-etats-membres-de-l-ue-s-opposent-a-des-exceptions-suisses-28663055.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28663055</guid>
+      <pubDate>Tue, 15 Oct 2024 12:57:26 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Von der Leyen sets new rules for Commission cabinet hires					</title>
       <link>https://www.politico.eu/article/von-der-leyen-commission-cabinet-hire-rules-europe/</link>
@@ -1445,13 +1452,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/10/trump-harris-second-debate-cnn-fox-news</guid>
       <pubDate>Thu, 10 Oct 2024 17:35:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump is holding more campaign events than Harris</title>
-      <link>https://abcnews.go.com/538/trump-holding-campaign-events-harris/story?id=114567436</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/trump-holding-campaign-events-harris/story?id=114567436</guid>
-      <pubDate>Thu, 10 Oct 2024 17:28:45 -0000</pubDate>
     </item>
   </channel>
 </rss>
