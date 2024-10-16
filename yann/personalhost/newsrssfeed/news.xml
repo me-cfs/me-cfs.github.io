@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harris tweaks strategy to cast Trump as a threat</title>
+      <link>https://www.axios.com/2024/10/16/harris-strategy-trump-threat</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/16/harris-strategy-trump-threat</guid>
+      <pubDate>Wed, 16 Oct 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Haitian immigrants fight back against Trump's false claims</title>
       <link>https://www.axios.com/2024/10/16/haitians-trump-false-claims</link>
       <author>Axios</author>
@@ -1332,6 +1339,13 @@
       <pubDate>Fri, 11 Oct 2024 23:29:45 +0000</pubDate>
     </item>
     <item>
+      <title>Elon Musk Is Going All In to Elect Donald Trump</title>
+      <link>https://www.nytimes.com/2024/10/11/us/politics/elon-musk-donald-trump-pennsylvania.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/11/us/politics/elon-musk-donald-trump-pennsylvania.html</guid>
+      <pubDate>Fri, 11 Oct 2024 21:57:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Hurricane Milton Is a Storm for the Record Books. Here’s What May Come Next.</title>
       <link>https://www.nytimes.com/2024/10/07/weather/hurricane-milton-forecast-path.html</link>
       <author>NYT Most Viewed</author>
@@ -1435,20 +1449,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4929063</guid>
       <pubDate>Fri, 11 Oct 2024 18:14:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel firing on UN peacekeepers in Lebanon raises international alarm</title>
-      <link>https://www.axios.com/2024/10/11/israel-attack-un-peacekeepers-unifil-pentagon</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/11/israel-attack-un-peacekeepers-unifil-pentagon</guid>
-      <pubDate>Fri, 11 Oct 2024 18:04:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Elon Musk is helping Donald Trump to win the 2024 election</title>
-      <link>https://www.axios.com/2024/10/11/elon-musk-trump-president-election</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/11/elon-musk-trump-president-election</guid>
-      <pubDate>Fri, 11 Oct 2024 17:33:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
