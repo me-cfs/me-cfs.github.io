@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>AI manifestos are having a moment</title>
+      <link>https://www.axios.com/2024/10/17/ai-manifesto-anthropic-dario-amodei</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/17/ai-manifesto-anthropic-dario-amodei</guid>
+      <pubDate>Thu, 17 Oct 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Harris declares independence from Biden in risky Fox News interview</title>
       <link>https://www.axios.com/2024/10/17/kamala-harris-fox-news-interview-bret-baier</link>
       <author>Axios</author>
@@ -275,6 +282,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/boycott-climate-cop-vladimir-putin-ukraine-vsevolod-chentsov/</guid>
       <pubDate>Wed, 16 Oct 2024 16:04:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>The University of Michigan Doubled Down on D.E.I. What Went Wrong?</title>
+      <link>https://www.nytimes.com/2024/10/16/magazine/dei-university-michigan.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/16/magazine/dei-university-michigan.html</guid>
+      <pubDate>Wed, 16 Oct 2024 15:38:15 +0000</pubDate>
     </item>
     <item>
       <title>Israel vows to improve Gaza conditions after U.S. threat to withhold weapons</title>
@@ -1439,21 +1453,6 @@
       <author>RTS Headlines</author>
       <guid>28660996</guid>
       <pubDate>Sun, 13 Oct 2024 08:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>La Suisse expulse vers Kaboul deux ressortissants afghans condamnés</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/la-suisse-expulse-vers-kaboul-deux-ressortissants-afghans-condamnes-28660963.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28660963</guid>
-      <pubDate>Sun, 13 Oct 2024 07:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Back off, Azerbaijan tells human rights critics ahead of COP29					</title>
-      <link>https://www.politico.eu/article/azerbaijan-human-rights-critics-cop29-baku-hikmet-hajiyev/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/azerbaijan-human-rights-critics-cop29-baku-hikmet-hajiyev/</guid>
-      <pubDate>Sun, 13 Oct 2024 07:23:31 -0000</pubDate>
     </item>
   </channel>
 </rss>
