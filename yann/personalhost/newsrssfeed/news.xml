@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Wisconsin decided the 2020 election. How will it vote in 2024?</title>
+      <link>https://abcnews.go.com/538/wisconsin-decided-2020-election-vote-2024/story?id=114857661</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/wisconsin-decided-2020-election-vote-2024/story?id=114857661</guid>
+      <pubDate>Thu, 17 Oct 2024 16:11:55 -0000</pubDate>
+    </item>
+    <item>
       <title>Le vaccin contre le sérotype 3 de la langue bleue utilisable en Suisse</title>
       <link>https://www.rts.ch/info/suisse/2024/article/le-vaccin-contre-le-serotype-3-de-la-langue-bleue-utilisable-en-suisse-28665407.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1449,13 +1456,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/13/harris-trump-new-polls-tight-race</guid>
       <pubDate>Sun, 13 Oct 2024 19:26:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Snapshot: Walz's rural push and Trump's "enemy from within"</title>
-      <link>https://www.axios.com/2024/10/13/sunday-snapshot-tim-walz-rural-voters</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/13/sunday-snapshot-tim-walz-rural-voters</guid>
-      <pubDate>Sun, 13 Oct 2024 19:15:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
