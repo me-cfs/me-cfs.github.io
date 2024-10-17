@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						French PM Barnier’s shadow follows Macron to Brussels					</title>
+      <link>https://www.politico.eu/article/france-pm-michel-barnier-shadow-emmanuel-macron-brussels-european-council/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/france-pm-michel-barnier-shadow-emmanuel-macron-brussels-european-council/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:46:55 -0000</pubDate>
+    </item>
+    <item>
       <title>This week’s cover</title>
       <link>https://www.economist.com/the-world-this-week/2024/10/17/this-weeks-cover</link>
       <author>Economist the World this Week</author>
@@ -1447,13 +1455,6 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22826</guid>
       <pubDate>10/13/2024 11:11</pubDate>
-    </item>
-    <item>
-      <title>Ignore the Polls</title>
-      <link>https://www.nytimes.com/2024/10/13/opinion/polls-harris-trump.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/13/opinion/polls-harris-trump.html</guid>
-      <pubDate>Sun, 13 Oct 2024 11:00:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
