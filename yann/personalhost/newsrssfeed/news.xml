@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/17/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/74r4jnrk4m9cvqefb8iri76rqd3noskr</guid>
+      <pubDate>Thu, 17 Oct 2024 13:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/17/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/qa5rcjrqj78quc8joj35dk44a5bk77ki</guid>
+      <pubDate>Thu, 17 Oct 2024 13:55:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/17/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/mukjmhbv7u9r1skbhgl314mradt33ato</guid>
+      <pubDate>Thu, 17 Oct 2024 13:55:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel investigating possible death of Hamas leader Yahya Sinwar</title>
       <link>https://www.axios.com/2024/10/17/sinwar-hamas-israel-killed-gaza</link>
       <author>Axios</author>
@@ -1433,28 +1454,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/israel-palestinians-generals-plan-northern-gaza-benjamin-netanyahu_n_670bdb42e4b04266ae8557dd</guid>
       <pubDate>Sun, 13 Oct 2024 15:28:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>Vance doesn't say where patients will get care if Planned Parenthood is defunded</title>
-      <link>https://thehill.com/homenews/campaign/4930869-jd-vance-planned-parenthood/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4930869</guid>
-      <pubDate>Sun, 13 Oct 2024 15:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						40 countries ‘strongly condemn’ Israeli attacks on UN peacekeepers					</title>
-      <link>https://www.politico.eu/article/40-countries-condemn-israel-attacks-un-peacekeepers-lebanon/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/40-countries-condemn-israel-attacks-un-peacekeepers-lebanon/</guid>
-      <pubDate>Sun, 13 Oct 2024 14:26:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>SpaceX pulls off "chopstick" landing in fifth Starship test flight</title>
-      <link>https://www.axios.com/2024/10/13/spacex-starship-chopstick-landing-fifth-test-flight</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/13/spacex-starship-chopstick-landing-fifth-test-flight</guid>
-      <pubDate>Sun, 13 Oct 2024 13:15:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
