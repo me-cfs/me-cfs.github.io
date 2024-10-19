@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pro-Iranian account leaks alleged U.S. intel on Israel's attack plans</title>
+      <link>https://www.axios.com/2024/10/19/israel-iran-attack-telegram-leaked-intelligence</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/19/israel-iran-attack-telegram-leaked-intelligence</guid>
+      <pubDate>Sat, 19 Oct 2024 17:38:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Boeing reaches tentative deal to end strike</title>
       <link>https://www.axios.com/2024/10/19/boeing-strike-tentative-deal</link>
       <author>Axios</author>
@@ -1445,13 +1452,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4934965</guid>
       <pubDate>Tue, 15 Oct 2024 20:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why voting patterns may shift this election	</title>
-      <link>https://abcnews.go.com/538/video/voting-patterns-shift-election-114829066</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/video/voting-patterns-shift-election-114829066</guid>
-      <pubDate>Tue, 15 Oct 2024 20:10:16 -0000</pubDate>
     </item>
   </channel>
 </rss>
