@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Sydney reopens beaches after mysterious tar ball scare</title>
+      <link>https://www.bbc.com/news/articles/cly5067p6p1o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cly5067p6p1o#0</guid>
+      <pubDate>Sat, 19 Oct 2024 04:18:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Walmart reaches opioid shareholder settlement</title>
       <link>https://thehill.com/homenews/4942409-walmart-proposed-settlement-opioid/</link>
       <author>Healthcare - The Hill</author>
@@ -1445,13 +1452,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/15/us-israel-gaza-humanitarian-conditions-military-aid-letter</guid>
       <pubDate>Tue, 15 Oct 2024 15:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man Lost At Sea For 67 Days While Whale Watching Found Adrift In Inflatable Boat</title>
-      <link>https://www.huffpost.com/entry/lost-whale-watcher-sea-of-okhotsk-found_n_670e7d9ce4b094567cfe4ed6</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/lost-whale-watcher-sea-of-okhotsk-found_n_670e7d9ce4b094567cfe4ed6</guid>
-      <pubDate>Tue, 15 Oct 2024 15:28:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
