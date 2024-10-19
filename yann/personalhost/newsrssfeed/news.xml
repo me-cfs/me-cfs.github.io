@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Frozen waffles recalled due to listeria risk</title>
+      <link>https://thehill.com/policy/healthcare/4943025-treehouse-foods-waffles-recall-listeria/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4943025</guid>
+      <pubDate>Sat, 19 Oct 2024 20:37:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Why Election Day has irreversibly changed</title>
       <link>https://www.axios.com/2024/10/19/early-voting-2024-trump-harris</link>
       <author>Axios</author>
@@ -1446,13 +1453,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/10/15/us/politics/megan-marshack-dead.html</guid>
       <pubDate>Tue, 15 Oct 2024 22:33:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lawmakers calls for extending telemedicine flexibilities, object to proposed DEA rule</title>
-      <link>https://thehill.com/policy/healthcare/4934849-lawmakers-telemedicine-flexibilities-dea-rule/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4934849</guid>
-      <pubDate>Tue, 15 Oct 2024 21:52:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
