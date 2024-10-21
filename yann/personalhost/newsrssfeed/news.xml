@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What Lincoln Can Tell Us About MAGA</title>
+      <link>https://www.nytimes.com/2024/10/21/opinion/trump-lincoln-arnold-palmer.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/10/21/opinion/trump-lincoln-arnold-palmer.html</guid>
+      <pubDate>Mon, 21 Oct 2024 23:00:14 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Moldova and Georgia ring alarm bells for the EU					</title>
       <link>https://www.politico.eu/article/moldova-georgia-elections-eu-membership-referendum-russian-influence-kremlin-bribes-disinformation/</link>
@@ -175,6 +182,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/21/mitch-mcconnell-book-the-price-of-power</guid>
       <pubDate>Mon, 21 Oct 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian teen denies murdering British mum</title>
+      <link>https://www.bbc.com/news/articles/c0m0dd92107o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/c0m0dd92107o#0</guid>
+      <pubDate>Mon, 21 Oct 2024 09:29:19 GMT</pubDate>
     </item>
     <item>
       <title>'You Are Not My King': Charles Heckled By Australian Senator</title>
@@ -1437,21 +1451,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/france-pm-michel-barnier-shadow-emmanuel-macron-brussels-european-council/</guid>
       <pubDate>Thu, 17 Oct 2024 11:46:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>This week’s cover</title>
-      <link>https://www.economist.com/the-world-this-week/2024/10/17/this-weeks-cover</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/v9ai2bgv3k7pdv2pbilja56mmlutetsp</guid>
-      <pubDate>Thu, 17 Oct 2024 11:22:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Can Ozempic help drug addicts, too? A mega new study suggests it might.					</title>
-      <link>https://www.politico.eu/article/ozempic-drugs-study-research-mounjaro-alcohol-addiction/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ozempic-drugs-study-research-mounjaro-alcohol-addiction/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:31:48 -0000</pubDate>
     </item>
   </channel>
 </rss>
