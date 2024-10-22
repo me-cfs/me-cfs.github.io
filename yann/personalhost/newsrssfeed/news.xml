@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Nebraska's Senate election is surprisingly close</title>
+      <link>https://abcnews.go.com/538/video/nebraskas-senate-election-surprisingly-close-115029115</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/nebraskas-senate-election-surprisingly-close-115029115</guid>
+      <pubDate>Tue, 22 Oct 2024 16:50:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>The difference between undecided voters and swing voters</title>
+      <link>https://abcnews.go.com/538/video/difference-undecided-voters-swing-voters-115028983</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/difference-undecided-voters-swing-voters-115028983</guid>
+      <pubDate>Tue, 22 Oct 2024 16:35:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>What percent of voters are truly undecided?</title>
+      <link>https://abcnews.go.com/538/video/percent-voters-undecided-115028865</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/video/percent-voters-undecided-115028865</guid>
+      <pubDate>Tue, 22 Oct 2024 16:20:44 -0000</pubDate>
+    </item>
+    <item>
       <title>Americans split on idea of putting immigrants in militarized "camps"</title>
       <link>https://www.axios.com/2024/10/22/trump-mass-deportation-immigrant-camps</link>
       <author>Axios</author>
@@ -67,6 +88,13 @@
       <author>RTS Headlines</author>
       <guid>28670421</guid>
       <pubDate>Tue, 22 Oct 2024 12:58:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Australian teen: Oh my God, I just talked to the Queen</title>
+      <link>https://www.bbc.com/news/videos/cm2824l6m8jo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/videos/cm2824l6m8jo#2</guid>
+      <pubDate>Tue, 22 Oct 2024 12:46:10 GMT</pubDate>
     </item>
     <item>
       <title>King's Australia visit ends on positive note</title>
@@ -489,6 +517,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/21/ai-deepmind-ceo-demis-hassabis</guid>
       <pubDate>Mon, 21 Oct 2024 09:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moment King Charles is heckled by Australian politician</title>
+      <link>https://www.bbc.com/news/videos/cg565876rj1o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/videos/cg565876rj1o#2</guid>
+      <pubDate>Mon, 21 Oct 2024 09:51:39 GMT</pubDate>
     </item>
     <item>
       <title>
@@ -1406,45 +1441,6 @@
       <author>RTS Headlines</author>
       <guid>28664330</guid>
       <pubDate>Fri, 18 Oct 2024 03:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Bart De Wever: The man who wants to destroy Belgium reluctantly heads toward running it					</title>
-      <link>https://www.politico.eu/article/bart-de-wever-belgium-antwerp-elections-europe/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/bart-de-wever-belgium-antwerp-elections-europe/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:21:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The great switcheroo: How France overtook Italy as the EU’s No. 1 budgetary basket case 					</title>
-      <link>https://www.politico.eu/article/france-italy-eu-budget-economy-deficit/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/france-italy-eu-budget-economy-deficit/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:06:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						UK’s David Lammy is in China — just don’t call it a reset					</title>
-      <link>https://www.politico.eu/article/uk-foreign-secretary-david-lammy-china-engagement-diplomacy-labour-government/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/uk-foreign-secretary-david-lammy-china-engagement-diplomacy-labour-government/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:51:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Crisis deepens for Ireland’s scandal-hit Sinn Féin					</title>
-      <link>https://www.politico.eu/article/sinn-fein-ireland-crisis-scandal-mary-lou-mcdonald-michael-mcmonagle-niall-o-donnghaile-brian-stanley/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/sinn-fein-ireland-crisis-scandal-mary-lou-mcdonald-michael-mcmonagle-niall-o-donnghaile-brian-stanley/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:36:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>Father and son indicted over mass shooting at Georgia school</title>
-      <link>https://www.axios.com/2024/10/17/gerogia-school-shooting-father-son-indicted</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/17/gerogia-school-shooting-father-son-indicted</guid>
-      <pubDate>Fri, 18 Oct 2024 02:28:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
