@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Elon Musk sued by "Blade Runner 2049" producers over Robotaxi imagery</title>
+      <link>https://www.axios.com/2024/10/22/elon-musk-sued-blade-runner-2049-robotaxi-ai-imagery</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/22/elon-musk-sued-blade-runner-2049-robotaxi-ai-imagery</guid>
+      <pubDate>Tue, 22 Oct 2024 05:05:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Aboriginal protester arrested during King's Sydney tour</title>
       <link>https://www.bbc.com/news/articles/c79n9l0p3x8o</link>
       <author>BBC News Australia Mentions</author>
@@ -93,6 +100,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/22/trump-2024-election-fairness</guid>
       <pubDate>Tue, 22 Oct 2024 00:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta is bringing facial recognition back to help users re-gain access to locked accounts</title>
+      <link>https://www.axios.com/2024/10/21/facebook-facial-recognition-account-recovery</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/21/facebook-facial-recognition-account-recovery</guid>
+      <pubDate>Mon, 21 Oct 2024 23:01:00 +0000</pubDate>
     </item>
     <item>
       <title>What Lincoln Can Tell Us About MAGA</title>
@@ -1437,20 +1451,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/17/teen-tobacco-use-falls-to-25-year-low</guid>
       <pubDate>Thu, 17 Oct 2024 18:22:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google will block election ads after polls close</title>
-      <link>https://www.axios.com/2024/10/17/google-block-election-ads-nov-5</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/17/google-block-election-ads-nov-5</guid>
-      <pubDate>Thu, 17 Oct 2024 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three states renew efforts to limit abortion pill access</title>
-      <link>https://thehill.com/homenews/4938968-missouri-kansas-idaho-restrict-abortion/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4938968</guid>
-      <pubDate>Thu, 17 Oct 2024 17:52:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
