@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>McDonald's E. coli outbreak stops Quarter Pounder sales at fifth of restaurants</title>
+      <link>https://www.axios.com/2024/10/23/mcdonalds-e-coli-outbreak-quarter-pounder-onions</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/23/mcdonalds-e-coli-outbreak-quarter-pounder-onions</guid>
+      <pubDate>Wed, 23 Oct 2024 18:37:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Silence des autorités locales après l’assassinat d'une touriste suisse dans le sud de l'Algérie</title>
       <link>https://www.rts.ch/info/suisse/2024/article/silence-des-autorites-locales-apres-l-assassinat-d-une-touriste-suisse-dans-le-sud-de-l-algerie-28672024.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1440,13 +1447,6 @@
       <author>RTS Headlines</author>
       <guid>28665545</guid>
       <pubDate>Sat, 19 Oct 2024 12:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le président des Vert'libéraux plaide pour un rapprochement avec l'Union européenne</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-president-des-vert-liberaux-plaide-pour-un-rapprochement-avec-l-union-europeenne-28667424.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28667424</guid>
-      <pubDate>Sat, 19 Oct 2024 12:21:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
