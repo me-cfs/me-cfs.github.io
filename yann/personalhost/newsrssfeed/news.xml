@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>FDA recalls thousands of antidepressant bottles due to cancer-causing chemical</title>
+      <link>https://thehill.com/policy/healthcare/4949936-fda-recalls-antidepressant-bottles-cancer-causing-chemical/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4949936</guid>
+      <pubDate>Wed, 23 Oct 2024 21:40:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Novo Nordisk asks FDA to block compounding pharmacies from making Ozempic copy-cats</title>
       <link>https://thehill.com/policy/healthcare/4949996-novo-nordisk-fda-ozempic-wegovy-semaglutide/</link>
       <author>Healthcare - The Hill</author>
@@ -1437,14 +1444,6 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/video-ukraine-allegedly-shows-north-korean-soldiers-russia_n_6713f992e4b0ae82147fc194</guid>
       <pubDate>Sat, 19 Oct 2024 19:46:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						North Korean troops in Ukraine war called ‘huge’ escalation risk					</title>
-      <link>https://www.politico.eu/article/north-korea-russia-ukraine-war-called-huge-escalation-risk/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/north-korea-russia-ukraine-war-called-huge-escalation-risk/</guid>
-      <pubDate>Sat, 19 Oct 2024 18:10:42 -0000</pubDate>
     </item>
   </channel>
 </rss>
