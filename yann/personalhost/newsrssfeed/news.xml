@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pierre de Meuron: "Non, la Suisse n'est pas moche", mais "il y a beaucoup" d'erreurs architecturales </title>
+      <link>https://www.rts.ch/info/suisse/2024/article/pierre-de-meuron-non-la-suisse-n-est-pas-moche-mais-il-y-a-beaucoup-d-erreurs-architecturales-28671324.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28671324</guid>
+      <pubDate>Wed, 23 Oct 2024 10:32:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Drone feeds are shaping public perceptions of war</title>
       <link>https://www.axios.com/2024/10/23/drones-ukraine-israel-info-warfare</link>
       <author>Axios</author>
@@ -300,6 +307,13 @@
       <author>RTS Headlines</author>
       <guid>28670765</guid>
       <pubDate>Tue, 22 Oct 2024 17:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>From This Pennsylvania Swing County, the Truth About American Politics in 2024</title>
+      <link>https://www.nytimes.com/2024/10/17/opinion/trump-harris-bucks-county-pennsylvania.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/17/opinion/trump-harris-bucks-county-pennsylvania.html</guid>
+      <pubDate>Tue, 22 Oct 2024 16:57:09 +0000</pubDate>
     </item>
     <item>
       <title>Nebraska's Senate election is surprisingly close</title>
@@ -1430,20 +1444,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4942409</guid>
       <pubDate>Sat, 19 Oct 2024 02:47:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>USDA lists over 150 schools that may be affected by listeria recall</title>
-      <link>https://thehill.com/policy/healthcare/4942402-brucepac-listeria-schools-usda/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4942402</guid>
-      <pubDate>Sat, 19 Oct 2024 02:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>La domaine Leukersonne nommé "cave suisse de l'année" pour la deuxième année d'affilée</title>
-      <link>https://www.rts.ch/info/regions/valais/2024/article/la-domaine-leukersonne-nomme-cave-suisse-de-l-annee-pour-la-deuxieme-annee-d-affilee-28667193.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28667193</guid>
-      <pubDate>Sat, 19 Oct 2024 02:22:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
