@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Zelenskyy asks allies to act on reports of North Korean troops helping Russia					</title>
+      <link>https://www.politico.eu/article/volodymyr-zelenskyy-allies-north-korean-troops/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/volodymyr-zelenskyy-allies-north-korean-troops/</guid>
+      <pubDate>Wed, 23 Oct 2024 14:09:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Les rentes à vie des veufs et veuves bientôt réduites aux 25 ans de leur plus jeune enfant</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-rentes-a-vie-des-veufs-et-veuves-bientot-reduites-aux-25-ans-de-leur-plus-jeune-enfant-28671764.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28671764</guid>
+      <pubDate>Wed, 23 Oct 2024 14:01:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Israeli Strikes Pound Lebanese Coastal City After Residents Evacuate</title>
       <link>https://www.huffpost.com/entry/ap-ml-mideast-wars-lebanon-israel-strike_n_6718dfaae4b0ede6b2bfb73e</link>
       <author>WorldPost (Huffington)</author>
@@ -163,6 +178,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/europe-syria-refugees-protection-deportation-eu-sanctions/</guid>
       <pubDate>Wed, 23 Oct 2024 02:31:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>As Election Nears, Kelly Warns Trump Would Rule Like a Dictator</title>
+      <link>https://www.nytimes.com/2024/10/22/us/politics/john-kelly-trump-fitness-character.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/22/us/politics/john-kelly-trump-fitness-character.html</guid>
+      <pubDate>Wed, 23 Oct 2024 02:18:11 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1253,6 +1275,13 @@
       <pubDate>Sat, 19 Oct 2024 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cuba Suffers Blackout After Power Plant Failure Near Havana</title>
+      <link>https://www.nytimes.com/2024/10/18/world/americas/cuba-power-plant-blackout.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/18/world/americas/cuba-power-plant-blackout.html</guid>
+      <pubDate>Sat, 19 Oct 2024 21:33:24 +0000</pubDate>
+    </item>
+    <item>
       <title>King Charles to begin Australia tour with church service</title>
       <link>https://www.bbc.com/news/articles/c89lzznx0qpo</link>
       <author>BBC News Australia Mentions</author>
@@ -1417,35 +1446,6 @@
       <author>RTS Headlines</author>
       <guid>28667346</guid>
       <pubDate>Sat, 19 Oct 2024 10:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>L'extrémiste de droite autrichien Martin Sellner arrêté après son entrée illégale en Suisse</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/l-extremiste-de-droite-autrichien-martin-sellner-arrete-apres-son-entree-illegale-en-suisse-28667351.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28667351</guid>
-      <pubDate>Sat, 19 Oct 2024 10:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘The Interview’: Mia Khalifa’s Messy World of Money, Sex and Activism</title>
-      <link>https://www.nytimes.com/2024/10/19/magazine/mia-khalifa-interview.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/19/magazine/mia-khalifa-interview.html</guid>
-      <pubDate>Sat, 19 Oct 2024 09:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						China’s Europe strategy, revealed					</title>
-      <link>https://www.politico.eu/newsletter/politico-confidential/chinas-europe-strategy-revealed/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/newsletter/politico-confidential/chinas-europe-strategy-revealed/</guid>
-      <pubDate>Sat, 19 Oct 2024 08:30:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>Drone Launched Toward Benjamin Netanyahu's House</title>
-      <link>https://www.huffpost.com/entry/drone-strike-israeli-prime-minister-benjamin-netanyahu-house_n_671368a1e4b0e2b6e54c3008</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/drone-strike-israeli-prime-minister-benjamin-netanyahu-house_n_671368a1e4b0e2b6e54c3008</guid>
-      <pubDate>Sat, 19 Oct 2024 08:30:39 -0000</pubDate>
     </item>
   </channel>
 </rss>
