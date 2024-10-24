@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Gaza ceasefire and hostage deal gets renewed push after two-month deadlock</title>
+      <link>https://www.axios.com/2024/10/24/gaza-ceasefire-hostage-deal-renewed-push-talks</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/24/gaza-ceasefire-hostage-deal-renewed-push-talks</guid>
+      <pubDate>Thu, 24 Oct 2024 14:27:54 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						World on track for catastrophic 3C warming, UN warns					</title>
       <link>https://www.politico.eu/article/united-nations-emissions-gap-global-warming-data-climate-change-report/</link>
@@ -1432,13 +1439,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/moldova-votes-yes-join-european-union/</guid>
       <pubDate>Mon, 21 Oct 2024 09:39:24 -0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's new generative AI agents are more autonomous than Copilot</title>
-      <link>https://www.axios.com/2024/10/21/ai-agents-microsoft-salesforce-sierra</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/21/ai-agents-microsoft-salesforce-sierra</guid>
-      <pubDate>Mon, 21 Oct 2024 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
