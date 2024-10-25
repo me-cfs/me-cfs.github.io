@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Israel launches retaliatory attack against Iran</title>
+      <link>https://www.axios.com/2024/10/25/israel-attacks-iran-retaliation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/25/israel-attacks-iran-retaliation</guid>
+      <pubDate>Fri, 25 Oct 2024 23:17:22 +0000</pubDate>
+    </item>
+    <item>
       <title>What’s Wrong With Donald Trump?</title>
       <link>https://www.nytimes.com/2024/10/22/opinion/donald-trump-ezra-klein-podcast.html</link>
       <author>NYT Most Viewed</author>
@@ -1437,13 +1444,6 @@
       <author>RTS Headlines</author>
       <guid>28670765</guid>
       <pubDate>Tue, 22 Oct 2024 17:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>From This Pennsylvania Swing County, the Truth About American Politics in 2024</title>
-      <link>https://www.nytimes.com/2024/10/17/opinion/trump-harris-bucks-county-pennsylvania.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/17/opinion/trump-harris-bucks-county-pennsylvania.html</guid>
-      <pubDate>Tue, 22 Oct 2024 16:57:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
