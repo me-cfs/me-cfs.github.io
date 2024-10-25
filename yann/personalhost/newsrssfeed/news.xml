@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>"This is going to be terribly close": House Dems' anxiety spikes over "nail-biter" election</title>
+      <link>https://www.axios.com/2024/10/25/house-democrats-2024-election-trump-harris</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/25/house-democrats-2024-election-trump-harris</guid>
+      <pubDate>Fri, 25 Oct 2024 01:19:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Scoop: Sherrod Brown's magic number in Ohio Senate race</title>
       <link>https://www.axios.com/2024/10/25/sherrod-brown-ohio-senate-race-polls</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/25/sherrod-brown-ohio-senate-race-polls</guid>
       <pubDate>Fri, 25 Oct 2024 00:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>What Happened When a Barber Told Trump About His $15,000 Electric Bill</title>
+      <link>https://www.nytimes.com/2024/10/24/nyregion/trump-barber-15k-utility-bill-con-ed.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/24/nyregion/trump-barber-15k-utility-bill-con-ed.html</guid>
+      <pubDate>Thu, 24 Oct 2024 23:28:05 +0000</pubDate>
     </item>
     <item>
       <title>How Trump Could Bankrupt Social Security</title>
@@ -992,6 +1006,13 @@
       <pubDate>Tue, 22 Oct 2024 21:30:05 +0000</pubDate>
     </item>
     <item>
+      <title>The Best Bagels in New York City</title>
+      <link>https://www.nytimes.com/article/best-bagels-nyc.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/article/best-bagels-nyc.html</guid>
+      <pubDate>Tue, 22 Oct 2024 21:16:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Organizations unite to promote 2025 Medicare drug changes</title>
       <link>https://thehill.com/policy/healthcare/4947611-older-americans-education-medicare-drug-benefit-changes/</link>
       <author>Healthcare - The Hill</author>
@@ -1189,6 +1210,13 @@
       <author>RTS Headlines</author>
       <guid>28670421</guid>
       <pubDate>Tue, 22 Oct 2024 12:58:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samuel Alito and Princess Gloria Bonded Over Catholicism and Ending Abortion</title>
+      <link>https://www.nytimes.com/2024/10/22/us/politics/samuel-alito-princess-gloria.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/22/us/politics/samuel-alito-princess-gloria.html</guid>
+      <pubDate>Tue, 22 Oct 2024 12:53:30 +0000</pubDate>
     </item>
     <item>
       <title>Australian teen: Oh my God, I just talked to the Queen</title>
@@ -1412,35 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/22/trump-2024-election-fairness</guid>
       <pubDate>Tue, 22 Oct 2024 00:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meta is bringing facial recognition back to help users re-gain access to locked accounts</title>
-      <link>https://www.axios.com/2024/10/21/facebook-facial-recognition-account-recovery</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/21/facebook-facial-recognition-account-recovery</guid>
-      <pubDate>Mon, 21 Oct 2024 23:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What Lincoln Can Tell Us About MAGA</title>
-      <link>https://www.nytimes.com/2024/10/21/opinion/trump-lincoln-arnold-palmer.html</link>
-      <author>Krugman - NYT</author>
-      <guid>https://www.nytimes.com/2024/10/21/opinion/trump-lincoln-arnold-palmer.html</guid>
-      <pubDate>Mon, 21 Oct 2024 23:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why brands like Chick-fil-A are launching original content</title>
-      <link>https://www.axios.com/2024/10/21/chick-fil-a-play-app</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/21/chick-fil-a-play-app</guid>
-      <pubDate>Mon, 21 Oct 2024 21:54:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Moldova and Georgia ring alarm bells for the EU					</title>
-      <link>https://www.politico.eu/article/moldova-georgia-elections-eu-membership-referendum-russian-influence-kremlin-bribes-disinformation/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/moldova-georgia-elections-eu-membership-referendum-russian-influence-kremlin-bribes-disinformation/</guid>
-      <pubDate>Mon, 21 Oct 2024 21:25:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
