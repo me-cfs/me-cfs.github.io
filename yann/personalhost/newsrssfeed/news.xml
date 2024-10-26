@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						POLITICO Confidential: EU loses its allure					</title>
+      <link>https://www.politico.eu/newsletter/politico-confidential/eu-loses-its-allure/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/newsletter/politico-confidential/eu-loses-its-allure/</guid>
+      <pubDate>Sat, 26 Oct 2024 08:30:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>Comprendre la relation tumultueuse entre la Suisse et l’Union européenne</title>
+      <link>https://www.rts.ch/info/suisse/2024/grand-format/comprendre-la-relation-tumultueuse-entre-la-suisse-et-l-union-europeenne-28674342.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28674342</guid>
+      <pubDate>Sat, 26 Oct 2024 08:03:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Des métaux lourds dans les poissons, le coût du mariage et l'amour sur les sommets</title>
       <link>https://www.rts.ch/info/suisse/2024/article/des-metaux-lourds-dans-les-poissons-le-cout-du-mariage-et-l-amour-sur-les-sommets-28673872.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1429,20 +1444,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4947728</guid>
       <pubDate>Tue, 22 Oct 2024 21:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Best Bagels in New York City</title>
-      <link>https://www.nytimes.com/article/best-bagels-nyc.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/article/best-bagels-nyc.html</guid>
-      <pubDate>Tue, 22 Oct 2024 21:16:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Organizations unite to promote 2025 Medicare drug changes</title>
-      <link>https://thehill.com/policy/healthcare/4947611-older-americans-education-medicare-drug-benefit-changes/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4947611</guid>
-      <pubDate>Tue, 22 Oct 2024 21:12:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
