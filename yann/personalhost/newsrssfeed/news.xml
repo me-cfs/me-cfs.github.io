@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>WaPo trends on WaPo after presidential endorsement news</title>
+      <link>https://www.axios.com/2024/10/26/washington-post-harris-2024-election-endorsement</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/26/washington-post-harris-2024-election-endorsement</guid>
+      <pubDate>Sat, 26 Oct 2024 14:50:05 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Violence mars voting in Georgia’s pivotal election					</title>
       <link>https://www.politico.eu/article/violence-georgia-election-polling-stations-voting/</link>
@@ -48,6 +55,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/26/trump-harris-campaign-schedules-swing-states</guid>
       <pubDate>Sat, 26 Oct 2024 13:03:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>6 Takeaways From Donald Trump’s 3-Hour Podcast With Joe Rogan</title>
+      <link>https://www.nytimes.com/2024/10/25/us/politics/trump-joe-rogan-podcast.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/25/us/politics/trump-joe-rogan-podcast.html</guid>
+      <pubDate>Sat, 26 Oct 2024 11:12:38 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1433,20 +1447,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4948173</guid>
       <pubDate>Wed, 23 Oct 2024 01:36:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris on abortion rights: "I don't think we should be making concessions"</title>
-      <link>https://www.axios.com/2024/10/23/harris-nbc-news-abortion-trump-republicans</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/23/harris-nbc-news-abortion-trump-republicans</guid>
-      <pubDate>Wed, 23 Oct 2024 00:29:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senate Democrats lean on abortion rights as closing argument</title>
-      <link>https://www.axios.com/2024/10/23/senate-democrats-abortion-rights</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/23/senate-democrats-abortion-rights</guid>
-      <pubDate>Wed, 23 Oct 2024 00:28:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
