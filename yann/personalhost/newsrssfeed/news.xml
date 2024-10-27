@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Bulgaria’s hacking ‘Elves’ lift lid on election fraud racket					</title>
+      <link>https://www.politico.eu/article/bulgaria-ethical-hacking-group-bg-elves-oligarch-delyan-peevski-election-fraud-vote-buying/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/bulgaria-ethical-hacking-group-bg-elves-oligarch-delyan-peevski-election-fraud-vote-buying/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:32:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>La modification de la loi radio/TV bien reçue en consultation</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/la-modification-de-la-loi-radio-tv-bien-recue-en-consultation-28675628.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28675628</guid>
+      <pubDate>Sun, 27 Oct 2024 09:26:24 GMT</pubDate>
+    </item>
+    <item>
       <title>L’armée suisse sans logiciel de logistique de guerre jusqu'en 2035</title>
       <link>https://www.rts.ch/info/suisse/2024/article/l-armee-suisse-sans-logiciel-de-logistique-de-guerre-jusqu-en-2035-28673041.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1429,20 +1444,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/23/drones-ukraine-israel-info-warfare</guid>
       <pubDate>Wed, 23 Oct 2024 10:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faut-il élargir les autoroutes? Des avis encore partagés à un mois du vote</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/faut-il-elargir-les-autoroutes-des-avis-encore-partages-a-un-mois-du-vote-28671320.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28671320</guid>
-      <pubDate>Wed, 23 Oct 2024 09:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le directeur de l’OFAS Stéphane Rossini va quitter son poste</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-directeur-de-l-ofas-stephane-rossini-va-quitter-son-poste-28671374.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28671374</guid>
-      <pubDate>Wed, 23 Oct 2024 09:29:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
