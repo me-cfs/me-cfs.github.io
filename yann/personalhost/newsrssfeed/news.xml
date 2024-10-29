@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Death from Lassa fever reported in Iowa</title>
+      <link>https://thehill.com/policy/healthcare/4959164-lassa-fever-death-iowa-hhs-cdc/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4959164</guid>
+      <pubDate>Tue, 29 Oct 2024 16:10:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Inside Fox News' decision desk ahead of Election Day</title>
       <link>https://www.axios.com/2024/10/29/fox-news-decision-desk-election-day</link>
       <author>Axios</author>
@@ -1448,13 +1455,6 @@
       <author>Krugman - NYT</author>
       <guid>https://www.nytimes.com/2024/10/24/opinion/trump-social-security.html</guid>
       <pubDate>Thu, 24 Oct 2024 23:00:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Owner and operator of ship that caused Baltimore bridge collapse settle case for $102 million</title>
-      <link>https://www.axios.com/2024/10/24/baltimore-bridge-collapse-lawsuit-settlement</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/24/baltimore-bridge-collapse-lawsuit-settlement</guid>
-      <pubDate>Thu, 24 Oct 2024 22:58:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
