@@ -9,4 +9,4 @@ There's so much I want to tell you, and so little energy to do it. Where do I st
 
 You've been so supportive to me despite my limitations. I don't know how I could ever thank you. I'm forever grateful, and whatever I have the ability to do, I will do it for you. I just wish I was better so I could spoil you whenever you are sick, because you deserve it more than anything. 
 
-![](https://me-cfs.github.io/yann/for_reirei/media/IMG_8650.jpg)
+![](media/IMG_8086.jpg)
