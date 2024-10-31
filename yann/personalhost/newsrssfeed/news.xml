@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Thom Yorke confronts Gaza protester at Australian gig</title>
+      <link>https://www.bbc.com/news/articles/c5yrv2zyd22o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/c5yrv2zyd22o#0</guid>
+      <pubDate>Thu, 31 Oct 2024 06:23:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Australian man cleared of murdering British woman</title>
       <link>https://www.bbc.com/news/articles/cwyx722590jo</link>
       <author>BBC News Australia Mentions</author>
@@ -1455,13 +1462,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/27/harris-biden-distance-campaign</guid>
       <pubDate>Sun, 27 Oct 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>News in Brief for the week of October 20th</title>
-      <link>https://www.s4me.info/threads/news-in-brief-october-2024.40523/#post-562690</link>
-      <author>ME/LC News</author>
-      <guid>https://med-mastodon.com/@s4me/113378774714167329</guid>
-      <pubDate>Sun, 27 Oct 2024 09:53:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
