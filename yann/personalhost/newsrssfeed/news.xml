@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Faut-il élargir le réseau autoroutier suisse? La population tranchera</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/faut-il-elargir-le-reseau-autoroutier-suisse-la-population-tranchera-28678717.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28678717</guid>
+      <pubDate>Thu, 31 Oct 2024 08:45:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Why Trump is spending Halloween in deep-blue New Mexico</title>
       <link>https://www.axios.com/2024/10/31/trump-albuquerque-latinos-immigration</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/31/trump-albuquerque-latinos-immigration</guid>
       <pubDate>Thu, 31 Oct 2024 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le permis de conduire bleu ne sera plus valable à partir du 1er novembre</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/le-permis-de-conduire-bleu-ne-sera-plus-valable-a-partir-du-1er-novembre-28622278.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28622278</guid>
+      <pubDate>Thu, 31 Oct 2024 08:18:00 GMT</pubDate>
     </item>
     <item>
       <title>Thom Yorke confronts Gaza protester at Australian gig</title>
@@ -1448,20 +1462,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/georgia-elections-marred-by-intimidation-and-interference-observers-warn/</guid>
       <pubDate>Sun, 27 Oct 2024 12:48:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Missing woman found with snakebite after six days in mountains</title>
-      <link>https://www.bbc.com/news/articles/cvgxxrj89j1o</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/cvgxxrj89j1o#0</guid>
-      <pubDate>Sun, 27 Oct 2024 12:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The transparent election: GPS ballot-tracking and counting on livestream</title>
-      <link>https://www.axios.com/2024/10/27/elections-transparency-2024-harris-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/27/elections-transparency-2024-harris-trump</guid>
-      <pubDate>Sun, 27 Oct 2024 12:38:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
