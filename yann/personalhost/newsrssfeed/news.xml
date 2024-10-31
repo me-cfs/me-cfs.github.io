@@ -5,6 +5,34 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/31/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/ia9ebrtel5h0ejqauc0es3rs2k3568ik</guid>
+      <pubDate>Thu, 31 Oct 2024 15:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/31/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/js202s1i86a67qpkd1dr8urivm1ed62t</guid>
+      <pubDate>Thu, 31 Oct 2024 15:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/10/31/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/itdocuemfq5n60glai317t53bnr8s59b</guid>
+      <pubDate>Thu, 31 Oct 2024 15:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pre-election silence periods are common around the world, but not in U.S.</title>
+      <link>https://www.axios.com/2024/10/31/election-silence-advertisement-speeches-world</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/10/31/election-silence-advertisement-speeches-world</guid>
+      <pubDate>Thu, 31 Oct 2024 15:13:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Discrimination et violence sexualisée sont courantes au sein de l'armée suisse</title>
       <link>https://www.rts.ch/info/suisse/2024/article/discrimination-et-violence-sexualisee-sont-courantes-au-sein-de-l-armee-suisse-28680317.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1432,36 +1460,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/28/virginia-voter-purge-program-noncitizens-appeals-court</guid>
       <pubDate>Mon, 28 Oct 2024 01:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says he'll let RFK Jr. 'go wild' on health and food in potential second term</title>
-      <link>https://thehill.com/homenews/campaign/4956319-trump-says-hell-let-rfk-jr-go-wild-on-health-and-food-in-potential-second-term/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4956319</guid>
-      <pubDate>Mon, 28 Oct 2024 00:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump comedian's MSG joke draws huge backlash from Puerto Ricans</title>
-      <link>https://www.axios.com/2024/10/28/trump-rally-comedian-puerto-rico-garbage-island</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/28/trump-rally-comedian-puerto-rico-garbage-island</guid>
-      <pubDate>Mon, 28 Oct 2024 00:07:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Listless Bulgarian voters turn back to Borissov as political stalemate continues					</title>
-      <link>https://www.politico.eu/article/bulgaria-prime-minister-boyko-borissov-parliamentary-election-government-gerb/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/bulgaria-prime-minister-boyko-borissov-parliamentary-election-government-gerb/</guid>
-      <pubDate>Sun, 27 Oct 2024 23:33:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Lithuania’s Social Democrats win parliamentary election					</title>
-      <link>https://www.politico.eu/article/lsdp-lithuania-social-democrat-parliament-election-ingrida-simonyte/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/lsdp-lithuania-social-democrat-parliament-election-ingrida-simonyte/</guid>
-      <pubDate>Sun, 27 Oct 2024 23:18:13 -0000</pubDate>
     </item>
   </channel>
 </rss>
