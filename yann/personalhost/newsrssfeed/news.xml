@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Votations fédérales du 24 novembre: participez à notre second sondage</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/votations-federales-du-24-novembre-participez-a-notre-second-sondage-28679947.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28679947</guid>
+      <pubDate>Fri, 01 Nov 2024 05:57:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drogues dures: la prohibition fait-elle plus de mal que de bien?</title>
+      <link>https://www.rts.ch/info/dialogue/2024/article/drogues-dures-la-prohibition-fait-elle-plus-de-mal-que-de-bien-28680335.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28680335</guid>
+      <pubDate>Fri, 01 Nov 2024 05:52:39 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						An elegy for Georgia’s democracy					</title>
       <link>https://www.politico.eu/article/georgia-democracy-opposition-cec-prelim-results-dream-party-analysis/</link>
@@ -206,6 +220,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4964168</guid>
       <pubDate>Thu, 31 Oct 2024 17:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why the Right Thinks Trump Is Running Away With the Race</title>
+      <link>https://www.nytimes.com/2024/10/31/us/politics/trump-harris-partisan-polls.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/10/31/us/politics/trump-harris-partisan-polls.html</guid>
+      <pubDate>Thu, 31 Oct 2024 16:52:45 +0000</pubDate>
     </item>
     <item>
       <title>House COVID panel says Andrew Cuomo lied to Congress, calls for DOJ to prosecute</title>
@@ -1433,28 +1454,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/28/trump-johnson-election-secret</guid>
       <pubDate>Mon, 28 Oct 2024 21:27:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Uncertainty grips Georgia as opposition street protests end in anticlimax — for now					</title>
-      <link>https://www.politico.eu/article/georgia-streets-protest-dream-party-nationwide-election-violence-movement-salome-zourabichvili/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/georgia-streets-protest-dream-party-nationwide-election-violence-movement-salome-zourabichvili/</guid>
-      <pubDate>Mon, 28 Oct 2024 21:25:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Hints at ‘Little Secret’ With House Republicans, Setting Off a Panic</title>
-      <link>https://www.nytimes.com/2024/10/28/us/politics/trump-secret-house-republicans-panic.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/10/28/us/politics/trump-secret-house-republicans-panic.html</guid>
-      <pubDate>Mon, 28 Oct 2024 20:33:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's MSG rally draws comparisons to 1939 MSG Nazi event</title>
-      <link>https://www.axios.com/2024/10/28/trumps-msg-rally-1939-msg-nazi-event</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/28/trumps-msg-rally-1939-msg-nazi-event</guid>
-      <pubDate>Mon, 28 Oct 2024 20:21:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
