@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Tories pick first Black woman to lead a major UK political party					</title>
+      <link>https://www.politico.eu/article/tories-pick-kemi-badenoch-first-black-woman-to-lead-a-major-uk-political-party/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/tories-pick-kemi-badenoch-first-black-woman-to-lead-a-major-uk-political-party/</guid>
+      <pubDate>Sat, 02 Nov 2024 12:52:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>L'Armée du Salut Suisse ouvre une plateforme pour les enfants victimes d'abus dans ses foyers</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/l-armee-du-salut-suisse-ouvre-une-plateforme-pour-les-enfants-victimes-d-abus-dans-ses-foyers-28682245.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28682245</guid>
+      <pubDate>Sat, 02 Nov 2024 12:27:00 GMT</pubDate>
+    </item>
+    <item>
       <title>CEOs hedge in case Trump returns</title>
       <link>https://www.axios.com/2024/11/02/ceo-trump-phone-calls-zuckerberg-tim-cook</link>
       <author>Axios</author>
@@ -88,6 +103,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/newsletter/politico-confidential/america-decides/</guid>
       <pubDate>Sat, 02 Nov 2024 09:25:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>Where U.S. states stand on permanent daylight saving time</title>
+      <link>https://www.axios.com/2024/11/02/daylight-saving-time-dst-permanent-congress-states</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/02/daylight-saving-time-dst-permanent-congress-states</guid>
+      <pubDate>Sat, 02 Nov 2024 09:00:00 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1422,27 +1444,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/10/29/nancy-paul-pelosi-david-depape-life-sentence-assault</guid>
       <pubDate>Tue, 29 Oct 2024 20:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Une septantaine de filiales romandes pourraient être concernées par la restructuration de la Poste</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/une-septantaine-de-filiales-romandes-pourraient-etre-concernees-par-la-restructuration-de-la-poste-28678072.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28678072</guid>
-      <pubDate>Tue, 29 Oct 2024 19:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>IV fluid maker says expiration date extensions approved</title>
-      <link>https://thehill.com/policy/healthcare/4959816-iv-fluid-shortage-relief-approved/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4959816</guid>
-      <pubDate>Tue, 29 Oct 2024 19:08:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where the Puerto Rican population in the U.S. is concentrated</title>
-      <link>https://www.axios.com/2024/10/29/trump-rally-puerto-rican-population-voters</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/29/trump-rally-puerto-rican-population-voters</guid>
-      <pubDate>Tue, 29 Oct 2024 19:03:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
