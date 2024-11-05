@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump, Harris seek to rally base with closing health messages</title>
+      <link>https://thehill.com/policy/healthcare/4973839-trump-harris-abortion-health-rfk-jr/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4973839</guid>
+      <pubDate>Tue, 05 Nov 2024 22:46:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Congressional election results: Control of Congress rests on a few Senate, House seats</title>
       <link>https://www.axios.com/2024/11/05/congress-control-senate-house-2024</link>
       <author>Axios</author>
@@ -1457,13 +1464,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/11/02/opinion/trump-madison-square-garden-private-life.html</guid>
       <pubDate>Sat, 02 Nov 2024 11:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>US election live: Trump repeats attack on Liz Cheney as campaign enters final days</title>
-      <link>https://www.theguardian.com/us-news/live/2024/nov/02/us-presidential-election-live-donald-trump-kamala-harris-democrats-republicans</link>
-      <author>Monbiot Guardian</author>
-      <guid>https://www.theguardian.com/us-news/live/2024/nov/02/us-presidential-election-live-donald-trump-kamala-harris-democrats-republicans</guid>
-      <pubDate>Sat, 02 Nov 2024 10:06:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
