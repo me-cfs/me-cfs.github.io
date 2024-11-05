@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Congressional election results: Control of Congress rests on a few Senate, House seats</title>
+      <link>https://www.axios.com/2024/11/05/congress-control-senate-house-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/05/congress-control-senate-house-2024</guid>
+      <pubDate>Tue, 05 Nov 2024 22:03:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump, RFK Jr. stir debate over fluoride in public water: What to know </title>
+      <link>https://thehill.com/policy/healthcare/4973278-trump-kennedy-fluoride-water-system/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4973278</guid>
+      <pubDate>Tue, 05 Nov 2024 21:54:26 +0000</pubDate>
+    </item>
+    <item>
       <title>What's at stake for health care this election</title>
       <link>https://thehill.com/policy/healthcare/4973584-healthcare-election-consequences/</link>
       <author>Healthcare - The Hill</author>
@@ -1450,20 +1464,6 @@
       <author>Monbiot Guardian</author>
       <guid>https://www.theguardian.com/us-news/live/2024/nov/02/us-presidential-election-live-donald-trump-kamala-harris-democrats-republicans</guid>
       <pubDate>Sat, 02 Nov 2024 10:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>World's largest crocodile in captivity dies</title>
-      <link>https://www.bbc.com/news/articles/clyvzyyd6l7o</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/clyvzyyd6l7o#0</guid>
-      <pubDate>Sat, 02 Nov 2024 10:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNC targets rural voters in North Carolina and Georgia in new media campaign</title>
-      <link>https://www.axios.com/2024/11/02/dnc-rural-voters-north-carolina-georgia</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/02/dnc-rural-voters-north-carolina-georgia</guid>
-      <pubDate>Sat, 02 Nov 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
