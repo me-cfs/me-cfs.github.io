@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						The world waits on America					</title>
+      <link>https://www.politico.eu/article/us-elections-the-world-waits-on-america-donald-trump-kamala-harris/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/us-elections-the-world-waits-on-america-donald-trump-kamala-harris/</guid>
+      <pubDate>Tue, 05 Nov 2024 06:48:48 -0000</pubDate>
+    </item>
+    <item>
       <title>Faut-il changer de caisse maladie? Les pires augmentations dans votre canton</title>
       <link>https://www.rts.ch/info/suisse/2024/article/faut-il-changer-de-caisse-maladie-les-pires-augmentations-dans-votre-canton-28674250.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1447,13 +1455,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/01/trumps-enemies-within-list</guid>
       <pubDate>Fri, 01 Nov 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obama and Trump square off over masculinity</title>
-      <link>https://www.axios.com/2024/11/01/obama-trump-campaign-masculinity</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/01/obama-trump-campaign-masculinity</guid>
-      <pubDate>Fri, 01 Nov 2024 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
