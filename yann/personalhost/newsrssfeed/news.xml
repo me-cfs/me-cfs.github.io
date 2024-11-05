@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Europe should hope for a Trump victory					</title>
+      <link>https://www.politico.eu/article/europe-hope-donald-trump-victory-nato-defense-security-debt/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/europe-hope-donald-trump-victory-nato-defense-security-debt/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:29:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>Le peuple fera-t-il confiance au financement uniforme des soins?</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/le-peuple-fera-t-il-confiance-au-financement-uniforme-des-soins-28680351.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28680351</guid>
+      <pubDate>Tue, 05 Nov 2024 14:16:52 GMT</pubDate>
+    </item>
+    <item>
       <title>538's final forecasts for the 2024 election</title>
       <link>https://abcnews.go.com/538/538s-final-forecasts-2024-election/story?id=115511051</link>
       <author>Fivethirtyeight</author>
@@ -1448,20 +1463,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/11/01/us/politics/trump-liz-cheney-tucker-carlson.html</guid>
       <pubDate>Fri, 01 Nov 2024 19:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>When will we know 2024 election results?</title>
-      <link>https://abcnews.go.com/538/2024-election-results/story?id=115395601</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/2024-election-results/story?id=115395601</guid>
-      <pubDate>Fri, 01 Nov 2024 18:34:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>Viola Amherd a-t-elle doublé le salaire de sa conseillère personnelle?</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/viola-amherd-a-t-elle-double-le-salaire-de-sa-conseillere-personnelle-28681816.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28681816</guid>
-      <pubDate>Fri, 01 Nov 2024 18:06:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
