@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How climate change groups are turning youth anxiety into action</title>
+      <link>https://www.axios.com/2024/11/06/climate-change-anxiety-youth-action</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/06/climate-change-anxiety-youth-action</guid>
+      <pubDate>Wed, 06 Nov 2024 11:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How Donald Trump won the presidency</title>
       <link>https://abcnews.go.com/538/donald-trump-won-presidency/story?id=115556511</link>
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/donald-trump-won-presidency/story?id=115556511</guid>
       <pubDate>Wed, 06 Nov 2024 11:22:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump victory has sweeping climate change consequences</title>
+      <link>https://www.axios.com/2024/11/06/trump-victory-sweeping-climate-consequences</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/06/trump-victory-sweeping-climate-consequences</guid>
+      <pubDate>Wed, 06 Nov 2024 11:08:58 +0000</pubDate>
     </item>
     <item>
       <title>Montana enshrines abortion access into state constitution</title>
@@ -25,6 +39,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/donald-trump-wins-us-presidential-election-2024-kamala-harris/</guid>
       <pubDate>Wed, 06 Nov 2024 10:46:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's recipe: Limit his losses among key groups</title>
+      <link>https://www.axios.com/2024/11/06/trump-recipe-limit-losses</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/06/trump-recipe-limit-losses</guid>
+      <pubDate>Wed, 06 Nov 2024 09:40:30 +0000</pubDate>
     </item>
     <item>
       <title>World wakes up to prospect of Trump 2.0</title>
@@ -1442,27 +1463,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/03/harris-snl-appearance-maya-rudolph</guid>
       <pubDate>Sun, 03 Nov 2024 00:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>&lt;img width="3456" height="2220" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-11/TD241103c-small_0.jpg?itok=SV23RYLx" class="attachment-medium size-medium wp-post-image" /&gt;</title>
-      <link>https://www.chappatte.com/fr/images/la-planete-en-jeu</link>
-      <author>Chapatte Dessins</author>
-      <guid>https://www.chappatte.com/node/22842</guid>
-      <pubDate>11/03/2024 00:12</pubDate>
-    </item>
-    <item>
-      <title>Shock poll: Harris grabs last-minute Iowa lead over Trump</title>
-      <link>https://www.axios.com/2024/11/03/harris-iowa-poll-trump-women</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/03/harris-iowa-poll-trump-women</guid>
-      <pubDate>Sun, 03 Nov 2024 00:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Time change 2024: Move from daylight saving to standard time starts Sunday</title>
-      <link>https://www.axios.com/2024/11/02/daylight-savings-2024-time-change-fall-back</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/02/daylight-savings-2024-time-change-fall-back</guid>
-      <pubDate>Sat, 02 Nov 2024 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
