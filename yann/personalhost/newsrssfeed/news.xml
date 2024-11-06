@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Raygun retires from breaking after Olympic backlash</title>
+      <link>https://www.bbc.com/news/articles/cn9xyqgrlz9o</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cn9xyqgrlz9o#0</guid>
+      <pubDate>Wed, 06 Nov 2024 23:14:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump Wins 2024 Presidential Election, Defeating Harris</title>
       <link>https://www.nytimes.com/2024/11/06/us/politics/trump-wins-presidency.html</link>
       <author>NYT Most Viewed</author>
@@ -1453,13 +1460,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/04/election-results-certification-timeline</guid>
       <pubDate>Mon, 04 Nov 2024 10:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mapped: The states Harris and Trump are visiting most</title>
-      <link>https://www.axios.com/2024/10/26/trump-harris-campaign-schedules-swing-states</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/10/26/trump-harris-campaign-schedules-swing-states</guid>
-      <pubDate>Mon, 04 Nov 2024 10:26:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
