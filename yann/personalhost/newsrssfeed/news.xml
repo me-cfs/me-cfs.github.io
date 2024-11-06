@@ -5,6 +5,22 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						German government coalition collapses as Scholz sacks Finance Minister Lindner					</title>
+      <link>https://www.politico.eu/article/germany-coalition-government-collapse-olaf-scholz-finance-minister-christian-lindner/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/germany-coalition-government-collapse-olaf-scholz-finance-minister-christian-lindner/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:25:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Ireland faces snap election on Nov. 29					</title>
+      <link>https://www.politico.eu/article/ireland-faces-snap-election-november-29-prime-minister-simon-harris/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/ireland-faces-snap-election-november-29-prime-minister-simon-harris/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:10:51 -0000</pubDate>
+    </item>
+    <item>
       <title>Harris addressing nation after stunning loss to Trump</title>
       <link>https://www.axios.com/2024/11/06/harris-speech-condedes-trump-2024-election</link>
       <author>Axios</author>
@@ -17,6 +33,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=4977374</guid>
       <pubDate>Wed, 06 Nov 2024 20:56:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>America Makes a Perilous Choice</title>
+      <link>https://www.nytimes.com/2024/11/06/opinion/trump-wins.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/06/opinion/trump-wins.html</guid>
+      <pubDate>Wed, 06 Nov 2024 20:55:42 +0000</pubDate>
     </item>
     <item>
       <title>America chose Trump with eyes wide open</title>
@@ -60,6 +83,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/donald-trump-us-elections-vladimir-putin-russia-ukraine-defense-foreign-policy-war/</guid>
       <pubDate>Wed, 06 Nov 2024 18:19:16 -0000</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. says 'entire departments' at FDA 'have to go'</title>
+      <link>https://thehill.com/homenews/campaign/4976746-robert-kennedy-potential-role-trump-administration/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4976746</guid>
+      <pubDate>Wed, 06 Nov 2024 18:09:27 +0000</pubDate>
     </item>
     <item>
       <title>Abortion rights measures go 7 for 10 in state elections</title>
@@ -273,6 +303,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/donald-trump-won-presidency/story?id=115556511</guid>
       <pubDate>Wed, 06 Nov 2024 11:22:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>10 Takeaways From Trump’s Win on Election Night 2024</title>
+      <link>https://www.nytimes.com/2024/11/06/us/politics/election-takeaways-trump-harris.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/06/us/politics/election-takeaways-trump-harris.html</guid>
+      <pubDate>Wed, 06 Nov 2024 11:18:44 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1423,44 +1460,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/04/ai-training-data-llm-privacy-big-tech</guid>
       <pubDate>Mon, 04 Nov 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Middle East peace is possible					</title>
-      <link>https://www.politico.eu/article/israel-palestine-lebanon-syria-war-middle-east-peace-is-possible/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/israel-palestine-lebanon-syria-war-middle-east-peace-is-possible/</guid>
-      <pubDate>Mon, 04 Nov 2024 07:26:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Une campagne pour mieux protéger les enfants de la violence psychologique</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/une-campagne-pour-mieux-proteger-les-enfants-de-la-violence-psychologique-28683484.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28683484</guid>
-      <pubDate>Mon, 04 Nov 2024 07:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Ranting Trump loses his way as Harris backers dare to hope 					</title>
-      <link>https://www.politico.eu/article/ranting-donald-trump-loses-way-as-kamala-harris-backers-dare-to-hope/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ranting-donald-trump-loses-way-as-kamala-harris-backers-dare-to-hope/</guid>
-      <pubDate>Mon, 04 Nov 2024 06:14:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>NBC files Equal Time notice for Harris' "SNL" appearance after FCC chief slams network</title>
-      <link>https://www.axios.com/2024/11/04/harris-snl-equal-time-rule-nbc-trump-fcc</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/04/harris-snl-equal-time-rule-nbc-trump-fcc</guid>
-      <pubDate>Mon, 04 Nov 2024 04:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s Trumpian nightmare					</title>
-      <link>https://www.politico.eu/article/donald-trump-europe-western-alliance-white-house-presidency-vladimir-putin-kamala-harris/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/donald-trump-europe-western-alliance-white-house-presidency-vladimir-putin-kamala-harris/</guid>
-      <pubDate>Mon, 04 Nov 2024 03:36:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
