@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Abortion rights measures go 7 for 10 in state elections</title>
+      <link>https://thehill.com/policy/healthcare/4976778-state-level-abortion-measures/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4976778</guid>
+      <pubDate>Wed, 06 Nov 2024 18:05:46 +0000</pubDate>
+    </item>
+    <item>
       <title>How Trump won over voters</title>
       <link>https://abcnews.go.com/538/video/trump-won-voters-115567593</link>
       <author>Fivethirtyeight</author>
@@ -39,6 +46,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/european-commissioner-hearings-lithuania-andrius-kubilius-defense-space/</guid>
       <pubDate>Wed, 06 Nov 2024 17:07:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>What markets see in the Trump 2.0 economy</title>
+      <link>https://www.axios.com/2024/11/06/stock-market-trump-economy-policies</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/06/stock-market-trump-economy-policies</guid>
+      <pubDate>Wed, 06 Nov 2024 17:01:04 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1451,20 +1465,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/if-trump-wins-europe-will-have-to-adapt-in-its-stance-on-ukraine-orban-says/</guid>
       <pubDate>Sun, 03 Nov 2024 23:34:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Nevada's early data makes Senate Democrats sweat</title>
-      <link>https://www.axios.com/2024/11/03/nevada-senate-race-early-voting-data</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/03/nevada-senate-race-early-voting-data</guid>
-      <pubDate>Sun, 03 Nov 2024 22:53:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr. says Trump 'assured me' of role in White House</title>
-      <link>https://thehill.com/homenews/campaign/4968959-rfk-jr-trump-white-house/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4968959</guid>
-      <pubDate>Sun, 03 Nov 2024 22:43:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
