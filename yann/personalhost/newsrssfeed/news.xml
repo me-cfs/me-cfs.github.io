@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Donald Trump wins US election					</title>
+      <link>https://www.politico.eu/article/donald-trump-wins-us-presidential-election-2024-kamala-harris/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/donald-trump-wins-us-presidential-election-2024-kamala-harris/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:46:42 -0000</pubDate>
+    </item>
+    <item>
       <title>World wakes up to prospect of Trump 2.0</title>
       <link>https://www.axios.com/2024/11/06/trump-foreign-policy-china-russia-middle-east</link>
       <author>Axios</author>
@@ -1456,13 +1464,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/zelenskyy-to-west-let-us-hit-north-korean-troops-in-russia/</guid>
       <pubDate>Sat, 02 Nov 2024 20:26:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's 2024 vulnerability: Boredom</title>
-      <link>https://www.axios.com/2024/11/02/trump-biden-retard-atlantic-article</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/02/trump-biden-retard-atlantic-article</guid>
-      <pubDate>Sat, 02 Nov 2024 20:25:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
