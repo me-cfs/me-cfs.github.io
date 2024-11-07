@@ -32,8 +32,8 @@ filename: useful-resources.md
   * DO NOT join the r/mecfs or r/cfsme communities on reddit. They are [owned by David Jameson](https://forums.phoenixrising.me/threads/the-moderator-of-reddit-r-cfsme-r-mecfs-pushes-cbt-and-brain-retraining-and-get-and-bans-you-if-you-say-something-about-it.90736/), a notorious psychologiser of the disease.
   * While generally okay, the r/cfs community has a few users who promote unproven treatments.
 * Discord: [The MercyME community](https://discord.gg/dQYyXjZ9)
-* Lemmy: [The c/mecfs@kbin.social community](https://kbin.social/index.php/m/mecfs)
-  * Sadly, this community is mostly inactive, but Lemmy is quickly growing, so feel free to be the people who make it active :). 
+* Lemmy: [The lemmy.blahaj.zome community](https://lemmy.blahaj.zone/c/myalgicencephalomyelitis)
+  * Sadly, this community is not very active, but Lemmy is quickly growing, so feel free to be the people who make it active :). 
 </details>
 
 **Severe and Very Severe ME/CFS**
@@ -54,4 +54,4 @@ filename: useful-resources.md
 
 ---
 
-[Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
