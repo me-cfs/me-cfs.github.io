@@ -33,7 +33,7 @@ The [ME/CFS Resources Page](https://me-cfs.github.io/useful-resources.html) cont
 * [Whitney Dafoe's Blog](https://whitneydafoe.com/mecfs/) shares the experience of living when very severely affected
 * [The Canary](https://www.thecanary.co/topics/mecfs/) is technically a mainstream news source, but has excellent coverage on LC and ME
 * [Tom Kindlon's Bluesky Account](https://bsky.app/profile/tomkindlon.bsky.social) (Also active on [basically every other social media, including Mastodon](https://me-pedia.org/wiki/Tom_Kindlon#Online_presence)) shares most of the recent research papers.
-* [Twitter list](https://x.com/i/lists/1792252442643509657) of accounts sharing news (mostly major ME/LC organisations) [**Late 2024 Update: Most of these people have migrated to bluesky**, I recommend you join us there]
+* [Twitter list](https://x.com/i/lists/1792252442643509657) of accounts sharing news (mostly major ME/LC organisations) [Late 2024 Update: Most of these accounts have migrated to bluesky, I recommend you join us there]
 * [The Science Bit](https://thesciencebit.net/category/me-cfs/) posts high quality content and commentary
   * Please note that it is sporadic and only posts once or twice a year
 * [ME/CFS Research Review](https://mecfsresearchreview.me) posts analyses of the research landscape.
