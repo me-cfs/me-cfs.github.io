@@ -14,4 +14,4 @@ Here are some resources to get to know ME/CFS that are academic/clinical:
 
 ---
 
-[Back to Mainpage](https://me-cfs.github.io), [ME Resources](https://me-cfs.github.io/useful-resources.html), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [ME Resources](https://me-cfs.github.io/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
