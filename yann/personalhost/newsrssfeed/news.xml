@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>FDA proposes removing ineffective decongestant found in most cold medicine</title>
+      <link>https://thehill.com/policy/healthcare/4979213-fda-to-remove-cold-medicine-decongestant/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4979213</guid>
+      <pubDate>Thu, 07 Nov 2024 19:28:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Fed cuts interest rates for second time against backdrop of Trump comeback</title>
       <link>https://www.axios.com/2024/11/07/interest-rates-fed-decison-cut</link>
       <author>Axios</author>
@@ -1458,14 +1465,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/russia-georgia-dream-vote-election-europe-cec-intelligence-democracy/</guid>
       <pubDate>Tue, 05 Nov 2024 03:16:14 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Shovel-wielding mob strikes Spanish PM Sánchez on visit to flood-hit town					</title>
-      <link>https://www.politico.eu/article/spain-prime-minister-pedro-sanchez-struck-violent-mob-flood-hit-town-king-felipe/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/spain-prime-minister-pedro-sanchez-struck-violent-mob-flood-hit-town-king-felipe/</guid>
-      <pubDate>Tue, 05 Nov 2024 03:13:11 -0000</pubDate>
     </item>
   </channel>
 </rss>
