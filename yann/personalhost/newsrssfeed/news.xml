@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Who owns football? Al-Khelaifi, PSG and the motivations behind Qatar's World Cup</title>
+      <link>https://www.nytimes.com/athletic/5897306/2024/11/07/al-khelaifi-psg-watar-world-cup/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/5897306/2024/11/07/al-khelaifi-psg-watar-world-cup/</guid>
+      <pubDate>Thu, 07 Nov 2024 05:03:55 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						The real winners of the US election: Europe’s populist right-wing wreckers 					</title>
       <link>https://www.politico.eu/article/us-election-donald-trump-europe-populists-right-wing-viktor-orban-giorgia-meloni-karl-nehammer-war-in-ukraine/</link>
@@ -104,6 +111,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/europe-reacts-donald-trump-expected-victory-us-election-2024/</guid>
       <pubDate>Thu, 07 Nov 2024 01:34:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Democratic activists shaken — and say they need a new plan</title>
+      <link>https://www.axios.com/2024/11/07/trump-harris-black-asian-voters-activists</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/07/trump-harris-black-asian-voters-activists</guid>
+      <pubDate>Thu, 07 Nov 2024 00:58:52 +0000</pubDate>
     </item>
     <item>
       <title>Jeff Bezos and Tim Cook join other Big Tech leaders in congratulating Trump on election win</title>
@@ -1451,21 +1465,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/10/28/us/politics/kamala-harris-donald-trump-2024-election.html</guid>
       <pubDate>Mon, 04 Nov 2024 16:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quincy Jones, Giant of American Music, Dies at 91</title>
-      <link>https://www.nytimes.com/2024/11/04/arts/music/quincy-jones-dead.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/04/arts/music/quincy-jones-dead.html</guid>
-      <pubDate>Mon, 04 Nov 2024 16:20:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						A Trump Trade War 2.0 will be worse than the first for Europe					</title>
-      <link>https://www.politico.eu/article/a-trump-trade-war-2-0-will-be-worse-than-the-first-for-europe/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/a-trump-trade-war-2-0-will-be-worse-than-the-first-for-europe/</guid>
-      <pubDate>Mon, 04 Nov 2024 15:46:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
