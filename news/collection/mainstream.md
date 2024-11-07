@@ -8,6 +8,8 @@ title: ME in the News
 
 <br/>
 -->
+
+[Late 2024 Note: As of now, this page isn't being updated anymore]
 *May 2024*
 
 <span style="font-size:1.4em;"> **[BBC](https://www.bbc.com/news/health-69040592?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_format=link&at_link_id=E86DC804-172F-11EF-8120-93F706B6F3DB&at_link_origin=bbchealth&at_bbc_team=editorial&at_medium=social&at_campaign=Social_Flow&at_link_type=web_link&at_campaign_type=owned):** [Long Covid course is ‘exploiting people’, says ex-GB rower](https://www.bbc.com/news/health-69040592?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_format=link&at_link_id=E86DC804-172F-11EF-8120-93F706B6F3DB&at_link_origin=bbchealth&at_bbc_team=editorial&at_medium=social&at_campaign=Social_Flow&at_link_type=web_link&at_campaign_type=owned) </span>
@@ -67,4 +69,4 @@ title: ME in the News
 
 ---
 
-[Back to Mainpage](https://me-cfs.github.io), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
