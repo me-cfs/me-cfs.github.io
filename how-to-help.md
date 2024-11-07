@@ -109,4 +109,4 @@ Contact your politician/reprsentative and tell them about your struggles with ME
 
 ---
 
-[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Twitter](https://twitter.com/yann_mecfs)
+[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
