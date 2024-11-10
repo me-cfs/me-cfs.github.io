@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump officially sweeps all 7 swing states</title>
+      <link>https://www.axios.com/2024/11/10/trump-sweeps-seven-swing-states</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/10/trump-sweeps-seven-swing-states</guid>
+      <pubDate>Sun, 10 Nov 2024 11:00:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Après l'élection de Donald Trump, Gerhard Pfister plaide pour un rapprochement avec l'OTAN</title>
       <link>https://www.rts.ch/info/suisse/2024/article/apres-l-election-de-donald-trump-gerhard-pfister-plaide-pour-un-rapprochement-avec-l-otan-28690256.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1451,13 +1458,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/european-commissioner-hearings-portugal-maria-luis-albuquerque-financial-services/</guid>
       <pubDate>Wed, 06 Nov 2024 11:16:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump victory has sweeping climate change consequences</title>
-      <link>https://www.axios.com/2024/11/06/trump-victory-sweeping-climate-consequences</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/06/trump-victory-sweeping-climate-consequences</guid>
-      <pubDate>Wed, 06 Nov 2024 11:08:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
