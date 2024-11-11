@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Why Trump’s 2nd withdrawal from the Paris Agreement will be different					</title>
+      <link>https://www.politico.eu/article/donald-trump-paris-agreement-climate-sustainability-us-cop29-global-pact-warm/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/donald-trump-paris-agreement-climate-sustainability-us-cop29-global-pact-warm/</guid>
+      <pubDate>Mon, 11 Nov 2024 05:40:22 -0000</pubDate>
+    </item>
+    <item>
       <title>Netflix doc examines Elvis 1968 comeback special after divisive election</title>
       <link>https://www.axios.com/2024/11/11/elvis-presley-1968-comeback-special-netflix-film</link>
       <author>Axios</author>
@@ -1450,13 +1458,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/06/senate-democrats-ticket-splitters-trump</guid>
       <pubDate>Wed, 06 Nov 2024 19:46:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harris calls Trump to concede election loss</title>
-      <link>https://www.axios.com/2024/11/06/kamala-harris-concedes-election-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/06/kamala-harris-concedes-election-trump</guid>
-      <pubDate>Wed, 06 Nov 2024 18:46:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
