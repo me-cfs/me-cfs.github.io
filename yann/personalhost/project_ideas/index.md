@@ -4,3 +4,6 @@
 
 ## Hosting
 * Disability focused Threadiverse instance (name = spoonie.social?)
+
+## Social Media
+* [Communities to consider bringing to Threadiverse](https://me-cfs.github.io/yann/personalhost/project_ideas/threadiverse/communities/)
