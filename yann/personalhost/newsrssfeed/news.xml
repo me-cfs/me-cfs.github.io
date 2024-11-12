@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump and Netanyahu envoy met about Middle East wars</title>
+      <link>https://www.axios.com/2024/11/12/trump-israel-netanyahu-dermer-gaza-lebanon-iran</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/12/trump-israel-netanyahu-dermer-gaza-lebanon-iran</guid>
+      <pubDate>Tue, 12 Nov 2024 00:27:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump win prompts some women to reconsider having children</title>
       <link>https://www.axios.com/2024/11/11/women-having-children-trump-win</link>
       <author>Axios</author>
@@ -689,6 +696,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/08/trump-abbas-call-end-gaza-war</guid>
       <pubDate>Fri, 08 Nov 2024 21:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Democrats Walked Into a Trap Republicans Set for Them</title>
+      <link>https://www.nytimes.com/2024/11/08/opinion/republicans-democrats-trump.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/08/opinion/republicans-democrats-trump.html</guid>
+      <pubDate>Fri, 08 Nov 2024 21:38:00 +0000</pubDate>
     </item>
     <item>
       <title>Hindsight 2024: Pelosi questions Biden's endorsement of Harris</title>
@@ -1433,21 +1447,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/cgk1x7kv2kko#1</guid>
       <pubDate>Thu, 07 Nov 2024 06:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Who owns football? Al-Khelaifi, PSG and the motivations behind Qatar's World Cup</title>
-      <link>https://www.nytimes.com/athletic/5897306/2024/11/07/al-khelaifi-psg-watar-world-cup/</link>
-      <author>The Athletic Football</author>
-      <guid>https://www.nytimes.com/athletic/5897306/2024/11/07/al-khelaifi-psg-watar-world-cup/</guid>
-      <pubDate>Thu, 07 Nov 2024 05:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						The real winners of the US election: Europe’s populist right-wing wreckers 					</title>
-      <link>https://www.politico.eu/article/us-election-donald-trump-europe-populists-right-wing-viktor-orban-giorgia-meloni-karl-nehammer-war-in-ukraine/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/us-election-donald-trump-europe-populists-right-wing-viktor-orban-giorgia-meloni-karl-nehammer-war-in-ukraine/</guid>
-      <pubDate>Thu, 07 Nov 2024 04:46:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
