@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Wall Street bonuses are back</title>
+      <link>https://www.axios.com/2024/11/12/wall-street-bonus-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/12/wall-street-bonus-2024</guid>
+      <pubDate>Tue, 12 Nov 2024 11:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Americans stock up on emergency birth control, abortion pills ahead of second Trump presidency</title>
+      <link>https://thehill.com/policy/healthcare/4984997-emergency-contraception-abortion-pills-trump-reelection/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=4984997</guid>
+      <pubDate>Tue, 12 Nov 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Forte hausse pour les coûts des EMS et des soins à domicile en 2023</title>
       <link>https://www.rts.ch/info/suisse/2024/article/forte-hausse-pour-les-couts-des-ems-et-des-soins-a-domicile-en-2023-28692458.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1435,22 +1449,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/07/trump-project-2025-second-term-agenda</guid>
       <pubDate>Thu, 07 Nov 2024 13:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s Merz urges Scholz to drastically move up timeline for snap election					</title>
-      <link>https://www.politico.eu/article/germany-friedrich-merz-olaf-scholz-move-up-timeline-snap-election-collapse-coalition/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/germany-friedrich-merz-olaf-scholz-move-up-timeline-snap-election-collapse-coalition/</guid>
-      <pubDate>Thu, 07 Nov 2024 13:35:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Latvia’s commissioner hearing: Valdis Dombrovskis on economy					</title>
-      <link>https://www.politico.eu/article/european-commissioner-hearings-latvia-valdis-dombrovskis-economy/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/european-commissioner-hearings-latvia-valdis-dombrovskis-economy/</guid>
-      <pubDate>Thu, 07 Nov 2024 13:20:45 -0000</pubDate>
     </item>
   </channel>
 </rss>
