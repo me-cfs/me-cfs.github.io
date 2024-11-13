@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: Trump expected to shake up White House briefing room</title>
+      <link>https://www.axios.com/2024/11/13/trump-reporters-white-house-briefing-room</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/13/trump-reporters-white-house-briefing-room</guid>
+      <pubDate>Wed, 13 Nov 2024 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Democratic governors plot Trump resistance strategies</title>
       <link>https://www.axios.com/local/denver/2024/11/13/democrats-resistance-trump-governors</link>
       <author>Axios</author>
@@ -1442,13 +1449,6 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/c170n974091o#0</guid>
       <pubDate>Fri, 08 Nov 2024 16:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Elon Musk joined Trump's call with Zelensky</title>
-      <link>https://www.axios.com/2024/11/08/musk-trump-zelensky-ukraine-call</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/08/musk-trump-zelensky-ukraine-call</guid>
-      <pubDate>Fri, 08 Nov 2024 16:21:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
