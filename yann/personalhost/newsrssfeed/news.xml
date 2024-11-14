@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How the MAHA movement could shake up public health</title>
+      <link>https://www.axios.com/2024/11/14/maha-movement-federal-health-agencies</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/14/maha-movement-federal-health-agencies</guid>
+      <pubDate>Thu, 14 Nov 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump nominations revive his "island of misfit toys"</title>
       <link>https://www.axios.com/2024/11/14/trump-gaetz-cabinet-gabbard-hegseth</link>
       <author>Axios</author>
@@ -1445,13 +1452,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/11/10/us/child-influencer.html</guid>
       <pubDate>Sun, 10 Nov 2024 15:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu says he spoke three times with Trump in recent days</title>
-      <link>https://www.axios.com/2024/11/10/netanyahu-trump-three-calls-gaza</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/10/netanyahu-trump-three-calls-gaza</guid>
-      <pubDate>Sun, 10 Nov 2024 15:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
