@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How Trump Won, and How Harris Lost, the 2024 Presidential Election</title>
+      <link>https://www.nytimes.com/2024/11/07/us/politics/trump-win-election-harris.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/07/us/politics/trump-win-election-harris.html</guid>
+      <pubDate>Thu, 14 Nov 2024 16:19:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Fight this Trump administration on clean energy as hard as the last</title>
       <link>https://thehill.com/opinion/energy-environment/4988448-duke-energy-trump-coal/</link>
       <author>Climate Change - The Hill</author>
@@ -1441,13 +1448,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/germany-discounter-lidl-aldi-crush-fresh-produce-price-supplier/</guid>
       <pubDate>Mon, 11 Nov 2024 03:31:02 -0000</pubDate>
-    </item>
-    <item>
-      <title>Australian soldier awarded Victoria Cross for Vietnam bravery</title>
-      <link>https://www.bbc.com/news/articles/c5yx9j94z5ro</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c5yx9j94z5ro#0</guid>
-      <pubDate>Mon, 11 Nov 2024 03:20:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
