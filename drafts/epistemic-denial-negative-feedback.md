@@ -2,7 +2,8 @@
 [This page is a draft, not a finished article] 
 
 ## Primary Negative Feedback loop
-[image]
+![](https://me-cfs.github.io/files/img
+/file_cd7c7397-c47f-412b-936a-820218ccea98.png)
 ### Lack of Funding ->
 Only 3% the research funding of comparable illnesses. 
 ### Lack of Research ->
