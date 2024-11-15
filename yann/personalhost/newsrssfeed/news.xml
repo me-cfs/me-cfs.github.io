@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Texas may finally pass school choice in 2025</title>
+      <link>https://abcnews.go.com/538/texas-finally-pass-school-choice-2025/story?id=115865456</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/texas-finally-pass-school-choice-2025/story?id=115865456</guid>
+      <pubDate>Fri, 15 Nov 2024 15:39:11 -0000</pubDate>
+    </item>
+    <item>
       <title>Vers une votation sur un projet d’enfouissement des déchets nucléaires</title>
       <link>https://www.rts.ch/info/suisse/2024/article/vers-une-votation-sur-un-projet-d-enfouissement-des-dechets-nucleaires-28696224.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1437,13 +1444,6 @@
       <author>RTS Headlines</author>
       <guid>28692324</guid>
       <pubDate>Tue, 12 Nov 2024 12:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nouveaux licenciements dans le secteur des médias, CH Media biffe 34 postes</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/nouveaux-licenciements-dans-le-secteur-des-medias-ch-media-biffe-34-postes-28692576.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28692576</guid>
-      <pubDate>Tue, 12 Nov 2024 11:53:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
