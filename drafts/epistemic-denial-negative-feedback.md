@@ -18,9 +18,10 @@ Biomarkers, treatments etc.
 * Institutional Neglect causes Suicides
 * Many deaths and such in undiagnosed people not attributed to the disease. -> Statistics make disease look less bad then it is due to lack of visibility
 * People affected can’t even get out their beds. We are “millions missing” no one sees our struggle. 
+* Our disability is seldom recognised. We aren't legally disabled, we are "illegally disabled".
 
 ### Lack Funding
-* Most are denied disability benefits due to lack of institutional recognition which makes funding research privately a hard endeavour 
+* Most are denied disability benefits due to lack of institutional recognition which makes funding research privately a hard endeavour. 
 
 ## How can we break the loop?
 * Strong political will?
