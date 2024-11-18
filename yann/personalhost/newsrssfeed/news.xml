@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian senator censured for heckling King</title>
+      <link>https://www.bbc.com/news/articles/cz0memjm3jro</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/cz0memjm3jro#0</guid>
+      <pubDate>Mon, 18 Nov 2024 02:40:16 GMT</pubDate>
+    </item>
+    <item>
       <title>New Orleans shooting leaves 2 dead, 10 injured after parade</title>
       <link>https://www.axios.com/local/new-orleans/2024/11/18/mass-shooting-parade-second-line-nop</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/18/biden-climate-amazon-first-us-president-visit</guid>
       <pubDate>Mon, 18 Nov 2024 01:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biden Allows Ukraine to Strike Russia With Long-Range U.S. Missiles</title>
+      <link>https://www.nytimes.com/2024/11/17/us/politics/biden-ukraine-russia-atacms-missiles.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/17/us/politics/biden-ukraine-russia-atacms-missiles.html</guid>
+      <pubDate>Mon, 18 Nov 2024 00:16:39 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/13/john-thune-senate-republican-leader-election</guid>
       <pubDate>Wed, 13 Nov 2024 17:05:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>What’s Next for Kamala Harris? Here Are Six Options.</title>
-      <link>https://www.nytimes.com/2024/11/07/us/politics/kamala-harris-2028-run-for-president.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/07/us/politics/kamala-harris-2028-run-for-president.html</guid>
-      <pubDate>Wed, 13 Nov 2024 17:02:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump returns to White House, meets with Biden</title>
-      <link>https://www.axios.com/2024/11/13/trump-biden-white-house-meet</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/13/trump-biden-white-house-meet</guid>
-      <pubDate>Wed, 13 Nov 2024 17:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
