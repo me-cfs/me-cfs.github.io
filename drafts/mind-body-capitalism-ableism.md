@@ -30,30 +30,31 @@ We even push it into the most biologically proven and understood illnesses of al
 
 the illusion of control over your health is part of capitalism’s opium for the masses. The principles of our society crumble if you admit you can do everything right and still fail.
 
-## Case of MDD
-Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
-
-## Case of ME
-The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people for decades.
-
-
-
+## The Resulting Societal Misunderstanding and Isolation
 What doesn’t the world understand about *Chronic* in chronic disease. My friends and family are so sweet but I’m tired of getting told “get better soon” or “hope you’re recovering” etc.
 
-## The Case of Major Depressive Disorder
+## Case of MDD
 there are two quite different things that get called “depression”  
 
 There’s reactive depression, which a normal psychological reaction where you feel down and sad about life lose energy etc. It happens in relation to an event, ie. someone close dying etc.
 
 then there’s major depressive disorder (biological depression) which is a biological illness that while it can impact your mood isnt really based on that
 
-  
-
 It’s caused by a large mix of genetic factors and immune dysregulations which manifest as a sort of neurological disease,
 
 it creates differences in brain structure, impacts the HPA Axis, and Glutamate and GABA.
 
+Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
+
+## Case of ME
+The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people for decades.
+
+
+## The Case of Major Depressive Disorder
+
   
+
+
 
 alternative “mind body therpies”  could maybe help you but it wont change the biological illness if that’s what you have. Even therapy while it can help you cope with the illness it doesn’t make MDD go away.
 
