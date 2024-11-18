@@ -12,6 +12,11 @@ Obviously everything is mind body in that every sensation a human feels is inter
 
 And maybe in some cases it is. But based on the evidence we have, we can count as quite likely the phenomenon is much overblown, and we have no way to conclusively prove it is true in any one case. We don’t have a way to prove that right now, but medicine has taken it as a founding axiom, and it entrenches through every aspect of how patients are treated, despite it being unproven. 
 
+## The Relation to Medical Ableism
+It allows doctors to treat patients as “irrational agents” and lead to drastic measures such as forced institutionalisation. All that without any proof. It’s unethical as hell.
+
+Medicine has an unfortunate ego problem. The false assumption that when no biological abnormalities are found, physical symptoms must have a psychological cause. It has been proven wrong many times throughout history, but nothing has really changed.
+
 ## Capitalist Philosophy
 In a capitalist society, we’re taught everything is a meritocracy. You’re rewarded with riches if you contribute a lot, and if you give the bare minimum, you’ll get the bare minimum in return. This is the ideology we are conditioned with. (That’s how it’s atleast _supposed_ to work)
 
@@ -25,26 +30,13 @@ We even push it into the most biologically proven and understood illnesses of al
 
 the illusion of control over your health is part of capitalism’s opium for the masses. The principles of our society crumble if you admit you can do everything right and still fail.
 
-## The Relation to Medical Ableism
-It allows doctors to treat patients as “irrational agents” and lead to drastic measures such as forced institutionalisation. All that without any proof. It’s unethical as hell.
-
 ## Case of MDD
 Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
 
-  
-
-
-
-  
-
-
-
-
-
-
+## Case of ME
 The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people for decades.
 
-Medicine has an unfortunate ego problem. The false assumption that when no biological abnormalities are found, physical symptoms must have a psychological cause. It has been proven wrong many times throughout history, but nothing has really changed.
+
 
 What doesn’t the world understand about *Chronic* in chronic disease. My friends and family are so sweet but I’m tired of getting told “get better soon” or “hope you’re recovering” etc.
 
