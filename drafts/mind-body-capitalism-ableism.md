@@ -61,8 +61,10 @@ the stigma benefits the insurance companies and governments who have to spend le
 ## Case of ME
 The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people 
   
+## Addressing Counterarguments 
+older people “letting go” makes sense evolutionarily. When you’re no longer needed and can’t contribute it makes evolutionary sense and would increase survival of communities and surplus resources if the person goes away.
 
-
+Is there any data for the college kids thing? How do we know it isn’t that they get more sick when they go home (although maybe travel and exhaustion could contribute to increased exposure and weakened immune response) but that they tend to let themselves rest and fight the illness while at home vs while in school they tend to ignore it and go to class.
 
 
 
