@@ -1,4 +1,6 @@
 # The Mind Body Paradigm, An inevitable pseudoscientific extension to Capitalism and Ableism
+[This page is a draft, not a finished article] 
+
 The placebo effect is way overstated in popular culture, Cochrane review says it’s only been proven for pain and nausea, two things we can only measure through subjective reports, not for changing any sort of biological reality or disease mechanism.
 
 There is no way to conclusively prove something is “mind body”. It’s all a theory. It’s a popular one because
