@@ -4,6 +4,11 @@
 PEM is a major disease process and mechanism in itself. It is what makes ME stand out as a different clinical entity. 
 
 ## The Problems with Diagnosis based on Fatigue
+* non-specific symptoms
+### "Convienient" Psychological Mixups
+It’s far far more common for people to have ME and think they have depression than the other way around. According to large 2023 CDC survey >90% of ME cases are undiagnosed. 
+
+Meanwhile over 60-80+% of people who have ME says they were misdiagnosed with depression/burnout/anxiety/FND
 
 ## Current Situation
 The vast majority of funding ends up going into "fatigue" and not PEM. 
