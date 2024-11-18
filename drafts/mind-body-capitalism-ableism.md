@@ -44,35 +44,25 @@ It’s caused by a large mix of genetic factors and immune dysregulations which 
 
 it creates differences in brain structure, impacts the HPA Axis, and Glutamate and GABA.
 
-Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
-
-## Case of ME
-The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people for decades.
-
-
-## The Case of Major Depressive Disorder
-
-  
-
-
-
 alternative “mind body therpies”  could maybe help you but it wont change the biological illness if that’s what you have. Even therapy while it can help you cope with the illness it doesn’t make MDD go away.
-
-  
 
 In a lot of people MDD goes away with time and/or medication.
 
-  
-
-MDD is kinda in the same stage “CFS” is. There isn’t a biological test so the diagnosis criteria is kind of all over the place and not that accurate, and there aren’t any objective markers to base clinical trials on so doctors fool themselves into thinking therapy or exercise will cure it. 
-
-  
+MDD is kinda in the same stage “CFS” was in 2010. There isn’t a biological test so the diagnosis criteria is kind of all over the place and not that accurate, and there aren’t any objective markers to base clinical trials on so doctors fool themselves into thinking therapy or exercise will cure it. 
 
 And of course those things help you deal with the illness and the toll it takes but it doesn’t change the biological reality.
 
-  
+Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
 
 ME is far from the only illness which is kinda being thrown as an “it’s psychological” because we havent figured out a proper test yet
 
 the stigma benefits the insurance companies and governments who have to spend less money caring about it if it’s stigmatised and blamed on pagients and we say therapy and exercise will cure it and insurance companies and governments are basically the two only structures who fund research and get to decide guidelines and fully control the medical system so they kinda choose eveything
+
+## Case of ME
+The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people 
+  
+
+
+
+
 
