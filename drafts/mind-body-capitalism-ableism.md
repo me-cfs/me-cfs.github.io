@@ -23,6 +23,11 @@ If you look at it, the “BPS” view is deeply entrenched into capitalism. Sell
 
 We even push it into the most biologically proven and understood illnesses of all. We frame cancer as a fight, if someone recovers, it’s because they really wanted to live and pushed through it, if someone dies, it’s because they let go. That’s not why someone lived or died, the biological reality in their bodies is. Same thing as the whole conception of illness being a temporary thing in modern society. We are taught that illness is something that happens, and then you fight it and get better or you die, we aren’t told that illness is something that can happen, and then if you’re unlucky, it can last forever. Medicine prefers to label patients as “hysterical” and “deviant” than to face that reality.
 
+the illusion of control over your health is part of capitalism’s opium for the masses. The principles of our society crumble if you admit you can do everything right and still fail.
+
+## The Relation to Medical Ableism
+It allows doctors to treat patients as “irrational agents” and lead to drastic measures such as forced institutionalisation. All that without any proof. It’s unethical as hell.
+
 ## Case of MDD
 Even illnesses that we now know are biological like Major Depressive Disorder (this is different than reactive depression) and we have the same kind of proof therapy doesn’t help the biological basis, we still push therapy as a “cure”. Medicine is obsessed with this ableist “mind body” assumption, if you recovered it’s because you deserved it, but if you didn’t recover it’s because you didn’t try as many treatments, you wallowed in your illness, etc etc. 
 
@@ -35,9 +40,7 @@ Even illnesses that we now know are biological like Major Depressive Disorder (t
 
 
 
-It allows doctors to treat patients as “irrational agents” and lead to drastic measures such as forced institutionalisation. All that without any proof. It’s unethical as hell.
 
-the illusion of control over your health is part of capitalism’s opium for the masses. The principles of our society crumble if you admit you can do everything right and still fail.
 
 The idea that people with ME don’t want to get better is absurd. Yet it has been central to societal views about chronically ill people for decades.
 
