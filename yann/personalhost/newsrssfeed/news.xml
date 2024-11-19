@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les dépenses de santé dépasseront les 100 milliards de francs en 2025, selon les prévisions</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/les-depenses-de-sante-depasseront-les-100-milliards-de-francs-en-2025-selon-les-previsions-28699615.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28699615</guid>
+      <pubDate>Tue, 19 Nov 2024 12:01:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Mapped: Russia's war in Ukraine hits 1,000-day mark</title>
       <link>https://www.axios.com/2024/11/19/russia-ukraine-war-maps-territory-gained-1000-days</link>
       <author>Axios</author>
@@ -410,6 +417,13 @@
       <author>RTS Headlines</author>
       <guid>28698110</guid>
       <pubDate>Mon, 18 Nov 2024 10:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Healthy Are Sweet Potatoes?</title>
+      <link>https://www.nytimes.com/2024/11/18/well/eat/sweet-potatoes-health-benefits-recipes.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/18/well/eat/sweet-potatoes-health-benefits-recipes.html</guid>
+      <pubDate>Mon, 18 Nov 2024 10:01:05 +0000</pubDate>
     </item>
     <item>
       <title>"Le Conseil fédéral a épuisé sa marge de manoeuvre" pour aider l'industrie lourde en Suisse</title>
@@ -1435,20 +1449,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/voters-chose-trump/story?id=115827243</guid>
       <pubDate>Thu, 14 Nov 2024 22:30:14 -0000</pubDate>
-    </item>
-    <item>
-      <title>What to know about RFK Jr.'s positions on vaccines, drugs and health care</title>
-      <link>https://www.axios.com/2024/11/14/rfk-jr-positions-vaccines-drugs-health-care</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/14/rfk-jr-positions-vaccines-drugs-health-care</guid>
-      <pubDate>Thu, 14 Nov 2024 22:10:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk and Ramaswamy seek DOGE applicants via X</title>
-      <link>https://www.axios.com/2024/11/14/musk-doge-ramaswamy-resumes</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/14/musk-doge-ramaswamy-resumes</guid>
-      <pubDate>Thu, 14 Nov 2024 21:51:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
