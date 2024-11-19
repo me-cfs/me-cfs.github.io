@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Big cities' homicide rates keep falling, data show</title>
+      <link>https://www.axios.com/2024/11/19/cities-homicide-rates-fall-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/19/cities-homicide-rates-fall-2024</guid>
+      <pubDate>Tue, 19 Nov 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>What Musk is telling Trump on AI regulation is anyone's guess</title>
       <link>https://www.axios.com/2024/11/19/elon-musk-trump-ai-regulation-path</link>
       <author>Axios</author>
@@ -1442,13 +1449,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/14/trump-rfk-jr-white-house-appointment</guid>
       <pubDate>Thu, 14 Nov 2024 21:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump taps RFK Jr. to lead HHS</title>
-      <link>https://thehill.com/policy/healthcare/4991324-trump-nominates-kennedy-health-department/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=4991324</guid>
-      <pubDate>Thu, 14 Nov 2024 21:02:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
