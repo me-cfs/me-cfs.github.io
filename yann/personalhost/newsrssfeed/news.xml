@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>DOJ asks judge to force Google to sell Chrome in partial breakup proposal</title>
+      <link>https://www.axios.com/2024/11/21/google-chrome-justice-department-sell-call</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/21/google-chrome-justice-department-sell-call</guid>
+      <pubDate>Thu, 21 Nov 2024 05:04:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Australian among four dead in suspected Laos poisoning</title>
       <link>https://www.bbc.com/news/articles/c245243m3m9o</link>
       <author>BBC News Australia Mentions</author>
@@ -130,6 +137,13 @@
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/c4gz84jy9ypo#0</guid>
       <pubDate>Thu, 21 Nov 2024 00:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia CFO says demand for new Blackwell chip is "staggering"</title>
+      <link>https://www.axios.com/2024/11/20/nvidia-earnings-q3-ai-blackwell</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/20/nvidia-earnings-q3-ai-blackwell</guid>
+      <pubDate>Wed, 20 Nov 2024 23:55:29 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Vetoes Another U.N. Cease-Fire Resolution While Continuing To Arm Israel</title>
@@ -1444,20 +1458,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-france-mercosur-trade-deal-argentina-europe-g20-farmers-chile/</guid>
       <pubDate>Sun, 17 Nov 2024 20:46:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>Sunday Snapshot: Gaetz, Gabbard and government spending</title>
-      <link>https://www.axios.com/2024/11/17/trumps-cabinet-controversies-sunday-snapshot</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/17/trumps-cabinet-controversies-sunday-snapshot</guid>
-      <pubDate>Sun, 17 Nov 2024 20:29:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden For The First Time OKs Ukraine's Use Of U.S.-Supplied Long-Range Missiles In Russia</title>
-      <link>https://www.huffpost.com/entry/ap-lt-biden-ukraine-long-range-missiles-russia_n_673a3c9be4b0520a46775b04</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/ap-lt-biden-ukraine-long-range-missiles-russia_n_673a3c9be4b0520a46775b04</guid>
-      <pubDate>Sun, 17 Nov 2024 19:46:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
