@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How Hostility to Immigrants Will Hurt America’s Tech Sector</title>
+      <link>https://www.nytimes.com/2024/11/21/opinion/trump-immigration-technology.html</link>
+      <author>Krugman - NYT</author>
+      <guid>https://www.nytimes.com/2024/11/21/opinion/trump-immigration-technology.html</guid>
+      <pubDate>Fri, 22 Nov 2024 00:00:07 +0000</pubDate>
+    </item>
+    <item>
       <title>What effect does weighting have on polls' accuracy?</title>
       <link>https://abcnews.go.com/538/video/effect-weighting-polls-accuracy-116113736</link>
       <author>Fivethirtyeight</author>
@@ -52,6 +59,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5003450</guid>
       <pubDate>Thu, 21 Nov 2024 23:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jamie Raskin weighs bid to unseat top House Judiciary Democrat Jerry Nadler</title>
+      <link>https://www.axios.com/2024/11/21/jamie-raskin-jerry-nadler-judiciary-committee</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/21/jamie-raskin-jerry-nadler-judiciary-committee</guid>
+      <pubDate>Thu, 21 Nov 2024 22:59:56 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1436,21 +1450,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/local/new-orleans/2024/11/18/mass-shooting-parade-second-line-nop</guid>
       <pubDate>Mon, 18 Nov 2024 20:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Chinese officials bundle British journalists out of Starmer-Xi meeting					</title>
-      <link>https://www.politico.eu/article/keir-starmer-xi-jinping-uk-china-g20-meeting-brazil/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/keir-starmer-xi-jinping-uk-china-g20-meeting-brazil/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:12:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘Morning Joe’ Hosts Reveal Meeting With Trump at Mar-a-Lago</title>
-      <link>https://www.nytimes.com/2024/11/18/business/media/morning-joe-trump-mar-a-lago.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/18/business/media/morning-joe-trump-mar-a-lago.html</guid>
-      <pubDate>Mon, 18 Nov 2024 20:00:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
