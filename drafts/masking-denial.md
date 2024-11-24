@@ -1,4 +1,5 @@
 # Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations
+[This page is a draft, not a finished article]
 
 ## Manifestations of Denial
 Walter Isaacson, the author of Jobs' biography, said, "I think he felt if you ignore something you don't want to exist, you can have magical thinking. It had worked for him in the past and he would regret it." Sounds right out of lightning process playbook. Fuelled by denial.
