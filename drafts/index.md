@@ -5,6 +5,8 @@
 
 * [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://me-cfs.github.io/drafts/masking-denial.html)
 
+* [Medicine has lost it's scientific integrity](https://me-cfs.github.io/medicine-integrity.html)
+
 * [The Mind Body Paradigm, An inevitable pseudoscientific extension to Capitalism and Ableism](https://me-cfs.github.io/drafts/mind-body-capitalism-ableism.html)
 
 * [A misrepresented illness, More PEM, less Fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
