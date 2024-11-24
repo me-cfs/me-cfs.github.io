@@ -1,4 +1,5 @@
 # Explaining ME through Metaphors
+[This page is a draft, not a finished article]
 
 ME = living on an island surrounded by
 lava 
