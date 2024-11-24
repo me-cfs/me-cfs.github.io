@@ -19,3 +19,8 @@ I want to note this criticism does not apply to every researcher at all, and the
 But a non-negligeable chunk of these papers written by professionals don’t feel professional at all. It often feels like the authors either haven’t bothered to read up much about LC/ME and their views are partly formed by stereotypes, ME = Fatigue etc. Or they are entrenched in some personal belief system about ME or LC and see everything through their pet theory ignoring the fact their theory hasn’t been proven yet.
 
 https://www.s4me.info/threads/incompetence-and-“useless”-research-into-me-and-long-covid.41154/
+
+## About agreement more than innovation
+It feels like in practice peer review serves more as an enforcement of “bias” and pet theories of the current group of “experts” than it does to ensure quality.
+
+Science is about innovation, about challenging long-held beliefs. But at least in the medical field, peer review seems to hold that back.
