@@ -30,6 +30,19 @@ We even push it into the most biologically proven and understood illnesses of al
 
 the illusion of control over your health is part of capitalism’s opium for the masses. The principles of our society crumble if you admit you can do everything right and still fail.
 
+## Human Nature 
+we humans are storytellers. always have been. we dont tell things how they are, we tell things how we experience them. 
+
+same thing for illness, we love to add agency and frame it as a fight and such.
+
+snd the psychosomatic propaganda has come through to lots of us. In austria, I had a period where I felt better, coincidentally I stopped tracking my symptoms.
+
+I associated symptom tracking with suffering, and therefore concluded that it’s by stopping tracking and not paying attention to the symptoms anymore that I got better. So I started ignoring to them. Then I came home to switzerland and look what happened I had a massive permanent disabling event.
+
+I didn’t stop having symptoms because I stopped tracking them. I stopped feeling the need to track them because I stopped having them, that feels obvious now, but the psychosomatic things we are bombarded with make us second guess ourselves and everything.
+
+That’s why the few people who do recover often say they recovered because they started doing more or stopped thinking about what was happening. A lot of us with the disease do that, but most dont get better, it actually usually leads to pem and makes you worse. As long term GET results show. But people associate doing more with getting better (obviously) and the BPS stuff we are constantly pushed (it’s endless) mixes up the correlation and causation.
+
 ## The Resulting Societal Misunderstanding and Isolation
 What doesn’t the world understand about *Chronic* in chronic disease. My friends and family are so sweet but I’m tired of getting told “get better soon” or “hope you’re recovering” etc.
 
