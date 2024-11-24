@@ -10,3 +10,5 @@
 * [The Mind Body Paradigm, An inevitable pseudoscientific extension to Capitalism and Ableism](https://me-cfs.github.io/drafts/mind-body-capitalism-ableism.html)
 
 * [A misrepresented illness, More PEM, less Fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
+
+* [The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding](https://me-cfs.github.io/drafts/saphir-whorf-me.md)
