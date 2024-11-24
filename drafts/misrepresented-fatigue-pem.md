@@ -5,6 +5,8 @@ PEM is a major disease process and mechanism in itself. It is what makes ME stan
 
 ## The Problems with Diagnosis based on Fatigue
 * non-specific symptoms
+
+
 ### "Convienient" Psychological Mixups
 It’s far far more common for people to have ME and think they have depression than the other way around. According to large 2023 CDC survey >90% of ME cases are undiagnosed. 
 
