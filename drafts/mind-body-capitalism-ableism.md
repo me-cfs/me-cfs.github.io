@@ -43,6 +43,10 @@ I didn’t stop having symptoms because I stopped tracking them. I stopped feeli
 
 That’s why the few people who do recover often say they recovered because they started doing more or stopped thinking about what was happening. A lot of us with the disease do that, but most dont get better, it actually usually leads to pem and makes you worse. As long term GET results show. But people associate doing more with getting better (obviously) and the BPS stuff we are constantly pushed (it’s endless) mixes up the correlation and causation.
 
+There are millions of people with ME, and the ones who assign some sort of “mental aspect” to the story are the few voices that get pushed by things like the media (they love a good, i started thinking positively and cured myself story), by the BPS establishment, by companies such as the lightning process making millions off selling exercise and brain retraining courses, and pushed by a non-neglibeable amount people who recover (assuming they even had ME in the first place) who coincidentally are by far the loudest voices since this disease tends to take away the ability to share our experiences severe sufferers. These voices are tiny amounts like tens of thousands of voices that are massively amplified, compared to the millions of us with the disease.
+
+A century or two ago, these voices would be the ones saying god cured them, now we’ve changed god, to a god of individualism and consumerism which means people claim they did it themselves by buying alternative medicine products or “brain retraining” courses.
+
 ## The Resulting Societal Misunderstanding and Isolation
 What doesn’t the world understand about *Chronic* in chronic disease. My friends and family are so sweet but I’m tired of getting told “get better soon” or “hope you’re recovering” etc.
 
