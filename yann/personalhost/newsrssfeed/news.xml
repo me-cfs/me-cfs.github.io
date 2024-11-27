@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Who's winning the grand AI triathlon</title>
+      <link>https://www.axios.com/2024/11/27/ai-race-openai-google-meta-anthropic</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/27/ai-race-openai-google-meta-anthropic</guid>
+      <pubDate>Wed, 27 Nov 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Une alliance de communes romandes contre la fermeture d'offices postaux</title>
       <link>https://www.rts.ch/info/suisse/2024/article/une-alliance-de-communes-romandes-contre-la-fermeture-d-offices-postaux-28708327.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1448,13 +1455,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/23/trump-labor-secretary-lori-chavez-deremer</guid>
       <pubDate>Sat, 23 Nov 2024 00:54:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>&lt;img width="1600" height="1143" src="https://www.chappatte.com/sites/default/files/styles/original/public/2024-11/L241123c-small.jpg?itok=_jrC_oOC" class="attachment-medium size-medium wp-post-image" /&gt;</title>
-      <link>https://www.chappatte.com/fr/images/extension-des-autoroutes</link>
-      <author>Chapatte Dessins</author>
-      <guid>https://www.chappatte.com/node/22862</guid>
-      <pubDate>11/23/2024 00:10</pubDate>
     </item>
   </channel>
 </rss>
