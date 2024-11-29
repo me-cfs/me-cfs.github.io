@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Where Americans are starting new businesses</title>
+      <link>https://www.axios.com/2024/11/29/new-business-applications-map</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/29/new-business-applications-map</guid>
+      <pubDate>Fri, 29 Nov 2024 10:02:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Australia warns travellers against two Laos spirits</title>
       <link>https://www.bbc.com/news/articles/czxrv9x2gj7o</link>
       <author>BBC News Australia Mentions</author>
       <guid>https://www.bbc.com/news/articles/czxrv9x2gj7o#0</guid>
       <pubDate>Fri, 29 Nov 2024 07:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Australians think of the under-16 social media ban</title>
+      <link>https://www.bbc.com/news/videos/c8rl74nrjmpo</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/videos/c8rl74nrjmpo#1</guid>
+      <pubDate>Fri, 29 Nov 2024 07:04:51 GMT</pubDate>
     </item>
     <item>
       <title>Faute de moyens, les cantons se tournent vers des alternatives au placement d'enfants</title>
@@ -1441,20 +1455,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/11/23/us/ballots-election-boise-idaho.html</guid>
       <pubDate>Mon, 25 Nov 2024 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nations Meet To End Plastic Pollution With A Global Treaty. Here’s What To Know.</title>
-      <link>https://www.huffpost.com/entry/plastic-pollution-treaty-south-korea_n_6744823fe4b03c8ec6f93280</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/plastic-pollution-treaty-south-korea_n_6744823fe4b03c8ec6f93280</guid>
-      <pubDate>Mon, 25 Nov 2024 14:31:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking Trump's Cabinet: Who is joining team Trump 2.0</title>
-      <link>https://www.axios.com/2024/11/12/trump-cabinet-members-tracking</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/12/trump-cabinet-members-tracking</guid>
-      <pubDate>Mon, 25 Nov 2024 14:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
