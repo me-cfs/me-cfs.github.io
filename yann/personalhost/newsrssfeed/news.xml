@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump neuters the watchdogs</title>
+      <link>https://www.axios.com/2024/11/30/trump-staff-investigation-fbi-doj</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/11/30/trump-staff-investigation-fbi-doj</guid>
+      <pubDate>Sat, 30 Nov 2024 13:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Worried about climate change under Trump? Here’s what you can do. </title>
+      <link>https://thehill.com/opinion/energy-environment/5012127-trump-climate-uncertainty-methane/</link>
+      <author>Climate Change - The Hill</author>
+      <guid>https://thehill.com/?p=5012127</guid>
+      <pubDate>Sat, 30 Nov 2024 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Delivery in the city: The gig economy’s many faces					</title>
       <link>https://www.politico.eu/article/delivery-gig-economy-many-faces-uber-deliveroo/</link>
@@ -1439,20 +1453,6 @@
       <author>RTS Headlines</author>
       <guid>28706957</guid>
       <pubDate>Tue, 26 Nov 2024 10:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Algorithms Killing Creativity?</title>
-      <link>https://www.nytimes.com/2024/11/26/opinion/social-media-algorithm-creativity.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/26/opinion/social-media-algorithm-creativity.html</guid>
-      <pubDate>Tue, 26 Nov 2024 10:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Kevin McCarthy launches new tech and innovation institute</title>
-      <link>https://www.axios.com/2024/11/26/kevin-mccarthy-alfa-institute-ai-manufacturing-china</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/26/kevin-mccarthy-alfa-institute-ai-manufacturing-china</guid>
-      <pubDate>Tue, 26 Nov 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
