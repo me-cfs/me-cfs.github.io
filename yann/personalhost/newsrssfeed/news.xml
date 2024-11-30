@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Lake-Effect Storm Bringing Heavy Snow to Great Lakes Region</title>
+      <link>https://www.nytimes.com/2024/11/29/weather/lake-effect-snow-great-lakes-weather.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/29/weather/lake-effect-snow-great-lakes-weather.html</guid>
+      <pubDate>Sat, 30 Nov 2024 14:17:26 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Zelenskyy says NATO guarantees could end ‘hot phase’ of war					</title>
       <link>https://www.politico.eu/article/ikraine-president-volodymyr-zelenskyy-nato-guarantees-end-hot-phase-war-vladimir-putin-defense/</link>
@@ -1447,13 +1454,6 @@
       <author>RTS Headlines</author>
       <guid>28707051</guid>
       <pubDate>Tue, 26 Nov 2024 11:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Trump eyes AI czar to partner with Elon Musk for U.S. edge</title>
-      <link>https://www.axios.com/2024/11/26/trump-ai-czar-role-elon-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/26/trump-ai-czar-role-elon-musk</guid>
-      <pubDate>Tue, 26 Nov 2024 10:22:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
