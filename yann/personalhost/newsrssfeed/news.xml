@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>RFK Jr. nomination process heats up</title>
+      <link>https://www.axios.com/2024/12/02/rfk-nomination-hhs-criticisms-vulnerabilities</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/02/rfk-nomination-hhs-criticisms-vulnerabilities</guid>
+      <pubDate>Mon, 02 Dec 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Global heat wave hot spots outpace climate change trends</title>
+      <link>https://www.axios.com/2024/12/02/climate-change-heat-wave-hot-spots</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/02/climate-change-heat-wave-hot-spots</guid>
+      <pubDate>Mon, 02 Dec 2024 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Jordan Bardella threatens to bring down French government over budget					</title>
       <link>https://www.politico.eu/article/jordan-bardella-threatens-bring-down-french-government-security-budget/</link>
@@ -41,6 +55,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/powerlessness-germany-next-chancellor-friedrich-merz-olaf-scholz/</guid>
       <pubDate>Mon, 02 Dec 2024 04:35:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>Barstool Conservatism, Revisited</title>
+      <link>https://www.nytimes.com/2024/12/01/opinion/trump-barstool-young-men.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/01/opinion/trump-barstool-young-men.html</guid>
+      <pubDate>Mon, 02 Dec 2024 04:10:11 +0000</pubDate>
     </item>
     <item>
       <title>Trump reacts to Biden pardoning son Hunter by raising Jan. 6 rioters' cases</title>
@@ -1434,27 +1455,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5011226</guid>
       <pubDate>Wed, 27 Nov 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rencontre au sommet à Berne pour discuter des relations entre la Suisse et l'UE</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/rencontre-au-sommet-a-berne-pour-discuter-des-relations-entre-la-suisse-et-l-ue-28708608.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28708608</guid>
-      <pubDate>Wed, 27 Nov 2024 10:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Australia Moves Step Closer To Banning Young Children From Social Media</title>
-      <link>https://www.huffpost.com/entry/australia-social-media_n_6746e730e4b09fd0504a5f78</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/australia-social-media_n_6746e730e4b09fd0504a5f78</guid>
-      <pubDate>Wed, 27 Nov 2024 10:49:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Time to Talk About Your Advance Care Directive</title>
-      <link>https://www.nytimes.com/2024/11/27/well/advance-care-directive-living-will-dnr.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/27/well/advance-care-directive-living-will-dnr.html</guid>
-      <pubDate>Wed, 27 Nov 2024 10:00:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
