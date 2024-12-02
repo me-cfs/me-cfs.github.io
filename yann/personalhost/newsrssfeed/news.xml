@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>House COVID panel releases final report: 3 key takeaways</title>
+      <link>https://thehill.com/policy/healthcare/5018188-house-select-subcommittee-covid-pandemic-report/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=5018188</guid>
+      <pubDate>Mon, 02 Dec 2024 21:01:44 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						The French prime minister will likely fall this week. So then what? 					</title>
       <link>https://www.politico.eu/article/france-prime-minister-michel-barnier-is-facing-the-chop-what-happens-next-crisis-emmanuel-macron/</link>
@@ -1447,13 +1454,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/28/trump-mexico-president-migration</guid>
       <pubDate>Thu, 28 Nov 2024 01:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>In photos: Native American Heritage Month</title>
-      <link>https://www.axios.com/2024/11/28/in-photos-native-american-heritage-month</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/28/in-photos-native-american-heritage-month</guid>
-      <pubDate>Thu, 28 Nov 2024 01:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
