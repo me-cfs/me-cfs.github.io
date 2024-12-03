@@ -7,6 +7,8 @@
 
 * [Explaining ME through metaphors](https://me-cfs.github.io/drafts/me-metaphors.html)
 
+* [Ignoring and psychologising us kills us](https://me-cfs.github.io/drafts/ignorance-kills.html)
+
 * [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://me-cfs.github.io/drafts/masking-denial.html)
 
 * [Medicine has lost it's scientific integrity](https://me-cfs.github.io/drafts/medicine-integrity.html)
