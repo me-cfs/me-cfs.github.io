@@ -11,4 +11,6 @@
 
 * [A misrepresented illness, More PEM, less Fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
 
+* [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical”](https://me-cfs.github.io/bottle-functional-hysterical)
+
 * [The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding](https://me-cfs.github.io/drafts/saphir-whorf-me.html)
