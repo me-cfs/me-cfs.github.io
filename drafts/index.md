@@ -1,5 +1,5 @@
 # Uploaded Drafts
-* [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/disabled-secondary-minority.html)
+* [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/drafts/disabled-secondary-minority.html)
 
 * [Epistemic Denial as a Negative Feedback Loop: The case of ME](https://me-cfs.github.io/drafts/epistemic-denial-negative-feedback.html)
 
