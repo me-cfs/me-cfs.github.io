@@ -16,6 +16,7 @@ NHS calling ME “chronic tiredness syndrome”. What’s next, persistent yawni
 Media uses “chronic fatigue” without the syndrome
 
 See blog post: A misrepresented illness, more PEM less fatigue
+
 ## Doublespeak
 “Holistic” meaning “psychological” and “biopsychosocial” meaning “psychosocial” is the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
 
@@ -24,6 +25,8 @@ I think this was said in another thread, but it’s “shrödinger’s somatic s
 “BPS” when used by psychosomatisers is such an Orwellian twisting of words.
 
 There’s nothing “bio” about their beliefs, it’s all psychosocial, but by having “bio” in the name, they claim to be the “moderate” middle ground while the “extremist” “activists” claim the illness is entirely biological.
+
+### Functional
 
 ## Symptoms as subjective complaints
 Reminds me of Nath that keeps on saying pwME are “complaining” about X, Y, Z instead of a more obvious “suffering from” or “experiencing”.
