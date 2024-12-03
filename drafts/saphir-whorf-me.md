@@ -25,7 +25,7 @@ There’s nothing “bio” about their beliefs, it’s all psychosocial, but by
 ### Functional
 Functional
 
-Specific Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/bottle-functional-hysterical)
+Specific Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
 ## Symptoms as subjective complaints
 Reminds me of Nath that keeps on saying pwME are “complaining” about X, Y, Z instead of a more obvious “suffering from” or “experiencing”.
