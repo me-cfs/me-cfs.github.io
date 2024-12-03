@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>South Korean president declares martial law in shock move</title>
+      <link>https://www.axios.com/2024/12/03/south-korea-emergency-martial-law</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/03/south-korea-emergency-martial-law</guid>
+      <pubDate>Tue, 03 Dec 2024 14:58:19 +0000</pubDate>
+    </item>
+    <item>
       <title>South Korean President Declares Emergency Martial Law, Accusing Opposition Of Anti-State Activities</title>
       <link>https://www.huffpost.com/entry/bc-as-south-korea-martial-law-yoon-suk-yeol_n_674f136de4b0f19c9d5aa004</link>
       <author>WorldPost (Huffington)</author>
@@ -1446,13 +1453,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ylva-johansson-magnus-brunner-commission-migration/</guid>
       <pubDate>Thu, 28 Nov 2024 18:12:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>Israel launches airstrike on Hezbollah for first time since ceasefire</title>
-      <link>https://www.axios.com/2024/11/28/israel-hezebollah-lebanon-ceasefire-violation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/28/israel-hezebollah-lebanon-ceasefire-violation</guid>
-      <pubDate>Thu, 28 Nov 2024 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
