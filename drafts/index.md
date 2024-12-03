@@ -1,4 +1,6 @@
 # Uploaded Drafts
+* [Anarchism as a possible answer to the paradigm of Disability](https://me-cfs.github.io/drafts/anarchism-disability.md)
+
 * [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/drafts/disabled-secondary-minority.html)
 
 * [Epistemic Denial as a Negative Feedback Loop: The case of ME](https://me-cfs.github.io/drafts/epistemic-denial-negative-feedback.html)
