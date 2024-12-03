@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Big climate questions arise at top UN court hearing</title>
+      <link>https://www.axios.com/2024/12/03/climate-un-international-court-justice-hearing</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/03/climate-un-international-court-justice-hearing</guid>
+      <pubDate>Tue, 03 Dec 2024 13:31:41 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						European countries give farmers more freedom to shoot wolves					</title>
       <link>https://www.politico.eu/article/europe-wolf-protection-downgrade-commission-von-der-leyen-win/</link>
@@ -1446,13 +1453,6 @@
       <author>ME/LC News</author>
       <guid>https://www.thecanary.co/long-read/2024/11/28/severe-me-cfs-new-zealand/</guid>
       <pubDate>Thu, 28 Nov 2024 17:50:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Airline refund rules could be on Trump's chopping block</title>
-      <link>https://www.axios.com/2024/11/28/trump-airline-refunds</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/28/trump-airline-refunds</guid>
-      <pubDate>Thu, 28 Nov 2024 17:39:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
