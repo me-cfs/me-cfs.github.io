@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why reporting matters</title>
+      <link>https://www.axios.com/2024/12/03/news-reporting-elon-musk-x-media</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/03/news-reporting-elon-musk-x-media</guid>
+      <pubDate>Tue, 03 Dec 2024 02:25:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Senate Republicans giving Kash Patel a chance</title>
       <link>https://www.axios.com/2024/12/03/senate-republicans-kash-patel-fbi-confirmation</link>
       <author>Axios</author>
@@ -1442,13 +1449,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/uk-parliament-divided-assisted-dying/</guid>
       <pubDate>Thu, 28 Nov 2024 09:26:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Russia Strikes Cities Across Ukraine, Targeting The Country's Energy Infrastructure</title>
-      <link>https://www.huffpost.com/entry/russia-energy-infrastructure-attacks-ukraine_n_67481cd9e4b03b6cea3b7ac9</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/russia-energy-infrastructure-attacks-ukraine_n_67481cd9e4b03b6cea3b7ac9</guid>
-      <pubDate>Thu, 28 Nov 2024 08:36:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
