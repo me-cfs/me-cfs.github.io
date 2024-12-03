@@ -1,13 +1,9 @@
 # The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding
 [draft article] 
 
-* Functional
+"healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc.
 
-Specific Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/bottle-functional-hysterical)
-
-“healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc.
-
-“militant” hostile defensiveness
+“militant” hostile defensiveness "activists"
 ## It’s all tiredness
 NHS calling ME “chronic tiredness syndrome”. What’s next, persistent yawning delirium?
 
@@ -27,6 +23,9 @@ I think this was said in another thread, but it’s “shrödinger’s somatic s
 There’s nothing “bio” about their beliefs, it’s all psychosocial, but by having “bio” in the name, they claim to be the “moderate” middle ground while the “extremist” “activists” claim the illness is entirely biological.
 
 ### Functional
+Functional
+
+Specific Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/bottle-functional-hysterical)
 
 ## Symptoms as subjective complaints
 Reminds me of Nath that keeps on saying pwME are “complaining” about X, Y, Z instead of a more obvious “suffering from” or “experiencing”.
