@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's shadow presidency clouds Biden's final weeks</title>
+      <link>https://www.axios.com/2024/12/04/trump-shadow-presidency-biden-transition</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/trump-shadow-presidency-biden-transition</guid>
+      <pubDate>Wed, 04 Dec 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hunter pardon leaves Biden facing a massive clemency wishlist from Congress</title>
+      <link>https://www.axios.com/2024/12/04/biden-hunter-pardons-clemency-assange-snowden</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/biden-hunter-pardons-clemency-assange-snowden</guid>
+      <pubDate>Wed, 04 Dec 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Amazon announces new foundation models and homegrown chips</title>
       <link>https://www.axios.com/2024/12/04/amazon-apple-nova-trainium-ai-reinvent</link>
       <author>Axios</author>
@@ -1436,21 +1450,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/eu-wont-surrender-oil-states-plastic-treaty-negotiations-oil-gas-countries-pollution-busan/</guid>
       <pubDate>Sat, 30 Nov 2024 11:31:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>Two years on, ChatGPT has yet to change our lives</title>
-      <link>https://www.axios.com/2024/11/30/chatgpt-open-ai-health-education-relationships</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/30/chatgpt-open-ai-health-education-relationships</guid>
-      <pubDate>Sat, 30 Nov 2024 11:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Belgium’s Romanians poised to propel the far right into power					</title>
-      <link>https://www.politico.eu/article/belgium-romanian-citizens-propel-far-right-power-calin-georgescu-romania-presidential-election/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/belgium-romanian-citizens-propel-far-right-power-calin-georgescu-romania-presidential-election/</guid>
-      <pubDate>Sat, 30 Nov 2024 10:46:29 -0000</pubDate>
     </item>
   </channel>
 </rss>
