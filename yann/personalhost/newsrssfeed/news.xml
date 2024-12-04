@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>UnitedHealthcare CEO fatally shot outside Manhattan hotel: reports</title>
+      <link>https://thehill.com/policy/healthcare/5021701-unitedhealthcare-ceo-brian-thompson-fatally-shot-manhattan/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=5021701</guid>
+      <pubDate>Wed, 04 Dec 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
       <title>UnitedHealthcare CEO Brian Thompson reportedly shot and killed</title>
       <link>https://www.axios.com/2024/12/04/unitedhealthcare-ceo-brian-thompson-killed-shot</link>
       <author>Axios</author>
@@ -81,6 +88,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/04/amazon-apple-nova-trainium-ai-reinvent</guid>
       <pubDate>Wed, 04 Dec 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>California Democrat Flips Seat in the Last House Race to Be Called</title>
+      <link>https://www.nytimes.com/2024/12/04/us/politics/california-house-gray-duarte.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/04/us/politics/california-house-gray-duarte.html</guid>
+      <pubDate>Wed, 04 Dec 2024 06:59:32 +0000</pubDate>
     </item>
     <item>
       <title>Reports: Kash Patel, Trump's pick to lead FBI, targeted in Iranian hack</title>
@@ -1433,20 +1447,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/sinn-feins-mcdonald-tops-dublin-vote-followed-by-a-gangland-boss/</guid>
       <pubDate>Sat, 30 Nov 2024 18:33:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Johnson condemns "insane and dangerous" bomb threats targeting Democrats</title>
-      <link>https://www.axios.com/2024/11/30/mike-johnson-condemns-bomb-threats-democrats</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/30/mike-johnson-condemns-bomb-threats-democrats</guid>
-      <pubDate>Sat, 30 Nov 2024 17:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Hamas video: U.S. hostage held in Gaza calls on Trump to push a deal</title>
-      <link>https://www.axios.com/2024/11/30/hamas-video-us-hostage-gaza-trump-deal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/30/hamas-video-us-hostage-gaza-trump-deal</guid>
-      <pubDate>Sat, 30 Nov 2024 17:06:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
