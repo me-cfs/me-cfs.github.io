@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Why Was Martial Law Declared in South Korea?</title>
+      <link>https://www.nytimes.com/2024/12/03/world/asia/what-is-martial-law-south-korea.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/03/world/asia/what-is-martial-law-south-korea.html</guid>
+      <pubDate>Wed, 04 Dec 2024 03:53:15 +0000</pubDate>
+    </item>
+    <item>
       <title>What Happened In South Korea?</title>
       <link>https://www.huffpost.com/entry/what-happened-south-korea_n_674fbd27e4b0617b1e772e9d</link>
       <author>WorldPost (Huffington)</author>
@@ -423,6 +430,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/european-commission-ngos-lobbying-environmental-advocacy-green-funds-life-program/</guid>
       <pubDate>Tue, 03 Dec 2024 03:17:46 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Land That Allowed Ken Burns to Raise the Dead</title>
+      <link>https://www.nytimes.com/2024/11/27/realestate/ken-burns-new-hampshire-home.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/27/realestate/ken-burns-new-hampshire-home.html</guid>
+      <pubDate>Tue, 03 Dec 2024 02:50:26 +0000</pubDate>
     </item>
     <item>
       <title>Why reporting matters</title>
@@ -1434,20 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/29/trump-gaza-ceasefire-hostage-deal</guid>
       <pubDate>Fri, 29 Nov 2024 21:15:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>"We'll be back too": Brazil's Bolsonaro revels in Trump's win</title>
-      <link>https://www.axios.com/2024/11/29/jair-bolsonaro-trump-comeback</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/29/jair-bolsonaro-trump-comeback</guid>
-      <pubDate>Fri, 29 Nov 2024 20:59:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Disavowed Project 2025 During the Campaign. Not Anymore.</title>
-      <link>https://www.nytimes.com/2024/11/29/us/politics/trump-project-2025.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/29/us/politics/trump-project-2025.html</guid>
-      <pubDate>Fri, 29 Nov 2024 20:57:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
