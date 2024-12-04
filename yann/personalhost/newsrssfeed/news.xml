@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump picks crypto advocate Paul Atkins for SEC chairman</title>
+      <link>https://www.axios.com/2024/12/04/paul-atkins-trump-sec-crypto</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/paul-atkins-trump-sec-crypto</guid>
+      <pubDate>Wed, 04 Dec 2024 18:10:22 +0000</pubDate>
+    </item>
+    <item>
       <title>The Switch Up — Activists say AIDS-free generation on the horizon</title>
       <link>https://thehill.com/policy/healthcare/5022061-the-switch-up-activists-aids-free-generation/</link>
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5022061</guid>
       <pubDate>Wed, 04 Dec 2024 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supreme Court seems likely to uphold ban on gender-affirming care</title>
+      <link>https://www.axios.com/2024/12/04/supreme-court-trans-health-care</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/supreme-court-trans-health-care</guid>
+      <pubDate>Wed, 04 Dec 2024 17:42:21 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -380,6 +394,13 @@
       <author>WorldPost (Huffington)</author>
       <guid>https://www.huffpost.com/entry/namibia-first-female-leader_n_674f603ce4b0617b1e771266</guid>
       <pubDate>Tue, 03 Dec 2024 20:30:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Best Movies of 2024</title>
+      <link>https://www.nytimes.com/2024/11/30/movies/best-movies-2024.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/11/30/movies/best-movies-2024.html</guid>
+      <pubDate>Tue, 03 Dec 2024 20:16:37 +0000</pubDate>
     </item>
     <item>
       <title>Democrats push back on Republican COVID-19 report</title>
@@ -1426,27 +1447,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/01/trump-fbi-christopher-wray-doj</guid>
       <pubDate>Sun, 01 Dec 2024 00:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's tariffs could raise the prices of these everyday goods</title>
-      <link>https://www.axios.com/2024/11/30/trump-tariffs-raise-prices-goods</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/11/30/trump-tariffs-raise-prices-goods</guid>
-      <pubDate>Sat, 30 Nov 2024 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Names Charles Kushner as Pick for Ambassador to France</title>
-      <link>https://www.nytimes.com/2024/11/30/us/politics/trump-charles-kushner-france-ambassador.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/30/us/politics/trump-charles-kushner-france-ambassador.html</guid>
-      <pubDate>Sat, 30 Nov 2024 22:44:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>After Entering Aleppo, Syrian Insurgents Advance To Nearby Province In Major Assad Setback</title>
-      <link>https://www.huffpost.com/entry/bc-ml-syria-opposition_n_674b8061e4b0b780ded50ae3</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/bc-ml-syria-opposition_n_674b8061e4b0b780ded50ae3</guid>
-      <pubDate>Sat, 30 Nov 2024 22:08:18 -0000</pubDate>
     </item>
   </channel>
 </rss>
