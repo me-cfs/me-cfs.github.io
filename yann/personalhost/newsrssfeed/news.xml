@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Amazon announces new foundation models and homegrown chips</title>
+      <link>https://www.axios.com/2024/12/04/amazon-apple-nova-trainium-ai-reinvent</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/amazon-apple-nova-trainium-ai-reinvent</guid>
+      <pubDate>Wed, 04 Dec 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Reports: Kash Patel, Trump's pick to lead FBI, targeted in Iranian hack</title>
       <link>https://www.axios.com/2024/12/04/kash-patel-trump-pick-fbi-director-iran-hack</link>
       <author>Axios</author>
@@ -1444,13 +1451,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/belgium-romanian-citizens-propel-far-right-power-calin-georgescu-romania-presidential-election/</guid>
       <pubDate>Sat, 30 Nov 2024 10:46:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>Dans sa recherche effrénée de recettes, la France rompt un nouvel accord avec la Suisse</title>
-      <link>https://www.rts.ch/info/monde/2024/article/dans-sa-recherche-effrenee-de-recettes-la-france-rompt-un-nouvel-accord-avec-la-suisse-28711960.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28711960</guid>
-      <pubDate>Sat, 30 Nov 2024 10:08:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
