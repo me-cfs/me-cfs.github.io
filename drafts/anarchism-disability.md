@@ -33,7 +33,15 @@ in US (where companies rule) the biggest problem in research is companies paying
 while in Europe, main problem with ME research is its dominated by a group of psychiatrists, who are heavily supported by the state, for example Wessely (the dude behind saying ME/CFS is psychological) was made a Knight, is l cv is on the board of directors of the NHS, and is head og the government’s science media center.
 
 In europe, where government is stronger than companies biggest problem is government promoting this research that pretends ME is not real, so they dont have to pay benefits
+It tends to actually be a worse problen in europe than the US.
 
+In the US the problem is more that doctors tend to diagnose you with something you don’t have and prescribe drugs that won’t help you (pharmaceuticals thanks).
+
+In europe, where the government strongly controls the medical system, the government has promoted rules that minimise the costs of disability benefits and delegitimise disabling illness as “hysteria” or whatever, so that the government doesn’t have to pay as much disability benefits.
+
+Take the UK for example, Sir Simon Wessely, who based his career on claiming ME (and now Long COVID) are all in the mind, which was disproven later on. Where is he now? He was knighted by the Queen, serves on the board of directors of the NHS, leads the government’s Science Media Center. Oh and he also earns massive commissions on being a consultant for disability insurance companies. 
+
+His famous quote, which is linked to him advising UK parliament in the 90s, is “[disability] Benefits will actually make these patients worse” (because he believed they were malingerers). A quote that probably led to hundreds of deaths of people with ME starving to death.
 So in a sense, capitalism and statism are both inherently oppressive to us.
 
 ## But any better under anarchism?
