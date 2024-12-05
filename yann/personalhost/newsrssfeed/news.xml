@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Tsunami warning issued for Northern California after 7.0 earthquake off coast</title>
+      <link>https://www.axios.com/2024/12/05/tsunami-warning-california-san-fran-earthquake</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/05/tsunami-warning-california-san-fran-earthquake</guid>
+      <pubDate>Thu, 05 Dec 2024 19:14:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Israeli intelligence sees growing chance Assad's forces collapse in Syria</title>
       <link>https://www.axios.com/2024/12/05/assad-forces-collapse-rebel-advance-damascus</link>
       <author>Axios</author>
@@ -45,6 +52,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/05/trump-rfk-jr-pfizer-lilly</guid>
       <pubDate>Thu, 05 Dec 2024 16:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shooting of Brian Thompson, UnitedHealthcare CEO, in NYC: What We Know</title>
+      <link>https://www.nytimes.com/2024/12/04/nyregion/unitedhealthcare-brian-thompson-shooting.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/04/nyregion/unitedhealthcare-brian-thompson-shooting.html</guid>
+      <pubDate>Thu, 05 Dec 2024 16:37:21 +0000</pubDate>
     </item>
     <item>
       <title>Le gouvernement français ne réduira pas l'indemnité chômage des travailleurs frontaliers en Suisse</title>
@@ -1425,21 +1439,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=4468</guid>
       <pubDate>Mon, 02 Dec 2024 16:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian police seize $500m of cocaine after boat breaks down</title>
-      <link>https://www.bbc.com/news/articles/cn4x78eemmpo</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/cn4x78eemmpo#0</guid>
-      <pubDate>Mon, 02 Dec 2024 16:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						French government faces collapse in no-confidence vote					</title>
-      <link>https://www.politico.eu/article/french-government-set-to-face-no-confidence-vote/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/french-government-set-to-face-no-confidence-vote/</guid>
-      <pubDate>Mon, 02 Dec 2024 16:12:02 -0000</pubDate>
     </item>
   </channel>
 </rss>
