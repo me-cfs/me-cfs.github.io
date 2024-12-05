@@ -28,7 +28,7 @@ module.exports = [
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
     off: false,
     urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how'],
+    exclusionWords: ['boxing', 'how', '?'],
   },
   { 
     name: 'Chapatte Dessins', 
