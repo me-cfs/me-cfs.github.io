@@ -1,20 +1,17 @@
 # The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding
 [draft article] 
 
-"healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc.
-
-“militant” hostile defensiveness "activists"
 ## It’s all tiredness
 NHS calling ME “chronic tiredness syndrome”. What’s next, persistent yawning delirium?
 
-* Tired
-
 Media uses “chronic fatigue” without the syndrome
 
-See blog post: A misrepresented illness, more PEM less fatigue
+See blog post: [A misrepresented illness, more PEM less fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
 
 ## Doublespeak
 “Holistic” meaning “psychological” and “biopsychosocial” meaning “psychosocial” is the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
+
+"healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc.
 
 I think this was said in another thread, but it’s “shrödinger’s somatic symptom”. When it is used between professionals, it nearly always means psychogenic, but when a patient asks what it means, the doctor will say physical.
 
@@ -50,6 +47,16 @@ I was emailing a researcher recently and asked them what they think the odds are
 
 Why are we focused on the symptoms, and not the disability? (and the phenomenon of PEM, which seems to be the driving factor behind the disability)…
 
+I’ve been thinking about this more, and perhaps this is pushed by pharmaceuticals.
+
+It’s much more profitable to have to “treat” every single symptom a chronic illness patient has with drugs, than to find a single drug which gets down to the root cause and treats the illness.
+
+Symptomatic treatment is like best case scenario for pharmaceutical profits. You have drugs that don’t fix the illness (so lifetime customers) and your drugs are generic and treat only symptoms, you you have a large and diverse market.
+
+## Patients as Activists
+Painting Patients as untrustworthy, therefore our agency to define our experiences is removed.
+
+“militant” hostile defensiveness "activists"
 
 
 
