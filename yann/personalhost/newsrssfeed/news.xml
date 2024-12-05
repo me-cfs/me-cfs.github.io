@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Behind the Curtain: Biden's haunting twin sins</title>
+      <link>https://www.axios.com/2024/12/05/joe-biden-pardon-hunter-biden-presidential-library</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/05/joe-biden-pardon-hunter-biden-presidential-library</guid>
+      <pubDate>Thu, 05 Dec 2024 10:58:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beat Jans: "La Suisse ne peut résoudre à elle seule le défi de la migration et de l'asile"</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/beat-jans-la-suisse-ne-peut-resoudre-a-elle-seule-le-defi-de-la-migration-et-de-l-asile-28717342.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28717342</guid>
+      <pubDate>Thu, 05 Dec 2024 10:56:01 GMT</pubDate>
+    </item>
+    <item>
       <title>UnitedHealth CEO's killing unleashes social media rage against insurers</title>
       <link>https://www.axios.com/2024/12/05/unitedhealth-brian-thompson-killing-health-insurers-social-media</link>
       <author>Axios</author>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/02/chatgpt-openai-user-data-training</guid>
       <pubDate>Mon, 02 Dec 2024 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Et si la Suisse introduisait des limites d’âges sur les réseaux sociaux?</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/et-si-la-suisse-introduisait-des-limites-d-ages-sur-les-reseaux-sociaux-28711714.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28711714</guid>
-      <pubDate>Mon, 02 Dec 2024 07:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joe Biden pardons Hunter Biden</title>
-      <link>https://www.axios.com/2024/12/02/joe-biden-pardons-hunter-biden</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/02/joe-biden-pardons-hunter-biden</guid>
-      <pubDate>Mon, 02 Dec 2024 05:31:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
