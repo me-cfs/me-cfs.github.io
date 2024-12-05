@@ -19,4 +19,6 @@
 
 * [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical”](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
+* [Reasons to be Optimistic about ME Research](https://me-cfs.github.io/drafts/optimistic-me-research.html)
+
 * [The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding](https://me-cfs.github.io/drafts/saphir-whorf-me.html)
