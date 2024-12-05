@@ -118,8 +118,8 @@ module.exports = [
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
   },
   {
-    name: 'Euronews France -- Le plus grand titre',
-    url: 'https://politepol.com/fd/LcHcJqeI4RKt.xml',
-    off: true,
+    name: 'Bellingcat',
+    url: 'https://www.bellingcat.com/feed/',
+    off: false,
   },
 ];
