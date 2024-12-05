@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Bitcoin hits $100,000</title>
+      <link>https://www.axios.com/2024/12/05/bitcoin-100000-crypto-all-time-high</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/05/bitcoin-100000-crypto-all-time-high</guid>
+      <pubDate>Thu, 05 Dec 2024 02:41:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Memphis police discriminated against Black people and used excessive force, DOJ report finds</title>
       <link>https://www.axios.com/2024/12/05/memphis-police-justice-department-report-tyre-nichols</link>
       <author>Axios</author>
@@ -101,6 +108,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/04/desantis-hegseth-defense-secretary-trump</guid>
       <pubDate>Wed, 04 Dec 2024 21:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least 8 U.S. telcos compromised in ongoing Chinese espionage hacks</title>
+      <link>https://www.axios.com/2024/12/04/china-telecom-hacks-white-house-statement</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/china-telecom-hacks-white-house-statement</guid>
+      <pubDate>Wed, 04 Dec 2024 21:34:38 +0000</pubDate>
     </item>
     <item>
       <title>Vivek Ramaswamy to Axios: DOGE not planning cuts to Social Security, Medicare</title>
@@ -1428,21 +1442,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/exit-polls-romania-social-democrats-momentum-presidential-election-pd-marcel-ciolacu/</guid>
       <pubDate>Sun, 01 Dec 2024 20:28:02 -0000</pubDate>
-    </item>
-    <item>
-      <title>Près de 300 médicaments coûtent désormais moins chers en Suisse</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/pres-de-300-medicaments-coutent-desormais-moins-chers-en-suisse-28713240.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28713240</guid>
-      <pubDate>Sun, 01 Dec 2024 19:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Ireland dodges bullet as Dublin voters narrowly reject gangland boss					</title>
-      <link>https://www.politico.eu/article/ireland-dublin-voters-gerry-hutch-central-politics-gangland-boss-parliament/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ireland-dublin-voters-gerry-hutch-central-politics-gangland-boss-parliament/</guid>
-      <pubDate>Sun, 01 Dec 2024 18:11:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
