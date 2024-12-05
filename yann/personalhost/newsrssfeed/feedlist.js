@@ -21,14 +21,14 @@ module.exports = [
   { 
     name: 'EURACTIV - Circular Economy Mentions', 
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
-    off: true,
+    off: false,
   },
   { 
     name: 'Politico EUROPE', 
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
     off: false,
     urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing'],
+    exclusionWords: ['boxing', 'how'],
   },
   { 
     name: 'Chapatte Dessins', 
