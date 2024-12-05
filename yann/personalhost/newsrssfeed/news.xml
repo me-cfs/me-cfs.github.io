@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Texas lieutenant governor launches initiative to ban THC</title>
+      <link>https://thehill.com/policy/healthcare/5024463-texas-dan-patrick-legislation-thc-marijuana-ban/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=5024463</guid>
+      <pubDate>Thu, 05 Dec 2024 18:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>La police des transports doit pouvoir employer des tasers, décide le Parlement fédéral</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/la-police-des-transports-doit-pouvoir-employer-des-tasers-decide-le-parlement-federal-28717964.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28717964</guid>
+      <pubDate>Thu, 05 Dec 2024 18:15:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Immigrants accused of homicide are a tiny fraction of ICE arrests</title>
       <link>https://www.axios.com/2024/12/05/trump-mass-deportations-ice-arrests-homicide</link>
       <author>Axios</author>
@@ -38,6 +52,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/05/trump-bezos-zuckerberg-musk-regulation</guid>
       <pubDate>Thu, 05 Dec 2024 15:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Conseil national approuve le budget 2025</title>
+      <link>https://www.rts.ch/info/suisse/2024/minute-par-minute/28713207.html?rts_source=rss_t</link>
+      <author>RTS Headlines</author>
+      <guid>28713207</guid>
+      <pubDate>Thu, 05 Dec 2024 15:16:00 GMT</pubDate>
     </item>
     <item>
       <title>Sanders: Musk a ‘smart guy’; RFK Jr. ‘right’ about ‘unhealthy society’</title>
@@ -1420,27 +1441,6 @@
       <author>RTS Headlines</author>
       <guid>28714240</guid>
       <pubDate>Mon, 02 Dec 2024 15:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Best TV Shows of 2024</title>
-      <link>https://www.nytimes.com/2024/11/30/arts/television/best-tv-shows-2024.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/30/arts/television/best-tv-shows-2024.html</guid>
-      <pubDate>Mon, 02 Dec 2024 15:19:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Do You Like That Filibuster Now?</title>
-      <link>https://www.nytimes.com/2024/12/02/opinion/donald-trump-senate.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/02/opinion/donald-trump-senate.html</guid>
-      <pubDate>Mon, 02 Dec 2024 14:46:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Disgraceful Pardon</title>
-      <link>https://www.nytimes.com/2024/12/02/opinion/biden-hunter-pardon-trump.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/02/opinion/biden-hunter-pardon-trump.html</guid>
-      <pubDate>Mon, 02 Dec 2024 14:40:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
