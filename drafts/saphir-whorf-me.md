@@ -58,6 +58,13 @@ Painting Patients as untrustworthy, therefore our agency to define our experienc
 
 “militant” hostile defensiveness "activists"
 
+## Focusing on "positivity"
+People and the media love focusing on "positive" stories and recovery stories because they are feel good.
+Also people who are able to share their experiences have most likely recovered.
+They are systemically biased towards positivity
+
+https://bsky.app/profile/chromatowski.bsky.social/post/3lck64xmuts22
+
 
 
 
