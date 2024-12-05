@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: AOC expected to run for House Democrats' top Oversight Committee role</title>
+      <link>https://www.axios.com/2024/12/04/aoc-house-oversight-committee-democrats-raskin</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/04/aoc-house-oversight-committee-democrats-raskin</guid>
+      <pubDate>Wed, 04 Dec 2024 23:57:40 +0000</pubDate>
+    </item>
+    <item>
       <title>What to know about the fatal shooting of UnitedHealthcare's CEO</title>
       <link>https://thehill.com/policy/healthcare/5023158-what-to-know-fatal-shooting-unitedhealthcare-ceo/</link>
       <author>Healthcare - The Hill</author>
@@ -31,6 +38,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5023143</guid>
       <pubDate>Wed, 04 Dec 2024 23:15:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Hegseth Vows to Fight, Trump Considers DeSantis for Defense Secretary</title>
+      <link>https://www.nytimes.com/2024/12/04/us/politics/hegseth-trump-defense.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/04/us/politics/hegseth-trump-defense.html</guid>
+      <pubDate>Wed, 04 Dec 2024 22:44:00 +0000</pubDate>
     </item>
     <item>
       <title>Vivek Ramaswamy: Firing federal workers will be good for them</title>
@@ -586,6 +600,13 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5019735</guid>
       <pubDate>Tue, 03 Dec 2024 20:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>China Announces a Ban on Rare Minerals to the U.S.</title>
+      <link>https://www.nytimes.com/2024/12/03/world/asia/china-minerals-semiconductors.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/03/world/asia/china-minerals-semiconductors.html</guid>
+      <pubDate>Tue, 03 Dec 2024 19:46:45 +0000</pubDate>
     </item>
     <item>
       <title>E. coli outbreak linked to McDonald's onions is over: CDC</title>
@@ -1423,28 +1444,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/un-plastic-treaty-talks-end-without-a-deal/</guid>
       <pubDate>Sun, 01 Dec 2024 17:56:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump appoints businessman Massad Boulos as Middle East adviser</title>
-      <link>https://www.axios.com/2024/12/01/trump-massad-boulos-middle-east-adviser</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/01/trump-massad-boulos-middle-east-adviser</guid>
-      <pubDate>Sun, 01 Dec 2024 17:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Zelenskyy’s diplomatic play for Trump 					</title>
-      <link>https://www.politico.eu/article/ukraine-president-volodymyr-zelenskyy-diplomatic-play-donald-trump/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ukraine-president-volodymyr-zelenskyy-diplomatic-play-donald-trump/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:49:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>Kash Patel's FBI candidacy encounters open-mindedness from Republicans</title>
-      <link>https://www.axios.com/2024/12/01/kash-patel-fbi-republican-reaction-lawler-rounds</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/01/kash-patel-fbi-republican-reaction-lawler-rounds</guid>
-      <pubDate>Sun, 01 Dec 2024 16:38:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
