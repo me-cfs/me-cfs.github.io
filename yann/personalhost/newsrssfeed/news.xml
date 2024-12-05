@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics</title>
+      <link>https://www.economist.com/the-world-this-week/2024/12/05/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/8i18eqmk8a3f4vh41tscim0uer9uifg0</guid>
+      <pubDate>Thu, 05 Dec 2024 13:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://www.economist.com/the-world-this-week/2024/12/05/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/4j2dcvcm68r5b2qg3eikhn6eanvnnfb6</guid>
+      <pubDate>Thu, 05 Dec 2024 13:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon</title>
+      <link>https://www.economist.com/the-world-this-week/2024/12/05/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/je21nb4i7bff9hnfuooies48to1j4qgr</guid>
+      <pubDate>Thu, 05 Dec 2024 13:48:39 +0000</pubDate>
+    </item>
+    <item>
       <title>What to know about Pete Hegseth, Trump's embattled pick for Defense secretary</title>
       <link>https://www.axios.com/2024/11/13/pete-hegseth-fox-news-host-defense-secretary</link>
       <author>Axios</author>
@@ -1419,28 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/02/hunter-biden-pardon-joe-biden</guid>
       <pubDate>Mon, 02 Dec 2024 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr. nomination process heats up</title>
-      <link>https://www.axios.com/2024/12/02/rfk-nomination-hhs-criticisms-vulnerabilities</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/02/rfk-nomination-hhs-criticisms-vulnerabilities</guid>
-      <pubDate>Mon, 02 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global heat wave hot spots outpace climate change trends</title>
-      <link>https://www.axios.com/2024/12/02/climate-change-heat-wave-hot-spots</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/02/climate-change-heat-wave-hot-spots</guid>
-      <pubDate>Mon, 02 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Jordan Bardella threatens to bring down French government over budget					</title>
-      <link>https://www.politico.eu/article/jordan-bardella-threatens-bring-down-french-government-security-budget/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/jordan-bardella-threatens-bring-down-french-government-security-budget/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:46:59 -0000</pubDate>
     </item>
   </channel>
 </rss>
