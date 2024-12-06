@@ -9,6 +9,7 @@
 
 ## Ratings
 * [UK Based Rating Website](https://www.ethicalconsumer.org)
+* [Environmental Score of Products and Brands](https://www.leafscore.com)
 ### Charities
 * [Australian Government Australian Charities Rating](https://www.acnc.gov.au/charity/)
 * [US Based Charity Ratings](https://www.charitynavigator.org) (be sure to check salaries sectoon)
