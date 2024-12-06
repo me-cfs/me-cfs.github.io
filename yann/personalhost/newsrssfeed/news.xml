@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Worshippers flee arson attack at Melbourne synagogue</title>
+      <link>https://www.bbc.com/news/articles/c5ydr228jyko</link>
+      <author>BBC News Australia Mentions</author>
+      <guid>https://www.bbc.com/news/articles/c5ydr228jyko#0</guid>
+      <pubDate>Thu, 05 Dec 2024 23:58:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Intel Republicans find adversaries likely behind AHI attacks, triggering blowback</title>
       <link>https://thehill.com/policy/healthcare/5025484-house-intelligence-report-anomalous-health-incidents/</link>
       <author>Healthcare - The Hill</author>
@@ -47,6 +54,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/france-political-crisis-emmanuel-macron-resignation-marine-le-pen-michel-barnier-no-confidence-vote/</guid>
       <pubDate>Thu, 05 Dec 2024 22:09:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>After UnitedHealthcare CEO’s Killing, Americans Express Frustration With Health Insurance Industry</title>
+      <link>https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/05/nyregion/social-media-insurance-industry-brian-thompson.html</guid>
+      <pubDate>Thu, 05 Dec 2024 21:09:53 +0000</pubDate>
     </item>
     <item>
       <title>Fake bomb threat targets homes of insurance executive killed in NYC: police</title>
@@ -484,6 +498,13 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/eu-us-withdrawal-g7-war-in-ukraine-loan-poland-deputy-finance-minister-pawel-karbownik/</guid>
       <pubDate>Wed, 04 Dec 2024 20:32:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Russian General Calls U.S. Chairman of Joint Chiefs</title>
+      <link>https://www.nytimes.com/2024/12/04/us/politics/russian-general-call.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/04/us/politics/russian-general-call.html</guid>
+      <pubDate>Wed, 04 Dec 2024 20:23:46 +0000</pubDate>
     </item>
     <item>
       <title>Christian Levrat, président de La Poste: "Le service public, ce n'est pas un musée"</title>
@@ -1419,29 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/11/12/trump-cabinet-members-tracking</guid>
       <pubDate>Mon, 02 Dec 2024 18:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s Scholz vows to ‘stand by’ Kyiv as Ukraine debate rages at home					</title>
-      <link>https://www.politico.eu/article/olaf-scholz-germany-ukraine-debate-stand-by/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/olaf-scholz-germany-ukraine-debate-stand-by/</guid>
-      <pubDate>Mon, 02 Dec 2024 18:39:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>Barnier's Bold Budget Move In France Spurs Opposition Parties To Pledge No-Confidence Vote</title>
-      <link>https://www.huffpost.com/entry/bc-eu-france-politics-michel-barnier-marine-le-pen_n_674df6d9e4b0d426caf129a0</link>
-      <author>WorldPost (Huffington)</author>
-      <guid>https://www.huffpost.com/entry/bc-eu-france-politics-michel-barnier-marine-le-pen_n_674df6d9e4b0d426caf129a0</guid>
-      <pubDate>Mon, 02 Dec 2024 18:39:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						How the West convinced Russia’s diamond competitors to join it					</title>
-      <link>https://www.politico.eu/article/west-eu-convinced-russia-diamond-competitors-join-forces-botswana-angola-trade/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/west-eu-convinced-russia-diamond-competitors-join-forces-botswana-angola-trade/</guid>
-      <pubDate>Mon, 02 Dec 2024 18:24:13 -0000</pubDate>
     </item>
   </channel>
 </rss>
