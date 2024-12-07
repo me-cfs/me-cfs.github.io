@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Memo: Populist rage comes to forefront in reaction to UnitedHealthcare CEO’s killing</title>
+      <link>https://thehill.com/homenews/administration/5027457-health-insurance-assassination-reaction/</link>
+      <author>Healthcare - The Hill</author>
+      <guid>https://thehill.com/?p=5027457</guid>
+      <pubDate>Sat, 07 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Un miraculé en mer Rouge, un bouquet de pesticides et un joyau rendu au monde</title>
       <link>https://www.rts.ch/info/suisse/2024/article/un-miracule-en-mer-rouge-un-bouquet-de-pesticides-et-un-joyau-rendu-au-monde-28718759.html?rts_source=rss_t</link>
       <author>RTS Headlines</author>
@@ -1435,13 +1442,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/03/books/best-books-2024.html</guid>
       <pubDate>Tue, 03 Dec 2024 22:25:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump team agrees to DOJ background checks for  nominees</title>
-      <link>https://www.axios.com/2024/12/03/trump-background-checks-cabinet</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/03/trump-background-checks-cabinet</guid>
-      <pubDate>Tue, 03 Dec 2024 22:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
