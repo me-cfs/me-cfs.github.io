@@ -9,7 +9,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
-const fluffyTitle = ['spirit of', 'the tragedy of'];
+const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us'];
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon'];
 
