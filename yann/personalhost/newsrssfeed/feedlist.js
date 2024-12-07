@@ -2,53 +2,56 @@
 
 // Basic Info
 // name: The name of the news source, displayed under title
-// url: "url" the URL of the RSS feed to import from
+// url: The URL of the RSS feed to import from
 
-singlecrime: ['assault', 'rape']
-noninformativetitle: ['how', '?', 'pour vous?']
-unintrestedsports: ['boxing', 'USWNT']
-clickbait: ['hilarious', 'most beautiful', 'rage']
-fluffytitle: ['spirit of', 'the tragedy of']
-nonarticle: ['podcast', 'quiz']
-uninterestedgeneral: ['bouchon']
+const singleCrime = ['assault', 'rape'];
+const nonInformativeTitle = ['how', '?', 'pour vous?'];
+const uninterestedSports = ['boxing', 'USWNT'];
+const clickbait = ['hilarious', 'most beautiful', 'rage'];
+const fluffyTitle = ['spirit of', 'the tragedy of'];
+const nonArticle = ['podcast', 'quiz'];
+const uninterestedGeneral = ['bouchon'];
 
 module.exports = [
   {
     name: 'BBC News Australia Mentions',
-    url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
+    url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
     exclusionWords: ['assault', 'rape'],
   },
-  { 
-    name: 'EURACTIV - Circular Economy Mentions', 
+  {
+    name: 'EURACTIV - Circular Economy Mentions',
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
     off: false,
   },
-  { 
-    name: 'Politico EUROPE', 
-    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml', 
+  {
+    name: 'Politico EUROPE',
+    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
     off: false,
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?'],
   },
-  { 
-    name: 'Chapatte Dessins', 
+  {
+    name: 'Chapatte Dessins',
     url: 'https://www.chappatte.com/images/feed/',
     off: false,
   },
-  { 
-    name: 'Economist the World this Week', 
-    url: 'https://www.economist.com/the-world-this-week/rss.xml', 
-    titleReplace: [{original: 'Politics', replace: 'The world this week: Politics'}, {original: 'Business', replace: 'The world this week: Business'}],
+  {
+    name: 'Economist the World this Week',
+    url: 'https://www.economist.com/the-world-this-week/rss.xml',
+    titleReplace: [
+      { original: 'Politics', replace: 'The world this week: Politics' },
+      { original: 'Business', replace: 'The world this week: Business' },
+    ],
     off: false,
   },
-  { 
+  {
     name: 'WorldPost (Huffington)',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['Hilarious', 'Spirit of', 'most beautiful',],
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful'],
   },
-  { 
+  {
     name: 'Monbiot Guardian',
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
     off: false,
@@ -58,60 +61,61 @@ module.exports = [
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
     off: false,
   },
-  { 
+  {
     name: 'Economist',
     url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
     off: false,
   },
-  { 
+  {
     name: 'Healthcare - The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
     exclusionWords: ['rage'],
   },
-  { 
+  {
     name: 'Climate Change - The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
     off: false,
   },
-  { 
+  {
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
     off: false,
-    exclusionWords: ['Podcast', 'Quiz'],
+    exclusionWords: ['podcast', 'quiz'],
   },
-  { 
+  {
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
     off: false,
-    exclusionWords: ['Hurricane', 'Tropical Storm',
-      'Paramount', 'Skydance', 'Fact Check: Biden',
-      'fans', 'collection:', 'peggy', 'Simone', 'LeBron',
-      'NBA', 'NFL', 'Warner', 'soccer', 'GOAT',
-      'Glow Up', 'How much', 'What to know',
+    exclusionWords: [
+      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
+      'Fact Check: Biden', 'fans', 'collection:', 'peggy',
+      'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
+      'GOAT', 'Glow Up', 'How much', 'What to know',
     ],
   },
-  { 
+  {
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
     exclusionWords: ['assault', 'rape'],
   },
-  { 
+  {
     name: 'RTS Headlines',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
     exclusionWords: ['bouchon', 'pour vous?'],
   },
-  { 
+  {
     name: 'ME/LC News',
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
-  { 
+  {
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: ['PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer', 'Lausanne', 'Embolo',
-      'Zakaria', 'Germain', 
+    inclusionWords: [
+      'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
+      'Xhaka', 'Sommer', 'Lausanne', 'Embolo', 'Zakaria', 'Germain',
     ],
     exclusionWords: ['USWNT'],
   },
@@ -126,17 +130,17 @@ module.exports = [
   },
   {
     name: 'Science Based Medicine',
-    url: 'http://www.sciencebasedmedicine.org/?feed=rss2'
+    url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
     exclusionWords: ['?', 'questions'],
   },
 ];
 
-off = [
-{ 
-    name: 'Le Monde Grand Titres', 
+const off [
+{
+    name: 'Le Monde Grand Titres',
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
     exclusionWords: ['Tour de France'],
     off: true,
-    //paywalled
+    // Paywalled
   },
 ];
