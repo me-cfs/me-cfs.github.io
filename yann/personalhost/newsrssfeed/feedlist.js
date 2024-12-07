@@ -13,6 +13,7 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon', 'dances'];
+// NYT Most Viewed
 
 module.exports = [
   {
@@ -124,7 +125,7 @@ module.exports = [
   {
     name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...fluffyTitle],
+    exclusionWords: [...fluffyTitle, ...unintrestedGeneral],
   },
   {
     name: 'Bellingcat',
