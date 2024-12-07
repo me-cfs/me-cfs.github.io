@@ -138,7 +138,7 @@ module.exports = [
   },
 ];
 
-const off [
+const off = [
 {
     name: 'Le Monde Grand Titres',
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
