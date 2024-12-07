@@ -6,12 +6,6 @@
 
 
 module.exports = [
-  { 
-    name: 'Le Monde Grand Titres', 
-    url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
-    exclusionWords: ['Tour de France'],
-    off: true,
-  },
   {
     name: 'BBC News Australia Mentions',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml', 
@@ -66,6 +60,7 @@ module.exports = [
     name: 'Healthcare - The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
+    exclusionWords: ['rage'],
   },
   { 
     name: 'Climate Change - The Hill',
@@ -121,5 +116,19 @@ module.exports = [
     name: 'Bellingcat',
     url: 'https://www.bellingcat.com/feed/',
     off: false,
+  },
+  {
+    name: 'Science Based Medicine',
+    url: 'http://www.sciencebasedmedicine.org/?feed=rss2'
+    exclusionWords: ['?', 'questions'],
+];
+
+off = [
+{ 
+    name: 'Le Monde Grand Titres', 
+    url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
+    exclusionWords: ['Tour de France'],
+    off: true,
+    //paywalled
   },
 ];
