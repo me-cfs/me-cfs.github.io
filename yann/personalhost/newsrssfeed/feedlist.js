@@ -12,7 +12,7 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
-const uninterestedGeneral = ['bouchon'];
+const uninterestedGeneral = ['bouchon', 'dances'];
 
 module.exports = [
   {
