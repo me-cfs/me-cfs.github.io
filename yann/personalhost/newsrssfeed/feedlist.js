@@ -4,6 +4,13 @@
 // name: The name of the news source, displayed under title
 // url: "url" the URL of the RSS feed to import from
 
+singlecrime: ['assault', 'rape']
+noninformativetitle: ['how', '?', 'pour vous?']
+unintrestedsports: ['boxing', 'USWNT']
+clickbait: ['hilarious', 'most beautiful', 'rage']
+fluffytitle: ['spirit of']
+nonarticle: ['podcast', 'quiz']
+uninterestedgeneral: ['bouchon']
 
 module.exports = [
   {
