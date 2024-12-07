@@ -124,7 +124,7 @@ module.exports = [
   {
     name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...fluffytitle],
+    exclusionWords: [...fluffyTitle],
   },
   {
     name: 'Bellingcat',
