@@ -8,7 +8,7 @@ singlecrime: ['assault', 'rape']
 noninformativetitle: ['how', '?', 'pour vous?']
 unintrestedsports: ['boxing', 'USWNT']
 clickbait: ['hilarious', 'most beautiful', 'rage']
-fluffytitle: ['spirit of']
+fluffytitle: ['spirit of', 'the tragedy of']
 nonarticle: ['podcast', 'quiz']
 uninterestedgeneral: ['bouchon']
 
