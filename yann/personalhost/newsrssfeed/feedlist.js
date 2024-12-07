@@ -9,8 +9,8 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
-const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us'];
-// NYT Most Viewed
+const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
+// NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon'];
 
@@ -93,7 +93,7 @@ module.exports = [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
       'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
-      'GOAT', 'Glow Up', 'How much', 'What to know',
+      'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle
     ],
   },
   {
