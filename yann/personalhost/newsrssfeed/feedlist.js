@@ -10,6 +10,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us'];
+// NYT Most Viewed
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon'];
 
@@ -123,6 +124,7 @@ module.exports = [
   {
     name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
+    exclusionWords: [...fluffytitle],
   },
   {
     name: 'Bellingcat',
