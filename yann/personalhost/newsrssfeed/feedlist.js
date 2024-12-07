@@ -5,9 +5,10 @@
 // url: The URL of the RSS feed to import from
 
 const singleCrime = ['assault', 'rape'];
-const nonInformativeTitle = ['how', '?', 'pour vous?'];
-const uninterestedSports = ['boxing', 'USWNT'];
-const clickbait = ['hilarious', 'most beautiful', 'rage'];
+const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
+const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
+];
 const fluffyTitle = ['spirit of', 'the tragedy of'];
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon'];
