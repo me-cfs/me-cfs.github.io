@@ -155,6 +155,11 @@ module.exports = [
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
   },
+  {
+    name: 'Arstechnica',
+    url: 'https://feeds.arstechnica.com/arstechnica/index',
+    inclusionWords: ['sattelite', 'open-source'],
+  },
 ];
 
 const off = [
