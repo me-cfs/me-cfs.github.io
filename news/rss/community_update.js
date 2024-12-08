@@ -11,13 +11,19 @@ const MAX_ITEMS = parseInt(process.env.MAX_ITEMS, 10);
 
 async function filterAndUpdateFeed() {
   try {
+    // fetch all feeds and flatten the result into a single array
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
 
+    // remove any duplicates
     const uniqueFeedItems = deduplicateItems(allFeedItems);
+    
+    // load the localFeed from the file (the RSS feed hosted on my website)
     let localFeed = await loadLocalFeed(localFile);
 
+    // newItems will contain all items that are not in localFeed
     const newItems = filterItems(uniqueFeedItems, localFeed);
 
+    // Add new items to the localFeed
     newItems.forEach(item => addItemToLocalFeed(item, localFeed));
 
     // Sort by date and trim to MAX_ITEMS
