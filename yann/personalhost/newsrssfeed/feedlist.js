@@ -4,19 +4,21 @@
 // name: The name of the news source, displayed under title
 // url: The URL of the RSS feed to import from
 
-const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
-// Vox
-const singleCrime = ['assault', 'rape'];
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
+const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
+// Vox
+const singleCrime = ['assault', 'rape'];
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
 // NYT Most Viewed, Axios
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 // Axios
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
+
+
 
 
 const activism = ['protest', 'rights', 'gulag'];
