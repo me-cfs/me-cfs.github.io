@@ -21,8 +21,10 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 const activism = ['protest', 'rights'];
 const commons = ['open-source'];
 const disability = ['disability', 'assisted suicide',];
-const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
+const environment = ['greenwashing'];
 const location = ['idaho'];
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
+const people = ['Bernie', 'Sandwrs'];
 const scienceResearch = ['science', 'astrobio'];
 const technology = ['open-source', 'sattelite'];
 
@@ -180,6 +182,11 @@ module.exports = [
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
     inclusionWords: ['Medicaid', 'Idaho', 'Coroner', 'Cancer'],
+  },
+  {
+    name: 'Znetwork',
+    url: 'https://feeds.propublica.org/propublica/main',
+    inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
   },
 ];
 
