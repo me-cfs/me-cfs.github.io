@@ -13,7 +13,8 @@ const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
 // NYT Most Viewed, Axios
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 // Axios
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football'];
+// Axios
 
 // inclusionLists
 const activism = ['protest', 'rights', 'gulag'];
@@ -28,9 +29,28 @@ const scienceResearch = ['science', 'astrobio'];
 const technology = ['open-source', 'sattelite'];
 
 module.exports = [
+    {
+    name: 'Axios',
+    url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
+    off: false,
+    exclusionWords: [
+      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
+      'Fact Check: Biden', 'fans', 'collection:', 'peggy',
+      'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
+      'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle,
+      ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports,
+      
+    ],
+  },
   {
-    name: 'BBC News Australia Mentions',
+    name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
+    off: false,
+    exclusionWords: ['assault', 'rape'],
+  },
+  {
+    name: 'BBC - Fiji',
+    url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
     exclusionWords: ['assault', 'rape'],
   },
@@ -98,24 +118,6 @@ module.exports = [
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
     exclusionWords: ['rage', ...nonInformativeTitle],
-  },
-  {
-    name: 'Axios',
-    url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
-    off: false,
-    exclusionWords: [
-      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
-      'Fact Check: Biden', 'fans', 'collection:', 'peggy',
-      'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
-      'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle,
-      ...uninterestedGeneral, ...uninterestedPeople,
-    ],
-  },
-  {
-    name: 'BBC - Fiji',
-    url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
-    off: false,
-    exclusionWords: ['assault', 'rape'],
   },
   {
     name: 'RTS Headlines',
