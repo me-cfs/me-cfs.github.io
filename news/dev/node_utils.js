@@ -1,4 +1,10 @@
 // utils file in node.js export language -- urgh JS is confusing
+/* includes:
+getOneWeekAgoDate()
+removeHiddenWords()
+fetchFeed()
+extractBaseUrl()
+*/
 const Parser = require('rss-parser');
 const parser = new Parser();
 
@@ -33,6 +39,7 @@ function getOneWeekAgoDate() {
   return dateString.replace(day, day + suffix);
 }
 
+// removes words that are dictated as hidden in a string
 function removeHiddenWords(title, titleHide) {
   if (typeof title !== 'string') return '';
 
