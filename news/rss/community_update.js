@@ -23,7 +23,7 @@ async function filterAndUpdateFeed() {
     // load the localFeed from the file (the RSS feed hosted on my website)
     let localFeed = await loadLocalFeed(localFile);
 
-    // newItems will contain all items that are not in localFeed
+    // filter all items for various criteria. Passed items included in newItemd
     const newItems = filterItems(uniqueFeedItems, localFeed);
 
     // Add new items to the localFeed
