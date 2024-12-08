@@ -26,4 +26,6 @@ It feels like in practice peer review serves more as an enforcement of “bias�
 Science is about innovation, about challenging long-held beliefs. But at least in the medical field, peer review seems to hold that back.
 
 ## Heirachical Culture
+The way I see it medicine is not a science. It’s a heirarchical culture formed around interpretions on how to apply a science “huaman biology”. In medical training, students are not taught critical thinking or how to slow down and think about things, they are taught how to follow protocols and guidelines, extsensive memorisation, how to make split second decisions, etc.
+
 At the end of the day, medicine is based around a culture of conformity and a heirachy, cohesion is very much valued, to the point we commonly see people reject sound scientific evidence in favour of conforming the culture’s majority opinion. We very much saw it with BPS, when a few very powerful people at the top of the medical heirarchy completely convinced most practitioners ME is psychsomatic. There’s a reason established norms stick around for decades in the medical system, long after scientific evidence has wholly disproven them
