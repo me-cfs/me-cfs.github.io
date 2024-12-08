@@ -145,6 +145,11 @@ module.exports = [
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: ['protest', 'rights'],
   },
+ {
+    name: 'AP News',
+    url: 'https://feedx.net/rss/ap.xml',
+    inclusionWords: ['disability', 'science'],
+  },
 ];
 
 const off = [
