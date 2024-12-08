@@ -150,6 +150,11 @@ module.exports = [
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: ['disability', 'science'],
   },
+  {
+    name: 'The Conversation',
+    url: 'https://theconversation.com/articles.atom',
+    inclusionWords: ['microbiology', 'anarchism'],
+  },
 ];
 
 const off = [
