@@ -160,6 +160,11 @@ module.exports = [
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: ['sattelite', 'open-source'],
   },
+  {
+    name: 'Jacobin',
+    url: 'https://jacobinmag.com/feed/',
+    inclusionWords: ['Disability', 'Suicide'],
+  },
 ];
 
 const off = [
