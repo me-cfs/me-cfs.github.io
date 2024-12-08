@@ -35,6 +35,12 @@ function filterItems(items, localFeed) {
     const content = item.content ? item.content.toLowerCase() : '';
     const pubDate = item.pubDate ? new Date(item.pubDate) : null;
     
+    //check atleast has both title and pubdate
+    if (!title || !pubDate) {
+      console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
+      return false;
+    }
+    
     // filter inclusionWords
     if (item.inclusionWords && item.inclusionWords.length > 0) {
         const lowercaseInclusionWords = item.inclusionWords.map(word => word.toLowerCase());
@@ -57,12 +63,6 @@ function filterItems(items, localFeed) {
             console.log(`Excluding item due to missing title and content: ${JSON.stringify(item)}`);
             return false;
         }
-    }
-
-    //check atleast has both title and pubdate
-    if (!title || !pubDate) {
-      console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
-      return false;
     }
 
     // remove hidden words from title
