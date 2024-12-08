@@ -68,7 +68,9 @@ function filterItems(items, localFeed, addAuthorTitle) {
     }
 
     // remove hidden words from title
-    const processedTitle = removeHiddenWords(title, item.titleHide);
+    let processedTitle = removeHiddenWords(title, item.titleHide);
+    
+    // Add author at the end if requested
     
     // Check no exclusion words or date problems
     const isExcluded = item.exclusionWords.some(word => processedTitle.toLowerCase().includes(word.toLowerCase())) ||
