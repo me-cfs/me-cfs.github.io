@@ -182,11 +182,12 @@ module.exports = [
 ];
 
 const off = [
-{
+ {
     name: 'Le Monde Grand Titres',
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
     exclusionWords: ['Tour de France'],
     off: true,
     // Paywalled
   },
+  // Reuters: haven't forgiven them for probelmatic Tuller article
 ];
