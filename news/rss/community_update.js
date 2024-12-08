@@ -8,6 +8,9 @@ const feedConfigPath = process.env.FEED_CONFIG_PATH;
 const feedUrls = require(feedConfigPath);
 const localFile = process.env.LOCAL_FILE;
 const MAX_ITEMS = parseInt(process.env.MAX_ITEMS, 10);
+const addAuthorTitle = process.env.addAuthorTitle 
+  ? process.env.addAuthorTitle.toLowerCase() === 'true' 
+  : false;
 
 async function filterAndUpdateFeed() {
   try {
