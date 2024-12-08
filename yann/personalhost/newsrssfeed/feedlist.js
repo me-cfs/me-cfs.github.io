@@ -138,6 +138,13 @@ module.exports = [
     url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
     exclusionWords: ['?', 'questions'],
   },
+  
+// Testing Phase
+ {
+    name: 'Motherjones',
+    url: 'https://feeds.feedburner.com/motherjones/main',
+    inclusionWords: ['protest', 'rights'],
+  },
 ];
 
 const off = [
