@@ -27,8 +27,10 @@ function deduplicateItems(items) {
   return uniqueFeedItems;
 }
 
+// filters the list of feed items based on criteria
 function filterItems(items, localFeed) {
   return items.filter(item => {
+    // extract: title, content and pubdate
     let title = item.title || null;
     const content = item.content ? item.content.toLowerCase() : '';
     const pubDate = item.pubDate ? new Date(item.pubDate) : null;
@@ -93,8 +95,11 @@ function filterItems(items, localFeed) {
   });
 }
 
+// Adds item to the local RSS Feed
 function addItemToLocalFeed(item, localFeed) {
-  let link = item.link;
+  let link = item.link; // define article link
+
+  // if item has a "getContentlink", try to extract content link from content string
   if (item.getContentLink && item.content) {
     const regex = new RegExp(`(${item.getContentLink}[^\\s"']+)`, 'g');
     const matches = item.content.match(regex);
@@ -103,16 +108,19 @@ function addItemToLocalFeed(item, localFeed) {
     }
   }
 
+  // make sure the link is in proper format
   if (!link || typeof link !== 'string' || link.trim() === '') {
     console.error(`Invalid link for item with title "${item.title}":`, link);
     return;
   }
 
+  // make sure the GUID is proper format
   if (!item.guid || typeof item.guid !== 'string' || item.guid.trim() === '') {
     console.error(`Invalid guid for item with title "${item.title}":`, item.guid);
     return;
   }
 
+  // add the new item to the local feed
   localFeed.rss.channel[0].item.push({
     title: [item.processedTitle || item.content],
     link: [link],
