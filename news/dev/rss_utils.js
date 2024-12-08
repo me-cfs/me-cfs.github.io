@@ -30,7 +30,7 @@ function deduplicateItems(items) {
 }
 
 // filters the list of feed items based on criteria
-function filterItems(items, localFeed) {
+function filterItems(items, localFeed, addAuthorTitle) {
   return items.filter(item => {
     // extract: title, content and pubdate
     let title = item.title || null;
