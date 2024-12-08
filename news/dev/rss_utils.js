@@ -71,6 +71,9 @@ function filterItems(items, localFeed, addAuthorTitle) {
     let processedTitle = removeHiddenWords(title, item.titleHide);
     
     // Add author at the end if requested
+    if (addAuthorTitle && item.source && typeof item.source === 'string') {
+          processedTitle = `${processedTitle} (${item.source})`;
+    }
     
     // Check no exclusion words or date problems
     const isExcluded = item.exclusionWords.some(word => processedTitle.toLowerCase().includes(word.toLowerCase())) ||
