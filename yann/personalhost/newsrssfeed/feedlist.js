@@ -21,9 +21,12 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 const activism = ['protest', 'rights', 'gulag'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
-const disability = ['disability', 'assisted suicide',];
+const disability = ['disability', 'assisted suicide', 'disabilities'];
+// Amnesty Intl.
 const environment = ['greenwashing'];
-const location = ['idaho'];
+const important = ['genocide'];
+const location = ['idaho', 'france', 'switzerland', 'fiji'];
+// Amnesty Intl.
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
 const people = ['Bernie', 'Sandwrs'];
 const scienceResearch = ['science', 'astrobio'];
@@ -157,9 +160,9 @@ module.exports = [
   
 // Testing Phase
  {
-    name: 'Motherjones',
+    name: 'Amnesty International',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: ['protest', 'rights'],
+    inclusionWords: ['genocide', ...location, ...disability],
   },
  {
     name: 'AP News',
@@ -170,6 +173,11 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
+  },
+ {
+    name: 'Motherjones',
+    url: 'https://feeds.feedburner.com/motherjones/main',
+    inclusionWords: ['protest', 'rights'],
   },
   {
     name: 'Arstechnica',
