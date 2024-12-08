@@ -1,5 +1,7 @@
 # Uploaded Drafts
-* [Anarchism as a possible answer to the paradigm of Disability](https://me-cfs.github.io/drafts/anarchism-disability.html)
+* [Anarchism as a possible answer to the paradigm of Disability](https://me-cfs.github.io/drafts/anarchism-disability.html)m
+
+* [The Dark Side of Medicine, Past and Present](https://me-cfs.github.io/drafts/dark-side-medicine.html)
 
 * [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/drafts/disabled-secondary-minority.html)
 
