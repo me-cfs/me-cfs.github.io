@@ -9,8 +9,9 @@ const nonArticle = ['podcast', 'quiz'];
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in'];
 // Hill Climate, Hill Healthcare. NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
-const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
-// NYT Most Viewed, Axios
+// BBC Australia
+const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical'];
+// Axios, BBC (Australia), NYT Most Viewed
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 // Axios
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football'];
@@ -46,7 +47,7 @@ module.exports = [
     name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
-    exclusionWords: ['assault', 'rape'],
+    exclusionWords: [...uninterestedGeneral, ...singleCrime],
   },
   {
     name: 'BBC - Fiji',
