@@ -5,6 +5,22 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Assad has stepped down and fled Syria, Russia says					</title>
+      <link>https://www.politico.eu/article/bashar-assad-fled-syria-as-rebels-stormed-damascus-russia-says/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/bashar-assad-fled-syria-as-rebels-stormed-damascus-russia-says/</guid>
+      <pubDate>Sun, 08 Dec 2024 14:28:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						EU welcomes collapse of Syrian regime as Assad flees					</title>
+      <link>https://www.politico.eu/article/syria-bashar-assad-eu-welcomes-collapse/</link>
+      <author>Politico EUROPE</author>
+      <guid>https://www.politico.eu/article/syria-bashar-assad-eu-welcomes-collapse/</guid>
+      <pubDate>Sun, 08 Dec 2024 14:13:37 -0000</pubDate>
+    </item>
+    <item>
       <title>Bezos vs. Musk: Space tycoons with dueling visions for humanity's survival</title>
       <link>https://www.axios.com/2024/12/08/musk-bezos-space-travel-survival-humanity</link>
       <author>Axios</author>
@@ -1425,20 +1441,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/live/2024/12/04/nyregion/brian-thompson-uhc-ceo-shot/shooting-midtown-nyc-united-healthcare-brian-thompson</guid>
       <pubDate>Wed, 04 Dec 2024 16:22:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Man sentenced after mum died in Australian burglary</title>
-      <link>https://www.bbc.com/news/articles/c2exk2dn1pjo</link>
-      <author>BBC News Australia Mentions</author>
-      <guid>https://www.bbc.com/news/articles/c2exk2dn1pjo#0</guid>
-      <pubDate>Wed, 04 Dec 2024 15:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>UnitedHealthcare CEO fatally shot outside Manhattan hotel: reports</title>
-      <link>https://thehill.com/policy/healthcare/5021701-unitedhealthcare-ceo-brian-thompson-fatally-shot-manhattan/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=5021701</guid>
-      <pubDate>Wed, 04 Dec 2024 15:12:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
