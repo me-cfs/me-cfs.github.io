@@ -17,6 +17,8 @@
 
 * [A misrepresented illness, More PEM, less Fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
 
+* [My experience with Extremely Severe ME](https://me-cfs.github.io/drafts/extremely-severe-experience.html)
+
 * [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical”](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
 * [Reasons to be Optimistic about ME Research](https://me-cfs.github.io/drafts/optimism-me-research.html)
