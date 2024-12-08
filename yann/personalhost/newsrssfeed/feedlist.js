@@ -194,9 +194,10 @@ module.exports = [
   },
   {
     name: 'Vox',
-    url: 'https://znetwork.org/feed/',
+    url: 'https://www.vox.com/rss/index.xml',
     inclusionWords: ['Public Housing', 'Data', 'gulag'],
     exclusionWords: [...nonInformativeTitle,]
+    // probably wont work because they all seem to be nonInformativeTitles
   },
 ];
 
