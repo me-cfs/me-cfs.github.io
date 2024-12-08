@@ -4,8 +4,9 @@
 // name: The name of the news source, displayed under title
 // url: The URL of the RSS feed to import from
 
-const singleCrime = ['assault', 'rape'];
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
+// Vox
+const singleCrime = ['assault', 'rape'];
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
@@ -18,8 +19,9 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 // Axios
 
 
-const activism = ['protest', 'rights'];
-const commons = ['open-source'];
+const activism = ['protest', 'rights', 'gulag'];
+const commons = ['open-source', 'public housing'];
+const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide',];
 const environment = ['greenwashing'];
 const location = ['idaho'];
@@ -185,8 +187,14 @@ module.exports = [
   },
   {
     name: 'Znetwork',
-    url: 'https://feeds.propublica.org/propublica/main',
+    url: 'https://znetwork.org/feed/',
     inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
+  },
+  {
+    name: 'Vox',
+    url: 'https://znetwork.org/feed/',
+    inclusionWords: ['Public Housing', 'Data', 'gulag'],
+    exclusionWords: [...nonInformativeTitle,]
   },
 ];
 
