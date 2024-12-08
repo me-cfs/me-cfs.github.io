@@ -14,6 +14,8 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
 // NYT Most Viewed, Axios
+const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
+// Axios
 
 
 const activism = ['protest', 'rights'];
@@ -104,7 +106,7 @@ module.exports = [
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
       'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
       'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle,
-      ...uninterestedGeneral,
+      ...uninterestedGeneral, ...uninterestedPeople,
     ],
   },
   {
