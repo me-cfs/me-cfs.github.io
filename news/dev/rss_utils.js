@@ -1,3 +1,5 @@
+// according to chatgpt this is written in node.js
+
 const fs = require('fs');
 const xml2js = require('xml2js');
 const { removeHiddenWords, extractBaseUrl } = require('../dev/node_utils.js');
