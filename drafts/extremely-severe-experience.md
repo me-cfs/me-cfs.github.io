@@ -1,7 +1,6 @@
 # My Experience with Extremely Severe ME
 [This Page is a draft]
 
-The Isolated Reality of Extremely Severe ME: Complete sensory isolation and inability to communicate
 I’ve probably been in this state for only two months cumulatively (mainly two month long chunks of time in late 2023 and early 2024). But it’s an absolutely crazy experience that really hits the fringes of the human experience. I’m surprised it isn’t talked about more in ME communities.
 
 The only major reference I know is Whitney Dafoe’s published manuscript. I mean, there is a clear scientific interest with what total isolation would look like, including some borderline unethical experiments done in the past century, a popular culture that regularly references the extremely rare cases of “locked-in syndrome”, but you rarely hear about people with severe ME who went through that for long periods. 
@@ -10,12 +9,12 @@ The only major reference I know is Whitney Dafoe’s published manuscript. I mea
 
 This is how it looked for me:
 
-Sensory Isolation and Decline
+## Sensory Isolation and Decline
 I was nearly totally unable to communicate or receive communication. Basically any sound made me crash, to the point I wear earplugs with industry grade earmuffs on top. The only way to communicate for me was via my phone, which was on the lowest brightness and black and white and with pretty much every visual setting set to minimise stimulus. I was also always wearing a eyemask when not using my phone.
 
 Over time, I declined. I could spend maybe 1 hour per day on my phone, that declined to 30 mins, 15 mins, 10 mins, 5 mins. Then it declined further, I started measuring it in messages. I could send and receive, the length of message being extremely short, ie. “pls quiet”, “pls yfd” (yfd is the shorthand for the liquid food i could tolerate). I came to a point where I was able to send maybe 1 message a day and read maybe 3-4 short messages. That was my entire interaction with the world. The rest was a complete black void with no light or sound, completely alone with my own thoughts. 
 
-Daily Experiences
+## Daily Experiences
 I would wake up at 2pm (after 12-16 hours of unrefreshing sleep) and it would take me 45 minutes to take my morning pills. I’d then lie completely still and do nothing to “rest” for an hour before I started drinking liquid food and water. The day passed in a sort of blurred void accentuated by extreme PEM caused by simple noises or other stimuli, caregivers bringing food, neighbours dog barking, motorbike passing by. These stimuli would overwhelm my brain and cause a sort of overheating sensation in my body, which would be followed by a burst of energy which felt like adrenaline (I would often use this to pee in the bottles by my bed). After the initial energy burst I would end up with even less energy than before, accentuated symptoms, and an even foggier brain. I really want to emphasise how little stimulation could cause PEM. For example simply drinking something and it tasting differently than I expected it would somehow trigger my brain into thinking about the taste which would take more energy I had and lead to a crash. Same thing for my caregivers accidentally leaning on my bed when putting food down, or simply hearing the toilet flush.
 
 The evenings were when I felt best. My mind became less blurred and I could start imagining things and forming strong thoughts with imagination. I would often replay movies in my mind, relive my entire life as a sort of movie, sometimes memories I had completely forgotten about resurfaced. It was also my only creative outlet, I kept on thinking about a bunch of ME advocacy ideas I could pursue when I got better, I would pretend to be a politician or a billionaire and make up policies / ways to spend money that would in my opinion improve the world. I even designed a nearly fully closed loop “environmentally friendly” octopus farm to farm octopuses for food. I also relived again and again the few traumatic memories from my past and had no outlet to distract myself. It took real mental discipline. The evenings were also the time I could force myself sometimes to take a glimpse at the latest 2-3 notifications (messages) on my phone, and perhaps reply to a message, although I felt I was overdoing it with this. 
@@ -24,7 +23,7 @@ I would often have to plan things far in advance. Say I started feeling my reflu
 
 I became accustomed to telling the time by when i heard the buses and train pass, or the blaring horn of the ship returning to the lake’s harbour. 
 
-Impacts and Experiences
+## Impacts and Experiences
 After a while, I started having visual hallucinations. I could picture peoples faces, objects, dinosaurs, mountains, but I didn’t control the hallucinations, the went on morphing into each other like a trail of someone else’s thoughts. At that point it had also been really long since I had seen faces, because the few times I was able to take my eye-mask off were in dark and low stimulus moments, where no one was anywhere near me. The closest to those hallucinations I can describe is taking psychedelics, but the hallucinations caused by the isolation were less colourful and sharper. 
 
 One of the hardest parts of this state was knowing that preventable harm was worsening my health. Small stimuli that could have been avoided-was causing me to worsen, but I was powerless to stop it. The inability to communicate effectively and explain my needs compounded the anguish. Each sound or movement that triggered PEM felt like abuse, even when I knew it wasn't intentional, and the person causing them had no way of knowing. This helplessness added another layer of pain to this hell. 
@@ -40,7 +39,7 @@ The worst part of it all was that I could not control how much PEM I was getting
 
 I want to emphasise despite my cognitive slowness I was still very capable of making my own decisions. I was very aware of the drugs I was taking, and what the maximum dose to stay away from was. I definitely felt that if I could still have properly communicated, I would have had enough mental clarity to make my own medical decisions. Although my thoughts were slower, and I didn’t have the capacity to do more complex thinking like mental math, I was very much capable of normalish cognition, and very much still had emotions and feelings. Although it might have looked like it on the outside, my mind was far from blank, I could still think, feel emotions, imagine things. I felt like in a way my agency and humanity were gone, but in a Descartian way, I was still human, “I think, therefore I am”, this observation helped ground myself. 
 
-“Improvement”
+## “Improvement”
 After a while of this, I improved. I’m very hesitant to say the improvement is permanent, because it still feels as if I am overexerting myself constantly. And my symptoms have been far worse ever since I “improved” for the past six months. I fear this improvement is a mirage-a fragile burst of adrenaline pushing me beyond my limits. Deep down, I wonder if I've been overexerting myself into a state of borrowed time. Still, I hold onto hope that this reprieve might be real. My improvement was sudden. A doctors visit stressed me out and gave me a lot of adrenaline, and I’m still riding on that adrenaline since. 
 
 When I first started seeing faces again it was a terrifying sight. The faces I saw both on my phone and in real life seemed distorted. Almost like I had imagined and hallucinated faces differently than how they looked in real life. On top of that, my brother had hit a teenage growth spurt and looked like a completely different person.
