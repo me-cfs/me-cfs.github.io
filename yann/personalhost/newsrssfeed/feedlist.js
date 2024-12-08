@@ -165,6 +165,11 @@ module.exports = [
     url: 'https://jacobinmag.com/feed/',
     inclusionWords: ['Disability', 'Suicide'],
   },
+  {
+    name: 'Propublica',
+    url: 'https://feeds.propublica.org/propublica/main',
+    inclusionWords: ['Medicaid', 'Idaho', 'Coroner', 'Cancer'],
+  },
 ];
 
 const off = [
