@@ -15,6 +15,15 @@ const nonArticle = ['podcast', 'quiz'];
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
 // NYT Most Viewed, Axios
 
+
+const activism = ['protest', 'rights'];
+const commons = ['open-source'];
+const disability = ['disability', 'assisted suicide',];
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
+const location = ['idaho'];
+const scienceResearch = ['science', 'astrobio'];
+const technology = ['open-source', 'sattelite'];
+
 module.exports = [
   {
     name: 'BBC News Australia Mentions',
