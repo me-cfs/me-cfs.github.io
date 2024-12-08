@@ -24,3 +24,6 @@ https://www.s4me.info/threads/incompetence-and-“useless”-research-into-me-an
 It feels like in practice peer review serves more as an enforcement of “bias” and pet theories of the current group of “experts” than it does to ensure quality.
 
 Science is about innovation, about challenging long-held beliefs. But at least in the medical field, peer review seems to hold that back.
+
+## Heirachical Culture
+At the end of the day, medicine is based around a culture of conformity and a heirachy, cohesion is very much valued, to the point we commonly see people reject sound scientific evidence in favour of conforming the culture’s majority opinion. We very much saw it with BPS, when a few very powerful people at the top of the medical heirarchy completely convinced most practitioners ME is psychsomatic. There’s a reason established norms stick around for decades in the medical system, long after scientific evidence has wholly disproven them
