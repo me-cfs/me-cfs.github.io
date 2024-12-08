@@ -1,16 +1,13 @@
 // feedUrls.js
 
-// Basic Info
-// name: The name of the news source, displayed under title
-// url: The URL of the RSS feed to import from
-
+//exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
-const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know'];
-// Vox
+const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in'];
+// Hill Climate, Hill Healthcare. NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
 // NYT Most Viewed, Axios
@@ -18,9 +15,7 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
 // Axios
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL',];
 
-
-
-
+// inclusionLists
 const activism = ['protest', 'rights', 'gulag'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
@@ -87,21 +82,22 @@ module.exports = [
     off: false,
   },
   {
-    name: 'Healthcare - The Hill',
-    url: 'https://thehill.com/policy/healthcare/feed/',
-    off: false,
-    exclusionWords: ['rage'],
-  },
-  {
-    name: 'Climate Change - The Hill',
-    url: 'https://thehill.com/social-tags/climate-change/feed/',
-    off: false,
-  },
-  {
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
     off: false,
     exclusionWords: ['podcast', 'quiz'],
+  },
+  {
+    name: 'The Hill (Climate Change)',
+    url: 'https://thehill.com/social-tags/climate-change/feed/',
+    off: false,
+    exclusionWords: [...nonInformativeTitle],
+  },
+  {
+    name: 'The Hill (Healthcare)',
+    url: 'https://thehill.com/policy/healthcare/feed/',
+    off: false,
+    exclusionWords: ['rage', ...nonInformativeTitle],
   },
   {
     name: 'Axios',
@@ -143,7 +139,7 @@ module.exports = [
   {
     name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...fluffyTitle, ...uninterestedGeneral],
+    exclusionWords: [...fluffyTitle, ...uninterestedGeneral, ...nonInformativeTitle],
   },
   {
     name: 'Bellingcat',
