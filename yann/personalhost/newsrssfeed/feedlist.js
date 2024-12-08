@@ -12,8 +12,8 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
-const uninterestedGeneral = ['bouchon', 'dances'];
-// NYT Most Viewed
+const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift'];
+// NYT Most Viewed, Axios
 
 module.exports = [
   {
@@ -94,7 +94,8 @@ module.exports = [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
       'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
-      'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle
+      'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle,
+      ...uninterestedGeneral,
     ],
   },
   {
