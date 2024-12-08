@@ -1,11 +1,9 @@
 # Medicine has lost it’s scientific integrity
 [draft article]
 
-Yes, please, people who aren’t to focused on the research or are new. Being written in a scientific journal does not mean something is true.
-
-I can’t believe a portion of the people publishing studies on [#MECFS](https://x.com/hashtag/MECFS?src=hashtag_click) actively think it is the same thing as burnout. How uninformed must you be… And of course governments choose to fund them because their “research” fits the narrative that pwME are lazy. Utter Delusion.
-
 ## Low Quality
+* Being written in a scientific journal does not mean something is true. Often single poor studies used to trick laymen into believing treatments and such.
+
 This is more of a “my person experience” rant then a high quality discussion as I don’t have the energy for the latter right now, but here goes:  
   
 Why do a chunk of published studies in ME/LC feel absolutely worthless? Why is it almost easy to find errors in published papers in this discipline? Why do the descriptions of the illness in the literature tend to be littered with inaccuracies, sometimes even misspellings of the name and unfamiliarity with the diagnosis criteria? Why do the large majority of papers overstate their findings, and have abstracts containing unsupported claims? Why do many papers pretend to be in a sort of void (ie. tested a couple blood markers and found no difference with controls => conclusion: Long COVID is probably psychological, completely ignoring the mountain of research showing biological abnormalities)?  
@@ -29,3 +27,9 @@ Science is about innovation, about challenging long-held beliefs. But at least i
 The way I see it medicine is not a science. It’s a heirarchical culture formed around interpretions on how to apply a science “huaman biology”. In medical training, students are not taught critical thinking or how to slow down and think about things, they are taught how to follow protocols and guidelines, extsensive memorisation, how to make split second decisions, etc.
 
 At the end of the day, medicine is based around a culture of conformity and a heirachy, cohesion is very much valued, to the point we commonly see people reject sound scientific evidence in favour of conforming the culture’s majority opinion. We very much saw it with BPS, when a few very powerful people at the top of the medical heirarchy completely convinced most practitioners ME is psychsomatic. There’s a reason established norms stick around for decades in the medical system, long after scientific evidence has wholly disproven them
+
+## Conflicts of Interest
+I can’t believe a portion of the people publishing studies on [#MECFS](https://x.com/hashtag/MECFS?src=hashtag_click) actively think it is the same thing as burnout. How uninformed must you be… And of course governments choose to fund them because their “research” fits the narrative that pwME are lazy. Utter Delusion.
+
+> My view on bias is that patients are less likely to introduce bias than academics. Patients have a single interest – finding out the mechanism of their illness and how to treat it – not a conflict of interest. In contrast, academics have conflicting interests in personal advancement through publications, grants, fees from insurance companies, promotion with salary enhancements, honours from royalty and goodness knows what! Patients may make unwise decisions about backing research through ignorance of biology but that is a different issue (and academics do that too). 
+[Source Jonathan Edwards](https://www.qeios.com/read/W3Q720)
