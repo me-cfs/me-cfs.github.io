@@ -153,7 +153,7 @@ module.exports = [
   {
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
-    inclusionWords: ['microbiology', 'anarchism'],
+    inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
   },
 ];
 
