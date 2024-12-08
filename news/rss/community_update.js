@@ -24,7 +24,7 @@ async function filterAndUpdateFeed() {
     let localFeed = await loadLocalFeed(localFile);
 
     // filter all items for various criteria. Passed items included in newItemd
-    const newItems = filterItems(uniqueFeedItems, localFeed);
+    const newItems = filterItems(uniqueFeedItems, localFeed, addAuthorTitle);
 
     // Add new items to the localFeed
     newItems.forEach(item => addItemToLocalFeed(item, localFeed));
