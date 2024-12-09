@@ -25,13 +25,14 @@ const activism = ['protest', 'rights'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities'];
-// Amnesty Intl, Human Rights Watch
+// Amnesty Intl, Human Rights Watch, Jacobin
 const environment = ['greenwashing'];
 const important = ['genocide'];
-const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia'];
-// Amnesty Intl. Human Rights Watch
+const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
+// Amnesty Intl. Human Rights Watch, Semafor
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
-const people = ['Bernie', 'Sandwrs'];
+const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
+// Semafor
 const scienceResearch = ['science', 'astrobio'];
 const technology = ['open-source', 'sattelite'];
 
@@ -178,6 +179,11 @@ module.exports = [
     inclusionWords: ['disability', 'science'],
   },
   {
+    name: 'Arstechnica',
+    url: 'https://feeds.arstechnica.com/arstechnica/index',
+    inclusionWords: ['sattelite', 'open-source'],
+  },
+  {
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
@@ -187,20 +193,20 @@ module.exports = [
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...disability, ...location, ...ukraineRussia],
   },
+  {
+    name: 'Jacobin',
+    url: 'https://jacobinmag.com/feed/',
+    inclusionWords: ['Suicide', ...disability],
+  },
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...activism],
   },
   {
-    name: 'Arstechnica',
+    name: 'Semafor',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
-    inclusionWords: ['sattelite', 'open-source'],
-  },
-  {
-    name: 'Jacobin',
-    url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Disability', 'Suicide'],
+    inclusionWords: [...location, ...people],
   },
   {
     name: 'Propublica',
