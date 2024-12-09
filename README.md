@@ -17,7 +17,7 @@ Hi I'm Yann and I have very severe ME/CFS from a covid infection. I'm bedridden,
 * [ME/CFS Resources](useful-resources.md)
 
 **Commonly Visited**
-* [How to Help (Advocacy Masterlist)](how-to-help.md)
+* [How to Help (Advocacy Masterlist)](https://me-cfs.github.io/resources/advocacy/)
 * [ME/LC News](https://me-cfs.github.io/news/community/)
 * [What is ME/CFS?](me-cfs.md)
 
