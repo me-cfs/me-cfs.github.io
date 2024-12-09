@@ -9,15 +9,17 @@ Media uses “chronic fatigue” without the syndrome
 See blog post: [A misrepresented illness, more PEM less fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
 
 ## Doublespeak
-“Holistic” meaning “psychological” and “biopsychosocial” meaning “psychosocial” is the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
-
-"healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc.
-
-I think this was said in another thread, but it’s “shrödinger’s somatic symptom”. When it is used between professionals, it nearly always means psychogenic, but when a patient asks what it means, the doctor will say physical.
-
 “BPS” when used by psychosomatisers is such an Orwellian twisting of words.
 
 There’s nothing “bio” about their beliefs, it’s all psychosocial, but by having “bio” in the name, they claim to be the “moderate” middle ground while the “extremist” “activists” claim the illness is entirely biological.
+
+“Holistic” meaning “psychological”
+
+these are the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
+
+it’s “shrödinger’s somatic symptom”. When it is used between professionals, it nearly always means psychogenic, but when a patient asks what it means, the doctor will say physical.
+
+"healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc. (All terms that sound innocent on their own but are used with negative connotations)
 
 ### Functional
 Functional
@@ -32,8 +34,6 @@ Reminds me of Nath that keeps on saying pwME are “complaining” about X, Y, Z
 PEM is not a “subjective” worsening of symptoms. PEM is an objective worsening of the entire illness, including symptoms, and functional baseline (capacity for triggering more PEM.) Sometimes it does not go away and leads to a permanent worsening of the condition.
 
 We need this paradigm shift in the literature. Without it PEM is dismissed as subjective “complaints” about symptoms post-exertion. This has been done for decades to support exercise therapy, and is now (in 2024!) being pushed by the NIH with “effort preference”.
-
-i found something i wrote a couple months ago which touches on the ignoring of pem you and i were talinf about:
 
 I feel like the discourse, the research, and pretty much everything and anything around Long COVID and ME focuses on the “symptoms” and not the functional disability.
 
