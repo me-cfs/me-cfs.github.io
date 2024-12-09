@@ -15,7 +15,7 @@ filename: useful-resources.md
 * [How to Keep upto date with ME/LC](https://me-cfs.github.io/news/)
 
 **How can I help? How can I advocate?**
-* [Advocacy Masterlist](how-to-help.md)
+* [Advocacy Masterlist](https://me-cfs.github.io/resources/advocacy/)
 
 **Why so many names? Why not just CFS?**
 * [Explanation of the naming](https://www.s4me.info/threads/the-name-question.332/) -- ME or ME/CFS is preferred.
