@@ -21,6 +21,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 
 // inclusionLists
 const activism = ['protest', 'rights'];
+// Motherjones
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities'];
@@ -184,12 +185,12 @@ module.exports = [
  {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
-    inclusionWords: ['US', ...disability, ...location, ...ukraineRussia],
+    inclusionWords: [...disability, ...location, ...ukraineRussia],
   },
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: ['protest', 'rights'],
+    inclusionWords: [...activism],
   },
   {
     name: 'Arstechnica',
