@@ -20,19 +20,23 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 // Axios
 
 // inclusionLists
-const activism = ['protest', 'rights', 'gulag'];
+const activism = ['protest', 'rights'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities'];
-// Amnesty Intl.
+// Amnesty Intl, Human Rights Watch
 const environment = ['greenwashing'];
 const important = ['genocide'];
-const location = ['idaho', 'france', 'switzerland', 'fiji'];
-// Amnesty Intl.
+const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia'];
+// Amnesty Intl. Human Rights Watch
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
 const people = ['Bernie', 'Sandwrs'];
 const scienceResearch = ['science', 'astrobio'];
 const technology = ['open-source', 'sattelite'];
+
+// topical
+const ukraineRussia = ['ukraine', 'russia', 'gulag'];
+// Human Rights Watch
 
 module.exports = [
     {
@@ -176,6 +180,11 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
+  },
+ {
+    name: 'Human Rights Watch',
+    url: 'https://feeds.feedburner.com/motherjones/main',
+    inclusionWords: ['US', ...disability, ...location, ...ukraineRussia],
   },
  {
     name: 'Motherjones',
