@@ -12,9 +12,9 @@ const singleCrime = ['assault', 'rape'];
 // BBC Australia
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical'];
 // Axios, BBC (Australia), NYT Most Viewed
-const uninterestedPeople = ['Taylor Swift', 'Austin Tice'];
+const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
 // Axios
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football'];
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets'];
 // Axios
 
 // inclusionLists
