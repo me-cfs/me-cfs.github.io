@@ -53,6 +53,8 @@ It’s much more profitable to have to “treat” every single symptom a chroni
 
 Symptomatic treatment is like best case scenario for pharmaceutical profits. You have drugs that don’t fix the illness (so lifetime customers) and your drugs are generic and treat only symptoms, you you have a large and diverse market.
 
+https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html
+
 ## Patients as Activists
 Painting Patients as untrustworthy, therefore our agency to define our experiences is removed.
 
