@@ -220,4 +220,5 @@ const off = [
     // Paywalled
   },
   // Reuters: haven't forgiven them for probelmatic Tuller article
+  // Wired: Paywalled
 ];
