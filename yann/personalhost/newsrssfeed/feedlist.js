@@ -183,7 +183,7 @@ module.exports = [
   },
  {
     name: 'Human Rights Watch',
-    url: 'https://feeds.feedburner.com/motherjones/main',
+    url: 'https://www.hrw.org/rss',
     inclusionWords: ['US', ...disability, ...location, ...ukraineRussia],
   },
  {
