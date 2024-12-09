@@ -6,7 +6,7 @@ An ever expanding list of things patients, advocates, allies or anyone else can 
 <br/>
 ## Doctors
 ### Teach your doctor
-Teach your doctor about [ME/CFS](me-cfs.md). Send them [ME/CFS Resources for Clinicians](clinical-resources.md).
+Teach your doctor about [ME/CFS](https://me-cfs.github.io/me-cfs.html). Send them [ME/CFS Resources for Clinicians](https://me-cfs.github.io/clinical-resources.html).
 ### Report Harmful Doctors
 A lot of doctors do not know much about ME/CFS. That is not a reason to report them. However a small minority of doctors will prescribe harmful treatments (such as exercise), or give harmful advice and refuse to reconsider/learn when presented with evidence to the contrary. This is unacceptable and should be reported for the safety of all future ME/CFS patients.
 ### Correct Misdiagnoses
@@ -14,7 +14,7 @@ If you were misdiagnosed with something that should have been ME or Long Covid, 
 
 ## Friends and Family
 ### Inform them
-Explain to them [what ME/CFS is](me-cfs.md) and why it matters. 
+Explain to them [what ME/CFS is](https://me-cfs.github.io/me-cfs.html) and why it matters. 
 
 ## Fundraising
 ### Where to Donate
@@ -35,7 +35,7 @@ My recommendation on "cost-effective" charities:
   * As of December 2024, their chair Neil Reiley has denied experiences of severe people and recommended harmful "treatments" ([See Petition](https://www.change.org/p/me-association-chair-neil-riley-must-step-down?recruited_by_id=25979f70-b27b-11ef-9380-55a94ca74c63&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_medium=copylink))
 </details>
 
-If unsure about any organisation, please ask about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
+If unsure about any organisation, please ask about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). Some organisations are are harmful or use their funds poorly.
 
 
 
