@@ -205,7 +205,7 @@ module.exports = [
   },
   {
     name: 'Semafor',
-    url: 'https://feeds.arstechnica.com/arstechnica/index',
+    url: 'https://www.semafor.com/rss.xml',
     inclusionWords: [...location, ...people],
   },
   {
