@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Finding Hope in an Age of Resentment (NYT -- Krugmann)</title>
+      <link>https://www.nytimes.com/2024/12/09/opinion/elites-euro-social-media.html</link>
+      <author>NYT -- Krugmann</author>
+      <guid>https://www.nytimes.com/2024/12/09/opinion/elites-euro-social-media.html</guid>
+      <pubDate>Mon, 09 Dec 2024 22:00:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Succession drama: Rupert Murdoch loses court bid to leave son media empire (Axios)</title>
       <link>https://www.axios.com/2024/12/09/rupert-murdoch-family-trust-fox-lachlan</link>
       <author>Axios</author>
@@ -1438,13 +1445,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/04/us/school-shooting-oroville-california.html</guid>
       <pubDate>Thu, 05 Dec 2024 15:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil national approuve le budget 2025</title>
-      <link>https://www.rts.ch/info/suisse/2024/minute-par-minute/28713207.html?rts_source=rss_t</link>
-      <author>RTS Headlines</author>
-      <guid>28713207</guid>
-      <pubDate>Thu, 05 Dec 2024 15:16:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
