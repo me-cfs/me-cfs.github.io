@@ -30,7 +30,7 @@ My recommendation on "cost-effective" charities:
 <details markdown="1">
   <summary>Charities to Avoid</summary>
 * Long COVID Action Project (UK)
-  * [See my blog post](https://me-cfs.github.io/lcap.html)
+  * [See my blog post](https://me-cfs.github.io/LCAP.html)
 * ME Association (UK)
   * As of December 2024, their chair Neil Reiley has denied experiences of severe people and recommended harmful "treatments" ([See Petition](https://www.change.org/p/me-association-chair-neil-riley-must-step-down?recruited_by_id=25979f70-b27b-11ef-9380-55a94ca74c63&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_medium=copylink))
 </details>
