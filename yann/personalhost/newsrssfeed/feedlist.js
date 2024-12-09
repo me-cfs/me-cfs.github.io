@@ -9,7 +9,7 @@ const nonArticle = ['podcast', 'quiz'];
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about',
 ];
-// Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
+// Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
 // BBC Australia
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus'];
@@ -48,7 +48,7 @@ module.exports = [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
       'Simone', 'Warner', 'soccer',
-      'Why the', ...fluffyTitle,
+      'Why the', ...fluffyTitle, ...nonInformativeTitle,
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
       'Sunday Snapshot',
     ],
