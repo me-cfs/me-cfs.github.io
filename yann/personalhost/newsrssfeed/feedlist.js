@@ -96,10 +96,10 @@ module.exports = [
     name: 'Huffington Post',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral],
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral, ...nonInformativeTitle],
   },
   {
-    name: 'Krugman - NYT',
+    name: 'NYT -- Krugmann',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
     off: false,
   },
