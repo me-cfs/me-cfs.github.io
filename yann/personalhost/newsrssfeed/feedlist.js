@@ -6,6 +6,7 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
+// Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about',
 ];
@@ -74,6 +75,13 @@ module.exports = [
     off: false,
   },
   {
+    name: 'Fivethirtyeight',
+    url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
+    off: false,
+    exclusionWords: [...nonArticle],
+    cutoffDate: new Date('2024-12-10')
+  },
+  {
     name: 'Politico EUROPE',
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
     off: false,
@@ -115,12 +123,6 @@ module.exports = [
     name: 'Economist',
     url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
     off: false,
-  },
-  {
-    name: 'Fivethirtyeight',
-    url: 'https://politepol.com/fd/YfE8PdyBSYNz.xml',
-    off: false,
-    exclusionWords: ['podcast', 'quiz'],
   },
   {
     name: 'The Hill (Climate Change)',
