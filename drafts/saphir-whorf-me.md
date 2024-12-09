@@ -15,11 +15,11 @@ There’s nothing “bio” about their beliefs, it’s all psychosocial, but by
 
 “Holistic” meaning “psychological”
 
-these are the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
-
 it’s “shrödinger’s somatic symptom”. When it is used between professionals, it nearly always means psychogenic, but when a patient asks what it means, the doctor will say physical.
 
 "healing”, “medically-unexplained”, “rewire your brain”, “software not hardware” etc. (All terms that sound innocent on their own but are used with negative connotations)
+
+these are the kind of linguistic tricks the people oppressing us have continually used to keep credibility.
 
 ### Functional
 Functional
