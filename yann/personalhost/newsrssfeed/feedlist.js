@@ -10,8 +10,8 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
 // Hill Climate, Hill Healthcare. NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
 // BBC Australia
-const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical'];
-// Axios, BBC (Australia), NYT Most Viewed
+const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus'];
+// Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
 // Axios
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets'];
@@ -85,15 +85,16 @@ module.exports = [
     off: false,
   },
   {
-    name: 'WorldPost (Huffington)',
-    url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
-    off: false,
-    exclusionWords: ['hilarious', 'spirit of', 'most beautiful'],
-  },
-  {
-    name: 'Monbiot Guardian',
+    name: 'Guardian -- George Monbiot',
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
     off: false,
+  },
+  {
+    // Huffington Post (World Post)
+    name: 'Huffington Post',
+    url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
+    off: false,
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral],
   },
   {
     name: 'Krugman - NYT',
