@@ -7,7 +7,7 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
 // NYT Most Viewed, Axios
 const nonArticle = ['podcast', 'quiz'];
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
-    'how it happened'
+    'how it happened', 'know about',
 ];
 // Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
