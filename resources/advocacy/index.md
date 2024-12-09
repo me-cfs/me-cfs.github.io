@@ -19,11 +19,25 @@ Explain to them [what ME/CFS is](me-cfs.md) and why it matters.
 ## Fundraising
 ### Where to Donate
 My recommendation on "cost-effective" charities:
-* Research, [Open Medicine Foundation](https://www.omf.ngo)
+* Research, [ME Research UK](https://www.meresearch.org.uk) (based in UK but funds research around the world)
 * Advocacy, [MEAction](https://www.meaction.net)
 * Both, your local/national ME organisation (make sure to vet them)
+<details markdown="1">
+  <summary>Other Popular Choices</summary>
+* [Open Medicine Foundation](https://omf.ngo/)
+  * While they are a solid choice, I think they aren't very good at sharing research results or publishing negative findings, in fact as of december 2024 they have an average 2 million donation per study published.
+</details>
+<details markdown="1">
+  <summary>Charities to Avoid</summary>
+* Long COVID Action Project (UK)
+  * [See my blog post](https://me-cfs.github.io/lcap.html)
+* ME Association (UK)
+  * As of December 2024, their chair Neil Reiley has denied experiences of severe people and recommended harmful "treatments" ([See Petition](https://www.change.org/p/me-association-chair-neil-riley-must-step-down?recruited_by_id=25979f70-b27b-11ef-9380-55a94ca74c63&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_medium=copylink))
+</details>
 
 If unsure about any organisation, please ask about them in a community with informed users, such as the [Science for ME Forum](https://s4me.info). [Some organisations](LCAP.md) are harmful or use their funds poorly.
+
+
 
 ### Membership
 By paying a small fee to be a member of your chosen organisation, you get some benefits and help fund their efforts. 
@@ -51,6 +65,14 @@ It is rare for news sources to not make mistakes when reporting on ME. If you sp
 
 ### Tell your story
 Contact your local news source explaing your story and why it would make a good news bit.
+
+### Write about ME/CFS
+There are plenty of citizen journalism news websites that get a considerable about of traffic. Consider writing for them to advocate ME/LC.
+<details markdown="1">
+  <summary>Some Websites</summary>
+
+* UK: [Bylines Network](https://bylinesnetwork.co.uk/volunteer/)
+</details>
 
 ## Online Knowledge
 ### Improve Wikipedia's References to ME/CFS
