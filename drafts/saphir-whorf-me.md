@@ -61,9 +61,11 @@ Painting Patients as untrustworthy, therefore our agency to define our experienc
 ## Focusing on "positivity"
 People and the media love focusing on "positive" stories and recovery stories because they are feel good.
 Also people who are able to share their experiences have most likely recovered.
-They are systemically biased towards positivity
+They are systemically biased towards positivity.
 
 https://bsky.app/profile/chromatowski.bsky.social/post/3lck64xmuts22
+
+When our real experiences and struggles are negated under the guise of "positivity" it becomes a problem.
 
 ## Conforming to Concepts healthy People can Understand
 
