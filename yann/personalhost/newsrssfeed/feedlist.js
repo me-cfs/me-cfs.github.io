@@ -13,8 +13,10 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape'];
 // BBC Australia
-const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus'];
-// Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed
+const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
+    
+];
+// Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed, RTS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
 // Axios
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets'];
@@ -137,14 +139,15 @@ module.exports = [
     exclusionWords: ['rage', ...nonInformativeTitle],
   },
   {
-    name: 'RTS Headlines',
-    url: 'https://www.rts.ch/info/suisse?format=rss/news',
-    off: false,
-    exclusionWords: ['bouchon', 'pour vous?'],
-  },
-  {
     name: 'ME/LC News',
     url: 'https://me-cfs.github.io/news/rss/community.xml',
+  },
+  {
+    // headlines
+    name: 'RTS',
+    url: 'https://www.rts.ch/info/suisse?format=rss/news',
+    off: false,
+    exclusionWords: [...uninterestedGeneral, 'pour vous?'],
   },
   {
     name: 'The Athletic Football',
