@@ -2,11 +2,11 @@
 [draft article] 
 
 ## It’s all tiredness
-NHS calling ME “chronic tiredness syndrome”. What’s next, persistent yawning delirium?
+Simplification of an entire illness into the concept of fatigue.
+* NHS calling ME “chronic tiredness syndrome”. (What’s next, persistent yawning delirium?)
+* Media uses “chronic fatigue” without the syndrome
 
-Media uses “chronic fatigue” without the syndrome
-
-See blog post: [A misrepresented illness, more PEM less fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
+See blog draft: [A misrepresented illness, more PEM less fatigue](https://me-cfs.github.io/drafts/misrepresented-fatigue-pem.html)
 
 ## Doublespeak
 “BPS” when used by psychosomatisers is such an Orwellian twisting of words.
@@ -24,17 +24,17 @@ it’s “shrödinger’s somatic symptom”. When it is used between profession
 ### Functional
 Functional
 
-Specific Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
+Specific Drafr Article: [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical” ](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
 ## Symptoms as subjective complaints
 Reminds me of Nath that keeps on saying pwME are “complaining” about X, Y, Z instead of a more obvious “suffering from” or “experiencing”.
 
-“bothersome” “complaints”
+* "bothersome” “complaints”
 
-PEM is not a “subjective” worsening of symptoms. PEM is an objective worsening of the entire illness, including symptoms, and functional baseline (capacity for triggering more PEM.) Sometimes it does not go away and leads to a permanent worsening of the condition.
+PEM defined as a “subjective” worsening of symptoms. 
+But patient expierence is PEM is a worsening of the entire illness, including symptoms, and functional baseline (capacity for triggering more PEM.) Sometimes it does not go away and leads to a permanent worsening of the condition.
 
-We need this paradigm shift in the literature. Without it PEM is dismissed as subjective “complaints” about symptoms post-exertion. This has been done for decades to support exercise therapy, and is now (in 2024!) being pushed by the NIH with “effort preference”.
-
+### The Problem with Overfocusing on Symptoms
 I feel like the discourse, the research, and pretty much everything and anything around Long COVID and ME focuses on the “symptoms” and not the functional disability.
 
 I am not disabled by symptoms alone; I am disabled by a profound functional limitation driven by post-exertional malaise (PEM). The primary barrier isn’t the severity of individual symptoms but the inability to exert beyond a narrow threshold without severe consequences.
