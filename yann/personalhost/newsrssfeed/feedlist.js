@@ -42,8 +42,8 @@ module.exports = [
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
       'Simone', 'LeBron', 'NBA', 'NFL', 'Warner', 'soccer',
       'GOAT', 'Glow Up', 'How much', 'What to know', ...fluffyTitle,
-      ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports,
-      
+      ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
+      'Sunday Snapshot',
     ],
   },
   {
