@@ -30,7 +30,7 @@ _Listen to:_
 * [ME/CFS in mainstream news](https://me-cfs.github.io/news/collection/mainstream.html)
 * [ME/CFS Resources](useful-resources.md)
 * [ME/CFS News](https://me-cfs.github.io/news/community/)
-* [How to help](how-to-help.md)
+* [How to help](https://me-cfs.github.io/resources/advocacy/)
 <br/><br/><br/>
 
 ---
