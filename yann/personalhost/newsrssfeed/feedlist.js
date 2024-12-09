@@ -24,9 +24,10 @@ const activism = ['protest', 'rights'];
 // Motherjones
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
-const disability = ['disability', 'assisted suicide', 'disabilities'];
-// Amnesty Intl, Human Rights Watch, Jacobin
-const environment = ['greenwashing'];
+const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
+// Amnesty Intl, Human Rights Watch, Jacobin, PublicEye
+const environment = ['greenwashing', 'pesticides interdits', 'greenwashing'];
+// PublicEye
 const important = ['genocide'];
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
 // Amnesty Intl. Human Rights Watch, Semafor
@@ -34,7 +35,8 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer']
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // Semafor
 const scienceResearch = ['science', 'astrobio'];
-const technology = ['open-source', 'sattelite'];
+const technology = ['open-source', 'sattelite', 'bluesky'];
+// PublicEye
 
 // topical
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
@@ -204,14 +206,19 @@ module.exports = [
     inclusionWords: [...activism],
   },
   {
-    name: 'Semafor',
-    url: 'https://www.semafor.com/rss.xml',
-    inclusionWords: [...location, ...people],
-  },
-  {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
     inclusionWords: ['Medicaid', 'Idaho', 'Coroner', 'Cancer'],
+  },
+  {
+    name: 'Public Eye',
+    url: 'https://www.publiceye.ch/fr/rssNews.xml',
+    inclusionWords: [...technology, ...disability, ...environment],
+  },
+  {
+    name: 'Semafor',
+    url: 'https://www.semafor.com/rss.xml',
+    inclusionWords: [...location, ...people],
   },
   {
     name: 'Znetwork',
