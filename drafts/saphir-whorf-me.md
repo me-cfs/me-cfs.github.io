@@ -65,9 +65,10 @@ They are systemically biased towards positivity
 
 https://bsky.app/profile/chromatowski.bsky.social/post/3lck64xmuts22
 
+## Conforming to Concepts healthy People can Understand
 
-
-
+> 'Boom and bust’ is another example. Very few patients would describe the activity that caused their PEM as a ‘boom’. It can imply they are behaving irresponsibly. They may have simply laughed for a few minutes or sat up and cleaned their teeth.
+https://bsky.app/profile/profmarkfaghy.bsky.social/post/3lcuiqtzgws2a
 
 
 
