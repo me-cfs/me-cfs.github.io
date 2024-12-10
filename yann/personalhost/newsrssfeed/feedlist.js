@@ -146,7 +146,7 @@ module.exports = [
     name: 'The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
-    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbaitTitle],
+    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
   },
   {
     name: 'ME/LC News',
