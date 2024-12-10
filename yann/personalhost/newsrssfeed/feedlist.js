@@ -30,13 +30,14 @@ const activism = ['protest', 'rights'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Human Rights Watch, Jacobin, PublicEye
+// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, PublicEye
 const environment = ['greenwashing', 'pesticides interdits', 'greenwashing'];
 // PublicEye
 const important = ['genocide'];
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
 // Amnesty Intl. Human Rights Watch, Semafor
-const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer'];
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
+// The Disabled Writer
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // Semafor
 const scienceResearch = ['science', 'astrobio'];
@@ -198,6 +199,12 @@ module.exports = [
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
   },
+  {
+    name: 'The Disabled Writer',
+    url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
+    inclusionWords: ['Caretaker', ...disability, 'language', ...medicine, 'symptom'],
+    cutoffDate: new Date('2024-12-11')
+  },
  {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
@@ -229,16 +236,16 @@ module.exports = [
     inclusionWords: [...location, ...people],
   },
   {
-    name: 'Znetwork',
-    url: 'https://znetwork.org/feed/',
-    inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
-  },
-  {
     name: 'Vox',
     url: 'https://www.vox.com/rss/index.xml',
     inclusionWords: ['Public Housing', 'Data', 'gulag'],
     exclusionWords: [...nonInformativeTitle,]
     // probably wont work because they all seem to be nonInformativeTitles
+  },
+  {
+    name: 'Znetwork',
+    url: 'https://znetwork.org/feed/',
+    inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
   },
 ];
 
