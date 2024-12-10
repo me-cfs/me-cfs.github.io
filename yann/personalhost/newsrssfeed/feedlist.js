@@ -3,8 +3,8 @@
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
-const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain'];
-// Axios, NYT Most Viewed
+const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful'];
+// Axios, NYT Most Viewed, Politico EU
 const nonArticle = ['podcast', 'quiz'];
 // Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
@@ -72,25 +72,6 @@ module.exports = [
     exclusionWords: ['assault', 'rape'],
   },
   {
-    name: 'EURACTIV - Circular Economy Mentions',
-    url: 'https://www.euractiv.com/sections/circular-economy/feed/',
-    off: false,
-  },
-  {
-    name: 'Fivethirtyeight',
-    url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
-    off: false,
-    exclusionWords: [...nonArticle],
-    cutoffDate: new Date('2024-12-10')
-  },
-  {
-    name: 'Politico EUROPE',
-    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
-    off: false,
-    urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days'],
-  },
-  {
     name: 'Chapatte Dessins',
     url: 'https://www.chappatte.com/images/feed/',
     off: false,
@@ -103,6 +84,26 @@ module.exports = [
       { original: 'Business', replace: 'The world this week: Business' },
     ],
     off: false,
+  },
+  {
+    name: 'EURACTIV - Circular Economy Mentions',
+    url: 'https://www.euractiv.com/sections/circular-economy/feed/',
+    off: false,
+  },
+  {
+    name: 'Fivethirtyeight',
+    url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
+    off: false,
+    exclusionWords: [...nonArticle],
+    cutoffDate: new Date('2024-12-10')
+  },
+  {
+    // Only Europe
+    name: 'Politico',
+    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
+    off: false,
+    urlBlacklist: ['politico.com'],
+    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle],
   },
   {
     name: 'Guardian -- George Monbiot',
