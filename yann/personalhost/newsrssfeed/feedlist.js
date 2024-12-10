@@ -47,6 +47,8 @@ const technology = ['open-source', 'sattelite', 'bluesky'];
 // PublicEye
 
 // topical
+const buisness = ['merger'];
+// -Axios
 const democraticParty = ['democrat', 'biden', 'kamala'];
 // -crimethinc
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
@@ -60,7 +62,7 @@ module.exports = [
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
-      'Simone', 'Warner', 'soccer',
+      'Simone', 'Warner', 'soccer', ...buisness,
       'Why the', ...fluffyTitle, ...nonInformativeTitle,
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds',
