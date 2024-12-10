@@ -1,8 +1,9 @@
 // feedUrls.js
 
 //exclusionLists
-const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
+const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout'
 ];
+// Hill (Healthcare)
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     
 ];
@@ -134,16 +135,18 @@ module.exports = [
     off: false,
   },
   {
-    name: 'The Hill (Climate Change)',
+    // climate change
+    name: 'The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
     off: false,
     exclusionWords: [...nonInformativeTitle],
   },
   {
-    name: 'The Hill (Healthcare)',
+    // healthcare 
+    name: 'The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
-    exclusionWords: ['rage', ...nonInformativeTitle],
+    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbaitTitle],
   },
   {
     name: 'ME/LC News',
