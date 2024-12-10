@@ -3,7 +3,9 @@
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
-const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful'];
+const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
+    
+];
 // Axios, NYT Most Viewed, Politico EU
 const nonArticle = ['podcast', 'quiz'];
 // Fivethirtyeight
