@@ -7,8 +7,8 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
     
 ];
 // Axios, NYT Most Viewed, Politico EU
-const nonArticle = ['podcast', 'quiz'];
-// Fivethirtyeight
+const nonArticle = ['podcast', 'quiz', 'video'];
+// CrimethInc, Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is',
 ];
@@ -45,8 +45,10 @@ const technology = ['open-source', 'sattelite', 'bluesky'];
 // PublicEye
 
 // topical
+const democraticParty = ['democrat', 'biden', 'kamala'];
+// -crimethinc
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
-// Human Rights Watch
+// +Human Rights Watch
 
 module.exports = [
     {
@@ -198,6 +200,11 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
+  },
+  {
+    name: 'CrimethInc',
+    url: 'https://crimethinc.com/feed',
+    exclusionWords: [...nonArticle, ...democraticParty],
   },
   {
     name: 'The Disabled Writer',
