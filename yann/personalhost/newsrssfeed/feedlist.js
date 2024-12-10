@@ -58,7 +58,7 @@ module.exports = [
       'Simone', 'Warner', 'soccer',
       'Why the', ...fluffyTitle, ...nonInformativeTitle,
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
-      'Sunday Snapshot',
+      'Sunday Snapshot', 'blaze', 'winds',
     ],
   },
   {
