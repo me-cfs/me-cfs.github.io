@@ -3,8 +3,8 @@
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up',
 ];
-const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma'];
-// NYT Most Viewed, Axios
+const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain'];
+// Axios, NYT Most Viewed
 const nonArticle = ['podcast', 'quiz'];
 // Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
