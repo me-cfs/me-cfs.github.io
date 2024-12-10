@@ -258,6 +258,7 @@ module.exports = [
 
 const off = [
   // Hindustan Times: Poor credibility
+  // Mediapart: Paywalled
  {
     name: 'Le Monde Grand Titres',
     url: 'https://politepol.com/fd/j3wSX3mDHgfE.xml',
