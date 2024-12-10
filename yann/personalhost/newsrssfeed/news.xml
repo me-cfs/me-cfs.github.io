@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>With OpenAI's Sora, the AI video flood is here (Axios)</title>
+      <link>https://www.axios.com/2024/12/10/openai-sora-video-genai-release</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/10/openai-sora-video-genai-release</guid>
+      <pubDate>Tue, 10 Dec 2024 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Daniel Penny found not guilty in chokehold death of Jordan Neely on NYC subway (Axios)</title>
       <link>https://www.axios.com/2024/12/10/daniel-penny-nyc-subway-chokehold-jordan-neely-not-guilty</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>RTS</author>
       <guid>28722132</guid>
       <pubDate>Tue, 10 Dec 2024 05:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Luigi Mangione, Suspect in CEO Killing, Withdrew From a Life of Privilege and Promise (NYT Most Viewed)</title>
+      <link>https://www.nytimes.com/2024/12/09/nyregion/united-healthcare-ceo-shooting-luigi-mangione.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/09/nyregion/united-healthcare-ceo-shooting-luigi-mangione.html</guid>
+      <pubDate>Tue, 10 Dec 2024 04:58:17 +0000</pubDate>
     </item>
     <item>
       <title>Gunman Shoots 2 Kindergartners at Rural Christian School in Targeted Attack (NYT Most Viewed)</title>
@@ -1433,20 +1447,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/06/california-mexico-border-newsom-trump</guid>
       <pubDate>Fri, 06 Dec 2024 01:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump-district Democrats put speakership in reach for Hakeem Jeffries</title>
-      <link>https://www.axios.com/2024/12/06/hakeem-jeffries-democrats-trump-districts</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/hakeem-jeffries-democrats-trump-districts</guid>
-      <pubDate>Fri, 06 Dec 2024 01:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Schumer and Johnson in standoff over antisemitism bill</title>
-      <link>https://www.axios.com/2024/12/06/schumer-johnson-antisemitism-vote</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/schumer-johnson-antisemitism-vote</guid>
-      <pubDate>Fri, 06 Dec 2024 01:18:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
