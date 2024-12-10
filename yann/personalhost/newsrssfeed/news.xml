@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/syrie-la-fin-dune-dynastie</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22881</guid>
+      <pubDate>12/11/2024 00:12</pubDate>
+    </item>
+    <item>
+      <title>McConnell "fine" after falling outside Senate GOP meeting (Axios)</title>
+      <link>https://www.axios.com/2024/12/10/mitch-mcconnell-falls-health-senate</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/10/mitch-mcconnell-falls-health-senate</guid>
+      <pubDate>Tue, 10 Dec 2024 19:23:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Le Piolet d'or récompense trois alpinistes romands pour avoir conquis le "Flat Top" (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/piolet-d-or-trois-alpinistes-romands-recompenses-pour-une-premiere-himalayenne-au-flap-top-28723403.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1429,21 +1443,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/eu-vladimir-putin-russia-fuel-imports-india-war-in-ukraine-price-cap-sanction/</guid>
       <pubDate>Fri, 06 Dec 2024 12:18:09 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						French Socialist leader extends olive branch to Macron as talks on next government begin					</title>
-      <link>https://www.politico.eu/article/france-socialist-leader-olivier-faure-holds-olive-branch-emmanuel-macron/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/france-socialist-leader-olivier-faure-holds-olive-branch-emmanuel-macron/</guid>
-      <pubDate>Fri, 06 Dec 2024 12:03:09 -0000</pubDate>
-    </item>
-    <item>
-      <title>Biden ponders preemptive pardons for potential Trump targets</title>
-      <link>https://www.axios.com/2024/12/06/biden-preemptive-pardons-trump-milley-cheney-fauci</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/biden-preemptive-pardons-trump-milley-cheney-fauci</guid>
-      <pubDate>Fri, 06 Dec 2024 11:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
