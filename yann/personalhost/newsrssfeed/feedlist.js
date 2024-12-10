@@ -13,7 +13,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
     'how it happened', 'know about', 'who is',
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
-const singleCrime = ['assault', 'rape'];
+const singleCrime = ['assault', 'rape', 'guilty'];
 // BBC Australia
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
     
