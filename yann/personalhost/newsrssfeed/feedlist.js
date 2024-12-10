@@ -30,12 +30,13 @@ const activism = ['protest', 'rights'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, PublicEye
-const environment = ['greenwashing', 'pesticides interdits', 'greenwashing'];
-// PublicEye
+// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, Orient XXI, PublicEye
+const environment = ['greenwashing', 'pesticides interdits', 'ecocide'];
+// Orient XXI, PublicEye
 const important = ['genocide'];
+// Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
-// Amnesty Intl. Human Rights Watch, Semafor
+// Amnesty Intl. Human Rights Watch, Orient XXI, Semafor
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
 // The Disabled Writer
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
@@ -226,6 +227,11 @@ module.exports = [
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...activism],
+  },
+ {
+    name: 'Orient XXI',
+    url: 'https://orientxxi.info/?page=backend&lang=fr',
+    inclusionWords: [...disability, ...location, ...important, ...environment],
   },
   {
     name: 'Propublica',
