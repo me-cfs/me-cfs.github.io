@@ -190,7 +190,7 @@ module.exports = [
     name: 'The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
     off: false,
-    inclusionWords: [
+    inclusionWords: [...usPolitics],
     exclusionWords: [...nonInformativeTitle],
   },
   {
