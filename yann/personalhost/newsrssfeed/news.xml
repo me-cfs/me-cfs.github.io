@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia PM condemns arson incident and anti-Israel graffiti (BBC - Australia)</title>
+      <link>https://www.bbc.com/news/articles/cdxzqrrrv72o</link>
+      <author>BBC - Australia</author>
+      <guid>https://www.bbc.com/news/articles/cdxzqrrrv72o#0</guid>
+      <pubDate>Wed, 11 Dec 2024 00:35:44 GMT</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/syrie-la-fin-dune-dynastie</link>
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22881</guid>
       <pubDate>12/11/2024 00:12</pubDate>
+    </item>
+    <item>
+      <title>The Memo: Social media sympathy for killing of health insurance CEO sparks pushback (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5033590-healthcare-industry-battles-thompson-murder/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5033590</guid>
+      <pubDate>Tue, 10 Dec 2024 23:49:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump assassination attempt was "preventable," House panel finds (Axios)</title>
+      <link>https://www.axios.com/2024/12/10/trump-assassination-attempt-report</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/10/trump-assassination-attempt-report</guid>
+      <pubDate>Tue, 10 Dec 2024 22:46:06 +0000</pubDate>
     </item>
     <item>
       <title>America's swing to the right in 2024 was wide, if not always deep (Fivethirtyeight)</title>
@@ -1419,27 +1440,6 @@
       <author>Healthcare - The Hill</author>
       <guid>https://thehill.com/?p=5026588</guid>
       <pubDate>Fri, 06 Dec 2024 17:42:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post-election, Democrats are gloomy about the economy and Republicans are optimistic</title>
-      <link>https://www.axios.com/2024/12/06/trump-economy-democrats-republicans-inflation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/trump-economy-democrats-republicans-inflation</guid>
-      <pubDate>Fri, 06 Dec 2024 16:58:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>November's hiring rebound was undercut by workers dropping out of the labor force</title>
-      <link>https://www.axios.com/2024/12/06/labor-market-unemployment-fed-rates</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/labor-market-unemployment-fed-rates</guid>
-      <pubDate>Fri, 06 Dec 2024 16:56:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kicking Beijing out of U.S. telco networks is a lot harder than it sounds</title>
-      <link>https://www.axios.com/2024/12/06/telecom-cybersecurity-china-hack-us</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/06/telecom-cybersecurity-china-hack-us</guid>
-      <pubDate>Fri, 06 Dec 2024 16:47:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
