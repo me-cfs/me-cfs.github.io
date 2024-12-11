@@ -78,7 +78,8 @@ canonical_url: "https://me-cfs.github.io/news/collection/mainstream.html"
 *December 1996*
 
 <span style="font-size:1.4em;"> **The Independant UK:** The disease that makes everyone an expert</span>
-![](files/img/c2eb0a7b-b101-4e7e-9cd0-297b9c55c4a1.jpeg)
+
+<img src="files/img/c2eb0a7b-b101-4e7e-9cd0-297b9c55c4a1.jpeg" alt="The Article">
 The blacked out part contains victim blaming that may be distressing. It can be viewed [here](https://me-cfs.github.io/files/img/IMG_0627.jpeg)
 <br/>
 <br/><br/><br/>
