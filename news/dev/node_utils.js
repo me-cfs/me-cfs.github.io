@@ -6,7 +6,14 @@ fetchFeed()
 extractBaseUrl()
 */
 const Parser = require('rss-parser');
-const parser = new Parser();
+
+const parser = new Parser({
+  requestOptions: {
+    headers: {
+      'User-Agent': 'YannME/1.0 (https://me-cfs.github.io)', // Use a descriptive and polite User-Agent
+    },
+  },
+});
 
 function getOneWeekAgoDate() {
   const date = new Date();
