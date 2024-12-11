@@ -11,7 +11,7 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
 const nonArticle = ['podcast', 'quiz', 'video'];
 // CrimethInc, Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
-    'how it happened', 'know about', 'who is',
+    'how it happened', 'know about', 'who is', 'why',
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape', 'guilty'];
