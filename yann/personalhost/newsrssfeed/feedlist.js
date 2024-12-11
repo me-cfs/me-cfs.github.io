@@ -5,11 +5,11 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
 ];
 // Hill (Healthcare)
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
-    
+    'and the prize for the',
 ];
-// Axios, NYT Most Viewed, Politico EU
+// Axios, Economist, NYT Most Viewed, Politico EU
 const nonArticle = ['podcast', 'quiz', 'video'];
-// CrimethInc, Fivethirtyeight
+// CrimethInc, Economist, Fivethirtyeight
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why',
 ];
@@ -30,17 +30,19 @@ const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Ch
 // Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed, RTS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
 // Axios
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets'];
-// Axios
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket'];
+// Axios, Economist
 
 // inclusionLists
 const activism = ['protest', 'rights'];
 // Motherjones
 const commons = ['open-source', 'public housing'];
 // west england bylines
+const culture = ['anime', 'art'];
+// -Semafor
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines
+// Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines, Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
 // Inside Climate News, Orient XXI, PublicEye
 const important = ['genocide'];
@@ -57,8 +59,8 @@ const technology = ['open-source', 'sattelite', 'bluesky'];
 // PublicEye
 
 // topical
-const buisness = ['merger'];
-// -Axios
+const business = ['merger', 'business'];
+// -Axios, -Economist
 const democraticParty = ['democrat', 'biden', 'kamala'];
 // -crimethinc, +usPolitics
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
@@ -73,7 +75,7 @@ module.exports = [
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
-      'Simone', 'Warner', 'soccer', ...buisness,
+      'Simone', 'Warner', 'soccer', ...business,
       'Why the', ...fluffyTitle, ...nonInformativeTitle,
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds',
@@ -94,6 +96,14 @@ module.exports = [
   {
     name: 'Chapatte Dessins',
     url: 'https://www.chappatte.com/images/feed/',
+    off: false,
+  },
+  {
+    name: 'Economist',
+    url: 'https://feedx.net/rss/economist.xml',
+    exclusionWords: ['in brief', ...nonArticle, ...uninterestedSports, 'culture', ...business, 'obituary', ...fluffyTitle,
+    
+    ],
     off: false,
   },
   {
@@ -138,18 +148,13 @@ module.exports = [
     exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral, ...nonInformativeTitle],
   },
   {
+    name: 'ME/LC News',
+    url: 'https://me-cfs.github.io/news/rss/community.xml',
+  },
+  {
     name: 'NYT -- Krugmann',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
     off: false,
-  },
-  {
-    name: 'Economist',
-    url: 'https://rssfilter-a7aj2utffa-uc.a.run.app/feed?title_reject=Podcast&url=https://feedx.net/rss/economist.xml',
-    off: false,
-  },
-  {
-    name: 'ME/LC News',
-    url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
   {
     // headlines
@@ -280,11 +285,12 @@ module.exports = [
     name: 'Semafor',
     url: 'https://www.semafor.com/rss.xml',
     inclusionWords: [...location, ...people],
+    exclusionwords: [...culture],
   },
   {
     name: 'Vox',
     url: 'https://www.vox.com/rss/index.xml',
-    inclusionWords: ['Public Housing', 'Data', 'gulag'],
+    inclusionWords: ['Public Housing', 'Data', 'gulag', ...disability],
     exclusionWords: [...nonInformativeTitle,]
     // probably wont work because they all seem to be nonInformativeTitles
   },
