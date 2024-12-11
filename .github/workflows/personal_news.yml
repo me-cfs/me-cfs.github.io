@@ -21,6 +21,12 @@ jobs:
       - name: Install dependencies
         run: npm install rss-parser xml2js
 
+      # Debug step: Check RSS feed response with curl
+      - name: Debug RSS Feed with cURL
+        run: |
+          echo "Checking https://znetwork.org/feed/..."
+          curl -I -H "User-Agent: GitHubRSSReader/1.0" https://znetwork.org/feed/
+
       - name: Run update script
         run: node news/rss/community_update.js
         env:
