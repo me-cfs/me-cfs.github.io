@@ -62,7 +62,7 @@ const democraticParty = ['democrat', 'biden', 'kamala'];
 // -crimethinc, +usPolitics
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
 const usPolitics = [...democraticParty, 'GOP', 'Trump'];
-// +The Hill Healthcare, +Human Rights Watch
+// +The Hill Healthcare, +Human Rights Watch, +KFF Health News
 
 module.exports = [
     {
@@ -242,7 +242,7 @@ module.exports = [
   {
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
-    inclusionWords: [...environment, ...science],
+    inclusionWords: [...environment, ...scienceResearch],
   },
   {
     name: 'Jacobin',
