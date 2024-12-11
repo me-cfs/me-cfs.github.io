@@ -198,7 +198,7 @@ module.exports = [
     name: 'The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
-    inclusionWords: [...usPolitics];
+    inclusionWords: [...usPolitics],
     exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
   },
 
