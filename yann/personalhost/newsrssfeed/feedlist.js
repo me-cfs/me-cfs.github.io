@@ -292,6 +292,7 @@ module.exports = [
     name: 'West England Bylines',
     url: 'https://politepol.com/fd/8IDvxrMRKuNI.xml',
     inclusionWords: [...location, ...disability, ...commons],
+    cutoffDate: new Date('2024-12-12'),
   },
   {
     name: 'Znetwork',
