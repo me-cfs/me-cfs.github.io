@@ -37,15 +37,16 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 const activism = ['protest', 'rights'];
 // Motherjones
 const commons = ['open-source', 'public housing'];
+// west england bylines
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, KFF Health, Orient XXI, PublicEye
+// Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
 // Inside Climate News, Orient XXI, PublicEye
 const important = ['genocide'];
 // Orient XXI
-const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
-// Amnesty Intl. Human Rights Watch, Orient XXI, Semafor
+const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
+// Amnesty Intl. Human Rights Watch, Orient XXI, Semafor, Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
 // The Disabled Writer, KFF Health
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
@@ -286,6 +287,11 @@ module.exports = [
     inclusionWords: ['Public Housing', 'Data', 'gulag'],
     exclusionWords: [...nonInformativeTitle,]
     // probably wont work because they all seem to be nonInformativeTitles
+  },
+  {
+    name: 'West England Bylines',
+    url: 'https://politepol.com/fd/8IDvxrMRKuNI.xml',
+    inclusionWords: [...location, ...disability, ...commons],
   },
   {
     name: 'Znetwork',
