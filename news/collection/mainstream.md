@@ -1,5 +1,13 @@
 ---
-title: ME in the News
+title: ME/CFS in the News: A Curated Archive
+tags: 
+  - ME/CFS
+  - Chronic Fatigue Syndrome
+  - Long COVID
+  - Health
+  - News Archive
+  - Mainstream News ME/CFS
+canonical_url: "https://me-cfs.github.io/news/collection/mainstream.html"
 ---
 <!---
 *2024*
@@ -9,7 +17,7 @@ title: ME in the News
 <br/>
 -->
 
-[Late 2024 Note: As of now, this page isn't being updated anymore]
+[This is an archive and therefore won't contain the latest news. [See here](https://me-cfs.github.io/news/) for alternatives]
 
 
 *May 2024*
@@ -66,6 +74,12 @@ title: ME in the News
 
 <span style="font-size:1.4em;"> **[National Geographic](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine):** [For some long covid patients, exercise is bad medicine](https://www.nationalgeographic.com/premium/article/long-covid-patients-exercise-bad-medicine)</span>
 
+<br/>
+*December 1996*
+
+<span style="font-size:1.4em;"> **The Independant UK:** The disease that makes everyone an expert</span>
+![](files/img/c2eb0a7b-b101-4e7e-9cd0-297b9c55c4a1.jpeg)
+The blacked out part contains victim blaming that may be distressing. It can be viewed [here](https://me-cfs.github.io/files/img/IMG_0627.jpeg)
 <br/>
 <br/><br/><br/>
 
