@@ -1,6 +1,6 @@
 # Bias and Trustworthiness of Sources
 
-This part of my website is unrelated to ME/CFS and Long COVID. If you wish to go back to my ME/CFS stuff, [here's a link to the main page](https://me-cfs.github.io/)]
+[This part of my website is unrelated to ME/CFS and Long COVID. If you wish to go back to my ME/CFS stuff, [here's a link to the main page](https://me-cfs.github.io/)]
 
 * [Orientations politiques des journaux français et étrangers - Sciences Po](https://www.integrersciencespo.fr/orientations-politiques-de-la-presse-etrangere-et-francaise/comment-page-3)
 * [Wikipedia Reliable Source Table](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources/Perennial_sources)
