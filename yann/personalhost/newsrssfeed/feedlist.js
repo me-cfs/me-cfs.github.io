@@ -16,6 +16,14 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape', 'guilty'];
 // BBC Australia
+const spanish = [
+  'noticias', 'artículo', 'contenido', 'actualidad', 'español',
+  'últimas', 'política', 'sociedad', 'educación', 'tecnología',
+  'medio ambiente', 'salud pública', 'cultura', 'economía',
+  'internacional', 'latinoamérica', 'iberoamérica', 'hispano', 
+  '¿', '¡'
+];
+// KFF News
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
     
 ];
@@ -31,18 +39,19 @@ const activism = ['protest', 'rights'];
 const commons = ['open-source', 'public housing'];
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, Orient XXI, PublicEye
-const environment = ['greenwashing', 'pesticides interdits', 'ecocide'];
-// Orient XXI, PublicEye
+// Amnesty Intl, Disabled Writer. Human Rights Watch, Jacobin, KFF Health, Orient XXI, PublicEye
+const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
+// Inside Climate News, Orient XXI, PublicEye
 const important = ['genocide'];
 // Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'];
 // Amnesty Intl. Human Rights Watch, Orient XXI, Semafor
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
-// The Disabled Writer
+// The Disabled Writer, KFF Health
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // Semafor
 const scienceResearch = ['science', 'astrobio'];
+// Inside Climate News, 
 const technology = ['open-source', 'sattelite', 'bluesky'];
 // PublicEye
 
@@ -50,9 +59,10 @@ const technology = ['open-source', 'sattelite', 'bluesky'];
 const buisness = ['merger'];
 // -Axios
 const democraticParty = ['democrat', 'biden', 'kamala'];
-// -crimethinc
+// -crimethinc, +usPolitics
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
-// +Human Rights Watch
+const usPolitics = [...democraticParty, 'GOP', 'Trump'];
+// +The Hill Healthcare, +Human Rights Watch
 
 module.exports = [
     {
@@ -137,20 +147,6 @@ module.exports = [
     off: false,
   },
   {
-    // climate change
-    name: 'The Hill',
-    url: 'https://thehill.com/social-tags/climate-change/feed/',
-    off: false,
-    exclusionWords: [...nonInformativeTitle],
-  },
-  {
-    // healthcare 
-    name: 'The Hill',
-    url: 'https://thehill.com/policy/healthcare/feed/',
-    off: false,
-    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
-  },
-  {
     name: 'ME/LC News',
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
@@ -185,8 +181,28 @@ module.exports = [
     url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
     exclusionWords: ['?', 'questions'],
   },
-  
+
+// Depreciation Phase
+
+  { // hill being depreciated because corporate biased and  ownership company donates to the GOP mostpo qwerty
+    // climate change
+    name: 'The Hill',
+    url: 'https://thehill.com/social-tags/climate-change/feed/',
+    off: false,
+    inclusionWords: [
+    exclusionWords: [...nonInformativeTitle],
+  },
+  {
+    // healthcare 
+    name: 'The Hill',
+    url: 'https://thehill.com/policy/healthcare/feed/',
+    off: false,
+    inclusionWords: [...usPolitics];
+    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
+  },
+
 // Testing Phase
+
  {
     name: 'Amnesty International',
     url: 'https://feeds.feedburner.com/motherjones/main',
@@ -224,9 +240,20 @@ module.exports = [
     inclusionWords: [...disability, ...location, ...ukraineRussia],
   },
   {
+    name: 'Inside Climate News',
+    url: 'https://insideclimatenews.org/feed/',
+    inclusionWords: [...environment, ...science],
+  },
+  {
     name: 'Jacobin',
     url: 'https://jacobinmag.com/feed/',
     inclusionWords: ['Suicide', ...disability],
+  },
+  {
+    name: 'KFF Health News',
+    url: 'https://kffhealthnews.org/feed/',
+    inclusionWords: [...disability, ...medicine, ...usPolitics, 'rural', 'aca', 'ada'],
+    exclusionWords: [...spanish],
   },
  {
     name: 'Motherjones',
