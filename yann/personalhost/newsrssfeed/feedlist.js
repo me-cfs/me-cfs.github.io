@@ -9,7 +9,7 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
 ];
 // Axios, Economist, NYT Most Viewed, Politico EU
 const nonArticle = ['podcast', 'quiz', 'video'];
-// CrimethInc, Economist, Fivethirtyeight
+// CrimethInc, Economist, Fivethirtyeight, RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why',
 ];
@@ -68,6 +68,15 @@ const usPolitics = [...democraticParty, 'GOP', 'Trump'];
 // +The Hill Healthcare, +Human Rights Watch, +KFF Health News
 
 module.exports = [
+    {
+    name: 'The Athletic Football',
+    url: 'https://www.nytimes.com/athletic/rss/football/',
+    inclusionWords: [
+      'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
+      'Xhaka', 'Sommer', 'Lausanne', 'Embolo', 'Zakaria', 'Germain',
+    ],
+    exclusionWords: ['USWNT'],
+  },
     {
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
@@ -161,16 +170,7 @@ module.exports = [
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: [...uninterestedGeneral, 'pour vous?'],
-  },
-  {
-    name: 'The Athletic Football',
-    url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: [
-      'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
-      'Xhaka', 'Sommer', 'Lausanne', 'Embolo', 'Zakaria', 'Germain',
-    ],
-    exclusionWords: ['USWNT'],
+    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle],
   },
   {
     name: 'NYT Most Viewed',
