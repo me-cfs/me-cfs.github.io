@@ -5,7 +5,7 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
 ];
 // Hill (Healthcare)
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
-    'and the prize for the',
+    'and the prize for the', 'sandwich problem'
 ];
 // Axios, Economist, NYT Most Viewed, Politico EU
 const nonArticle = ['podcast', 'quiz', 'video'];
