@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s cover (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2024/12/12/this-weeks-cover</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/oia6gqh984h2qpr3fagdtoh474akpatb</guid>
+      <pubDate>Thu, 12 Dec 2024 11:40:09 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						EU visitor centers under scrutiny over spiraling costs and sparse attendance					 (Politico)</title>
       <link>https://www.politico.eu/article/eu-visitor-centers-under-scrutiny-over-spiralling-costs-representation-alessandro-chiocchetti-europa-experience/</link>
@@ -1432,13 +1439,6 @@
       <author>RTS Headlines</author>
       <guid>28720887</guid>
       <pubDate>Sun, 08 Dec 2024 19:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>An N.Y.P.D. Manhunt Caught a Subway Shooter. This Time, It’s Different. (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/07/nyregion/uhc-ceo-manhunt-frank-james.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/07/nyregion/uhc-ceo-manhunt-frank-james.html</guid>
-      <pubDate>Sun, 08 Dec 2024 19:38:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
