@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Missing American freed from Syrian prison (Axios)</title>
+      <link>https://www.axios.com/2024/12/12/travis-timmerman-prisoner-freed-syria-american</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/12/travis-timmerman-prisoner-freed-syria-american</guid>
+      <pubDate>Thu, 12 Dec 2024 19:27:32 +0000</pubDate>
+    </item>
+    <item>
       <title>A December government shutdown looms: Where negotiations stand (Axios)</title>
       <link>https://www.axios.com/2024/12/12/government-shutdown-december-2024-negotiations</link>
       <author>Axios</author>
@@ -1428,13 +1435,6 @@
       <author>The Hill (Healthcare)</author>
       <guid>https://thehill.com/?p=5029971</guid>
       <pubDate>Mon, 09 Dec 2024 15:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Best Movies of 2024 (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/11/30/movies/best-movies-2024.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/11/30/movies/best-movies-2024.html</guid>
-      <pubDate>Mon, 09 Dec 2024 15:41:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
