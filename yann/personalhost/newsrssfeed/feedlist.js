@@ -37,7 +37,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 
 // inclusionLists
 const activism = ['protest', 'rights'];
-// Motherjones
+// Byline Times, Motherjones
 const commons = ['open-source', 'public housing'];
 // west england bylines
 const culture = ['anime', 'art'];
@@ -225,6 +225,11 @@ module.exports = [
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: ['sattelite', 'open-source'],
+  },
+  {
+    name: 'Byline Times',
+    url: 'https://bylinetimes.com/feed/',
+    inclusionWords: [...activism, 'lobbying', 'corperate'],
   },
   {
     name: 'The Conversation',
