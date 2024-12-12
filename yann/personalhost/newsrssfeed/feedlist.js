@@ -14,7 +14,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
     'how it happened', 'know about', 'who is', 'why',
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
-const singleCrime = ['assault', 'rape', 'guilty'];
+const singleCrime = ['assault', 'rape', 'guilty', 'charges with'];
 // BBC Australia
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
@@ -24,6 +24,8 @@ const spanish = [
   '¿', '¡'
 ];
 // KFF News
+const triggers = ['gender dysphoria'];
+// Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
     
 ];
@@ -87,7 +89,7 @@ module.exports = [
       'Simone', 'Warner', 'soccer', ...business,
       'Why the', ...fluffyTitle, ...nonInformativeTitle,
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
-      'Sunday Snapshot', 'blaze', 'winds',
+      'Sunday Snapshot', 'blaze', 'winds', 'charged with'
     ],
   },
   {
@@ -137,14 +139,6 @@ module.exports = [
     cutoffDate: new Date('2024-12-10')
   },
   {
-    // Only Europe
-    name: 'Politico',
-    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
-    off: false,
-    urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful person'],
-  },
-  {
     name: 'Guardian -- George Monbiot',
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
     off: false,
@@ -154,7 +148,7 @@ module.exports = [
     name: 'Huffington Post',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral, ...nonInformativeTitle],
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral, ...nonInformativeTitle, ...triggers],
   },
   {
     name: 'ME/LC News',
@@ -164,6 +158,14 @@ module.exports = [
     name: 'NYT -- Krugmann',
     url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
     off: false,
+  },
+  {
+    // Only Europe
+    name: 'Politico',
+    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
+    off: false,
+    urlBlacklist: ['politico.com'],
+    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful person'],
   },
   {
     // headlines
@@ -304,6 +306,7 @@ module.exports = [
     name: 'Znetwork',
     url: 'https://znetwork.org/feed/',
     inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
+    // seems the feed is not working
   },
 ];
 
