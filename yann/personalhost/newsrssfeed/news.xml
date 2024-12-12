@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia to force tech giants to keep paying for news (BBC - Australia)</title>
+      <link>https://www.bbc.com/news/articles/cy4pvgjklevo</link>
+      <author>BBC - Australia</author>
+      <guid>https://www.bbc.com/news/articles/cy4pvgjklevo#0</guid>
+      <pubDate>Thu, 12 Dec 2024 06:13:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Testez notre parlomètre pour savoir d'où vient votre "parler" romand (RTS)</title>
       <link>https://www.rts.ch/info/regions/2024/article/testez-votre-parler-romand-decouvrez-vos-expressions-locales-28722159.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1434,14 +1441,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-announces-its-total-military-casualties-first-time/</guid>
       <pubDate>Sun, 08 Dec 2024 16:02:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						10 days in Syria that shook the Middle East					</title>
-      <link>https://www.politico.eu/article/ten-syrian-days-that-shook-the-middle-east/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/ten-syrian-days-that-shook-the-middle-east/</guid>
-      <pubDate>Sun, 08 Dec 2024 15:47:21 -0000</pubDate>
     </item>
   </channel>
 </rss>
