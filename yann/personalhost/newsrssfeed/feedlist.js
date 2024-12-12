@@ -213,7 +213,7 @@ module.exports = [
 
  {
     name: 'Amnesty International',
-    url: 'https://feeds.feedburner.com/motherjones/main',
+    url: 'https://www.amnesty.org/en/rss/',
     inclusionWords: ['genocide', ...location, ...disability],
   },
  {
