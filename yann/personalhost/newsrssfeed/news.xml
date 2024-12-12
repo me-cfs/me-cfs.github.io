@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine Parliament Adopts Bill on Legal Status of CRSV Survivors (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2024/12/12/ukraine-parliament-adopts-bill-legal-status-crsv-survivors</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2024/12/12/ukraine-parliament-adopts-bill-legal-status-crsv-survivors</guid>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 -0500</pubDate>
+    </item>
+    <item>
       <title>South Korean President Says Martial Law Was An Act Of Governance And Denies Rebellion Charges (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/south-korea-martial-law-yoon-suk-yeol-televised-statement_n_675a5bade4b073f036990b03</link>
       <author>Huffington Post</author>
@@ -179,6 +186,13 @@
       <author>RTS</author>
       <guid>28721723</guid>
       <pubDate>Wed, 11 Dec 2024 17:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Book Review: ‘The Cure for Women,’ by Lydia Reeder (NYT Most Viewed)</title>
+      <link>https://www.nytimes.com/2024/12/06/books/review/the-cure-for-women-lydia-reeder.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/06/books/review/the-cure-for-women-lydia-reeder.html</guid>
+      <pubDate>Wed, 11 Dec 2024 17:02:29 +0000</pubDate>
     </item>
     <item>
       <title>Exclusive: RFK Jr.'s secret push to prove CIA killed uncle (Axios)</title>
@@ -1428,20 +1442,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/07/us/child-abuse-apple-google-apps.html</guid>
       <pubDate>Sun, 08 Dec 2024 15:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says he will look at pardoning Jan. 6 defendants on first day in office</title>
-      <link>https://www.axios.com/2024/12/08/trump-pardon-jan-6-defendants-first-day</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/08/trump-pardon-jan-6-defendants-first-day</guid>
-      <pubDate>Sun, 08 Dec 2024 15:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump: 'I don't think' access to abortion pills is going to change</title>
-      <link>https://thehill.com/policy/healthcare/5028915-trump-i-dont-think-access-to-abortion-pills-is-going-to-change/</link>
-      <author>Healthcare - The Hill</author>
-      <guid>https://thehill.com/?p=5028915</guid>
-      <pubDate>Sun, 08 Dec 2024 15:37:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
