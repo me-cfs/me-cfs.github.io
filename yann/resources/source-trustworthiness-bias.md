@@ -9,5 +9,5 @@
 * [US Based: Political donations of companies tracker](https://www.goodsuniteus.com)
 
 ### Problematic Tools
-* [Allsides](https://www.allsides.com/unbiased-balanced-news)
+* [Allsides](https://www.allsides.com/unbiased-balanced-news) (pretty much useless because focuses on left-right ratings, not trustworthiness or integrity)
 * [media bias fact check](https://mediabiasfactcheck.com/filtered-search/) (Left right ratings are terrible, but reliability ratings are okay)
