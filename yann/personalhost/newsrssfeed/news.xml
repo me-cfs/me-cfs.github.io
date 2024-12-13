@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>WSJ's Gershkovich publishes first story since release from Russian prison (Axios)</title>
+      <link>https://www.axios.com/2024/12/13/evan-gershkovich-wsj-first-story-release-russia</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/13/evan-gershkovich-wsj-first-story-release-russia</guid>
+      <pubDate>Fri, 13 Dec 2024 12:53:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia Targets Ukrainian Infrastructure With Massive Attack Of Cruise Missiles And Drones (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/russia-ukraine-war_n_675c10fee4b08876deebad74</link>
       <author>Huffington Post</author>
@@ -18,6 +25,20 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-appoints-francois-bayrou-prime-minister/</guid>
       <pubDate>Fri, 13 Dec 2024 12:18:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>La conduite automatisée sera autorisée en Suisse dès le 1er mars 2025 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/conduite-automatisee-en-suisse-des-2025-ce-qui-va-changer-sur-les-routes-28726585.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28726585</guid>
+      <pubDate>Fri, 13 Dec 2024 12:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>A court tossed Nasdaq's diversity rules, but boardrooms have gotten more diverse anyway (Axios)</title>
+      <link>https://www.axios.com/2024/12/13/appeals-court-nasdaqs-diversity-rules</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/13/appeals-court-nasdaqs-diversity-rules</guid>
+      <pubDate>Fri, 13 Dec 2024 12:00:18 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1416,28 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/10/netanyahu-israel-testimony-corruption-trial</guid>
       <pubDate>Tue, 10 Dec 2024 02:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Inside the floating 80s relic that wants to be Britain’s energy future					 (Politico EUROPE)</title>
-      <link>https://www.politico.eu/article/britain-energy-future-hydrogren-oil-gas-rough-centrica-emissions-north-sea/</link>
-      <author>Politico EUROPE</author>
-      <guid>https://www.politico.eu/article/britain-energy-future-hydrogren-oil-gas-rough-centrica-emissions-north-sea/</guid>
-      <pubDate>Tue, 10 Dec 2024 02:30:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump talks ACA, abortion pills on 'Meet the Press' (The Hill (Healthcare))</title>
-      <link>https://thehill.com/newsletters/5031560-trump-talks-aca-abortion-pills-on-meet-the-press/</link>
-      <author>The Hill (Healthcare)</author>
-      <guid>https://thehill.com/?p=5031560</guid>
-      <pubDate>Tue, 10 Dec 2024 02:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senate Republicans give border crackdown top priority in 2025 (Axios)</title>
-      <link>https://www.axios.com/2024/12/10/john-thune-senate-border-budget-deficit-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/10/john-thune-senate-border-budget-deficit-trump</guid>
-      <pubDate>Tue, 10 Dec 2024 01:46:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
