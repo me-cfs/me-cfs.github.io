@@ -37,7 +37,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 
 // inclusionLists
 const activism = ['protest', 'rights'];
-// Byline Times, Motherjones
+// Byline Times, Indian Country Today, Motherjones
 const commons = ['open-source', 'public housing'];
 // west england bylines
 const culture = ['anime', 'art'];
@@ -46,7 +46,7 @@ const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
 // Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines, Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
-// Inside Climate News, Grist, Orient XXI, PublicEye
+// Indian Country Today, Inside Climate News, Grist, Orient XXI, PublicEye
 const important = ['genocide'];
 // Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
@@ -263,9 +263,14 @@ module.exports = [
     inclusionWords: [...disability, ...location, ...ukraineRussia],
   },
   {
-    name: 'Inside Climate News',
+    name: 'Indian Country Today',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...environment, ...scienceResearch],
+  },
+  {
+    name: 'Inside Climate News',
+    url: 'https://indiancountrytoday.com/.rss/full/',
+    inclusionWords: [...environment, ...activism],
   },
   {
     name: 'The Intercept',
