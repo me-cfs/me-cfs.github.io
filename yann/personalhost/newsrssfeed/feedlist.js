@@ -46,7 +46,7 @@ const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
 // Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines, Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
-// Inside Climate News, Orient XXI, PublicEye
+// Inside Climate News, Grist, Orient XXI, PublicEye
 const important = ['genocide'];
 // Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
@@ -71,7 +71,7 @@ const israelPalestine = ['gaza'];
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
 const usPolitics = [...democraticParty, 'GOP', 'Trump'];
-// +The Hill Healthcare, +Human Rights Watch, +KFF Health News
+// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News
 
 module.exports = [
     {
@@ -250,6 +250,12 @@ module.exports = [
     url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
     inclusionWords: ['Caretaker', ...disability, 'language', ...medicine, 'symptom'],
     cutoffDate: new Date('2024-12-11')
+  },
+  {
+    name: 'Grist',
+    url: 'http://feeds.grist.org/rss/gristfeed',
+    off: false,
+    inclusionWords: [...usPolitics, ...environment],
   },
  {
     name: 'Human Rights Watch',
