@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>AOC's bid to lead Oversight Committee becomes left vs. center proxy battle (Axios)</title>
+      <link>https://www.axios.com/2024/12/13/aoc-connolly-oversight-committee-progressives</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/13/aoc-connolly-oversight-committee-progressives</guid>
+      <pubDate>Fri, 13 Dec 2024 19:15:05 +0000</pubDate>
+    </item>
+    <item>
       <title>NJ governor urges Biden to direct more resources to mystery drone investigation (Axios)</title>
       <link>https://www.axios.com/2024/12/13/new-jersey-governor-phil-murphy-drones-biden-investigation</link>
       <author>Axios</author>
@@ -1426,13 +1433,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/brazil-lula_n_675804bae4b013f1cf650231</guid>
       <pubDate>Tue, 10 Dec 2024 09:47:01 -0000</pubDate>
-    </item>
-    <item>
-      <title>With OpenAI's Sora, the AI video flood is here (Axios)</title>
-      <link>https://www.axios.com/2024/12/10/openai-sora-video-genai-release</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/10/openai-sora-video-genai-release</guid>
-      <pubDate>Tue, 10 Dec 2024 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
