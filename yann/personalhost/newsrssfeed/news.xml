@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Conseil fédéral refuse l'impôt sur les grosses successions (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/conseil-federal-rejette-l-impot-sur-les-successions-des-plus-riches-28726799.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28726799</guid>
+      <pubDate>Fri, 13 Dec 2024 13:42:52 GMT</pubDate>
+    </item>
+    <item>
       <title>WSJ's Gershkovich publishes first story since release from Russian prison (Axios)</title>
       <link>https://www.axios.com/2024/12/13/evan-gershkovich-wsj-first-story-release-russia</link>
       <author>Axios</author>
@@ -1430,13 +1437,6 @@
       <author>Politico EUROPE</author>
       <guid>https://www.politico.eu/article/ursula-von-der-leyen-donald-trump-european-commission-joe-biden-liability-white-house-eu-relations/</guid>
       <pubDate>Tue, 10 Dec 2024 02:45:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu takes the stand amid Middle East chaos (Axios)</title>
-      <link>https://www.axios.com/2024/12/10/netanyahu-israel-testimony-corruption-trial</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/10/netanyahu-israel-testimony-corruption-trial</guid>
-      <pubDate>Tue, 10 Dec 2024 02:41:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
