@@ -3,6 +3,7 @@
 ## Specific Shops
 * [Ten thousand Villages (non-profit)](https://www.tenthousandvillages.com)
 * [Oxfam Online Shop, (donated items, all proceeds to Oxfam)](https://onlineshop.oxfam.org.uk)
+* [Global Mamas, fairtrade store by women from Ghana](https://globalmamas.org/)
 
 ## Catalogue/Ratings
 * [UK Based Rating/Recommendation Website](https://www.ethicalconsumer.org)
