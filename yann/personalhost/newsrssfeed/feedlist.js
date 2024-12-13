@@ -65,6 +65,10 @@ const business = ['merger', 'business'];
 // -Axios, -Economist
 const democraticParty = ['democrat', 'biden', 'kamala'];
 // -crimethinc, +usPolitics
+const geopolitics = ['sanctions'];
+// +The intercept
+const israelPalestine = ['gaza']; 
+// +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
 const usPolitics = [...democraticParty, 'GOP', 'Trump'];
 // +The Hill Healthcare, +Human Rights Watch, +KFF Health News
@@ -256,6 +260,11 @@ module.exports = [
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...environment, ...scienceResearch],
+  },
+  {
+    name: 'The Intercept',
+    url: 'https://firstlook.org/theintercept/feed/',
+    inclusionWords: [...geopolitics, ...israelPalestine, "open"],
   },
   {
     name: 'Jacobin',
