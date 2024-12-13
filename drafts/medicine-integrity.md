@@ -33,3 +33,12 @@ I can’t believe a portion of the people publishing studies on [#MECFS](https:/
 
 > My view on bias is that patients are less likely to introduce bias than academics. Patients have a single interest – finding out the mechanism of their illness and how to treat it – not a conflict of interest. In contrast, academics have conflicting interests in personal advancement through publications, grants, fees from insurance companies, promotion with salary enhancements, honours from royalty and goodness knows what! Patients may make unwise decisions about backing research through ignorance of biology but that is a different issue (and academics do that too). 
 [Source Jonathan Edwards](https://www.qeios.com/read/W3Q720)
+
+## Career Intersts
+Science has to stop being about citations, prestige, and career.
+
+But about openness, humility, and collaboration.
+
+We need to stop rewarding people who care more about making a name for themselves and advancing career interests than the rigour of their work.
+
+CC: Simon Wessely, Micheal Sharpe
