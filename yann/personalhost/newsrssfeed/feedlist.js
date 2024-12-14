@@ -169,7 +169,7 @@ module.exports = [
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
     off: false,
     urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful person'],
+    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful'],
   },
   {
     // headlines
