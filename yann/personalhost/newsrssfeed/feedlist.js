@@ -263,12 +263,12 @@ module.exports = [
     inclusionWords: [...disability, ...location, ...ukraineRussia],
   },
   {
-    name: 'Indian Country Today',
+    name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...environment, ...scienceResearch],
   },
   {
-    name: 'Inside Climate News',
+    name: 'Indian Country Today',
     url: 'https://indiancountrytoday.com/.rss/full/',
     inclusionWords: [...environment, ...activism],
   },
