@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>CEOs court Trump (Axios)</title>
+      <link>https://www.axios.com/2024/12/14/zuckerberg-cook-bezos-mar-a-lago-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/14/zuckerberg-cook-bezos-mar-a-lago-trump</guid>
+      <pubDate>Sat, 14 Dec 2024 15:02:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Ex-Soccer Player Becomes Georgia's President In Blow To Its EU Aspirations (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/ex-soccer-player-becomes-georgias-president-in-a-blow-to-its-european-union-aspirations_n_675d84cfe4b0e1241a4171a2</link>
       <author>Huffington Post</author>
@@ -1431,13 +1438,6 @@
       <author>The Hill (Healthcare)</author>
       <guid>https://thehill.com/?p=5032913</guid>
       <pubDate>Tue, 10 Dec 2024 20:07:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luigi Mangione denied bail in Pennsylvania following New York murder charge (Axios)</title>
-      <link>https://www.axios.com/2024/12/10/luigi-mangione-unitedhealthcare-ceo-killing-bail-denied</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/10/luigi-mangione-unitedhealthcare-ceo-killing-bail-denied</guid>
-      <pubDate>Tue, 10 Dec 2024 20:00:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
