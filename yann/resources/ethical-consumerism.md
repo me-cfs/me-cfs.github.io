@@ -9,7 +9,7 @@ tags:
 canonical_url: "https://mecfsadvocacy.org/yann/resources/ethical-consumerism.html"
 ---
   
-[This part of my website is unrelated to ME/CFS and Long COVID. If you wish to go back to my ME/CFS stuff, [here's a link to the main page](https://mecfsadvocacy.org)
+[This part of my website is unrelated to ME/CFS and Long COVID. If you wish to go back to my ME/CFS stuff, [here's a link to the main page](https://mecfsadvocacy.org)]
 
 ## Specific Shops
 * [Ten thousand Villages (non-profit)](https://www.tenthousandvillages.com)
