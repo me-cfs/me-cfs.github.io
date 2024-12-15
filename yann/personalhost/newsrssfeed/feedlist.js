@@ -15,7 +15,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
 const singleCrime = ['assault', 'rape', 'guilty', 'charges with', 'alcohol poisoning'];
-// BBC Australia
+// -BBC Australia, -BBC Fiji
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
   'últimas', 'política', 'sociedad', 'educación', 'tecnología',
@@ -106,7 +106,7 @@ module.exports = [
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
-    exclusionWords: ['assault', 'rape'],
+    exclusionWords: [...singleCrime],
   },
   {
     name: 'Chapatte Dessins',
