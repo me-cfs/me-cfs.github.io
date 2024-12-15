@@ -243,7 +243,7 @@ module.exports = [
   {
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
-    exclusionWords: [...activism, ...geopolitics],
+    inclusionWords: [...activism, ...geopolitics],
   },
   {
     name: 'CrimethInc',
