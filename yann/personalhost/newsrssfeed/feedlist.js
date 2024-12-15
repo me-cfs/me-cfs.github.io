@@ -14,7 +14,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
     'how it happened', 'know about', 'who is', 'why',
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
-const singleCrime = ['assault', 'rape', 'guilty', 'charges with'];
+const singleCrime = ['assault', 'rape', 'guilty', 'charges with', 'alcohol poisoning'];
 // BBC Australia
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
@@ -36,8 +36,8 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 // Axios, Economist
 
 // inclusionLists
-const activism = ['protest', 'rights'];
-// Byline Times, Indian Country Today, Motherjones
+const activism = ['protest', 'rights', 'strike'];
+// +Activism, Byline Times, Indian Country Today, Motherjones
 const commons = ['open-source', 'public housing'];
 // west england bylines
 const culture = ['anime', 'art'];
@@ -46,9 +46,11 @@ const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
 // Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines, Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
-// Indian Country Today, Inside Climate News, Grist, Orient XXI, PublicEye
+// +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
+const geopolitics = ['sanctions', 'five eyes'];
+// *Crikey, +The intercept
 const important = ['genocide'];
-// Orient XXI
+// +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
 // Amnesty Intl. Human Rights Watch, Orient XXI, Semafor, Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
@@ -60,13 +62,11 @@ const scienceResearch = ['science', 'astrobio'];
 const technology = ['open-source', 'sattelite', 'bluesky'];
 // PublicEye
 
-// topical
+// mixedLists
 const business = ['merger', 'business'];
 // -Axios, -Economist
 const democraticParty = ['democrat', 'biden', 'kamala'];
 // -crimethinc, +usPolitics
-const geopolitics = ['sanctions'];
-// +The intercept
 const israelPalestine = ['gaza']; 
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
@@ -239,6 +239,11 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
+  },
+  {
+    name: 'Crikey',
+    url: 'https://www.crikey.com.au/feed/',
+    exclusionWords: [...activism, ...geopolitics],
   },
   {
     name: 'CrimethInc',
