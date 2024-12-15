@@ -176,7 +176,7 @@ module.exports = [
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle],
+    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle, 'insomnie'],
   },
   {
     name: 'NYT Most Viewed',
