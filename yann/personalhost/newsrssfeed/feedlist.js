@@ -159,8 +159,8 @@ module.exports = [
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
   {
-    name: 'NYT -- Krugmann',
-    url: 'https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/column/paul-krugman/rss.xml',
+    name: 'Paul Krugmann',
+    url: 'https://paulkrugman.substack.com/',
     off: false,
   },
   {
