@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Première étape ouverte pour tenter d'obtenir un billet à l'Eurovision (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/eurovision-2024-a-bale-preenregistrement-ouvert-pour-les-billets-28729572.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28729572</guid>
+      <pubDate>Mon, 16 Dec 2024 16:48:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Germany's Olaf Scholz Loses Confidence Vote, Setting Up Early Election (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/germany-olaf-scholz-loses-confidence-vote_n_67604ac9e4b0d06419ec34d1</link>
       <author>Huffington Post</author>
@@ -1433,14 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/12/trump-kari-lake-voice-of-america-director</guid>
       <pubDate>Thu, 12 Dec 2024 04:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU’s new energy chief vows to end Russian fuel ties for good					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-new-energy-chief-vows-end-russian-fuel-dan-jorgensen/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-new-energy-chief-vows-end-russian-fuel-dan-jorgensen/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:05:57 -0000</pubDate>
     </item>
   </channel>
 </rss>
