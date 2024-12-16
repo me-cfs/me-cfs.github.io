@@ -4,10 +4,12 @@
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir'
 ];
 // -Crikey, -Hill (Healthcare)
+const culture = ['anime', 'art'];
+// -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich',
 ];
-// Axios, Economist, NYT Most Viewed, Politico EU
+// -Axios, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video'];
 // CrimethInc, Economist, Fivethirtyeight, RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
@@ -35,36 +37,39 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket'];
 // Axios, Economist
 
+
 // inclusionLists
 const activism = ['protest', 'rights', 'strike'];
 // +Activism, Byline Times, Indian Country Today, Motherjones
 const commons = ['open-source', 'public housing'];
-// west england bylines
-const culture = ['anime', 'art'];
-// -Semafor
+// +west england bylines
+const cybersecurity = ['spyware', 'disinformation'];
+// + Amnesty Intl, Byline Times
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// +Amnesty Intl, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin,
+// +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin,
 // +KFF Health, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32'];
 // +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
 const geopolitics = ['sanctions', 'five eyes'];
 // *Crikey, +The intercept
 const important = ['genocide', 'génocide'];
-// +Equal Times, +Orient XXI, 
+// +AmnestyInternational, +Equal Times, +Orient XXI, 
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
 // The Disabled Writer, KFF Health
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
-// Semafor
+// +Semafor
+const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor'];
+// +Arstechnica, +The Conversation
 const scienceResearch = ['science', 'astrobio'];
-// +Inside Climate News
+// +Ap, +Inside Climate News
 const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde'];
-  // + The Athletic, + The Equal Times
-const technology = ['open-source', 'sattelite', 'bluesky'];
-// +PublicEye
+// + The Athletic, + The Equal Times
+const technology = ['open-source', 'sattelite', 'bluesky', 'large language model'];
+// +Arstechnica, +PublicEye
 
 // mixedLists
 const business = ['merger', 'business'];
@@ -220,27 +225,27 @@ module.exports = [
  {
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
-    inclusionWords: ['genocide', ...location, ...disability],
+    inclusionWords: [...important, ...location, ...disability, ...cybersecurity],
   },
  {
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
-    inclusionWords: ['disability', 'science'],
+    inclusionWords: [...disability, ...scienceResearch],
   },
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
-    inclusionWords: ['sattelite', 'open-source'],
+    inclusionWords: [...technology, ...prehistory],
   },
   {
     name: 'Byline Times',
     url: 'https://bylinetimes.com/feed/',
-    inclusionWords: [...activism, 'lobbying', 'corperate'],
+    inclusionWords: [...activism, 'lobbying', 'corperate', ...cybersecurity],
   },
   {
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
-    inclusionWords: ['microbiology', 'anarchism', 'astrobio'],
+    inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...prehistory],
   },
   {
     name: 'Crikey',
