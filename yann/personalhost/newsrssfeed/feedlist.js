@@ -49,16 +49,20 @@ const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin,
 // +KFF Health, +West England Bylines, +Vox
-const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32'];
+const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat'
+  'fast fashion',
+];
 // +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
 const geopolitics = ['sanctions', 'five eyes'];
 // *Crikey, +The intercept
-const important = ['genocide', 'génocide'];
-// +AmnestyInternational, +Equal Times, +Orient XXI, 
+const important = ['genocide', 'génocide', 'human toll'];
+// +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
+const independenceMovements = ['sahara occidental'];
+// +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
-const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
-// The Disabled Writer, KFF Health
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid'];
+// +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // +Semafor
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor'];
@@ -309,17 +313,17 @@ module.exports = [
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: [...activism],
+    inclusionWords: [...activism, ...important],
   },
  {
     name: 'Orient XXI',
     url: 'https://orientxxi.info/?page=backend&lang=fr',
-    inclusionWords: [...disability, ...location, ...important, ...environment],
+    inclusionWords: [...disability, ...location, ...important, ...environment, ...independenceMovements],
   },
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
-    inclusionWords: ['Medicaid', 'Idaho', 'Coroner', 'Cancer'],
+    inclusionWords: [...medicine, 'Idaho'],
   },
   {
     name: 'Public Eye',
