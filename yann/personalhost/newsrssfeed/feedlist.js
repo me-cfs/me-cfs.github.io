@@ -261,7 +261,7 @@ module.exports = [
   },
   {
     name: 'The Equal Times',
-    url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
+    url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...environment, ...sportsInterested, ...important],
   },
   {
