@@ -60,6 +60,13 @@ Painting Patients as untrustworthy, therefore our agency to define our experienc
 
 “militant” hostile defensiveness "activists"
 
+[From Anonymous S4ME commenter]
+> Media coverage of pwME often positions anyone asking for fairness as an "activist", which has the effect of making us seem radical or extreme.
+> "Campaigner" is a tad more neutral, and "advocate" seems better still. But I would argue that the best approach is to avoid that framing altogether.
+> The reality is, the majority of pwME are asking for the same stuff -- it's not actually just a nebulous group of "activists". Portraying it that way makes those who speak out seem like they're on the fringes, rather than representative of the whole. It also makes the message more impersonal.
+> So the ideal solution would be referring to us as a community/group of people first, and then adding clarity about who else is included, if we're talking about more than just the community directly affected.
+> So, we'd have "people with ME" instead of "ME activists", and if we needed to broaden it, add "and their carers/allies". If talking about specialist clinicians, we'd say "ME specialists" and we could add qualifiers (some, most, 25% of, etc) to be more specific.
+
 ## Focusing on "positivity"
 People and the media love focusing on "positive" stories and recovery stories because they are feel good.
 Also people who are able to share their experiences have most likely recovered.
