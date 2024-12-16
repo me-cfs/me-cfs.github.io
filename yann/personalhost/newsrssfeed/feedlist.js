@@ -1,9 +1,9 @@
 // feedUrls.js
 
 //exclusionLists
-const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout'
+const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir'
 ];
-// Hill (Healthcare)
+// -Crikey, -Hill (Healthcare)
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich',
 ];
@@ -244,6 +244,7 @@ module.exports = [
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
     inclusionWords: [...activism, ...geopolitics],
+    exclusionWords: [...clickbait],
   },
   {
     name: 'CrimethInc',
