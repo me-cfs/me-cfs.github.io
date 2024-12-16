@@ -44,23 +44,27 @@ const culture = ['anime', 'art'];
 // -Semafor
 const dataJournalism = ['data'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// Amnesty Intl, Disabled Writer. Orient XXI, PublicEye, Human Rights Watch, Jacobin, KFF Health, West England Bylines, Vox
-const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution'];
-// +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
+// +Amnesty Intl, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin,
+// +KFF Health, +West England Bylines, +Vox
+const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32'];
+// +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
 const geopolitics = ['sanctions', 'five eyes'];
 // *Crikey, +The intercept
-const important = ['genocide'];
-// +Orient XXI
+const important = ['genocide', 'génocide'];
+// +Equal Times, +Orient XXI, 
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
-// Amnesty Intl. Human Rights Watch, Orient XXI, Semafor, Wdst England Bylines
+// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid'];
 // The Disabled Writer, KFF Health
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // Semafor
 const scienceResearch = ['science', 'astrobio'];
-// Inside Climate News, 
+// +Inside Climate News
+const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
+   'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde'];
+  // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky'];
-// PublicEye
+// +PublicEye
 
 // mixedLists
 const business = ['merger', 'business'];
@@ -77,9 +81,7 @@ module.exports = [
     {
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: [
-      'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
-      'Xhaka', 'Sommer', 'Lausanne', 'Embolo', 'Zakaria', 'Germain',
+    inclusionWords: [...sportsInterested,
     ],
     exclusionWords: ['USWNT'],
   },
@@ -116,8 +118,8 @@ module.exports = [
   {
     name: 'Economist',
     url: 'https://feedx.net/rss/economist.xml',
-    exclusionWords: ['in brief', ...nonArticle, ...uninterestedSports, 'culture', ...business, 'obituary', ...fluffyTitle,
-    
+    exclusionWords: ['in brief', ...nonArticle, ...uninterestedSports, 'culture', ...business,
+       'obituary', ...fluffyTitle,
     ],
     off: false,
   },
@@ -256,6 +258,11 @@ module.exports = [
     url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
     inclusionWords: ['Caretaker', ...disability, 'language', ...medicine, 'symptom'],
     cutoffDate: new Date('2024-12-11')
+  },
+  {
+    name: 'The Equal Times',
+    url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
+    inclusionWords: [...environment, ...sportsInterested, ...important],
   },
   {
     name: 'Grist',
