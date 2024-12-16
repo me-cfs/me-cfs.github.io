@@ -1,0 +1,52 @@
+-- main Sources
+The Athletic Football (just for the teams and countries I support)
+Axios (for general US Politics News)
+BBC (for both summaries of australian and fijian news)
+Chapatte Dessins
+The Economist (news in brief and some of the opinion pieces are interesting)
+Euractiv (for circular economy related news)
+Fivethirtyeigh (For data journalism into US politics)
+Guardian (George Monbiot column)
+Huffington Post (For their worldpost -- worldnews)
+ME/CFS long COVID news feed
+Paul Krugmann's substack
+Politico (only europe)
+RTS (pour les grands titres suisse)
+NYT (just the most viewed articles)
+Bellingcat (for data based investigative journalism£
+Science Based Journalism
+
+-- Sources Being Depreciated
+The Hill (used to use for US related Climate Change and Health news but their editorial stance is bad)
+
+-- Sources Being Added (in testing phase)
+Amnesty International (for human rights)
+AP News (specifically on disability and science)
+Arstechnica (for open source news)
+Byline Times (for a non-corporate UK perspective)
+The Conversation (in relation to medicine and anarchism)
+Crikey (for australian perspectives)
+CrimethINC (for anarchist perspectives)
+The Disabled Writer (a good disability blog)
+Grist (for environmental news)
+Human Rights Watch (for disability related)
+Inside Climate News (for climate related)
+Indian Country Today (indigenous perspective)
+Intercept (investigative journalism)
+Jacobin (leftist perspective)
+KFF Health News (for US health news)
+Motherjones (for activism related)
+Orient XXI (middle eastern perspective)
+Propublica (investigative journalism)
+Public Eye (pour un source suisse critique et investigative)
+Semafor (test a new source)
+Vox (for lefrist data driven takes)
+West England Bylines (interested in the region)
+ZNetwork (anarchist takes)
+
+Sources Stopped Using 
+Hindustan Times (poor integrity)
+Mediapart (paywall)
+Le Monde (paywall)
+Reuters (problematic "investigative" article on ME)
+Wired (paywall)
