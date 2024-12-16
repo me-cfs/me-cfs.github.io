@@ -14,7 +14,7 @@ const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'wha
     'how it happened', 'know about', 'who is', 'why',
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
-const singleCrime = ['assault', 'rape', 'guilty', 'charges with', 'alcohol poisoning'];
+const singleCrime = ['assault', 'rape', 'guilty', 'charges with', 'alcohol poisoning', 'apologise'];
 // -BBC Australia, -BBC Fiji
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
