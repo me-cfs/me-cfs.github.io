@@ -27,7 +27,7 @@ const spanish = [
 const triggers = ['gender dysphoria'];
 // Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
-    
+    'fashion brand',
 ];
 // Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed, RTS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
