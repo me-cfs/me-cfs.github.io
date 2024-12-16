@@ -60,6 +60,8 @@ Painting Patients as untrustworthy, therefore our agency to define our experienc
 
 “militant” hostile defensiveness "activists"
 
+Most ludicrously "anti-recovery activists"
+
 [From Anonymous S4ME commenter]
 > Media coverage of pwME often positions anyone asking for fairness as an "activist", which has the effect of making us seem radical or extreme.
 > "Campaigner" is a tad more neutral, and "advocate" seems better still. But I would argue that the best approach is to avoid that framing altogether.
