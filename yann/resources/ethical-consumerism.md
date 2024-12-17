@@ -28,8 +28,8 @@ canonical_url: "https://mecfsadvocacy.org/yann/resources/ethical-consumerism.htm
 
 ## Specific Shops
 * [Destiny Toro, (small buisness owned by disability rights advocate in Puerto Rico)](https://www.destinytoro.com/) (Sells T-shirts and artsy creations)
-* [Ten thousand Villages (non-profit)](https://www.tenthousandvillages.com)
 * [Oxfam Online Shop, (donated items, all proceeds to Oxfam)](https://onlineshop.oxfam.org.uk)
+* [Ten thousand Villages (non-profit)](https://www.tenthousandvillages.com)
 * [Global Mamas, fairtrade store by women from Ghana](https://globalmamas.org/)
 
 ## Experiences with Shops
