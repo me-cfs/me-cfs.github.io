@@ -46,9 +46,11 @@ const commons = ['open-source', 'public housing'];
 const cybersecurity = ['spyware', 'disinformation'];
 // + Amnesty Intl, Byline Times
 const dataJournalism = ['data'];
-const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé'];
-// +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin,
-// +KFF Health, +West England Bylines, +Vox
+const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
+  
+];
+// +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
+// +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
   'fast fashion'];
 // +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
@@ -64,6 +66,8 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
 // +Semafor
+const politics = [...usPolitics, 'senator'];
+// +SBS News
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor'];
 // +Arstechnica, +The Conversation
 const scienceResearch = ['science', 'astrobio'];
@@ -83,7 +87,7 @@ const israelPalestine = ['gaza'];
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
 const usPolitics = [...democraticParty, 'GOP', 'Trump'];
-// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News
+// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
 module.exports = [
     {
@@ -328,6 +332,11 @@ module.exports = [
     name: 'Public Eye',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
     inclusionWords: [...technology, ...disability, ...environment],
+  },
+  {
+    name: 'SBS News',
+    url: 'https://www.publiceye.ch/fr/rssNews.xml',
+    inclusionWords: [...disability, ...environment],
   },
   {
     name: 'Semafor',
