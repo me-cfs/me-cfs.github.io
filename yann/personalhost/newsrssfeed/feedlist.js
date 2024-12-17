@@ -1,29 +1,31 @@
 // feedUrls.js
 
 // Bottom Lists
-const democraticParty = ['democrat', 'biden', 'kamala'];
+const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
-const usPolitics = [...democraticParty, 'GOP', 'Trump'];
+const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
-
+const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory'];
+// +Arstechnica, +The Conversation, +Science Research
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir'
+  'crazy',
 ];
 // -Crikey, -Hill (Healthcare)
-const culture = ['anime', 'art'];
+const culture = ['anime', 'art', 'manga'];
 // -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
-    'and the prize for the', 'sandwich', 'letter meant for', '5-star',
+    'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
-const nonArticle = ['podcast', 'quiz', 'video'];
+const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
 // CrimethInc, Economist, Fivethirtyeight, RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
-    'how it happened', 'know about', 'who is', 'why',
+    'how it happened', 'know about', 'who is', 'why', 'will the'
 ];
 // Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
-const singleCrime = ['assault', 'rape', 'guilty', 'charges with', 'alcohol poisoning', 'apologise', 'smuggler'];
+const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
 // -BBC Australia, -BBC Fiji
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
@@ -32,65 +34,64 @@ const spanish = [
   'internacional', 'latinoamérica', 'iberoamérica', 'hispano', 
   '¿', '¡'
 ];
-// KFF News
-const triggers = ['gender dysphoria'];
-// Huffington Post
+// -KFF News
+const triggers = ['gender dysphoria', 'Yuppie Flu'];
+// -Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
-    'fashion brand',
+    'fashion brand', 'traffic jam',
 ];
-// Axios, BBC (Australia), Hurfington Post (World Post), NYT Most Viewed, RTS
-const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos',];
+// -Axios, -BBC (Australia), -Hurfington Post (World Post), -NYT Most Viewed, RTS
+const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul'];
 // Axios
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket'];
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees'];
 // Axios, Economist
 
 
 // inclusionLists
-const activism = ['protest', 'rights', 'strike'];
+const activism = ['protest', 'rights', 'strike', 'acivis'];
 // +Activism, Byline Times, Indian Country Today, Motherjones
-const commons = ['open-source', 'public housing'];
+const commons = ['open-source', 'public housing', 'commons'];
 // +west england bylines
-const cybersecurity = ['spyware', 'disinformation'];
-// + Amnesty Intl, Byline Times
-const dataJournalism = ['data'];
+const cybersecurity = ['spyware', 'disinformation', 'astroturf'];
+// + Amnesty Intl, +Byline Times
+const dataJournalism = ['data', 'polling'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
-  
+  'chronic illness',
 ];
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
-  'fast fashion'];
+  'fast fashion', 'global warming',
+  ];
 // +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
-const geopolitics = ['sanctions', 'five eyes'];
+const geopolitics = ['sanctions', 'five eyes', 'brics'];
 // *Crikey, +The intercept
-const important = ['genocide', 'génocide', 'human toll'];
+const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
-const independenceMovements = ['sahara occidental'];
+const independenceMovements = ['sahara occidental', 'catalonia'];
 // +Orient XXI
-const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol'];
+const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
-const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid'];
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital'];
 // +The Disabled Writer, +KFF Health, +Propublica
-const people = ['Bernie', 'Sandwrs', 'Taylor Lorenz'];
+const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const politics = [...usPolitics, 'senator'];
+const politics = [...usPolitics, 'senator', 'election'];
 // +SBS News
-const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor'];
-// +Arstechnica, +The Conversation
-const scienceResearch = ['science', 'astrobio'];
+const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
 const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
-   'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde'];
+   'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
-const technology = ['open-source', 'sattelite', 'bluesky', 'large language model'];
+const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss'];
 // +Arstechnica, +PublicEye
 
 // mixedLists
-const business = ['merger', 'business'];
+const business = ['merger', 'business', 'market value'];
 // -Axios, -Economist
-const israelPalestine = ['gaza']; 
+const israelPalestine = ['gaza', 'palestine']; 
 // +The intercept
-const ukraineRussia = ['ukraine', 'russia', 'gulag'];
+const ukraineRussia = ['ukraine', 'russia', 'gulag', 'putin'];
 
 module.exports = [
     {
