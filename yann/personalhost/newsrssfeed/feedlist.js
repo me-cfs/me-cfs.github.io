@@ -56,7 +56,7 @@ const cybersecurity = ['spyware', 'disinformation', 'astroturf'];
 // + Amnesty Intl, +Byline Times
 const dataJournalism = ['data', 'polling'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
-  'chronic illness',
+  'chronic illness', 'lupus',
 ];
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
@@ -320,7 +320,7 @@ module.exports = [
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: [...activism, ...important],
+    inclusionWords: [...activism, ...important, ...disability],
   },
  {
     name: 'Orient XXI',
