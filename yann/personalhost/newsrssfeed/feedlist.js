@@ -1,5 +1,12 @@
 // feedUrls.js
 
+// Bottom Lists
+const democraticParty = ['democrat', 'biden', 'kamala'];
+// -crimethinc, +usPolitics
+const usPolitics = [...democraticParty, 'GOP', 'Trump'];
+// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
+
+
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir'
 ];
@@ -81,13 +88,9 @@ const technology = ['open-source', 'sattelite', 'bluesky', 'large language model
 // mixedLists
 const business = ['merger', 'business'];
 // -Axios, -Economist
-const democraticParty = ['democrat', 'biden', 'kamala'];
-// -crimethinc, +usPolitics
 const israelPalestine = ['gaza']; 
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag'];
-const usPolitics = [...democraticParty, 'GOP', 'Trump'];
-// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
 module.exports = [
     {
