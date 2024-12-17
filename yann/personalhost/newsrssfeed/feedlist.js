@@ -72,8 +72,10 @@ const independenceMovements = ['sahara occidental', 'catalonia'];
 // +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
-const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital'];
-// +The Disabled Writer, +KFF Health, +Propublica
+const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
+  'brain inflammation',
+];
+// +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
 const politics = [...usPolitics, 'senator', 'election'];
@@ -256,7 +258,7 @@ module.exports = [
   {
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
-    inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...prehistory],
+    inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...prehistory, ...medicine],
   },
   {
     name: 'Crikey',
