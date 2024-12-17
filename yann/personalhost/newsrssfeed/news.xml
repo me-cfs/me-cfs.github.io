@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden's last effort to boost ACA enrollment (Axios)</title>
+      <link>https://www.axios.com/2024/12/17/bidens-affordable-care-act-enrollment</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/17/bidens-affordable-care-act-enrollment</guid>
+      <pubDate>Tue, 17 Dec 2024 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>An Explosion Kills The Head Of Russia’s Nuclear Defense Forces (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/explosion-kills-russia-nuclear-defense-forces-head_n_6761260ee4b0675a6694680c</link>
       <author>Huffington Post</author>
@@ -1439,13 +1446,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/12/ppi-inflation-report-eggs</guid>
       <pubDate>Thu, 12 Dec 2024 17:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump sidesteps his 2020 Israel-Palestine peace plan (Axios)</title>
-      <link>https://www.axios.com/2024/12/12/trump-interview-israel-gaza-peace</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/12/trump-interview-israel-gaza-peace</guid>
-      <pubDate>Thu, 12 Dec 2024 16:44:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
