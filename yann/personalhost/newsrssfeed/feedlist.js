@@ -9,7 +9,7 @@ const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehi
 // +Arstechnica, +The Conversation, +Science Research
 
 //exclusionLists
-const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir'
+const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy',
 ];
 // -Crikey, -Hill (Healthcare)
