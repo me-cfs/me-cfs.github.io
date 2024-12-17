@@ -7,9 +7,9 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
 const culture = ['anime', 'art'];
 // -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
-    'and the prize for the', 'sandwich',
+    'and the prize for the', 'sandwich', 'letter meant for',
 ];
-// -Axios, -Economist, -NYT Most Viewed, -Politico EU
+// -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video'];
 // CrimethInc, Economist, Fivethirtyeight, RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
@@ -110,7 +110,7 @@ module.exports = [
     name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
-    exclusionWords: [...uninterestedGeneral, ...singleCrime],
+    exclusionWords: [...uninterestedGeneral, ...singleCrime, ...fluffyTitle],
   },
   {
     name: 'BBC - Fiji',
