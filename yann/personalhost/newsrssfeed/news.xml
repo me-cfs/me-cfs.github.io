@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Reality (Science Based Medicine)</title>
+      <link>https://sciencebasedmedicine.org/reality/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=reality</link>
+      <author>Science Based Medicine</author>
+      <guid>https://sciencebasedmedicine.org/?p=103263</guid>
+      <pubDate>Tue, 17 Dec 2024 10:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuchâtel s'équipe d'un nouveau bâtiment pour sécuriser l'informatique cantonale (RTS)</title>
+      <link>https://www.rts.ch/info/regions/neuchatel/2024/article/neuchatel-inaugure-un-centre-de-donnees-pour-securiser-l-informatique-cantonale-28730186.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28730186</guid>
+      <pubDate>Tue, 17 Dec 2024 10:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>International Court of Justice Hears Climate Pleas Ahead of Issuing an Advisory Opinion (Inside Climate News)</title>
+      <link>https://insideclimatenews.org/news/17122024/international-court-hears-climate-pleas-before-advisory-opinion/</link>
+      <author>Inside Climate News</author>
+      <guid>https://insideclimatenews.org/?p=89573</guid>
+      <pubDate>Tue, 17 Dec 2024 10:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>They grew up doing active shooter drills. Now, Gen Z teachers are leading them. (Axios)</title>
       <link>https://www.axios.com/2024/12/17/gen-z-teachers-active-shooter-drills</link>
       <author>Axios</author>
@@ -1424,28 +1445,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2024/12/studies-pin-down-exactly-when-humans-and-neanderthals-swapped-dna/</guid>
       <pubDate>Thu, 12 Dec 2024 19:00:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s Time to Talk About Pornography, Scholars Say (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/12/science/pornography-adolescents-teenagers.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/12/science/pornography-adolescents-teenagers.html</guid>
-      <pubDate>Thu, 12 Dec 2024 18:53:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						British politics has a sandwich problem					 (Politico)</title>
-      <link>https://www.politico.eu/article/british-politics-sandwiches-kemi-badenoch-ed-miliband-theresa-may-keir-starmer-dominic-raab/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/british-politics-sandwiches-kemi-badenoch-ed-miliband-theresa-may-keir-starmer-dominic-raab/</guid>
-      <pubDate>Thu, 12 Dec 2024 18:40:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says he won't restrict abortion pill (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5037297-trump-abortion-pill-mifepristone/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5037297</guid>
-      <pubDate>Thu, 12 Dec 2024 17:53:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
