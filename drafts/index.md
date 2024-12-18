@@ -1,5 +1,15 @@
-# Uploaded Drafts
-* [Anarchism as a possible answer to the paradigm of Disability](https://me-cfs.github.io/drafts/anarchism-disability.html)
+---
+title:  “Article Drafts"
+tags: 
+  - me/cfs drafts
+  - yann me/cfs directory
+  - draft article long covid
+  - draft article chronic fatigue syndrome
+  - posthumous
+canonical_url: "https://mecfsadvocacy.org/drafts/"
+---
+  
+* [Anarchism as a possible answer to the paradigm of Disability](https://mecfsadvocacy.org/drafts/anarchism-disability.html)
 
 * [The Dark Side of Medicine, Past and Present](https://me-cfs.github.io/drafts/dark-side-medicine.html)
 
@@ -23,6 +33,21 @@
 
 * [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical”](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
+* [Psychological Illness: A concept built upon false assumptions?](https://mecfsadvocacy.org/drafts/psychology-false.html)
+
 * [Reasons to be Optimistic about ME Research](https://me-cfs.github.io/drafts/optimism-me-research.html)
 
 * [The Saphir-Whorf Hypothesis in ME: how words define our subjective experiences and perpetuate prejudice and misunderstanding](https://me-cfs.github.io/drafts/saphir-whorf-me.html)
+
+
+
+<br/><br/><br/>
+
+  
+
+---
+
+  
+
+[Back to Mainpage](https://mecfsadvocacy.org), [ME/CFS Resources](https://mecfsadvoacy.org/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
+
