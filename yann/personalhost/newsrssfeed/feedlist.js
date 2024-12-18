@@ -13,10 +13,10 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
   'crazy',
 ];
 // -Crikey, -Hill (Healthcare)
-const culture = ['anime', 'art', 'manga'];
-// -Semafor
+const culture = ['anime', 'artist', 'manga', 'oscar'];
+// -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
-    'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing',
+    'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
@@ -179,6 +179,11 @@ module.exports = [
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
   {
+    name: 'NYT Most Viewed',
+    url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
+    exclusionWords: [...fluffyTitle, ...uninterestedGeneral, ...nonInformativeTitle],
+  },
+  {
     name: 'Paul Krugmann',
     url: 'https://paulkrugman.substack.com/',
     off: false,
@@ -196,12 +201,7 @@ module.exports = [
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle, 'insomnie'],
-  },
-  {
-    name: 'NYT Most Viewed',
-    url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...fluffyTitle, ...uninterestedGeneral, ...nonInformativeTitle],
+    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle, 'insomnie', ...culture],
   },
   {
     name: 'Bellingcat',
