@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Americans under 40 are richer than ever, but still feeling money woes (Axios)</title>
+      <link>https://www.axios.com/2024/12/18/millennials-gen-z-jobs-wealth</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/18/millennials-gen-z-jobs-wealth</guid>
+      <pubDate>Wed, 18 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Russia Says It Has Detained A Suspect In The Killing Of A Top General In Moscow (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/russia-says-it-detained-suspect-explosion_n_67629ea5e4b0a99db5b22b1d</link>
       <author>Huffington Post</author>
@@ -696,6 +703,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/germany-olaf-scholz-loses-confidence-vote_n_67604ac9e4b0d06419ec34d1</guid>
       <pubDate>Mon, 16 Dec 2024 16:12:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Conan O’Brien’s Parents Die 3 Days Apart (NYT Most Viewed)</title>
+      <link>https://www.nytimes.com/2024/12/13/arts/television/conan-obrien-parents-dead.html</link>
+      <author>NYT Most Viewed</author>
+      <guid>https://www.nytimes.com/2024/12/13/arts/television/conan-obrien-parents-dead.html</guid>
+      <pubDate>Mon, 16 Dec 2024 16:07:02 +0000</pubDate>
     </item>
     <item>
       <title>L'art du pain, une épicerie numérique et des bureaux pour sans-abri (RTS)</title>
@@ -1434,20 +1448,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/13/trump-middle-east-saudi-relations-deal-mbs</guid>
       <pubDate>Fri, 13 Dec 2024 23:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>House GOP freshman nab historic share of coveted committee spots (Axios)</title>
-      <link>https://www.axios.com/2024/12/13/house-republican-freshman-committees</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/13/house-republican-freshman-committees</guid>
-      <pubDate>Fri, 13 Dec 2024 23:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>McConnell puts RFK Jr. on notice over polio vaccine (Axios)</title>
-      <link>https://www.axios.com/2024/12/13/mitch-mcconnell-robert-f-kennedy-jr-polio-vaccine-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/13/mitch-mcconnell-robert-f-kennedy-jr-polio-vaccine-senate</guid>
-      <pubDate>Fri, 13 Dec 2024 23:06:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
