@@ -20,11 +20,11 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
-// CrimethInc, Economist, Fivethirtyeight, RTS
+// -CrimethInc, Economist, Fivethirtyeight, RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
-    'how it happened', 'know about', 'who is', 'why', 'will the'
+    'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers',
 ];
-// Axios. Hill Climate, Hill Healthcare. Huffpost (World), NYT Most Viewed, Vox
+// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -Vox
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
 // -BBC Australia, -BBC Fiji
 const spanish = [
