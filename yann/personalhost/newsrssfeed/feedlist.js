@@ -10,14 +10,14 @@ const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehi
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
-  'crazy',
+  'crazy', 'apocalypse',
 ];
-// -Crikey, -Hill (Healthcare)
+// -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar'];
 // -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
-    // '',
+    'bored',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
@@ -195,7 +195,9 @@ module.exports = [
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
     off: false,
     urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful'],
+    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful', ...clickbait,
+      // '',
+    ],
   },
   {
     // headlines
