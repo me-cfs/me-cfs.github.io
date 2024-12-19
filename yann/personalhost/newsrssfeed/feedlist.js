@@ -130,6 +130,11 @@ module.exports = [
     exclusionWords: [...singleCrime],
   },
   {
+    name: 'Bellingcat',
+    url: 'https://www.bellingcat.com/feed/',
+    off: false,
+  },
+  {
     name: 'Chapatte Dessins',
     url: 'https://www.chappatte.com/images/feed/',
     off: false,
@@ -207,14 +212,10 @@ module.exports = [
     exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle, 'insomnie', ...culture],
   },
   {
-    name: 'Bellingcat',
-    url: 'https://www.bellingcat.com/feed/',
-    off: false,
-  },
-  {
     name: 'Science Based Medicine',
     url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
     exclusionWords: ['?', 'questions'],
+    minCharsTitle: 12,
   },
 
 // Depreciation Phase
