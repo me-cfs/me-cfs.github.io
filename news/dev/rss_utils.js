@@ -70,10 +70,10 @@ function filterItems(items, localFeed, addAuthorTitle) {
     // Remove hidden words from title
     let processedTitle = removeHiddenWords(title, item.titleHide);
 
-    // Check if maxCharsTitle exists and filter by it
-    if (item.maxCharsTitle && typeof item.maxCharsTitle === 'number') {
-      if (processedTitle.length > item.maxCharsTitle) {
-        console.log(`Excluding item due to title length exceeding maxCharsTitle (${item.maxCharsTitle}): ${processedTitle}`);
+    // Check if minCharsTitle exists and filter by it
+    if (item.minCharsTitle && typeof item.minCharsTitle === 'number') {
+      if (processedTitle.length < item.minCharsTitle) {
+        console.log(`Excluding item due to title length being too small (${item.minCharsTitle}): ${processedTitle}`);
         return false;
       }
     }
