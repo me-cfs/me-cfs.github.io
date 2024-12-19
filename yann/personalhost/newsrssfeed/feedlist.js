@@ -33,7 +33,7 @@ const spanish = [
   'últimas', 'política', 'sociedad', 'educación', 'tecnología',
   'medio ambiente', 'salud pública', 'cultura', 'economía',
   'internacional', 'latinoamérica', 'iberoamérica', 'hispano', 
-  '¿', '¡'
+  '¿', '¡', 'í', 'ó'
 ];
 // -KFF News
 const triggers = ['gender dysphoria', 'Yuppie Flu'];
