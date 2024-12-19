@@ -1,6 +1,16 @@
-# Medicine has lost it’s scientific integrity
-[draft article]
-
+---
+title:  “Medicine has lost it's Scientific Integrity"
+tags: 
+  - Medicine pseudoscience
+  - medical integrity
+  - pschosomatic critique
+  - medical heirarchy
+  - medical prejudice
+canonical_url: "https://mecfsadvocacy.org/drafts/medicine-integrity.html"
+---
+  
+[This article is an incomplete draft. If you wish to see a list of all drafts go to [this page](https://mecfsadvocacy.org/drafts/).]
+  
 ## Low Quality
 * Being written in a scientific journal does not mean something is true. Often single poor studies used to trick laymen into believing treatments and such.
 
@@ -23,6 +33,12 @@ It feels like in practice peer review serves more as an enforcement of “bias�
 
 Science is about innovation, about challenging long-held beliefs. But at least in the medical field, peer review seems to hold that back.
 
+### In the case of psychosomatics
+It’s compatible with the literature in a small psychsomatic echo chamber. They are the self appointed experts on FND (since they created it), and therefore they must be correct.
+
+Their papers serve as a self admirtion society, consistently hyping up each others theories without bringing sound evidence.
+This happens until whatever they say becomes so embedded in their literature, repeated hundreds of times, that it must be true, and no one bothers to question it.
+
 ## Heirachical Culture
 The way I see it medicine is not a science. It’s a heirarchical culture formed around interpretions on how to apply a science “huaman biology”. In medical training, students are not taught critical thinking or how to slow down and think about things, they are taught how to follow protocols and guidelines, extsensive memorisation, how to make split second decisions, etc.
 
@@ -42,3 +58,15 @@ But about openness, humility, and collaboration.
 We need to stop rewarding people who care more about making a name for themselves and advancing career interests than the rigour of their work.
 
 CC: Simon Wessely, Micheal Sharpe
+<br/><br/><br/>
+
+  
+
+---
+
+  
+
+[Back to Mainpage](https://mecfsadvocacy.org), [ME/CFS Resources](https://mecfsadvoacy.org/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
+
+
+
