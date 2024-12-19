@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Federal ACA Marketplace Enrollment Lagging (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/health-brief-obamacare-enrollment-lagging/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?p=1961867&amp;post_type=article&amp;preview_id=1961867</guid>
+      <pubDate>Thu, 19 Dec 2024 14:23:55 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. economic growth revised up to 3.1% in third quarter (Axios)</title>
       <link>https://www.axios.com/2024/12/19/us-economy-gdp-growth-q3</link>
       <author>Axios</author>
@@ -1372,6 +1379,13 @@
       <pubDate>Mon, 16 Dec 2024 04:38:44 GMT</pubDate>
     </item>
     <item>
+      <title>Hundreds feared dead after worst cyclone in 90 years slams French territory of Mayotte (Axios)</title>
+      <link>https://www.axios.com/2024/12/16/cyclone-chido-french-territory-mayotte-death-toll</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/16/cyclone-chido-french-territory-mayotte-death-toll</guid>
+      <pubDate>Mon, 16 Dec 2024 04:23:59 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Trump 2.0 will hurt planet, open door for America’s green rivals: EU climate chief					 (Politico)</title>
       <link>https://www.politico.eu/article/teresa-ribera-america-clean-energy-donald-trump-reelection-climate-change-competition/</link>
@@ -1432,22 +1446,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/moldovan-spy-chief-russia-will-try-interfere-parliamentary-elections-next-year-alexandru-musteata/</guid>
       <pubDate>Mon, 16 Dec 2024 02:34:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Giorgia Meloni steps down as ECR president					 (Politico)</title>
-      <link>https://www.politico.eu/article/giorgia-meloni-steps-down-ecr-president-european-parliament/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/giorgia-meloni-steps-down-ecr-president-european-parliament/</guid>
-      <pubDate>Mon, 16 Dec 2024 02:25:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Russian oil tanker breaks up, another in distress on Black Sea					 (Politico)</title>
-      <link>https://www.politico.eu/article/russia-oil-tankers-distress-spill-black-sea-kerch-strait/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/russia-oil-tankers-distress-spill-black-sea-kerch-strait/</guid>
-      <pubDate>Mon, 16 Dec 2024 02:10:13 -0000</pubDate>
     </item>
   </channel>
 </rss>
