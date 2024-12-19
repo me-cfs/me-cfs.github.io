@@ -82,6 +82,7 @@ async function fetchFeed(feedUrl) {
       getContentLink: feedUrl.getContentLink,
       titleHide: feedUrl.titleHide || [],
       urlBlacklist: feedUrl.urlBlacklist || [],
+      minCharsTitle: feedUrl.minCharsTitle || null, 
     }));
   } catch (error) {
     console.error(`Error fetching feed ${feedUrl.url}:`, error);
