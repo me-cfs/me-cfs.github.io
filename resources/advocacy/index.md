@@ -1,7 +1,14 @@
 ---
-title: Advocacy Masterlist
-filename: 
+title: ME/CFS Advocacy Masterlist
+tags: 
+  - ME/CFS Advocacy Resources
+  - Long COVID Advocacy Resources
+  - Advocacy Masterlist
+  - How to Help
+  - Chronic Fatigue Syndrome
+canonical_url: "https://mecfsadvocacy.org/resources/advocacy/"
 ---
+  
 An ever expanding list of things patients, advocates, allies or anyone else can do to help people with ME:
 <br/>
 ## Doctors
@@ -88,7 +95,7 @@ Although the ME/CFS page on wikipedia has improved a lot recently, there exist t
 * [Collection](https://www.s4me.info/forums/petitions.23/) of ME/CFS petitions.
 <details markdown="1">
 <summary>Social Media Accounts that Often Share Petitions</summary>
-**Twitter:**
+**Twitter:** (Note a lot of these accounts have moved to bluesky)
 * [Ror Preston](https://x.com/rorpreston?s=21)
 * [ME Action Network](https://x.com/meactnet?s=21)
 * [ME Advocacy Australia](https://x.com/meadvnetau?s=21)
@@ -110,6 +117,7 @@ Contact your politician/reprsentative and tell them about your struggles with ME
   <summary>Places that advertise studies looking for Participants</summary>
 * Science for ME has a [collection of active studies looking for participants](https://www.s4me.info/forums/recruitment-into-current-me-cfs-research-studies.129/)
 * [Australian ME Registry](https://ausmeregistry.org)
+* [Solve ME/CFS](https://solvecfs.org/research/solve-together/) has the solve together initiative (US only as of December 2024) which lets you share your medical data to researchers.
 * Your local/national ME/CFS organisation will likely promote studies looking for volunteers; it can be useful to sign up to their newsletters or equivalent
 * [ME Research UK](https://www.meresearch.org.uk/research/volunteering/)
 </details>
@@ -129,6 +137,10 @@ Contact your politician/reprsentative and tell them about your struggles with ME
 
 <br/><br/><br/>
 
+  
+
 ---
 
-[Back to Mainpage](https://me-cfs.github.io), [ME/CFS Resources](https://me-cfs.github.io/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
+  
+
+[Back to Mainpage](https://mecfsadvocacy.org), [ME/CFS Resources](https://mecfsadvoacy.org/useful-resources.html), [Bluesky](https://bsky.app/profile/me-cfs.bsky.social)
