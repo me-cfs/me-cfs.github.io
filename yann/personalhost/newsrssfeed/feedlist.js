@@ -17,7 +17,7 @@ const culture = ['anime', 'artist', 'manga', 'oscar'];
 // -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
-    'bored',
+    'bored', 'of faith',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
