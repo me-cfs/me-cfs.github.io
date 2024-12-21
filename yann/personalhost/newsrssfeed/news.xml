@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Suisse, leader mondial pour le matériel de ski de randonnée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/ski-de-randonnee-la-suisse-leader-mondial-du-materiel-innovant-28732595.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28732595</guid>
+      <pubDate>Sat, 21 Dec 2024 14:33:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Accord trouvé entre la FMH et prio.swiss au sujet de la taxe d'urgence (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/taxe-d-urgence-medicale-accord-fmh-prio-swiss-ce-qui-change-28734464.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1436,13 +1443,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/16/us/politics/hegseth-bodyguard-army.html</guid>
       <pubDate>Tue, 17 Dec 2024 16:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sightings Are Mix of Legal Drones, Planes and Stars, Officials Say (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/13/nyregion/drones-nj-ny-east-coast.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/13/nyregion/drones-nj-ny-east-coast.html</guid>
-      <pubDate>Tue, 17 Dec 2024 16:26:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
