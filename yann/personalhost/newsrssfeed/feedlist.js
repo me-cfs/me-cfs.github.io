@@ -116,6 +116,7 @@ module.exports = [
       ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with'
     ],
+    minCharsTitle: 15,
   },
   {
     name: 'BBC - Australia',
