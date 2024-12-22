@@ -12,7 +12,6 @@ module.exports = [
     name: 'Disability News Service',
     url: 'https://politepol.com/fd/N4uIjsNwvQMm.xml',
     off: false,
-    exclusionWords: ['?'],
     cutoffDate: new Date('2024-12-25')
   },
   {
