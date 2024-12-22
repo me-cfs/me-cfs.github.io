@@ -1,5 +1,5 @@
 // feedUrls.js
-const medicalNews = require('medical-news.js');
+const medicalNews = require('./medical-news.js');
 
 // Bottom Lists
 const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
