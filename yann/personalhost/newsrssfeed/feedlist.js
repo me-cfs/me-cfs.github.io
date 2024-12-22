@@ -14,19 +14,19 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
   'crazy', 'apocalypse',
 ];
 // -Crikey, -Hill (Healthcare), -Politico EU
-const culture = ['anime', 'artist', 'manga', 'oscar'];
-// -RTS, -Semafor
+const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
+// -Open Democracy, -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
     'bored', 'of faith',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
-const nonArticle = ['podcast', 'quiz', 'video', 'watch'];
-// -CrimethInc, -Economist, -Fivethirtyeight, -RTS
+const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
+// -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
-    'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way',
+    'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
 ];
-// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -Vox
+// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -OpenDemocracy, -Vox
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
 // -BBC Australia, -BBC Fiji
 const spanish = [
@@ -65,15 +65,15 @@ const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap'
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
   'fast fashion', 'global warming',
   ];
-// +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, +Orient XXI, +PublicEye
+// +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
+const europe = ['EU funding'];
+// +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
 // *Crikey, +The intercept
 const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
-const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan'];
-// +Orient XXI
-const socialism = ['class'];
-// +Jacobin
+const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous'];
+// +Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
@@ -82,10 +82,12 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const politics = [...usPolitics, 'senator', 'election', 'democra'];
-// +SBS News
+const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced'];
+// +Open Democracy, +SBS News
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
+const socialism = ['class'];
+// +Jacobin
 const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
@@ -331,6 +333,12 @@ module.exports = [
     name: 'Orient XXI',
     url: 'https://orientxxi.info/?page=backend&lang=fr',
     inclusionWords: [...disability, ...location, ...important, ...environment, ...independenceMovements],
+  },
+  {
+    name: 'Open Democracy',
+    url: 'https://www.opendemocracy.net/xml/rss/home/index.xml',
+    inclusionWords: [...europe, ...politics, ...environment, independenceMovements],
+    exclusionWords: [...nonArticle, ...nonInformativeTitle, ...culture],
   },
   {
     name: 'Propublica',
