@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les consommateurs suisses d'électricité seront directement touchés par l'accord avec l'UE (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/accord-suisse-ue-impact-sur-les-prix-de-l-electricite-28734652.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28734652</guid>
+      <pubDate>Sun, 22 Dec 2024 10:09:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Le secteur de l'énergie accusé d'engranger des bénéfices records grâce à des prix d'électricité "excessifs" (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/secteur-de-l-energie-accusee-d-engranger-des-benefices-records-grace-a-des-prix-d-electricite-excessifs-28734919.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1437,13 +1444,6 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22886</guid>
       <pubDate>12/18/2024 00:12</pubDate>
-    </item>
-    <item>
-      <title>Congress releases bill to fund government through March 14, avert holiday shutdown (Axios)</title>
-      <link>https://www.axios.com/2024/12/17/congress-releases-bill-to-avert-holiday-government-shutdown</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/17/congress-releases-bill-to-avert-holiday-government-shutdown</guid>
-      <pubDate>Tue, 17 Dec 2024 23:44:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
