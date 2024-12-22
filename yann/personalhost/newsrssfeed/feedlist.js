@@ -1,4 +1,5 @@
 // feedUrls.js
+const medicalNews = require('medicalNews.js');
 
 // Bottom Lists
 const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
@@ -237,6 +238,7 @@ module.exports = [
     inclusionWords: [...usPolitics],
     exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
   },
+  ...medicalNews,
 
 // Testing Phase
 
