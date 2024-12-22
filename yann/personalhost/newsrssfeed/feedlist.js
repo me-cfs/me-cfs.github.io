@@ -72,6 +72,8 @@ const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan'];
 // +Orient XXI
+const socialism = ['class'];
+// +Jacobin
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
@@ -312,7 +314,7 @@ module.exports = [
   {
     name: 'Jacobin',
     url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Suicide', ...disability],
+    inclusionWords: ['Suicide', ...disability, ...socialism],
   },
   {
     name: 'KFF Health News',
