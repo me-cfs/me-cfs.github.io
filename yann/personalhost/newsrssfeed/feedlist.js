@@ -279,12 +279,6 @@ module.exports = [
     exclusionWords: [...nonArticle, ...democraticParty],
   },
   {
-    name: 'The Disabled Writer',
-    url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
-    inclusionWords: ['Caretaker', ...disability, 'language', ...medicine, 'symptom'],
-    cutoffDate: new Date('2024-12-11')
-  },
-  {
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...environment, ...sportsInterested, ...important],
