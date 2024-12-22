@@ -97,7 +97,7 @@ module.exports = [
   },
   {
     name: 'Paul Krugmann',
-    url: 'https://paulkrugman.substack.com/',
+    url: 'https://paulkrugman.substack.com/feed',
     off: false,
   },
   {
@@ -189,7 +189,7 @@ module.exports = [
   },
   {
     name: 'Grist',
-    url: 'http://feeds.grist.org/rss/gristfeed',
+    url: 'https://grist.org/feed/',
     off: false,
     inclusionWords: [...tList.usPolitics, ...tList.environment],
   },
@@ -207,10 +207,11 @@ module.exports = [
     name: 'Indian Country Today',
     url: 'https://indiancountrytoday.com/.rss/full/',
     inclusionWords: [...tList.environment, ...tList.activism],
+    // feed problems. seems to work on rss reder tho
   },
   {
     name: 'The Intercept',
-    url: 'https://firstlook.org/theintercept/feed/',
+    url: 'https://theintercept.com/feed/?rss',
     inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open"],
   },
   {
@@ -236,7 +237,7 @@ module.exports = [
   },
   {
     name: 'Open Democracy',
-    url: 'https://www.opendemocracy.net/xml/rss/home/index.xml',
+    url: 'https://www.opendemocracy.net/en/feed/',
     inclusionWords: [...tList.europe, ...tList.politics, ...tList.environment, ...tList.independenceMovements],
     exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture],
   },
