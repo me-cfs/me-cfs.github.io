@@ -1,24 +1,24 @@
 // feedUrls.js
 const medicalNews = require('./medical-news.js');
+const tList = require('./topical-lists.js')
 
 module.exports = [
-    {
+  {
     name: 'The Athletic Football',
     url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: [...sportsInterested,
-    ],
+    inclusionWords: [...tList.sportsInterested],
     exclusionWords: ['USWNT'],
   },
-    {
+  {
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
     off: false,
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy',
-      'Simone', 'Warner', 'soccer', ...business,
-      'Why the', ...fluffyTitle, ...nonInformativeTitle,
-      ...uninterestedGeneral, ...uninterestedPeople, ...uninterestedSports, 
+      'Simone', 'Warner', 'soccer', ...tList.business,
+      'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
+      ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with'
     ],
     minCharsTitle: 15,
@@ -27,13 +27,13 @@ module.exports = [
     name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
-    exclusionWords: [...uninterestedGeneral, ...singleCrime, ...fluffyTitle],
+    exclusionWords: [...tList.uninterestedGeneral, ...tList.singleCrime, ...tList.fluffyTitle],
   },
   {
     name: 'BBC - Fiji',
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
-    exclusionWords: [...singleCrime],
+    exclusionWords: [...tList.singleCrime],
   },
   {
     name: 'Bellingcat',
@@ -48,8 +48,8 @@ module.exports = [
   {
     name: 'Economist',
     url: 'https://feedx.net/rss/economist.xml',
-    exclusionWords: ['in brief', ...nonArticle, ...uninterestedSports, 'culture', ...business,
-       'obituary', ...fluffyTitle,
+    exclusionWords: ['in brief', ...tList.nonArticle, ...tList.uninterestedSports, 'culture', ...tList.business,
+       'obituary', ...tList.fluffyTitle,
     ],
     off: false,
   },
@@ -71,7 +71,7 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
     off: false,
-    exclusionWords: [...nonArticle],
+    exclusionWords: [...tList.nonArticle],
     cutoffDate: new Date('2024-12-10')
   },
   {
@@ -84,7 +84,7 @@ module.exports = [
     name: 'Huffington Post',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...uninterestedGeneral, ...nonInformativeTitle, ...triggers],
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers],
   },
   {
     name: 'ME/LC News',
@@ -93,7 +93,7 @@ module.exports = [
   {
     name: 'NYT Most Viewed',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...fluffyTitle, ...uninterestedGeneral, ...nonInformativeTitle],
+    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle],
   },
   {
     name: 'Paul Krugmann',
@@ -106,7 +106,7 @@ module.exports = [
     url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
     off: false,
     urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days', ...fluffyTitle, 'most poweful', ...clickbait,
+    exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       // '',
     ],
   },
@@ -115,7 +115,7 @@ module.exports = [
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: [...uninterestedGeneral, 'pour vous?', ...nonArticle, 'insomnie', ...culture],
+    exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture],
   },
   {
     name: 'Science Based Medicine',
@@ -124,154 +124,159 @@ module.exports = [
     minCharsTitle: 12,
   },
 
-// Depreciation Phase
+  // Depreciation Phase
 
   { // hill being depreciated because corporate biased and  ownership company donates to the GOP mostpo qwerty
     // climate change
     name: 'The Hill',
     url: 'https://thehill.com/social-tags/climate-change/feed/',
     off: false,
-    inclusionWords: [...usPolitics],
-    exclusionWords: [...nonInformativeTitle],
+    inclusionWords: [...tList.usPolitics],
+    exclusionWords: [...tList.nonInformativeTitle],
   },
   {
     // healthcare 
     name: 'The Hill',
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
-    inclusionWords: [...usPolitics],
-    exclusionWords: ['rage', ...nonInformativeTitle, ...clickbait],
+    inclusionWords: [...tList.usPolitics],
+    exclusionWords: ['rage', ...tList.nonInformativeTitle, ...tList.clickbait],
   },
   ...medicalNews,
 
-// Testing Phase
+  // Testing Phase
 
  {
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
-    inclusionWords: [...important, ...location, ...disability, ...cybersecurity],
+    inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity],
   },
  {
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
-    inclusionWords: [...disability, ...scienceResearch],
+    inclusionWords: [...tList.disability, ...tList.scienceResearch],
   },
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
-    inclusionWords: [...technology, ...prehistory],
+    inclusionWords: [...tList.technology, ...tList.prehistory],
   },
   {
     name: 'Byline Times',
     url: 'https://bylinetimes.com/feed/',
-    inclusionWords: [...activism, 'lobbying', 'corperate', ...cybersecurity],
+    inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity],
   },
   {
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
-    inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...prehistory, ...medicine],
+    inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine],
   },
   {
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
-    inclusionWords: [...activism, ...geopolitics],
-    exclusionWords: [...clickbait],
+    inclusionWords: [...tList.activism, ...tList.geopolitics],
+    exclusionWords: [...tList.clickbait],
   },
   {
     name: 'CrimethInc',
     url: 'https://crimethinc.com/feed',
-    exclusionWords: [...nonArticle, ...democraticParty],
+    exclusionWords: [...tList.nonArticle, ...tList.democraticParty],
   },
   {
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
-    inclusionWords: [...environment, ...sportsInterested, ...important],
+    inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important],
   },
   {
     name: 'Grist',
     url: 'http://feeds.grist.org/rss/gristfeed',
     off: false,
-    inclusionWords: [...usPolitics, ...environment],
+    inclusionWords: [...tList.usPolitics, ...tList.environment],
   },
  {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
-    inclusionWords: [...disability, ...location, ...ukraineRussia],
+    inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia],
   },
   {
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
-    inclusionWords: [...environment, ...scienceResearch],
+    inclusionWords: [...tList.environment, ...tList.scienceResearch],
   },
   {
     name: 'Indian Country Today',
     url: 'https://indiancountrytoday.com/.rss/full/',
-    inclusionWords: [...environment, ...activism],
+    inclusionWords: [...tList.environment, ...tList.activism],
   },
   {
     name: 'The Intercept',
     url: 'https://firstlook.org/theintercept/feed/',
-    inclusionWords: [...geopolitics, ...israelPalestine, "open"],
+    inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open"],
   },
   {
     name: 'Jacobin',
     url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Suicide', ...disability, ...socialism],
+    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism],
   },
   {
     name: 'KFF Health News',
     url: 'https://kffhealthnews.org/feed/',
-    inclusionWords: [...disability, ...medicine, ...usPolitics, 'rural', 'aca', 'ada'],
-    exclusionWords: [...spanish],
+    inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
+    exclusionWords: [...tList.spanish],
   },
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: [...activism, ...important, ...disability],
+    inclusionWords: [...tList.activism, ...tList.important, ...tList.disability],
   },
  {
     name: 'Orient XXI',
     url: 'https://orientxxi.info/?page=backend&lang=fr',
-    inclusionWords: [...disability, ...location, ...important, ...environment, ...independenceMovements],
+    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements],
   },
   {
     name: 'Open Democracy',
     url: 'https://www.opendemocracy.net/xml/rss/home/index.xml',
-    inclusionWords: [...europe, ...politics, ...environment, independenceMovements],
-    exclusionWords: [...nonArticle, ...nonInformativeTitle, ...culture],
+    inclusionWords: [...tList.europe, ...tList.politics, ...tList.environment, ...tList.independenceMovements],
+    exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture],
   },
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
-    inclusionWords: [...medicine, 'Idaho'],
+    inclusionWords: [...tList.medicine, 'Idaho'],
   },
   {
     name: 'Public Eye',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...technology, ...disability, ...environment],
+    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment],
   },
   {
     name: 'SBS News',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...disability, ...environment],
+    inclusionWords: [...tList.disability, ...tList.environment],
   },
   {
     name: 'Semafor',
     url: 'https://www.semafor.com/rss.xml',
-    inclusionWords: [...location, ...people],
-    exclusionwords: [...culture],
+    inclusionWords: [...tList.location, ...tList.people],
+    exclusionWords: [...tList.culture],
   },
   {
     name: 'Vox',
     url: 'https://www.vox.com/rss/index.xml',
-    inclusionWords: ['Public Housing', 'Data', 'gulag', ...disability],
-    exclusionWords: [...nonInformativeTitle,]
-    // probably wont work because they all seem to be nonInformativeTitles
+    inclusionWords: ['Public Housing', 'Data', 'gulag', ...tList.disability],
+    exclusionWords: [...tList.nonInformativeTitle, ...tList.nonArticle],
+  },
+  {
+    name: 'Wired',
+    url: 'https://www.wired.com/feed/',
+    inclusionWords: [...tList.technology],
+    exclusionWords: [...tList.clickbait],
   },
   {
     name: 'West England Bylines',
     url: 'https://politepol.com/fd/8IDvxrMRKuNI.xml',
-    inclusionWords: [...location, ...disability, ...commons],
+    inclusionWords: [...tList.location, ...tList.disability, ...tList.commons],
     cutoffDate: new Date('2024-12-12'),
   },
   {
