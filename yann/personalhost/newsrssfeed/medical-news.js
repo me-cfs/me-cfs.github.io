@@ -1,3 +1,5 @@
+const tList = require('./topical-lists.js')
+
 module.exports = [
   {
     name: 'CBT Watch',
@@ -9,7 +11,7 @@ module.exports = [
   {
     name: 'The Disabled Writer',
     url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
-    inclusionWords: ['Caretaker', ...disability, 'language', ...medicine, 'symptom'],
+    inclusionWords: ['Caretaker', ...tList.disability, 'language', ...tList.medicine, 'symptom'],
     cutoffDate: new Date('2024-12-11')
   },
 ];
