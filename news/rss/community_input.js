@@ -67,8 +67,8 @@ module.exports = [
   },
   {
     name: 'Long Covid Advocacy',
-    url: 'https://politepol.com/fd/pduAk8UryRf1.xml',
-    cutoffDate: new Date('2024-07-14'),
+    url: 'https://politepol.com/fd/1EqmvNKvLctf.xml',
+    cutoffDate: new Date('2024-12-24'),
     exclusionWords: ['L.I.V.E.', 'free download'],
   },
   {
