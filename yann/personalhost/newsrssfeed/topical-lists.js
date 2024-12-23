@@ -80,7 +80,9 @@ const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
 // +Conversation, Open Democracy, +Orient XXI
-const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne'];
+const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
+  'France',
+];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
   'brain inflammation', 'epistemic', 'pandemic', 'medic',
