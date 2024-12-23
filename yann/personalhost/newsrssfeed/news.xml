@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump suggests he wants to buy Greenland (Axios)</title>
+      <link>https://www.axios.com/2024/12/23/trump-buying-greenland-us-ownership-plan</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/23/trump-buying-greenland-us-ownership-plan</guid>
+      <pubDate>Mon, 23 Dec 2024 02:48:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Callista Gingrich nommée ambassadrice des Etats-Unis en Suisse par Donald Trump (RTS)</title>
       <link>https://www.rts.ch/info/monde/2024/article/trump-nomme-callista-gingrich-ambassadrice-des-etats-unis-en-suisse-28735562.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1435,13 +1442,6 @@
       <author>Science Based Medicine</author>
       <guid>https://sciencebasedmedicine.org/?p=103351</guid>
       <pubDate>Wed, 18 Dec 2024 13:06:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scientists from 57 countries want to end siloed decision-making on climate and biodiversity (Grist)</title>
-      <link>https://grist.org/solutions/ipbes-un-panel-biodiversity-ecosystem-services-nexus-report-namibia/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=655237</guid>
-      <pubDate>Wed, 18 Dec 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
