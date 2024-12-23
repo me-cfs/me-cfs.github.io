@@ -91,7 +91,8 @@ module.exports = [
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
   {
-    name: 'NYT Most Viewed',
+    // Most Viewed
+    name: 'New York Times',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
     exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle],
   },
