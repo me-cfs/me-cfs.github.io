@@ -155,12 +155,14 @@ module.exports = [
  {
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
-    inclusionWords: [...tList.disability, ...tList.scienceResearch],
+    inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
+      
+    ],
   },
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
-    inclusionWords: [...tList.technology, ...tList.prehistory],
+    inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment],
   },
   {
     name: 'Byline Times',
