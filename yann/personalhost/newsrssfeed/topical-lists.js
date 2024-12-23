@@ -65,9 +65,9 @@ const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap'
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
-  'fast fashion', 'global warming',
+  'fast fashion', 'global warming', 'glacier',
   ];
-// +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
+// +Environment, +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
@@ -95,7 +95,9 @@ const socialism = ['class'];
 const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
-const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI'];
+const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI',
+  '3D Printing', 
+];
 // +Arstechnica, +PublicEye
 
 
