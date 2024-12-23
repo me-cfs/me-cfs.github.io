@@ -8,6 +8,8 @@ const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate'];
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
 
+
+
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy', 'apocalypse',
@@ -48,6 +50,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 // -Axios, -Economist
 
 
+
 // inclusionLists
 const activism = ['protest', 'rights', 'strike', 'acivis'];
 // +{Byline Times, +Indian Country Today, +Motherjones
@@ -69,6 +72,8 @@ const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
 // *Crikey, +The intercept
+const humanRights = ['death row']:
+// +AP
 const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous'];
@@ -76,9 +81,9 @@ const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indi
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
-  'brain inflammation', 'epistemic', 'pandemic',
+  'brain inflammation', 'epistemic', 'pandemic', 'medic',
 ];
-// +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
+// +AP News, +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
 const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced'];
@@ -92,6 +97,8 @@ const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
 // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI'];
 // +Arstechnica, +PublicEye
+
+
 
 // mixedLists
 const business = ['merger', 'business', 'market value'];
@@ -137,5 +144,6 @@ module.exports = {
   business,
   israelPalestine,
   ukraineRussia,
+  humanRights,
 };
 
