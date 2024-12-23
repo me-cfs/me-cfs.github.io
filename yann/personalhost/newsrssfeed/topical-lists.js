@@ -53,7 +53,7 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 
 // inclusionLists
 const activism = ['protest', 'rights', 'strike', 'acivis'];
-// +{Byline Times, +Indian Country Today, +Motherjones
+// +{Byline Times, +Converation, Indian Country Today, +Motherjones
 const commons = ['open-source', 'public housing', 'commons', 'community owned'];
 // +west england bylines
 const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network'];
@@ -76,8 +76,8 @@ const humanRights = ['death row']:
 // +AP
 const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
-const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous'];
-// +Open Democracy, +Orient XXI
+const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
+// +Conversation, Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne'];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
