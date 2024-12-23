@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Post-Trump election boost fades: Consumer confidence drops in December (Axios)</title>
+      <link>https://www.axios.com/2024/12/23/consumer-confidence-trump-economy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/23/consumer-confidence-trump-economy</guid>
+      <pubDate>Mon, 23 Dec 2024 17:06:58 +0000</pubDate>
+    </item>
+    <item>
       <title>How will history remember Biden's presidency? (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/history-remember-bidens-presidency/story?id=116942894</link>
       <author>Fivethirtyeight</author>
@@ -31,6 +38,13 @@
       <author>RTS</author>
       <guid>28735825</guid>
       <pubDate>Mon, 23 Dec 2024 12:14:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The crocodile from Crocodile Dundee dies in Australia (BBC - Australia)</title>
+      <link>https://www.bbc.com/news/articles/cx2we313k6ro</link>
+      <author>BBC - Australia</author>
+      <guid>https://www.bbc.com/news/articles/cx2we313k6ro#0</guid>
+      <pubDate>Mon, 23 Dec 2024 11:32:38 GMT</pubDate>
     </item>
     <item>
       <title>La Suisse au Conseil de sécurité: entre succès discrets et réalités géopolitiques (RTS)</title>
@@ -1426,21 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/19/mike-johnson-trump-spending-deal-speaker</guid>
       <pubDate>Thu, 19 Dec 2024 01:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>California Governor Gavin Newsom declares State of Emergency for Bird Flu (ME/LC News)</title>
-      <link>https://thesicktimes.org/2024/12/18/california-governor-gavin-newsom-declares-state-of-emergency-for-bird-flu/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=california-governor-gavin-newsom-declares-state-of-emergency-for-bird-flu</link>
-      <author>ME/LC News</author>
-      <guid>https://thesicktimes.org/?p=4669</guid>
-      <pubDate>Thu, 19 Dec 2024 00:48:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Berlin mulls extravagant measures to stall takeover attempt on top bank					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-antitrust-national-security-defense-legal-commerzbank-italy-takeover-unicredit/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-antitrust-national-security-defense-legal-commerzbank-italy-takeover-unicredit/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:46:42 -0000</pubDate>
     </item>
   </channel>
 </rss>
