@@ -74,7 +74,7 @@ const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
 // *Crikey, +The intercept
 const history = ['Klu Klux Klan']; 
 // +Jacobin
-const humanRights = ['death row']:
+const humanRights = ['death row'];
 // +AP
 const important = ['genocide', 'génocide', 'human toll', 'human rights'];
 // +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
