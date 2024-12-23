@@ -3,7 +3,7 @@
 // Bottom Lists
 const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
-const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate'];
+const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
@@ -88,7 +88,7 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +AP News, +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced'];
+const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed',];
 // +Open Democracy, +SBS News
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
