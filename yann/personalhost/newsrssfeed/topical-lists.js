@@ -151,5 +151,6 @@ module.exports = {
   israelPalestine,
   ukraineRussia,
   humanRights,
+  history,
 };
 
