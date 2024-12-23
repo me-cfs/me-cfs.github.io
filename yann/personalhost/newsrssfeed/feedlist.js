@@ -276,12 +276,6 @@ module.exports = [
     exclusionWords: [...tList.nonInformativeTitle, ...tList.nonArticle],
   },
   {
-    name: 'Wired',
-    url: 'https://www.wired.com/feed/',
-    inclusionWords: [...tList.technology],
-    exclusionWords: [...tList.clickbait],
-  },
-  {
     name: 'West England Bylines',
     url: 'https://politepol.com/fd/8IDvxrMRKuNI.xml',
     inclusionWords: [...tList.location, ...tList.disability, ...tList.commons],
