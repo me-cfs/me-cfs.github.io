@@ -235,7 +235,7 @@ module.exports = [
  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
-    inclusionWords: [...tList.activism, ...tList.important, ...tList.disability],
+    inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
   },
  {
     name: 'Orient XXI',
