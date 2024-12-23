@@ -19,5 +19,6 @@ module.exports = [
     url: 'https://politepol.com/fd/mnINOeCIaxAh.xml',
     inclusionWords: ['Caretaker', ...tList.disability, 'language', ...tList.medicine, 'symptom'],
     cutoffDate: new Date('2024-12-11')
+    // titles dont seem super descriptive
   },
 ];
