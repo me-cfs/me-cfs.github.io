@@ -224,7 +224,7 @@ module.exports = [
   {
     name: 'Jacobin',
     url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism],
+    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism, ...tList.history],
   },
   {
     name: 'KFF Health News',
