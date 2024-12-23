@@ -91,7 +91,7 @@ function filterItems(items, localFeed, addAuthorTitle) {
     const isDuplicate = localFeed.rss.channel[0].item.some(localItem => localItem.guid && localItem.guid[0] === item.guid);
 
     if (isExcluded || isDuplicate) {
-      console.log(`Excluding item: ${String(processedTitle)}`);
+      console.log(`Excluding item due to Exclusion words or Duplicate, ${String(processedTitle)}`);
       return false;
     }
 
