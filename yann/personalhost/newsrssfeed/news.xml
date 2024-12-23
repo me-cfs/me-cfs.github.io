@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How will history remember Biden's presidency? (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/history-remember-bidens-presidency/story?id=116942894</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/history-remember-bidens-presidency/story?id=116942894</guid>
+      <pubDate>Mon, 23 Dec 2024 15:09:05 -0000</pubDate>
+    </item>
+    <item>
       <title>Les accidents de ski sont en nette hausse chez les personnes de plus de 40 ans (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/accidents-de-ski-en-hausse-chez-les-plus-de-40-ans-prevention-cruciale-28735718.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -31,6 +38,13 @@
       <author>RTS</author>
       <guid>28735719</guid>
       <pubDate>Mon, 23 Dec 2024 10:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biden Commutes 37 Death Sentences Ahead of Trump’s Plan to Resume Federal Executions (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html</guid>
+      <pubDate>Mon, 23 Dec 2024 10:01:08 +0000</pubDate>
     </item>
     <item>
       <title>Biden takes final shot at China chip industry with new investigation (Axios)</title>
@@ -1427,20 +1441,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-antitrust-national-security-defense-legal-commerzbank-italy-takeover-unicredit/</guid>
       <pubDate>Wed, 18 Dec 2024 22:46:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>Shutdown watch: Musk barrages GOP to blow up "criminal" spending deal (Axios)</title>
-      <link>https://www.axios.com/2024/12/18/elon-musk-government-shutdown-bill-doge</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/18/elon-musk-government-shutdown-bill-doge</guid>
-      <pubDate>Wed, 18 Dec 2024 22:08:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump opposes Johnson's spending deal to avert government shutdown (Axios)</title>
-      <link>https://www.axios.com/2024/12/18/fox-news-trump-johnson-spending-bill</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/18/fox-news-trump-johnson-spending-bill</guid>
-      <pubDate>Wed, 18 Dec 2024 21:29:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
