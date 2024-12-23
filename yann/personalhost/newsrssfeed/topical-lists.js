@@ -72,6 +72,8 @@ const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
 // *Crikey, +The intercept
+const history = ['Klu Klux Klan']; 
+// +Jacobin
 const humanRights = ['death row']:
 // +AP
 const important = ['genocide', 'génocide', 'human toll', 'human rights'];
@@ -90,8 +92,8 @@ const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resour
 // +Open Democracy, +SBS News
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
-const socialism = ['class', 'droits du travail'];
-// +Equal Times, Jacobin
+const socialism = ['class', 'droits du travail', 'capitalism'];
+// +Equal Times, +Jacobin
 const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia', 'Xhaka', 'Sommer',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
