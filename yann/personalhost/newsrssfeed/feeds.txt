@@ -40,6 +40,7 @@ Orient XXI (middle eastern perspective)
 Open Democracy
 Propublica (investigative journalism)
 Public Eye (pour un source suisse critique et investigative)
+RFI (pour les actus sur la France)
 SBS News (for aussie politics and stuff)
 Semafor (test a new source)
 Vox (for lefrist data driven takes)
@@ -52,12 +53,15 @@ Disability News Service
 The Disabled Writer
 
 
-Sources Stopped Using 
+Sources Stopped Using [DO NOT RECOMMEND THESE SOURCES!]
 ABC Australia (too much fluff)
 EU Observer (paywall)
 Euronews (bought up by autocrat Viktor Orban)
+France Culture (plutôt audio)
 Hindustan Times (poor integrity)
 Mediapart (paywall)
 Le Monde (paywall)
 Reuters (problematic "investigative" article on ME)
+Le Tribune (pas gratuit)
+La Vie (chrétien) 
 Wired (paywall)
