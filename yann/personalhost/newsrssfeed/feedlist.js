@@ -27,7 +27,9 @@ module.exports = [
     name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
-    exclusionWords: [...tList.uninterestedGeneral, ...tList.singleCrime, ...tList.fluffyTitle],
+    exclusionWords: [...tList.uninterestedGeneral, ...tList.singleCrime, ...tList.fluffyTitle,
+      'Australia Debut',
+    ],
   },
   {
     name: 'BBC - Fiji',
