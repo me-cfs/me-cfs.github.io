@@ -110,6 +110,7 @@ module.exports = [
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral,
     ],
+    minCharsTitle: 15,
   },
   {
     // headlines
