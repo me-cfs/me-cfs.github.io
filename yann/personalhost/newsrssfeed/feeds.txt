@@ -1,6 +1,7 @@
 -- main Sources
 The Athletic Football (just for the teams and countries I support)
 Axios (for general US Politics News)
+Bellingcat (for data based investigative journalism£
 BBC (for both summaries of australian and fijian news)
 Chapatte Dessins
 The Economist (news in brief and some of the opinion pieces are interesting)
@@ -13,7 +14,6 @@ Paul Krugmann's substack
 Politico (only europe)
 RTS (pour les grands titres suisse)
 NYT (just the most viewed articles)
-Bellingcat (for data based investigative journalism£
 Science Based Journalism
 
 -- Sources Being Depreciated
@@ -27,7 +27,6 @@ Byline Times (for a non-corporate UK perspective)
 The Conversation (in relation to medicine and anarchism)
 Crikey (for australian perspectives)
 CrimethINC (for anarchist perspectives)
-The Disabled Writer (a good disability blog)
 The Equal Times (pour causes sociales europeenes)
 Grist (for environmental news)
 Human Rights Watch (for disability related)
@@ -38,6 +37,7 @@ Jacobin (leftist perspective)
 KFF Health News (for US health news)
 Motherjones (for activism related)
 Orient XXI (middle eastern perspective)
+Open Democracy
 Propublica (investigative journalism)
 Public Eye (pour un source suisse critique et investigative)
 SBS News (for aussie politics and stuff)
@@ -45,6 +45,12 @@ Semafor (test a new source)
 Vox (for lefrist data driven takes)
 West England Bylines (interested in the region)
 ZNetwork (anarchist takes)
+
+--medical sources
+CBT Watch 
+Disability News Service
+The Disabled Writer
+
 
 Sources Stopped Using 
 ABC Australia (too much fluff)
