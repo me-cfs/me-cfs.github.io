@@ -19,9 +19,9 @@ const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
 // -Open Democracy, -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
-    'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa',
+    'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat',
 ];
-// -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
+// -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU, -RFI
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
 // -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
@@ -83,15 +83,17 @@ const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indi
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
   'France',
 ];
-// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +Semafor, +Wdst England Bylines
+// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +RFI, +Semafor, +West England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
   'brain inflammation', 'epistemic', 'pandemic', 'medic',
 ];
 // +AP News, +The Conversation, +The Disabled Writer, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed',];
-// +Open Democracy, +SBS News
+const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed', 'socialist',
+  //
+];
+// +Open Democracy, +RFI, +SBS News
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
 const socialism = ['class', 'droits du travail', 'capitalism'];
