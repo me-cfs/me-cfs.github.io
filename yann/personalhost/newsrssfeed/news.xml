@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Russian cargo ship sinks off the coast of Spain					 (Politico)</title>
+      <link>https://www.politico.eu/article/russia-cargo-ship-sinks-off-the-coast-of-spain/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/russia-cargo-ship-sinks-off-the-coast-of-spain/</guid>
+      <pubDate>Tue, 24 Dec 2024 14:08:29 -0000</pubDate>
+    </item>
+    <item>
       <title>Le Conseil fédéral dévoile ses cartes de vœux pour les fêtes de fin d'année (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/cartes-de-v-ux-du-conseil-federal-entre-tradition-et-messages-politiques-28736804.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1432,13 +1440,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1961871</guid>
       <pubDate>Thu, 19 Dec 2024 14:35:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal ACA Marketplace Enrollment Lagging (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/health-brief-obamacare-enrollment-lagging/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=1961867&amp;post_type=article&amp;preview_id=1961867</guid>
-      <pubDate>Thu, 19 Dec 2024 14:23:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
