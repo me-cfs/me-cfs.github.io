@@ -262,6 +262,12 @@ module.exports = [
     inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment],
   },
   {
+    name: 'RFI',
+    url: 'https://www.rfi.fr/france/rss',
+    inclusionWords: [...tList.location, ...tList.politics],
+    exclusionWords: [...tList.fluffyTitle],
+  },
+  {
     name: 'SBS News',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
     inclusionWords: [...tList.disability, ...tList.environment],
