@@ -19,7 +19,7 @@ const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
 // -Open Democracy, -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
-    'bored', 'of faith', 'santa claus'
+    'bored', 'of faith', 'santa claus', 'holiday cheer',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
@@ -41,7 +41,7 @@ const spanish = [
 const triggers = ['gender dysphoria', 'Yuppie Flu'];
 // -Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
-    'fashion brand', 'traffic jam', 'noël',
+    'fashion brand', 'traffic jam', 'noël', 'Mega Millions',
 ];
 // -Axios, -BBC (Australia), -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson'];
