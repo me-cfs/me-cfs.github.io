@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Il y a 25 ans, la tempête Lothar faisait des ravages dans les forêts suisses (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/lothar-25-ans-apres-les-forets-suisses-mieux-armees-contre-les-tempetes-28736213.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28736213</guid>
+      <pubDate>Thu, 26 Dec 2024 05:40:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump and Biden share contrasting holiday messages ahead of Inauguration Day (Axios)</title>
       <link>https://www.axios.com/2024/12/25/trump-biden-christmas-messages</link>
       <author>Axios</author>
@@ -1427,13 +1434,6 @@
       <author>RTS</author>
       <guid>28733281</guid>
       <pubDate>Fri, 20 Dec 2024 09:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>La fin des négociations entre l'UE et la Suisse attendue dans la journée (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/suisse-ue-accord-imminent-28733155.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28733155</guid>
-      <pubDate>Fri, 20 Dec 2024 08:52:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
