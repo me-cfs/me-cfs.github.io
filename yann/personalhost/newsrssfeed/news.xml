@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Two die in Sydney to Hobart yacht race (BBC - Australia)</title>
+      <link>https://www.bbc.com/news/articles/c0j15l83v7jo</link>
+      <author>BBC - Australia</author>
+      <guid>https://www.bbc.com/news/articles/c0j15l83v7jo#0</guid>
+      <pubDate>Thu, 26 Dec 2024 21:46:42 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Trump wants Greenland (and its 55,000 EU citizens). EU says ‘no comment’.					 (Politico)</title>
       <link>https://www.politico.eu/article/donald-trump-occupy-greenland-eu-citizens-eu-says-no-comment/</link>
@@ -47,6 +54,13 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=221421</guid>
       <pubDate>Thu, 26 Dec 2024 18:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dead Body Is Found in Wheel Well of United Airlines Plane After Hawaii Landing (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/25/us/body-found-united-airlines-wheel-well-maui-hawaii.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/25/us/body-found-united-airlines-wheel-well-maui-hawaii.html</guid>
+      <pubDate>Thu, 26 Dec 2024 16:44:53 +0000</pubDate>
     </item>
     <item>
       <title>Elon Musk dubs himself "Ozempic Santa" as weight loss drugs go mainstream (Axios)</title>
@@ -1419,21 +1433,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/16/us/politics/hegseth-bodyguard-army.html</guid>
       <pubDate>Fri, 20 Dec 2024 18:32:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						‘Powerful consiglieri’ run von der Leyen’s Commission, EU transparency chief says					 (Politico)</title>
-      <link>https://www.politico.eu/article/consiglieri-ursula-von-der-leyen-eu-commission-cabinet-ombudsman-emily-oreilly/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/consiglieri-ursula-von-der-leyen-eu-commission-cabinet-ombudsman-emily-oreilly/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:27:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>Musk endorses Germany's far-right AfD party (Axios)</title>
-      <link>https://www.axios.com/2024/12/20/musk-germany-afd-party</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/20/musk-germany-afd-party</guid>
-      <pubDate>Fri, 20 Dec 2024 17:19:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
