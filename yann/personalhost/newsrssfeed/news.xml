@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Westminster’s top books of 2024					 (Politico)</title>
+      <link>https://www.politico.eu/article/westminsters-top-books-2024/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/westminsters-top-books-2024/</guid>
+      <pubDate>Thu, 26 Dec 2024 10:30:59 -0000</pubDate>
+    </item>
+    <item>
       <title>Trump's first day frenzy (Axios)</title>
       <link>https://www.axios.com/2024/12/26/trump-first-day-executive-orders</link>
       <author>Axios</author>
@@ -1430,13 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/20/government-shutdown-media-vs-reporting-musk</guid>
       <pubDate>Fri, 20 Dec 2024 10:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Employers Press Congress To Cement Health Price Transparency Before Trump’s Return (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/price-transparency-health-care-trump-regulations-hospitals/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=1958059</guid>
-      <pubDate>Fri, 20 Dec 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
