@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le "cloud suisse", un projet pour renforcer la souveraineté numérique du pays (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/la-suisse-lance-son-cloud-souverain-pour-reduire-sa-dependance-numerique-28738204.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28738204</guid>
+      <pubDate>Thu, 26 Dec 2024 19:50:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Les récentes chutes de neige boostent l'afflux touristique, mais mettent sous pression l'hôtellerie-restauration (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/stations-de-ski-l-afflux-touristique-met-l-hotellerie-sous-pression-28738188.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1426,13 +1433,6 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=221369</guid>
       <pubDate>Fri, 20 Dec 2024 17:07:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here’s What Could Happen in a Government Shutdown (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/19/us/politics/government-shutdown-funding.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/19/us/politics/government-shutdown-funding.html</guid>
-      <pubDate>Fri, 20 Dec 2024 16:44:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
