@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						As Finland seizes Russian ship, Estonia launches naval patrols					 (Politico)</title>
+      <link>https://www.politico.eu/article/estonia-finland-russia-shipnaval-ports-sanction-germany-baltic-sea/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/estonia-finland-russia-shipnaval-ports-sanction-germany-baltic-sea/</guid>
+      <pubDate>Fri, 27 Dec 2024 12:54:01 -0000</pubDate>
+    </item>
+    <item>
       <title>Japan approves record budget for aging population (Semafor)</title>
       <link>https://www.semafor.com/article/12/27/2024/japan-approves-record-budget-for-aging-population</link>
       <author>Semafor</author>
@@ -1429,13 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/20/hakeem-jeffries-trump-abolish-debt-ceiling</guid>
       <pubDate>Fri, 20 Dec 2024 23:31:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mike Johnson's magic debt ceiling promise (Axios)</title>
-      <link>https://www.axios.com/2024/12/20/mike-johnson-debt-ceiling-promise-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/20/mike-johnson-debt-ceiling-promise-trump</guid>
-      <pubDate>Fri, 20 Dec 2024 23:25:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
