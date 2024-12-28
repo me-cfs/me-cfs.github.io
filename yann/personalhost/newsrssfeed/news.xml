@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Italian journalist arrested in Iran					 (Politico)</title>
+      <link>https://www.politico.eu/article/italy-journalist-cecilia-sala-arrested-in-iran/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/italy-journalist-cecilia-sala-arrested-in-iran/</guid>
+      <pubDate>Sat, 28 Dec 2024 03:11:56 -0000</pubDate>
+    </item>
+    <item>
       <title>Treasury secretary sends warning urging Congress to act on debt limit (Axios)</title>
       <link>https://www.axios.com/2024/12/28/treasury-secretary-debt-limit-congress-yellen</link>
       <author>Axios</author>
@@ -60,6 +68,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/27/musk-x-loomer-h1b-maga-verification</guid>
       <pubDate>Fri, 27 Dec 2024 17:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>E.P.A. Promotes Fertilizer Carrying PFAS, Long After 3M Shared Risks (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</guid>
+      <pubDate>Fri, 27 Dec 2024 17:09:32 +0000</pubDate>
     </item>
     <item>
       <title>France: fraîchement nommé ministre de la Justice, Gérald Darmanin se veut omniprésent (RFI)</title>
@@ -1000,6 +1015,13 @@
       <pubDate>Mon, 23 Dec 2024 17:06:58 +0000</pubDate>
     </item>
     <item>
+      <title>Removing Carbon From the Sky Could Be the Next Climate Gold Rush (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/22/climate/carbon-capture-global-warming.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/22/climate/carbon-capture-global-warming.html</guid>
+      <pubDate>Mon, 23 Dec 2024 16:37:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Europe Had a Terrible Year, and It’s Probably Going to Get Worse (New York Times)</title>
       <link>https://www.nytimes.com/2024/12/22/opinion/europe-germany-france-trump.html</link>
       <author>New York Times</author>
@@ -1413,28 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/19/government-shutdown-december-trump-musk</guid>
       <pubDate>Sat, 21 Dec 2024 17:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden signs bill funding government through March, averting shutdown (Axios)</title>
-      <link>https://www.axios.com/2024/12/21/biden-signs-cr-march-shutdown</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/21/biden-signs-cr-march-shutdown</guid>
-      <pubDate>Sat, 21 Dec 2024 17:30:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						‘Insane’ Magdeburg Christmas market attack turns up heat on Germany’s politicians					 (Politico)</title>
-      <link>https://www.politico.eu/article/insane-magdeburg-christmas-market-attack-germany-politicians-islamophobia-far-right/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/insane-magdeburg-christmas-market-attack-germany-politicians-islamophobia-far-right/</guid>
-      <pubDate>Sat, 21 Dec 2024 17:26:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>Blake Lively, Justin Baldoni and a Smear Campaign After ‘It Ends With Us’ (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/21/business/media/blake-lively-justin-baldoni-it-ends-with-us.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/21/business/media/blake-lively-justin-baldoni-it-ends-with-us.html</guid>
-      <pubDate>Sat, 21 Dec 2024 17:07:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
