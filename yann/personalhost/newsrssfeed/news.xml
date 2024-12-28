@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Santé: le scorbut fait son retour en France notamment à cause de la précarité alimentaire (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20241228-sant%C3%A9-le-scorbut-fait-son-retour-en-france-notamment-%C3%A0-cause-de-la-pr%C3%A9carit%C3%A9-alimentaire</link>
+      <author>RFI</author>
+      <guid>d1b7acee-c529-11ef-8ccc-005056a97652</guid>
+      <pubDate>Sat, 28 Dec 2024 18:13:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Colorado man facing bias-motivated charges after attacking TV reporter (Axios)</title>
       <link>https://www.axios.com/2024/12/28/colorado-man-bias-motivated-charges-tv-reporter</link>
       <author>Axios</author>
@@ -1431,13 +1438,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1106506</guid>
       <pubDate>Sun, 22 Dec 2024 19:09:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: «derniers réglages» en cours, l'annonce du gouvernement Bayrou reportée (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241222-france-derniers-r%C3%A9glages-en-cours-l-annonce-d-un-nouveau-gouvernement-report%C3%A9e</link>
-      <author>RFI</author>
-      <guid>4e03c978-c079-11ef-b515-005056bf1351</guid>
-      <pubDate>Sun, 22 Dec 2024 18:45:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
