@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Treasury secretary sends warning urging Congress to act on debt limit (Axios)</title>
+      <link>https://www.axios.com/2024/12/28/treasury-secretary-debt-limit-congress-yellen</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/28/treasury-secretary-debt-limit-congress-yellen</guid>
+      <pubDate>Sat, 28 Dec 2024 01:42:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. homelessness reached another record high in 2024 (Axios)</title>
+      <link>https://www.axios.com/2024/12/28/us-homelessness-record-high-2024</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/28/us-homelessness-record-high-2024</guid>
+      <pubDate>Sat, 28 Dec 2024 01:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Israeli Troops Forcibly Remove Staff And Patients From Gaza Hospital, Officials Say (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israeli-troops-forcibly-remove-staff-patients-gaza-hospital_n_676f1b27e4b07cfeb5a72b31</link>
       <author>Huffington Post</author>
@@ -829,6 +843,13 @@
       <pubDate>Tue, 24 Dec 2024 04:00:59 -0000</pubDate>
     </item>
     <item>
+      <title>Takeaways From the House Ethics Report on Matt Gaetz (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</guid>
+      <pubDate>Tue, 24 Dec 2024 03:47:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Japanese firm says panel has referred its bid for U.S. Steel to Biden after deadlock (Axios)</title>
       <link>https://www.axios.com/2024/12/24/nippon-steel-us-biden-cfius</link>
       <author>Axios</author>
@@ -1068,6 +1089,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/23/biden-chips-china-trade-investigtion</guid>
       <pubDate>Mon, 23 Dec 2024 10:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Drug Culture Becomes Mainstream, Our Language Needs To Evolve. (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/23/opinion/is-everyone-high.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/23/opinion/is-everyone-high.html</guid>
+      <pubDate>Mon, 23 Dec 2024 10:00:23 +0000</pubDate>
     </item>
     <item>
       <title>Media's suck-up moment (Axios)</title>
@@ -1407,34 +1435,6 @@
       <author>NYT Most Viewed</author>
       <guid>https://www.nytimes.com/2024/12/21/business/media/blake-lively-justin-baldoni-it-ends-with-us.html</guid>
       <pubDate>Sat, 21 Dec 2024 17:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: mort de Maïté, l'ex-animatrice de l'émission «La Cuisine des Mousquetaires» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241221-mort-de-ma%C3%AFt%C3%A9-l-ex-animatrice-de-l-%C3%A9mission-la-cuisine-des-mousquetaires%C3%AFte</link>
-      <author>RFI</author>
-      <guid>9557f93a-bfb5-11ef-8539-005056a97652</guid>
-      <pubDate>Sat, 21 Dec 2024 16:14:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 People Die In Crash Between Passenger Bus And Truck In Brazil (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/30-people-die-crash-passenger-bus-truck-brazil_n_6766e0c0e4b08c77e531d7fa</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/30-people-die-crash-passenger-bus-truck-brazil_n_6766e0c0e4b08c77e531d7fa</guid>
-      <pubDate>Sat, 21 Dec 2024 16:09:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>Congress Approves Full Social Security Benefits for Public Sector Retirees (NYT Most Viewed)</title>
-      <link>https://www.nytimes.com/2024/12/21/us/congress-social-security.html</link>
-      <author>NYT Most Viewed</author>
-      <guid>https://www.nytimes.com/2024/12/21/us/congress-social-security.html</guid>
-      <pubDate>Sat, 21 Dec 2024 16:08:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a government shutdown could have meant for holiday air travel (Axios)</title>
-      <link>https://www.axios.com/2024/12/19/holiday-air-travel-government-shutdown-tsa</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/19/holiday-air-travel-government-shutdown-tsa</guid>
-      <pubDate>Sat, 21 Dec 2024 15:56:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
