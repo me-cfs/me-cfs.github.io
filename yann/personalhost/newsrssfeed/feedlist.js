@@ -160,7 +160,7 @@ module.exports = [
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
-      
+      'France coast', 'anti-US', 
     ],
   },
   {
@@ -177,7 +177,7 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
-      ...tList.activism, ...tList.independenceMovements,
+      ...tList.activism, ...tList.independenceMovements, 'secret weapon', 
     ],
   },
   {
