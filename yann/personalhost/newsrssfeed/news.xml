@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump hasn't permanently changed GOP, Sununu says (Axios)</title>
+      <link>https://www.axios.com/2024/12/29/trump-gop-chris-sununu</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/29/trump-gop-chris-sununu</guid>
+      <pubDate>Sun, 29 Dec 2024 16:05:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Kim Jong Un Vows 'Toughest' Anti-U.S. Strategy As Trump Nears Return (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/kim-jong-un-vows-toughest-anti-us-strategy-as-trump-nears-return-state-media_n_67715109e4b00983c2df1053</link>
       <author>Huffington Post</author>
@@ -185,6 +192,13 @@
       <pubDate>Sat, 28 Dec 2024 15:47:13 +0000</pubDate>
     </item>
     <item>
+      <title>I Won’t Feel Good About Flying Until the Airlines Solve This (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/28/opinion/air-travel-airlines-carbon-capture-climate-change.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/28/opinion/air-travel-airlines-carbon-capture-climate-change.html</guid>
+      <pubDate>Sat, 28 Dec 2024 15:04:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Video Shows Fatal Beating of Robert Brooks by N.Y. Prison Officers (New York Times)</title>
       <link>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</link>
       <author>New York Times</author>
@@ -227,6 +241,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/russia-moscow-vladimir-putin-behind-azerbaijan-plane-crash-war-downed-missile-grozny-air-defense-us-john-kirby/</guid>
       <pubDate>Sat, 28 Dec 2024 12:47:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Joe Biden, the Presidency and the Messiness of Being Human (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/28/opinion/joe-biden-presidency.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/28/opinion/joe-biden-presidency.html</guid>
+      <pubDate>Sat, 28 Dec 2024 12:00:17 +0000</pubDate>
     </item>
     <item>
       <title>Politique, sport ou culture, ces personnalités suisses qui se sont éteintes en 2024 (RTS)</title>
@@ -1415,27 +1436,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/23/biden-commutes-federal-death-sentences</guid>
       <pubDate>Mon, 23 Dec 2024 12:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyclone Chido à Mayotte: la France rend hommage aux victimes en pleine polémique sur l'aide (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241223-cyclone-chido-%C3%A0-mayotte-la-france-observe-une-minute-de-silence-en-hommage-aux-victimes</link>
-      <author>RFI</author>
-      <guid>36fdb874-c123-11ef-b603-005056bf1351</guid>
-      <pubDate>Mon, 23 Dec 2024 12:38:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil fédéral défend un contre-projet sur les droits des personnes en situation de handicap (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/contre-projet-federal-nouveaux-droits-pour-personnes-handicapees-28735825.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28735825</guid>
-      <pubDate>Mon, 23 Dec 2024 12:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: le difficile quotidien des livreurs à vélo victimes de racisme et autres discriminations (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241223-france-le-difficile-quotidien-des-livreurs-%C3%A0-v%C3%A9lo-victimes-de-racisme-et-autres-discriminations</link>
-      <author>RFI</author>
-      <guid>890e132c-c10d-11ef-9f5b-005056a97652</guid>
-      <pubDate>Mon, 23 Dec 2024 12:13:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
