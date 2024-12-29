@@ -19,7 +19,8 @@ const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
 // -Open Democracy, -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
-    'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat',
+    'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat', 'here's the',
+    // '',
 ];
 // -Axios, -BBC Aus, -Economist, -NYT Most Viewed, -Politico EU, -RFI
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
@@ -53,8 +54,8 @@ const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college 
 
 // inclusionLists
 const activism = ['protest', 'rights', 'strike', 'acivis'];
-// +{Byline Times, +Converation, Indian Country Today, +Motherjones
-const commons = ['open-source', 'public housing', 'commons', 'community owned'];
+// +Byline Times, +Converation, Indian Country Today, +Motherjones
+const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource'];
 // +west england bylines
 const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network'];
 // + Amnesty Intl, +Byline Times
