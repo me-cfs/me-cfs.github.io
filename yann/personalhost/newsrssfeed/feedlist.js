@@ -278,7 +278,9 @@ module.exports = [
   {
     name: 'SBS News',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...tList.disability, ...tList.environment],
+    inclusionWords: [...tList.disability, ...tList.environment, ...tList.location,
+      //'',
+    ],
   },
   {
     name: 'Semafor',
