@@ -65,7 +65,8 @@ module.exports = [
     off: false,
   },
   {
-    name: 'EURACTIV - Circular Economy Mentions',
+    // Curcular Economy
+    name: 'EURACTIV',
     url: 'https://www.euractiv.com/sections/circular-economy/feed/',
     off: false,
   },
@@ -196,6 +197,13 @@ module.exports = [
     inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
       ...tList.medicine,
     ],
+  },
+  {
+    name: 'EURACTIV',
+    url: 'https://www.euractiv.com/RSS',
+    inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
+    ],
+    exclusionWords: ['Elon Musk', 'Gas Transit Dispute', 'Putin apologises'],
   },
   {
     name: 'Grist',
