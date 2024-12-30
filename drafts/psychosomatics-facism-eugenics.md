@@ -13,7 +13,7 @@ _An exploration into the link between psychosomatics, facism, and eugenics._
 
 ## Intellectual Influences of 20th century Psychsomatics
 
-While freudian theories were central to the establishment of psychosomatics, in that their extension from only behaviour and thoughts onto the “soma” (body) were crucial, the influences of psychosomatics lies majoritarily outside of science or medicine. 
+While Freudian theories were central to the establishment of psychosomatics, in that their extension from only behaviour and thoughts onto the “soma” (body) were crucial, the influences of psychosomatics lies majoritarily outside of science or medicine. 
 
 Flanders Dunbar, sometimes referred to as the “mother” of the 20th century psychosomatics, was deeply influenced by her personal experience with illness and religion. She suffered from a young age with what was diagnosed as rachidic pseudo-paralysis, although she claimed later on in life it had been polio. She was deeply influenced by relgion, and visited shrines to learn about how people used the mind to heal disease. She remarked that those that came in “hysterical” states to the shrines did not tend to have their improve, but those that had “deep confidence” in the healing power of shrines did. 
 
@@ -30,15 +30,13 @@ Franz Alexander, sometimes called the father of psychosomatics, had similar beli
 The popularity did not immediately wane post-world war 2
 > [post WW2] general practitioners would be receptive to teaching and applying psychosomatic medicine to the many veterans and to patients with "functional disorders" admitted to general hospitals. Although the courses were well attended and full of promise, the impediments to implementation led to disappointing results.
 
-http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld
+([The Evolution of Psychosomatic Medicine](http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld.pdf))Blumenfeld
 
-Eventually in the 1950s, the first edition of the DSM (sometimes referred to as the “bible of psychiatry”) contained illnesses under the concept of psychosomatic this included illnesses like ulterative colitis and hyperthyroidism. Conversion disorders however maintained a specific category to themselves, because they weren’t seen as changing the biological reality of the body, like these psychosomatic illnesses but only the functional reality of how the body “acts”.
-
-To read more, see psychosomatic medicine a brief history, by Martin 1978 https://www.sciencedirect.com/science/article/pii/S0033318278709114?ref=cra_js_challenge&fr=RR-1
+Eventually in the 1950s, the first edition of the DSM (sometimes referred to as the “bible of psychiatry”) contained illnesses under the concept of psychosomatic this included illnesses like ulterative colitis and hyperthyroidism. Conversion disorders however maintained a specific category to themselves (Martin 1978), because they weren’t seen as changing the biological reality of the body, like these psychosomatic illnesses but only the functional reality of how the body “acts”.
 
 The takeaway from all this that is relevant to the next section, is that 20th century psychosomatics has pseudoscientific roots, and that it seeks not just to explain a few select illnesses as mind-body, but large swaths, and if allowed, the entirety of medicine. Echos of this can be seen in the 1980s for example where Cognitive-behavioural therapy was increasingly thought to improve breast cancer outcomes. 
 
-Eugenics, Facism, and Psychosomatics
+## Psychosomatics, Eugenice, and Facism
 The eugenics movement was strongly based on genetic determinism, to the point that they saw both biological realities and sociopsychological realities as being caused by genetic factors. They framed criminality, poverty, illness, “deviant states” (queerness), being caused by hereditary factors.
 
 Many chronic illnesses didn’t fit well into that paradigm. How could someone born perfectly healthy all of the sudden develop a vague and persistent state of disease, especially if that disease doesn’t follow obvious hereditary patterns. The psychosomatic movement offered a simplistic (and therefore “elegant”) solution to the disconnect between many chronic illnesses and eugenic theories. 
@@ -84,10 +82,10 @@ Metaxus (who was anti-communist) said:
 > the anti-communist struggle of the state directed against rebellious and mentally ill people should be based on a psychological foundation 
 (Tzanaki 2022)
 
-Conclusion
+## Conclusion
 While the roots of 20th century psychosomatics lie more in religious and freudian influences, facist and eugenicist use of psychosomatics may have led to a large increase in popularity. Further exploring how this has affected modern psychosomatics is crucial. 
 
-References
+## References
 Brown, T.  (2023, August 23). Thirty Years of American Psychosomatic Medicine, 1917–1947. Oxford Research Encyclopedia of Psychology. Retrieved 21 Dec. 2024, from https://oxfordre.com/psychology/view/10.1093/acrefore/9780190236557.001.0001/acrefore-9780190236557-e-641.
 
 Jewish Virtual Library https://www.jewishvirtuallibrary.org/nazi-persecution-of-the-mentally-and-physically-disabled
@@ -95,6 +93,8 @@ Jewish Virtual Library https://www.jewishvirtuallibrary.org/nazi-persecution-of-
 Proctor, Robert (1988). Racial Hygiene: Medicine Under the Nazis. Harvard University Press. ISBN 978-0674745780. “Racial Hygiene: Medicine under the Nazis.” 
 
 Kouroutzas and Tzanaki, ‘[The work of Konstantinos Gardikas and his biomedical conceptualizations],’ 25–40.
+
+Martin 1978,  [psychosomatic medicine a brief history](https://www.sciencedirect.com/science/article/pii/S0033318278709114?ref=cra_js_challenge&fr=RR-1)
 
 Torrey et Yolken 2011 "Psychiatric Genocide: Nazi Attempts to Eradicate Schizophrenia". Schizophrenia Bulletin. 36 (1): 26–32. doi:10.1093/schbul/sbp097. ISSN 0586-7614. PMC 2800142. PMID 19759092.
 
