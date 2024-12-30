@@ -49,7 +49,8 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake P
 // Axios
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts'];
 // -Axios, -Economist
-
+const weather = ['storm', 'tornado'];
+// -Axios
 
 
 // inclusionLists
