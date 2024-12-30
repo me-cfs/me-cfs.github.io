@@ -157,5 +157,6 @@ module.exports = {
   ukraineRussia,
   humanRights,
   history,
+  weather,
 };
 
