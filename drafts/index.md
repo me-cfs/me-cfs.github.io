@@ -1,11 +1,12 @@
 ---
-title:  “Article Drafts"
+title: Article Drafts
 tags: 
   - me/cfs drafts
   - yann me/cfs directory
   - draft article long covid
   - draft article chronic fatigue syndrome
   - posthumous
+  - yann me/cfs blog
 canonical_url: "https://mecfsadvocacy.org/drafts/"
 ---
   
