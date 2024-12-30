@@ -19,7 +19,8 @@ module.exports = [
       'Simone', 'Warner', 'soccer', ...tList.business,
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
-      'Sunday Snapshot', 'blaze', 'winds', 'charged with'
+      'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
+      //'',
     ],
     minCharsTitle: 15,
   },
