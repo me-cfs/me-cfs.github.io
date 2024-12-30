@@ -12,7 +12,7 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
   
 * [Anarchism as a possible answer to the paradigm of Disability](https://mecfsadvocacy.org/drafts/anarchism-disability.html)
 
-* [The Dark Side of Medicine, Past and Present](https://me-cfs.github.io/drafts/dark-side-medicine.html)
+* [The Dark Side of Medicine, Past and Present](https://mecfsadvocacy.org/drafts/dark-side-medicine.html)
 
 * [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/drafts/disabled-secondary-minority.html)
 
