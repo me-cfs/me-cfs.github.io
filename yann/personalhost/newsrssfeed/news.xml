@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Fatal beating of Black inmate in New York draws probes, outrage (Axios)</title>
+      <link>https://www.axios.com/2024/12/30/robert-brooks-death-new-york-prison-death</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/30/robert-brooks-death-new-york-prison-death</guid>
+      <pubDate>Mon, 30 Dec 2024 05:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tour d'horizon des nouvelles lois entrant en vigueur au 1er janvier 2025 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2024/article/nouvelles-lois-2025-retraite-tva-et-don-du-sang-ce-qui-change-28737976.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28737976</guid>
+      <pubDate>Mon, 30 Dec 2024 05:35:38 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Poland takes EU baton as Tusk braces for pivotal presidential election					 (Politico)</title>
       <link>https://www.politico.eu/article/poland-eu-baton-presidency-donald-tusk-braces-pivotal-presidential-election/</link>
@@ -1425,21 +1439,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</guid>
       <pubDate>Tue, 24 Dec 2024 03:08:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s offer to Syria					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-offer-syria-fall-bashar-assad-refugees-hts/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-offer-syria-fall-bashar-assad-refugees-hts/</guid>
-      <pubDate>Tue, 24 Dec 2024 02:06:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>Greenland's PM tells Trump: "We are not for sale" (Axios)</title>
-      <link>https://www.axios.com/2024/12/24/trump-buying-greenland-not-for-sale</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/24/trump-buying-greenland-not-for-sale</guid>
-      <pubDate>Tue, 24 Dec 2024 01:12:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
