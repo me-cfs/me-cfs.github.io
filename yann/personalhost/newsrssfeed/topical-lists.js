@@ -1,4 +1,5 @@
 // topical lists
+// ! Remeber to add lists to export below!
 
 // Bottom Lists
 const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
