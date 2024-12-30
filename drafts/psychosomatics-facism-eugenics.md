@@ -12,6 +12,7 @@ canonical_url: "https://mecfsadvocacy.org/drafts/psychosomatics-facism-eugenics.
 _An exploration into the link between psychosomatics, facism, and eugenics._
 
 ## Intellectual Influences of 20th century Psychsomatics
+
 While freudian theories were central to the establishment of psychosomatics, in that their extension from only behaviour and thoughts onto the “soma” (body) were crucial, the influences of psychosomatics lies majoritarily outside of science or medicine. 
 
 Flanders Dunbar, sometimes referred to as the “mother” of the 20th century psychosomatics, was deeply influenced by her personal experience with illness and religion. She suffered from a young age with what was diagnosed as rachidic pseudo-paralysis, although she claimed later on in life it had been polio. She was deeply influenced by relgion, and visited shrines to learn about how people used the mind to heal disease. She remarked that those that came in “hysterical” states to the shrines did not tend to have their improve, but those that had “deep confidence” in the healing power of shrines did. 
@@ -50,7 +51,7 @@ Hence we saw a substantial rise in the psychosomatic movement and psychosomatic 
 (Brown 2023)
 
 > The decades of the 1930s to the 1950s saw a fervent embrace of the "psychosomatic movement." By 1942, attesting to the movement's impact on medicine, a most remarkable change had occurred in Christian's 14th edition of Osler's Principles and Practice of Medicine: The leading first chapter was devoted entirely to "Psycho-somatic Medicine," bringing psychiatry and psychoanalysis to the bedside in a way that had probably never occurred before or indeed since.
-http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld.pdf
+([The Evolution of Psychosomatic Medicine](http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld.pdf))
 
 In the United States, psychosomatics manifested through the classification of chronically ill individuals as “feebleminded”, these people were then affected by eugenicist laws, leading to consequences like forced sterilisation (US Gov Fact Sheet), which went until atleast the 1970s.
 
