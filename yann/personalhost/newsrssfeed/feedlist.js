@@ -276,6 +276,7 @@ module.exports = [
     url: 'https://www.rfi.fr/france/rss',
     inclusionWords: [...tList.location, ...tList.politics],
     exclusionWords: [...tList.fluffyTitle],
+    urlExclusionWords: ['podcast'],
   },
   {
     name: 'SBS News',
@@ -323,3 +324,7 @@ const off = [
   // Reuters: haven't forgiven them for probelmatic Tuller article
   // Wired: Paywalled
 ];
+
+//titlereplace
+//fallbackUrls
+//urlExclusionWords
