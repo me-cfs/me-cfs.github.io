@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden remembers s "dear friend" Jimmy Carter for his "decency" (Axios)</title>
+      <link>https://www.axios.com/2024/12/30/biden-carter-tribute</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2024/12/30/biden-carter-tribute</guid>
+      <pubDate>Mon, 30 Dec 2024 00:40:45 +0000</pubDate>
+    </item>
+    <item>
       <title>How Jimmy Carter and Joe Biden built an enduring friendship (Axios)</title>
       <link>https://www.axios.com/2023/03/01/jimmy-carter-joe-biden-friendship</link>
       <author>Axios</author>
@@ -94,6 +101,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/29/trump-gop-chris-sununu</guid>
       <pubDate>Sun, 29 Dec 2024 16:05:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chlamydia could make koalas extinct. Can a vaccine save them in time? (BBC - Australia)</title>
+      <link>https://www.bbc.com/news/articles/cjdnkdg1l8do</link>
+      <author>BBC - Australia</author>
+      <guid>https://www.bbc.com/news/articles/cjdnkdg1l8do#0</guid>
+      <pubDate>Sun, 29 Dec 2024 16:03:09 GMT</pubDate>
     </item>
     <item>
       <title>Kim Jong Un Vows 'Toughest' Anti-U.S. Strategy As Trump Nears Return (Huffington Post)</title>
@@ -1421,20 +1435,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/22/nyregion/woman-subway-fire-dead.html</guid>
       <pubDate>Mon, 23 Dec 2024 20:27:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luigi Mangione Pleads Not Guilty to N.Y. Charges in UnitedHealthcare CEO Killing (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</guid>
-      <pubDate>Mon, 23 Dec 2024 20:24:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: la gauche et l'extrême droite vent debout après l'annonce du gouvernement Bayrou (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241223-france-la-gauche-et-l-extr%C3%AAme-droite-vent-debout-apr%C3%A8s-l-annonce-du-gouvernement-bayrou</link>
-      <author>RFI</author>
-      <guid>2218b986-c164-11ef-8424-005056bf1351</guid>
-      <pubDate>Mon, 23 Dec 2024 19:57:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
