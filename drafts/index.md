@@ -7,6 +7,7 @@ tags:
   - draft article chronic fatigue syndrome
   - posthumous
   - yann me/cfs blog
+  - me/cfs article directory
 canonical_url: "https://mecfsadvocacy.org/drafts/"
 ---
   
@@ -14,7 +15,7 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
 
 * [The Dark Side of Medicine, Past and Present](https://mecfsadvocacy.org/drafts/dark-side-medicine.html)
 
-* [Disabled people are a secondary minority group, forgotten and ignored](https://me-cfs.github.io/drafts/disabled-secondary-minority.html)
+* [Disabled people are a secondary minority group, forgotten and ignored](https://mecfsadvocacy.org/drafts/disabled-secondary-minority.html)
 
 * [Epistemic Denial as a Negative Feedback Loop: The case of ME](https://me-cfs.github.io/drafts/epistemic-denial-negative-feedback.html)
 
@@ -37,6 +38,8 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
 * [Old wine in new bottles, “Functional” as a prejudiced euphemism for “Hysterical”](https://me-cfs.github.io/drafts/bottle-functional-hysterical.html)
 
 * [Psychological Illness: A concept built upon false assumptions?](https://mecfsadvocacy.org/drafts/psychology-false.html)
+
+* [Psychosomatics, Eugenics, and Facism: Psychosomatics in the early 20th century](https://mecfsadvocacy.org/drafts/psychosomatics-facism-eugenics.html)
 
 * [Reasons to be Optimistic about ME Research](https://me-cfs.github.io/drafts/optimism-me-research.html)
 
