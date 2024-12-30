@@ -75,7 +75,7 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
     off: false,
-    exclusionWords: [...tList.nonArticle],
+    exclusionWords: [...tList.nonArticle, '?'],
     cutoffDate: new Date('2024-12-10')
   },
   {
@@ -102,7 +102,8 @@ module.exports = [
   },
   {
     name: 'Paul Krugmann',
-    url: 'https://paulkrugman.substack.com/feed',
+    url: 'https://openrss.org/paulkrugman.substack.com/feed'
+    altUrla: ['https://paulkrugman.substack.com/feed'],
     off: false,
   },
   {
