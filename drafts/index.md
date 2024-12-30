@@ -19,6 +19,8 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
 
 * [Explaining ME through metaphors](https://me-cfs.github.io/drafts/me-metaphors.html)
 
+* [Foucaultian Conceptions of ME/CFS](https://me-cfs.github.io/drafts/foucault-mecfs.html)
+
 * [Ignoring and psychologising us kills us](https://me-cfs.github.io/drafts/ignoring-kills.html)
 
 * [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://me-cfs.github.io/drafts/masking-denial.html)
