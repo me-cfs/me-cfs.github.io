@@ -1,5 +1,5 @@
 ---
-title: Psychosomatics, Eugenics, and Facism: Psychosomatics in the early 20th century
+title: "Psychosomatics, Eugenics, and Facism: Psychosomatics in the early 20th century"
 tags: 
   - psychosomatics facism
   - psychosomatics eugencics
@@ -9,9 +9,9 @@ tags:
 canonical_url: "https://mecfsadvocacy.org/drafts/psychosomatics-facism-eugenics.html"
 ---
   
-The link between psychosomatics, facism, and eugenics 
+_An exploration into the link between psychosomatics, facism, and eugenics._
 
-Intellectual Influences of 20th century Psychsomatics
+## Intellectual Influences of 20th century Psychsomatics
 While freudian theories were central to the establishment of psychosomatics, in that their extension from only behaviour and thoughts onto the “soma” (body) were crucial, the influences of psychosomatics lies majoritarily outside of science or medicine. 
 
 Flanders Dunbar, sometimes referred to as the “mother” of the 20th century psychosomatics, was deeply influenced by her personal experience with illness and religion. She suffered from a young age with what was diagnosed as rachidic pseudo-paralysis, although she claimed later on in life it had been polio. She was deeply influenced by relgion, and visited shrines to learn about how people used the mind to heal disease. She remarked that those that came in “hysterical” states to the shrines did not tend to have their improve, but those that had “deep confidence” in the healing power of shrines did. 
