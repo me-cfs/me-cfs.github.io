@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How Trump's tariffs could impact the pharmaceutical market (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5055533-trump-tariffs-drug-prices-drug-shortages/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5055533</guid>
+      <pubDate>Tue, 31 Dec 2024 11:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Un "défaut jusqu'ici inconnu" sur le moteur de l'Airbus de Swiss qui a atterri d'urgence à Graz (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/airbus-swiss-defaut-inconnu-sur-le-moteur-apres-l-atterrissage-d-urgence-28741561.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -148,6 +155,13 @@
       <author>RTS</author>
       <guid>28741255</guid>
       <pubDate>Mon, 30 Dec 2024 21:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Loses Appeal of Carroll’s $5 Million Award in Sex-Abuse Case (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/30/nyregion/trump-carroll-appeal-denied.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/30/nyregion/trump-carroll-appeal-denied.html</guid>
+      <pubDate>Mon, 30 Dec 2024 20:54:02 +0000</pubDate>
     </item>
     <item>
       <title>16 years after Madoff's scheme collapsed, some victims gets final payment (Axios)</title>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/25/trump-biden-christmas-messages</guid>
       <pubDate>Wed, 25 Dec 2024 23:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Washington wildlife sanctuary goes into quarantine after bird flu kills 20 big cats (Axios)</title>
-      <link>https://www.axios.com/2024/12/25/bird-flu-big-cats-die-washington</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/25/bird-flu-big-cats-die-washington</guid>
-      <pubDate>Wed, 25 Dec 2024 22:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Never Felt Like This in China Before (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/24/opinion/us-china-relationship.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/24/opinion/us-china-relationship.html</guid>
-      <pubDate>Wed, 25 Dec 2024 21:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
