@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ukraine calls Slovakia’s bluff as Fico threatens power cutoff over Russia gas deal spat					 (Politico)</title>
+      <link>https://www.politico.eu/article/ukraine-slovakia-russia-gas-deal-power-robert-fico/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ukraine-slovakia-russia-gas-deal-power-robert-fico/</guid>
+      <pubDate>Tue, 31 Dec 2024 23:23:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>En France, l'année 2024 égayée par les Jeux olympiques et paralympiques (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20241231-en-france-l-ann%C3%A9e-2024-%C3%A9gay%C3%A9e-par-les-jeux-olympiques-et-paralympiques</link>
+      <author>RFI</author>
+      <guid>0257f9ae-c79f-11ef-a2d0-005056bf1351</guid>
+      <pubDate>Tue, 31 Dec 2024 23:14:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Woman Burned to Death on N.Y.C. Subway Identified as Debrina Kawam (New York Times)</title>
       <link>https://www.nytimes.com/2024/12/31/nyregion/coney-island-subway-burning-victim-identified.html</link>
       <author>New York Times</author>
@@ -1426,20 +1441,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/25/world/asia/kazakhstan-plane-crash.html</guid>
       <pubDate>Thu, 26 Dec 2024 15:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: explosion des arnaques financières sur internet avec déjà plus d'1,5 million de victimes (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241226-france-explosion-des-arnaques-financi%C3%A8res-sur-internet-avec-d%C3%A9j%C3%A0-plus-d-1-5-million-de-victimes</link>
-      <author>RFI</author>
-      <guid>99fab81e-c399-11ef-b8d9-005056a97652</guid>
-      <pubDate>Thu, 26 Dec 2024 15:37:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Americans end 2024 feeling pessimistic about the U.S. (Axios)</title>
-      <link>https://www.axios.com/2024/12/26/americans-direction-country-poll-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/26/americans-direction-country-poll-trump</guid>
-      <pubDate>Thu, 26 Dec 2024 15:07:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
