@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: les sites internet de nombreuses grandes villes victimes de cyberattaques (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20241231-france-les-sites-internet-de-nombreuses-grandes-villes-victimes-de-cyberattaques</link>
+      <author>RFI</author>
+      <guid>b6f904be-c792-11ef-85da-005056a97652</guid>
+      <pubDate>Tue, 31 Dec 2024 17:34:41 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Germany’s Scholz blasts back at Musk in New Year’s address					 (Politico)</title>
       <link>https://www.politico.eu/article/elon-musk-afd-versus-germany-olaf-scholz-new-year-election-speech/</link>
@@ -1433,13 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/26/apple-4-trillion-stock-market-valuation</guid>
       <pubDate>Thu, 26 Dec 2024 11:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tech dollars flood into AI data centers in capital expenditure boom (Axios)</title>
-      <link>https://www.axios.com/2024/12/20/big-tech-capex-ai</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/20/big-tech-capex-ai</guid>
-      <pubDate>Thu, 26 Dec 2024 11:03:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
