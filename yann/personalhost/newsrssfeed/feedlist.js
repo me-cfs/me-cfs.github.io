@@ -102,8 +102,8 @@ module.exports = [
   },
   {
     name: 'Paul Krugmann',
-    url: 'https://openrss.org/paulkrugman.substack.com/feed'
-    altUrla: ['https://paulkrugman.substack.com/feed'],
+    url: 'https://openrss.org/paulkrugman.substack.com/feed',
+    altUrls: ['https://paulkrugman.substack.com/feed'],
     off: false,
   },
   {
