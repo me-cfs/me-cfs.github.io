@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						As Covid lab leak suspicion lingers, WHO urges China to share virus origin data					 (Politico)</title>
+      <link>https://www.politico.eu/article/covid-19-lab-leak-who-urge-china-share-virus-origina-data-pandemic/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/covid-19-lab-leak-who-urge-china-share-virus-origina-data-pandemic/</guid>
+      <pubDate>Tue, 31 Dec 2024 15:08:32 -0000</pubDate>
+    </item>
+    <item>
       <title>South Korean Court Issues Warrant To Detain Impeached President Yoon (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/south-korea-martial-law_n_6773e1ade4b00f088f88d54c</link>
       <author>Huffington Post</author>
@@ -143,6 +151,13 @@
       <pubDate>Tue, 31 Dec 2024 07:54:40 GMT</pubDate>
     </item>
     <item>
+      <title>South Korean Plane Crash Questions Center on Four Fateful Minutes (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-cause.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-cause.html</guid>
+      <pubDate>Tue, 31 Dec 2024 06:28:13 +0000</pubDate>
+    </item>
+    <item>
       <title>La fin annoncée des ondes FM sonne le glas de la radio d'urgence de l'armée (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2024/article/la-radio-d-urgence-de-l-armee-suisse-disparait-avec-la-fin-des-ondes-fm-28740967.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -190,6 +205,13 @@
       <author>RFI</author>
       <guid>a7f32f9c-c6d6-11ef-8518-005056bf1351</guid>
       <pubDate>Mon, 30 Dec 2024 23:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Elon Musk Has Planted Himself Almost Literally at Trump’s Doorstep (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html</guid>
+      <pubDate>Mon, 30 Dec 2024 22:52:39 +0000</pubDate>
     </item>
     <item>
       <title>Jimmy Carter was ahead of his time on energy (and craft brewing) (Fivethirtyeight)</title>
@@ -1327,6 +1349,13 @@
       <pubDate>Thu, 26 Dec 2024 15:58:54 +0000</pubDate>
     </item>
     <item>
+      <title>Azerbaijan Airlines Jet Crashes in Kazakhstan, Killing Dozens (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/25/world/asia/kazakhstan-plane-crash.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/25/world/asia/kazakhstan-plane-crash.html</guid>
+      <pubDate>Thu, 26 Dec 2024 15:45:50 +0000</pubDate>
+    </item>
+    <item>
       <title>France: explosion des arnaques financières sur internet avec déjà plus d'1,5 million de victimes (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20241226-france-explosion-des-arnaques-financi%C3%A8res-sur-internet-avec-d%C3%A9j%C3%A0-plus-d-1-5-million-de-victimes</link>
       <author>RFI</author>
@@ -1409,35 +1438,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/26/world/middleeast/israel-hamas-gaza-bombing.html</guid>
       <pubDate>Thu, 26 Dec 2024 10:42:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Westminster’s top books of 2024					 (Politico)</title>
-      <link>https://www.politico.eu/article/westminsters-top-books-2024/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/westminsters-top-books-2024/</guid>
-      <pubDate>Thu, 26 Dec 2024 10:30:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Blake Lively, Justin Baldoni and the Brute Force of Celebrity P.R. Tactics (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/26/opinion/blake-lively-justin-baldoni.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/26/opinion/blake-lively-justin-baldoni.html</guid>
-      <pubDate>Thu, 26 Dec 2024 10:02:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's first day frenzy (Axios)</title>
-      <link>https://www.axios.com/2024/12/26/trump-first-day-executive-orders</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/26/trump-first-day-executive-orders</guid>
-      <pubDate>Thu, 26 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Five Years After Philadelphia Refinery’s Closure, Pollution Concerns Persist (Inside Climate News)</title>
-      <link>https://insideclimatenews.org/news/26122024/pollution-concerns-persist-after-philadelphia-refinery-closure/</link>
-      <author>Inside Climate News</author>
-      <guid>https://insideclimatenews.org/?p=89733</guid>
-      <pubDate>Thu, 26 Dec 2024 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
