@@ -89,9 +89,9 @@ My post was not intended as hate, and I have made special care not to mention an
 
 Kind Regards, Yann
 
-Note: I did not recieve an answer to this post by LCAP's founder. Although I did recieve a message from an LCAP ally tellng me I will die a slow death.
+Note: I did not recieve an answer to this post by LCAP's founder. 
 
-# Addendum by an anonymous commenter
+## Addendum from an Anonymous Commenter
 The most remarkable thing about LCAP is how little they’ve actually done. They posted a YouTube video about tinnitus that received a couple hundred views. They shared an incredibly poorly articulated letter and got people to send it to politicians hundreds of thousands of times. They did a recent protest that got virtually no media attention.
 
 If you compare that with patient led research collaborative, or body politic, or CLAP, it’s nothing. These other organisations have worked with major governmental bodies, published papers in top journals, got media attention in high profile outlets, and contributed to global Long Covid guidelines. And the moonshot initiative they [LCAP] hate so intensely?  Well their efforts ensured that all 15 senators attended the HELP hearing, which is no mean feat, and their activism played a fundamental role in informing Bernie Sanders’s recent proposed bill, which is by far the most important bit of proposed Long Covid legislation to date. In other words, these other organisations have got on with the job and have done very impressive and effective work.
@@ -101,9 +101,13 @@ LCAP by contrast is loud, hateful, and largely useless. They have done a remarka
 In terms of substance vs loud toxicity, patient-led research collaborative, a group that LCAP loves to criticise, has actually done far more concrete things to promote research into viral persistence than LCAP.
 
 •	⁠they are funding a monoclonal antibody trial, one of incredibly few treatment trials targeting viral persistence
+
 •	⁠as early as 2021, patient led asked the WHO to include viral persistence as a major Long Covid research direction
+
 •	⁠they included viral persistence in hundreds of interviews, including in testimony to Congress
+
 •	⁠in early 2023, they called for the FDA to prioritise antivirals in Long Covid clinical trials
+
 •	⁠a team from LCRC published a series of case studies on the use of an extended dose of paxlovid to treat Long Covid
 
 A more detailed list here: https://x.com/patientled/status/1719134199943463417
