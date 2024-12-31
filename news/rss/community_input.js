@@ -82,6 +82,11 @@ module.exports = [
     url: 'https://mecfs.substack.com/feed',
     cutoffDate: new Date('2024-07-24'),
   },
+  {
+    name: 'The Red Tree and ME',
+    url: 'https://openrss.org/theredtreeandme.substack.com/feed',
+    cutoffDate: new Date('2024-12-31'),
+  },
   
   
   // Add more feeds with their respective cutoff dates and exclusion words as needed
