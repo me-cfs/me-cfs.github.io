@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Man Is Arrested in Subway Shoving in Manhattan (New York Times)</title>
+      <link>https://www.nytimes.com/2024/12/31/nyregion/nyc-subway-tracks-man-shoved.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2024/12/31/nyregion/nyc-subway-tracks-man-shoved.html</guid>
+      <pubDate>Wed, 01 Jan 2025 03:05:39 +0000</pubDate>
+    </item>
+    <item>
       <title>1.47 million Puerto Ricans without power on New Year's Eve (Axios)</title>
       <link>https://www.axios.com/2024/12/31/puerto-rico-power-outage-new-years-eve</link>
       <author>Axios</author>
@@ -1435,13 +1442,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/26/world/europe/finland-estonia-cables-russia.html</guid>
       <pubDate>Thu, 26 Dec 2024 22:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two die in Sydney to Hobart yacht race (BBC - Australia)</title>
-      <link>https://www.bbc.com/news/articles/c0j15l83v7jo</link>
-      <author>BBC - Australia</author>
-      <guid>https://www.bbc.com/news/articles/c0j15l83v7jo#0</guid>
-      <pubDate>Thu, 26 Dec 2024 21:46:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
