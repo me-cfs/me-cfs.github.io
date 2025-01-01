@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Cutting off Russian gas to EU will have ‘drastic’ impact, Slovak PM warns					 (Politico)</title>
+      <link>https://www.politico.eu/article/robert-fico-vladimir-putin-cutting-off-russia-gas-to-the-eu/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/robert-fico-vladimir-putin-cutting-off-russia-gas-to-the-eu/</guid>
+      <pubDate>Wed, 01 Jan 2025 21:25:27 -0000</pubDate>
+    </item>
+    <item>
       <title>Il y a 20 ans, la Suisse baissait la limite d'alcoolémie de 0,8 à 0,5 ‰ au volant (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/alcool-au-volant-20-ans-de-limite-a-0-5-un-bilan-positif-en-suisse-28742441.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1430,13 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/27/celebrity-endorsements-politics-poll</guid>
       <pubDate>Fri, 27 Dec 2024 13:35:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI confirms plans to separate its non-profit and for-profit arms (Axios)</title>
-      <link>https://www.axios.com/2024/12/27/openai-non-profit-for-profit-arm</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/27/openai-non-profit-for-profit-arm</guid>
-      <pubDate>Fri, 27 Dec 2024 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
