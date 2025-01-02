@@ -113,7 +113,7 @@ module.exports = [
     off: false,
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
-      ...tList.uninterestedGeneral, 'went wrong', 
+      ...tList.uninterestedGeneral, 'went wrong', 'why the',
     ],
     minCharsTitle: 18,
   },
