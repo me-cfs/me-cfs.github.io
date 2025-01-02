@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le nouveau gouvernement face à l'épineuse question du budget (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250102-france-le-nouveau-gouvernement-face-%C3%A0-l-%C3%A9pineuse-question-du-budget</link>
+      <author>RFI</author>
+      <guid>2083eb84-c8d2-11ef-b0a5-005056bf1351</guid>
+      <pubDate>Thu, 02 Jan 2025 06:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les pistes de ski de fond sont gratuites jeudi partout en Suisse romande (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/ski-de-fond-gratuit-en-suisse-romande-1500-km-de-pistes-jeudi-28741525.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28741525</guid>
+      <pubDate>Thu, 02 Jan 2025 06:42:19 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						‘Nobody was tricked into voting for Trump’: Why the disinformation panic is over					 (Politico)</title>
       <link>https://www.politico.eu/article/nobody-tricked-vote-donald-trump-disinformation-panic-over/</link>
@@ -1426,21 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/27/elon-musk-contemptible-fools-maga-doge</guid>
       <pubDate>Fri, 27 Dec 2024 21:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Flights suspended to Russia following deadly Azerbaijan Airlines crash					 (Politico)</title>
-      <link>https://www.politico.eu/article/flights-suspended-to-russia-following-azerbaijani-deadly-plane-crash/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/flights-suspended-to-russia-following-azerbaijani-deadly-plane-crash/</guid>
-      <pubDate>Fri, 27 Dec 2024 21:07:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>Some "just stay forever": Retiring rep. takes swipe at aging politicians (Axios)</title>
-      <link>https://www.axios.com/2024/12/27/annie-kuster-aging-politicians-congress</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/27/annie-kuster-aging-politicians-congress</guid>
-      <pubDate>Fri, 27 Dec 2024 20:59:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
