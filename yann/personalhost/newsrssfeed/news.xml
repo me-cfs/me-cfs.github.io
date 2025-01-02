@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Brussels gripped by chaos on New Year’s Eve					 (Politico)</title>
+      <link>https://www.politico.eu/article/brussels-new-year-eve-2025-violence-molenbeek-anderlecht/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/brussels-new-year-eve-2025-violence-molenbeek-anderlecht/</guid>
+      <pubDate>Thu, 02 Jan 2025 03:13:08 -0000</pubDate>
+    </item>
+    <item>
       <title>Cybertruck Explosion Outside Trump Hotel in Las Vegas Leaves 1 Dead and Several Injured (New York Times)</title>
       <link>https://www.nytimes.com/2025/01/01/us/car-fire-trump-hotel-las-vegas.html</link>
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/01/us/car-fire-trump-hotel-las-vegas.html</guid>
       <pubDate>Thu, 02 Jan 2025 01:53:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>150 homemade bombs seized from Virginia farm is "largest" in FBI history, prosecutors say (Axios)</title>
+      <link>https://www.axios.com/2025/01/02/homemade-bombs-virginia-fbi</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/02/homemade-bombs-virginia-fbi</guid>
+      <pubDate>Thu, 02 Jan 2025 01:03:07 +0000</pubDate>
     </item>
     <item>
       <title>Let’s Try Something Different in How We Deal With Trump (New York Times)</title>
@@ -46,6 +61,13 @@
       <author>Science Based Medicine</author>
       <guid>https://sciencebasedmedicine.org/?p=103757</guid>
       <pubDate>Wed, 01 Jan 2025 19:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mike Johnson faces "growing number" of threats to his gavel as speaker election nears (Axios)</title>
+      <link>https://www.axios.com/2025/01/01/mike-johnson-speaker-election-freedom-caucus</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/01/mike-johnson-speaker-election-freedom-caucus</guid>
+      <pubDate>Wed, 01 Jan 2025 19:26:36 +0000</pubDate>
     </item>
     <item>
       <title>F.B.I. Says It Found Largest Cache of Homemade Explosives in Its History at Va. Farm (New York Times)</title>
@@ -1416,27 +1438,6 @@
       <author>RFI</author>
       <guid>11cc9e08-c475-11ef-8320-005056bf1351</guid>
       <pubDate>Fri, 27 Dec 2024 17:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Most Americans think insurance industry bears some blame for CEO killing (Axios)</title>
-      <link>https://www.axios.com/2024/12/27/brian-thompson-killing-responsibility-survey-healthcare-insurance</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/27/brian-thompson-killing-responsibility-survey-healthcare-insurance</guid>
-      <pubDate>Fri, 27 Dec 2024 16:29:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azerbaijan Airlines Blames 'Physical And Technical Interference' For Plane Crash (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/azerbaijan-crash_n_676ec365e4b03f311afda667</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/azerbaijan-crash_n_676ec365e4b03f311afda667</guid>
-      <pubDate>Fri, 27 Dec 2024 16:10:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Le DFAE doit réexaminer le cas d'un combattant suisse du groupe Etat Islamique (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/le-dfae-doit-reexaminer-le-cas-d-un-combattant-suisse-de-l-etat-islamique-28738969.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28738969</guid>
-      <pubDate>Fri, 27 Dec 2024 15:12:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
