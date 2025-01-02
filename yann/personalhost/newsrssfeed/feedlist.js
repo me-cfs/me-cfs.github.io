@@ -50,7 +50,8 @@ module.exports = [
   },
   {
     name: 'Economist',
-    url: 'https://feedx.net/rss/economist.xml',
+    url: 'https://openrss.org/www.economist.com',
+    fallbackUrls: ['https://feedx.net/rss/economist.xml'],
     exclusionWords: ['in brief', ...tList.nonArticle, ...tList.uninterestedSports, 'culture', ...tList.business,
        'obituary', ...tList.fluffyTitle,
     ],
