@@ -172,6 +172,7 @@ module.exports = [
     inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
       
     ],
+    exclusionWords: [...tList.uninterestedSports,],
   },
   {
     name: 'Byline Times',
