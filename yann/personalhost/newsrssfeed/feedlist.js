@@ -169,7 +169,9 @@ module.exports = [
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
-    inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment],
+    inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
+      
+    ],
   },
   {
     name: 'Byline Times',
