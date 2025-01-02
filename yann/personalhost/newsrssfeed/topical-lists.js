@@ -49,8 +49,10 @@ const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Ch
 // -Axios, -BBC (Australia), -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson'];
 // Axios
-const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts'];
-// -Axios, -Economist
+const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts',
+  'NASCAR', 
+];
+// -Arstechnica, -Axios, -Economist, 
 const weather = ['storm', 'tornado'];
 // -Axios
 
