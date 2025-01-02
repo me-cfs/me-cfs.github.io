@@ -76,7 +76,7 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
     off: false,
-    exclusionWords: [...tList.nonArticle, '?'],
+    exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle],
     cutoffDate: new Date('2024-12-10')
   },
   {
