@@ -182,7 +182,8 @@ module.exports = [
     name: 'The Conversation',
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
-      ...tList.activism, ...tList.independenceMovements, 'secret weapon', 
+      ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
+      
     ],
   },
   {
