@@ -69,7 +69,7 @@ const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap'
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
-  'fast fashion', 'global warming', 'glacier', 'recyclage', 
+  'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 
   ];
 // +Environment, +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
