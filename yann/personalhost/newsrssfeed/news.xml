@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What I got wrong in 2024 (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/wrong-2024/story?id=117147720</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/wrong-2024/story?id=117147720</guid>
+      <pubDate>Thu, 02 Jan 2025 14:46:40 -0000</pubDate>
+    </item>
+    <item>
+      <title>France: à Marseille, Gérald Darmanin détaille son plan contre le narcotrafic et la corruption (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250102-france-%C3%A0-marseille-g%C3%A9rald-darmanin-d%C3%A9taille-son-plan-contre-le-narcotrafic-et-la-corruption</link>
+      <author>RFI</author>
+      <guid>172b6c98-c912-11ef-8fb4-005056a97652</guid>
+      <pubDate>Thu, 02 Jan 2025 14:45:33 GMT</pubDate>
+    </item>
+    <item>
       <title>The world this week (Economist the World this Week)</title>
       <link>https://www.economist.com/the-world-this-week/2025/01/02/the-world-this-week</link>
       <author>Economist the World this Week</author>
@@ -1420,20 +1434,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/28/severe-weather-outbreak-tornadoes-south</guid>
       <pubDate>Sat, 28 Dec 2024 15:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Won’t Feel Good About Flying Until the Airlines Solve This (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/28/opinion/air-travel-airlines-carbon-capture-climate-change.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/28/opinion/air-travel-airlines-carbon-capture-climate-change.html</guid>
-      <pubDate>Sat, 28 Dec 2024 15:04:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Video Shows Fatal Beating of Robert Brooks by N.Y. Prison Officers (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</guid>
-      <pubDate>Sat, 28 Dec 2024 15:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
