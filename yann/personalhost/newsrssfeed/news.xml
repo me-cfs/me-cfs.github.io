@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Elon Musk demands release of UK far-right ringleader Tommy Robinson from prison					 (Politico)</title>
+      <link>https://www.politico.eu/article/elon-musk-demands-release-uk-far-right-ringleader-tommy-robinson/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/elon-musk-demands-release-uk-far-right-ringleader-tommy-robinson/</guid>
+      <pubDate>Thu, 02 Jan 2025 15:08:48 -0000</pubDate>
+    </item>
+    <item>
       <title>What I got wrong in 2024 (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/wrong-2024/story?id=117147720</link>
       <author>Fivethirtyeight</author>
@@ -1427,13 +1435,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/28/insider/nancy-pelosi-engagement-photo.html</guid>
       <pubDate>Sat, 28 Dec 2024 16:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tornado outbreak targets the South as winter storm forms (Axios)</title>
-      <link>https://www.axios.com/2024/12/28/severe-weather-outbreak-tornadoes-south</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/28/severe-weather-outbreak-tornadoes-south</guid>
-      <pubDate>Sat, 28 Dec 2024 15:47:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
