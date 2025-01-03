@@ -196,7 +196,7 @@ module.exports = [
   {
     name: 'CrimethInc',
     url: 'https://crimethinc.com/feed',
-    exclusionWords: [...tList.nonArticle, ...tList.democraticParty],
+    exclusionWords: [...tList.nonArticle, ...tList.democraticParty, 'the Arctic'],
   },
   {
     name: 'The Equal Times',
