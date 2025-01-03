@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Rega et Air Zermatt ont tourné à plein régime à lors des fêtes (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/rega-et-air-zermatt-interventions-record-pendant-les-fetes-en-montagne-28743806.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28743806</guid>
+      <pubDate>Fri, 03 Jan 2025 14:56:57 GMT</pubDate>
+    </item>
+    <item>
       <title>2025 climate reality check: Trump's threats, stubborn coal demand and AI (Axios)</title>
       <link>https://www.axios.com/2025/01/03/global-energy-transition-targets-fossil-fuels</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/russia-ukraine-war_n_6777d548e4b0f0fdb7b15539</guid>
       <pubDate>Fri, 03 Jan 2025 12:54:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Never Underestimate the Ignorance of the Powerful (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/never-underestimate-the-ignorance</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/never-underestimate-the-ignorance</guid>
+      <pubDate>Fri, 03 Jan 2025 12:15:47 GMT</pubDate>
     </item>
     <item>
       <title>Sûreté nucléaire: l'ASNR est désormais l'autorité compétente en France (RFI)</title>
@@ -1416,20 +1430,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/30/well/mind/mental-brain-health-advice.html</guid>
       <pubDate>Mon, 30 Dec 2024 10:00:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Year in Climate: Record Heat, an Election, a Push for Justice and Reasons for Hope (Inside Climate News)</title>
-      <link>https://insideclimatenews.org/news/30122024/2024-year-in-climate/</link>
-      <author>Inside Climate News</author>
-      <guid>https://insideclimatenews.org/?p=89997</guid>
-      <pubDate>Mon, 30 Dec 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russian Man Arrested For Allegedly Running LGBTQ Travel Agency Found Dead In Custody (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/russia-lgbtq-travel-agency-dead_n_677243fee4b04ef9e33e53e5</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/russia-lgbtq-travel-agency-dead_n_677243fee4b04ef9e33e53e5</guid>
-      <pubDate>Mon, 30 Dec 2024 08:12:56 -0000</pubDate>
     </item>
   </channel>
 </rss>
