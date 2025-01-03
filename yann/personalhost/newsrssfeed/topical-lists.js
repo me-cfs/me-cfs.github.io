@@ -28,7 +28,7 @@ const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'
 // -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
-    'these', "let's try something", 
+    'these', "let's try something", 'to watch', 
 ];
 // -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -OpenDemocracy, -Vox
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
