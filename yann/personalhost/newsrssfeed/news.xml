@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Attacks fuel D.C.'s pre-inauguration security fears (Axios)</title>
+      <link>https://www.axios.com/2025/01/03/trump-inauguration-security-attacks-new-orleans-las-vegas</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/03/trump-inauguration-security-attacks-new-orleans-las-vegas</guid>
+      <pubDate>Fri, 03 Jan 2025 09:29:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Le Parlement fédéral vote davantage à droite depuis les élections de 2023 (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/parlement-suisse-virage-a-droite-apres-les-elections-de-2023-28743267.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2024/12/30/azerbaijan-airlines-crash-russia</guid>
       <pubDate>Mon, 30 Dec 2024 03:01:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Severe storms threatening U.S. South unleash tornadoes, kill 4 people (Axios)</title>
-      <link>https://www.axios.com/2024/12/30/storms-tornadoes-us-south-deaths</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/30/storms-tornadoes-us-south-deaths</guid>
-      <pubDate>Mon, 30 Dec 2024 01:55:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
