@@ -128,7 +128,7 @@ module.exports = [
   {
     name: 'Science Based Medicine',
     url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
-    exclusionWords: ['?', 'questions'],
+    exclusionWords: ['?', 'questions', 'Kulldorf',],
     minCharsTitle: 12,
   },
 
