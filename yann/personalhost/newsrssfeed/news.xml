@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Entre insultes et coups de boule, le témoignage accablant d'une soldate victime de harcèlement à l'armée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/harcelement-dans-l-armee-le-temoignage-choc-d-une-soldate-victime-28743845.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28743845</guid>
+      <pubDate>Fri, 03 Jan 2025 19:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mike Johnson reelected as speaker after brief revolt (Axios)</title>
+      <link>https://www.axios.com/2025/01/03/mike-johnson-reelected-house-speaker-first-ballot</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/03/mike-johnson-reelected-house-speaker-first-ballot</guid>
+      <pubDate>Fri, 03 Jan 2025 19:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Surgeon General Calls for Cancer Warnings on Alcohol (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/03/health/alcohol-surgeon-general-warning.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/03/health/alcohol-surgeon-general-warning.html</guid>
+      <pubDate>Fri, 03 Jan 2025 18:44:23 +0000</pubDate>
+    </item>
+    <item>
       <title>New Orleans attack: Leaders face questions over whether it could have been prevented (Axios)</title>
       <link>https://www.axios.com/local/new-orleans/2025/01/03/new-orleans-attack-could-it-be-prevented</link>
       <author>Axios</author>
@@ -453,6 +474,13 @@
       <link>https://www.economist.com/international/2025/01/02/why-people-over-the-age-of-55-are-the-new-problem-generation</link>
       <author>Economist</author>
       <guid>https://www.economist.com/international/2025/01/02/why-people-over-the-age-of-55-are-the-new-problem-generation</guid>
+      <pubDate>Thu, 02 Jan 2025 14:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>China approves the world’s most expensive infrastructure project (Economist)</title>
+      <link>https://www.economist.com/china/2025/01/02/china-approves-the-worlds-most-expensive-infrastructure-project</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/china/2025/01/02/china-approves-the-worlds-most-expensive-infrastructure-project</guid>
       <pubDate>Thu, 02 Jan 2025 14:06:25 GMT</pubDate>
     </item>
     <item>
@@ -1403,34 +1431,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/29/opinion/elon-musk-china-classified-secrets-national-security-russia-doge.html</guid>
       <pubDate>Mon, 30 Dec 2024 17:56:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jimmy Carter, Peacemaking President Amid Crises, Is Dead at 100 (New York Times)</title>
-      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</guid>
-      <pubDate>Mon, 30 Dec 2024 17:54:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How will Jimmy Carter be remembered? (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/538/jimmy-carter-remembered/story?id=105047081</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/jimmy-carter-remembered/story?id=105047081</guid>
-      <pubDate>Mon, 30 Dec 2024 17:47:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>Un couac fait chuter les CFF du 2e au 11e rang des meilleures compagnies d'Europe (RTS)</title>
-      <link>https://www.rts.ch/info/economie/2024/article/cff-une-erreur-de-calcul-les-fait-chuter-au-11e-rang-des-compagnies-europeennes-28741009.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28741009</guid>
-      <pubDate>Mon, 30 Dec 2024 17:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bürgenstock et fin des négociations avec l'UE, les moments forts de Viola Amherd à la tête de la Confédération (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/viola-amherd-bilan-d-une-annee-presidentielle-entre-ukraine-et-ue-28740591.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28740591</guid>
-      <pubDate>Mon, 30 Dec 2024 17:15:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
