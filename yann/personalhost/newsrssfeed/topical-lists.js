@@ -91,7 +91,7 @@ const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'
 ];
 // +Amnesty Intl. +Human Rights Watch, +Orient XXI, +RFI, +Semafor, +West England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
-  'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie',
+  'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie', 'public health',
 ];
 // +AP News, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
