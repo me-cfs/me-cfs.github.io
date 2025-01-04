@@ -20,7 +20,7 @@ module.exports = [
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
-      ...tList.weather, 'steel', 'reality check',
+      ...tList.weather, 'steel', 'reality check', 'mortgage rate',
     ],
     minCharsTitle: 15,
   },
