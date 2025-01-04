@@ -163,7 +163,7 @@ module.exports = [
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
-      'France coast', 'anti-US', 'Montenegro',
+      'France coast', 'anti-US', 'Montenegro', 'left note', 
     ],
   },
   {
