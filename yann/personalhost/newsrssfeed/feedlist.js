@@ -274,7 +274,7 @@ module.exports = [
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
-    inclusionWords: [...tList.medicine, 'Idaho'],
+    inclusionWords: [...tList.medicine, 'Idaho', 'ships'],
   },
   {
     name: 'Public Eye',
