@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump might rewire Bidenomics by targeting labor, environmental regulations (Axios)</title>
+      <link>https://www.axios.com/2025/01/03/trump-biden-economics-ev</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/03/trump-biden-economics-ev</guid>
+      <pubDate>Sat, 04 Jan 2025 15:13:14 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Handshake-gate in Syria wasn’t a surprise, German foreign minister says					 (Politico)</title>
       <link>https://www.politico.eu/article/syria-germany-annalena-baerbock-handshake-france-barrot-no-surprise/</link>
@@ -68,6 +75,13 @@
       <author>Inside Climate News</author>
       <guid>https://insideclimatenews.org/?p=89656</guid>
       <pubDate>Sat, 04 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Militia and the Mole (Propublica)</title>
+      <link>https://www.propublica.org/article/ap3-oath-keepers-militia-mole</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/ap3-oath-keepers-militia-mole</guid>
+      <pubDate>Sat, 04 Jan 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title>
@@ -1416,20 +1430,6 @@
       <author>RTS</author>
       <guid>28741622</guid>
       <pubDate>Tue, 31 Dec 2024 11:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Charted: Big Oil's big year (Axios)</title>
-      <link>https://www.axios.com/2024/12/31/oil-company-stock-price-exxon-chevron-shell-bp</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2024/12/31/oil-company-stock-price-exxon-chevron-shell-bp</guid>
-      <pubDate>Tue, 31 Dec 2024 11:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manta rays inspire faster swimming robots and better water filters (Arstechnica)</title>
-      <link>https://arstechnica.com/science/2024/12/manta-rays-inspire-faster-swimming-robots-and-better-water-filters/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/science/2024/12/manta-rays-inspire-faster-swimming-robots-and-better-water-filters/</guid>
-      <pubDate>Tue, 31 Dec 2024 11:50:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
