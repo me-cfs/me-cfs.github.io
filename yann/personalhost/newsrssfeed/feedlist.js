@@ -250,7 +250,12 @@ module.exports = [
     inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
     exclusionWords: [...tList.spanish],
   },
- {
+  {
+    name: 'Kyiv Indpendent',
+    url: 'https://kyivindependent.com/feed/rss/',
+    inclusionWords: ['300', 'Ukraine, despite', 'over past day'],
+  },
+  {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
