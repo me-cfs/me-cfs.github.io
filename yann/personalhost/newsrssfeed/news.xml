@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Finma confrontée à ses faiblesses face aux géants bancaires (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-finma-critiquee-faut-il-confier-la-surveillance-des-grandes-banques-a-la-bns-28743989.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28743989</guid>
+      <pubDate>Sat, 04 Jan 2025 18:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>France: Claude Allègre, la mort d'un ministre au verbe haut, habitué aux controverses (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250104-france-claude-all%C3%A8gre-la-mort-d-un-ministre-au-verbe-haut-habitu%C3%A9-aux-controverses</link>
+      <author>RFI</author>
+      <guid>24a61ace-cacc-11ef-80a0-005056bf1351</guid>
+      <pubDate>Sat, 04 Jan 2025 18:50:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Prince William 'Shocked' After Learning Of Personal Connection To New Orleans Attack (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/prince-william-ed-pettifer-new-orleans_n_67796783e4b0d23568a33488</link>
       <author>Huffington Post</author>
@@ -1414,21 +1428,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2024/12/31/finland-seizes-a-tanker-getting-tough-on-hybrid-warfare</guid>
       <pubDate>Tue, 31 Dec 2024 17:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: les sites internet de nombreuses grandes villes victimes de cyberattaques (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20241231-france-les-sites-internet-de-nombreuses-grandes-villes-victimes-de-cyberattaques</link>
-      <author>RFI</author>
-      <guid>b6f904be-c792-11ef-85da-005056a97652</guid>
-      <pubDate>Tue, 31 Dec 2024 17:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s Scholz blasts back at Musk in New Year’s address					 (Politico)</title>
-      <link>https://www.politico.eu/article/elon-musk-afd-versus-germany-olaf-scholz-new-year-election-speech/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/elon-musk-afd-versus-germany-olaf-scholz-new-year-election-speech/</guid>
-      <pubDate>Tue, 31 Dec 2024 17:25:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
