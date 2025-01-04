@@ -158,7 +158,9 @@ module.exports = [
  {
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
-    inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity],
+    inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity,
+      'native',
+    ],
   },
  {
     name: 'AP News',
