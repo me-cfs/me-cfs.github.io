@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>House approves new rules protecting Mike Johnson from ouster (Axios)</title>
+      <link>https://www.axios.com/2025/01/03/mike-johnson-motion-to-vacate-new-rule-passed</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/03/mike-johnson-motion-to-vacate-new-rule-passed</guid>
+      <pubDate>Fri, 03 Jan 2025 23:14:27 +0000</pubDate>
+    </item>
+    <item>
       <title>‘We have been heard’: Montana youth score a major climate victory in court (Grist)</title>
       <link>https://grist.org/regulation/held-v-montana-youth-climate-lawsuit-supreme-court-decision/</link>
       <author>Grist</author>
@@ -1423,13 +1430,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/jimmy-carter-ahead-time-energy-craft-brewing/story?id=105047367</guid>
       <pubDate>Mon, 30 Dec 2024 21:33:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>Décès du membre d'équipage de Swiss hospitalisé à Graz après un atterrissage d'urgence (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/deces-d-un-steward-swiss-apres-un-atterrissage-d-urgence-a-graz-28741255.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28741255</guid>
-      <pubDate>Mon, 30 Dec 2024 21:05:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
