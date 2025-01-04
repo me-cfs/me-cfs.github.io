@@ -237,7 +237,9 @@ module.exports = [
   {
     name: 'The Intercept',
     url: 'https://theintercept.com/feed/?rss',
-    inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open"],
+    inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
+      'paywall',
+    ],
   },
   {
     name: 'Jacobin',
