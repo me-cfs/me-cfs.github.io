@@ -163,7 +163,7 @@ module.exports = [
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
-      'France coast', 'anti-US', 'Montenegro', 'left note', 
+      'France coast', 'anti-US', 'Montenegro', 'left note', '116',
     ],
   },
   {
@@ -296,8 +296,8 @@ module.exports = [
     url: '',
     inclusionWords: [...tList.disability, ...tList.environment, ...tList.location,
       //'',
-    off: true,
     ],
+    off: true,
   },
   {
     name: 'Semafor',
