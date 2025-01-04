@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Attention aux rappels des sites non officiels pour la vignette autoroutière 2025 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/attention-aux-rappels-des-sites-non-officiels-pour-la-vignette-autoroutiere-2025-28743775.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28743775</guid>
+      <pubDate>Sat, 04 Jan 2025 10:13:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Improvements to Electric Vehicles Ease Concerns About Range Loss in Cold Climates (Inside Climate News)</title>
       <link>https://insideclimatenews.org/news/04012025/electric-vehicle-improvements-for-cold-climates/</link>
       <author>Inside Climate News</author>
@@ -1426,13 +1433,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-cause.html</guid>
       <pubDate>Tue, 31 Dec 2024 06:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>La fin annoncée des ondes FM sonne le glas de la radio d'urgence de l'armée (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2024/article/la-radio-d-urgence-de-l-armee-suisse-disparait-avec-la-fin-des-ondes-fm-28740967.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28740967</guid>
-      <pubDate>Tue, 31 Dec 2024 05:45:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
