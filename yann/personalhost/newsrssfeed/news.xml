@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le verglas perturbe les vols à Zurich, les trams à Berne et provoque des accidents en Suisse romande (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/verglas-en-suisse-vols-annules-a-zurich-accidents-en-romandie-28744978.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28744978</guid>
+      <pubDate>Sun, 05 Jan 2025 12:16:32 GMT</pubDate>
+    </item>
+    <item>
       <title>L'étonnante similitude des années 1994 et 2024 pour les relations Suisse-UE révélée dans des archives déclassifiées (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/l-etonnante-similitude-des-annees-1994-et-2024-pour-les-relations-suisse-ue-revelee-dans-des-archives-declassifiees-28743633.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1420,13 +1427,6 @@
       <author>RTS</author>
       <guid>28742271</guid>
       <pubDate>Wed, 01 Jan 2025 12:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Plot to Poison Children’s Minds (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/the-plot-to-poison-childrens-minds</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/the-plot-to-poison-childrens-minds</guid>
-      <pubDate>Wed, 01 Jan 2025 12:03:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
