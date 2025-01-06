@@ -62,8 +62,8 @@ const activism = ['protest', 'rights', 'strike', 'acivis'];
 // +Byline Times, +Converation, Indian Country Today, +Motherjones
 const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource'];
 // +west england bylines
-const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network'];
-// + Amnesty Intl, +Byline Times
+const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 'China hack', 'cybercrime'];
+// + Amnesty Intl, +Byline Times, +Human Rights Watch
 const dataJournalism = ['data', 'polling'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
   'chronic illness', 'lupus', 'eugenics',
