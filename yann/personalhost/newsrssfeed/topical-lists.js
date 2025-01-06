@@ -120,6 +120,7 @@ const business = ['merger', 'business', 'market value'];
 const israelPalestine = ['gaza', 'palestine', 'Nethanyahu']; 
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag', 'putin'];
+// + Byline Times
 
 // Export all lists
 module.exports = {
