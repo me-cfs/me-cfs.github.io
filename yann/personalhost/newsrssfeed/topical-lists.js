@@ -82,8 +82,8 @@ const history = ['Klu Klux Klan'];
 // +Jacobin
 const humanRights = ['death row'];
 // +AP
-const important = ['genocide', 'génocide', 'human toll', 'human rights'];
-// +AmnestyInternational, +Equal Times, +Motherjones, +Orient XXI, 
+const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine',];
+// +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
 // +Conversation, Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
