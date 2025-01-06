@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Birdlife propose à toute la Suisse de sortir observer les oiseaux ce week-end (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/observez-et-comptez-les-oiseaux-ce-week-end-avec-birdlife-suisse-28745983.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28745983</guid>
+      <pubDate>Mon, 06 Jan 2025 16:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mois après mois, devinez quels articles ont été les plus lus en 2024 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/quiz-testez-vos-connaissances-sur-l-actualite-marquante-de-2024-28745965.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28745965</guid>
+      <pubDate>Mon, 06 Jan 2025 16:18:55 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Musk ‘ready’ to provide Meloni with Starlink secure comms					 (Politico)</title>
       <link>https://www.politico.eu/article/elon-musk-giorgia-meloni-starlink-secure-telecoms/</link>
@@ -56,6 +70,13 @@
       <author>RTS</author>
       <guid>28745773</guid>
       <pubDate>Mon, 06 Jan 2025 12:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons From New York’s Congestion Fight (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/lessons-from-new-yorks-congestion</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/lessons-from-new-yorks-congestion</guid>
+      <pubDate>Mon, 06 Jan 2025 12:01:45 GMT</pubDate>
     </item>
     <item>
       <title>Trump, China and AI: Ian Bremmer's top risks for 2025 (Axios)</title>
@@ -1411,27 +1432,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/01/us/car-fire-trump-hotel-las-vegas.html</guid>
       <pubDate>Thu, 02 Jan 2025 13:14:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden to honor Liz Cheney for Jan. 6 committee's work (Axios)</title>
-      <link>https://www.axios.com/2025/01/02/biden-liz-cheney-honor-jan-6-committee-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/02/biden-liz-cheney-honor-jan-6-committee-trump</guid>
-      <pubDate>Thu, 02 Jan 2025 13:12:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>This week’s cover (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/01/02/this-weeks-cover</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/c4edt8o0mddenj8glketp0rh4de1as25</guid>
-      <pubDate>Thu, 02 Jan 2025 13:10:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Montenegro Mourns After Gunman Kills At Least 12 People Before Shooting Himself (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/montenegro-shooting_n_67767bece4b085e7969807b3</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/montenegro-shooting_n_67767bece4b085e7969807b3</guid>
-      <pubDate>Thu, 02 Jan 2025 12:55:00 -0000</pubDate>
     </item>
   </channel>
 </rss>
