@@ -167,14 +167,14 @@ module.exports = [
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
-      'France coast', 'anti-US', 'Montenegro', 'left note', '116',
+      'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 
     ],
   },
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
-      'yellowstone',
+      'yellowstone', 'antitrust'
     ],
     exclusionWords: [...tList.uninterestedSports,],
   },
@@ -187,10 +187,11 @@ module.exports = [
   },
   {
     name: 'The Conversation',
+    // It seems the Feed might only work for Australian Articles
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
       ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
-      'Zimbabwe', 'data centre',
+      'Zimbabwe', 'data centre', 'invasive species',
     ],
   },
   {
@@ -215,7 +216,7 @@ module.exports = [
     name: 'EURACTIV',
     url: 'https://www.euractiv.com/RSS',
     inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
-      'peaceful transition', 'EU presidency',
+      'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
     ],
     exclusionWords: ['Elon Musk', 'Gas Transit Dispute', 'Putin apologises'],
   },
@@ -228,7 +229,9 @@ module.exports = [
  {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
-    inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia],
+    inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
+      ...tList.cybersecurity, ...tList.important, "Georgia",
+    ],
   },
   {
     name: 'Inside Climate News',
@@ -245,7 +248,7 @@ module.exports = [
     name: 'The Intercept',
     url: 'https://theintercept.com/feed/?rss',
     inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
-      'paywall',
+      'paywall', 'Nigeria', 
     ],
   },
   {
@@ -283,7 +286,7 @@ module.exports = [
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
-    inclusionWords: [...tList.medicine, 'Idaho', 'ships', 'militia'],
+    inclusionWords: [...tList.medicine, 'Idaho', 'ships', 'militia', 'ethics'],
   },
   {
     name: 'Public Eye',
@@ -308,7 +311,7 @@ module.exports = [
   {
     name: 'Semafor',
     url: 'https://www.semafor.com/rss.xml',
-    inclusionWords: [...tList.location, ...tList.people],
+    inclusionWords: [...tList.location, ...tList.people, 'China hack'],
     exclusionWords: [...tList.culture],
   },
   {
