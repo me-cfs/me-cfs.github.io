@@ -181,7 +181,9 @@ module.exports = [
   {
     name: 'Byline Times',
     url: 'https://bylinetimes.com/feed/',
-    inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity],
+    inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity,
+      ...tList.ukraineRussia,
+       ],
   },
   {
     name: 'The Conversation',
