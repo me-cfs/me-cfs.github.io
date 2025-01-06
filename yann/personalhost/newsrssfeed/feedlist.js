@@ -21,7 +21,7 @@ module.exports = [
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
       ...tList.weather, 'steel', 'reality check', 'mortgage rate',
-      'documentary', 
+      'documentary', 'director',
     ],
     minCharsTitle: 15,
   },
