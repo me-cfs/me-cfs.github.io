@@ -57,6 +57,7 @@ module.exports = [
        'obituary', ...tList.fluffyTitle,
     ],
     off: false,
+    urlExclusionWords: ['business'],
   },
   {
     name: 'Economist the World this Week',
