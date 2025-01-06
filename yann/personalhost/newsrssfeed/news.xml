@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/charlie-10-ans-apres</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22890</guid>
+      <pubDate>01/07/2025 00:32</pubDate>
+    </item>
+    <item>
       <title>European leaders to Elon: Back off (Axios)</title>
       <link>https://www.axios.com/2025/01/06/elon-musk-european-leaders-starmer-farage</link>
       <author>Axios</author>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/02/las-vegas-cybertruck-explosion-suspect-veteran</guid>
       <pubDate>Thu, 02 Jan 2025 19:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Biden discussed plans to strike Iran nuclear sites if Tehran speeds toward bomb (Axios)</title>
-      <link>https://www.axios.com/2025/01/02/iran-nuclear-weapon-biden-white-house</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/02/iran-nuclear-weapon-biden-white-house</guid>
-      <pubDate>Thu, 02 Jan 2025 19:33:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
