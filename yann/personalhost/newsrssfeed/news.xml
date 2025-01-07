@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le journal «Charlie Hebdo» a-t-il encore des lecteurs? (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250107-france-le-journal-charlie-hebdo-a-t-il-encore-des-lecteurs</link>
+      <author>RFI</author>
+      <guid>468aafa8-ccc3-11ef-9747-005056bf1351</guid>
+      <pubDate>Tue, 07 Jan 2025 08:31:48 GMT</pubDate>
+    </item>
+    <item>
       <title> Russian attacks against Ukraine kill 3, injure 23 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/attacks-115</link>
       <author>Kyiv Indpendent</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/03/elon-musk-uk-tommy-robinson-starmer</guid>
       <pubDate>Fri, 03 Jan 2025 10:37:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attacks fuel D.C.'s pre-inauguration security fears (Axios)</title>
-      <link>https://www.axios.com/2025/01/03/trump-inauguration-security-attacks-new-orleans-las-vegas</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/03/trump-inauguration-security-attacks-new-orleans-las-vegas</guid>
-      <pubDate>Fri, 03 Jan 2025 09:29:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
