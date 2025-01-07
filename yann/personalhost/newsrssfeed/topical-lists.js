@@ -1,19 +1,19 @@
 // topical lists
 // ! Remeber to add lists to export below!
 
-// Bottom Lists
+// 0 Lists
 const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
-const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
-// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
 
-
+// 1 Lists
+const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
+// +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
-  'crazy', 'apocalypse',
+  'crazy', 'apocalypse', 'mega-maga', 
 ];
 // -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
@@ -62,6 +62,8 @@ const activism = ['protest', 'rights', 'strike', 'acivis'];
 // +Byline Times, +Converation, Indian Country Today, +Motherjones
 const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource'];
 // +west england bylines
+const country = ['Angola',];
+//
 const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 'China hack', 'cybercrime'];
 // + Amnesty Intl, +Byline Times, +Human Rights Watch
 const dataJournalism = ['data', 'polling'];
@@ -100,6 +102,8 @@ const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resour
   //
 ];
 // +Open Democracy, +RFI, +SBS News
+const prison = ['pardon'];
+// +Amnesty
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
 const socialism = ['class', 'droits du travail', 'capitalism'];
@@ -162,5 +166,7 @@ module.exports = {
   humanRights,
   history,
   weather,
+  prison,
+  country,
 };
 
