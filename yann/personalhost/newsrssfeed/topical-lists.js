@@ -107,8 +107,8 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +AP News, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const prison = ['pardon'];
-// +Amnesty
+const prison = ['pardon', 'prison'];
+// +Amnesty, +Conversation
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
 const socialism = ['class', 'droits du travail', 'capitalism'];
