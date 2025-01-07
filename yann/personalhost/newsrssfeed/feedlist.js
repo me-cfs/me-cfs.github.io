@@ -194,7 +194,7 @@ module.exports = [
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
       ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
-      'Zimbabwe', 'data centre', 'invasive species',
+      'Zimbabwe', 'data centre', 'invasive species', ...tList.prison, 
     ],
   },
   {
@@ -268,7 +268,7 @@ module.exports = [
   {
     name: 'Kyiv Indpendent',
     url: 'https://kyivindependent.com/feed/rss/',
-    inclusionWords: ['300', 'Ukraine, despite', 'over past day'],
+    inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing],
   },
   {
     name: 'Motherjones',
