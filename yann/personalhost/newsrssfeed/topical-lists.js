@@ -6,8 +6,8 @@ const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
-const rightWing = ['conservative backlash'];
-// +AP News
+const rightWing = ['conservative backlash', 'Orbán ally'];
+// +AP News, +Kiev Independent
 
 // 1 Lists
 const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
@@ -120,6 +120,8 @@ const technology = ['open-source', 'sattelite', 'bluesky', 'large language model
   '3D Printing', 
 ];
 // +Arstechnica, +PublicEye
+const us = ['Anchorage'];
+// +Propublica
 
 
 
