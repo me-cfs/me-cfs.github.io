@@ -162,14 +162,15 @@ module.exports = [
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
     inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity,
-      'native', 'Myannmar', 
+      'native', 'Myannmar', ...tList.prison, 'Angola', 
     ],
   },
  {
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
-      'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 
+      'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 'looking at europe',
+      ...tList.rightWing, 
     ],
   },
   {
