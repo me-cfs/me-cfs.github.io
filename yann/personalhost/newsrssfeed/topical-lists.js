@@ -18,6 +18,8 @@ const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resour
   ...rightWing, 
 ];
 // +Open Democracy, +RFI, +SBS News
+const us = ['Anchorage', ...usPolitics];
+// +Propublica
 
 
 //exclusionLists
@@ -98,9 +100,9 @@ const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famin
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
 // +Conversation, Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
-  'France', 'Victoria', 
+  'France', 'Victoria', 'Suisse', 
 ];
-// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +RFI, +Semafor, +West England Bylines
+// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +PublicEye,  +RFI, +Semafor, +West England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
   'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie', 'public health',
 ];
@@ -120,8 +122,7 @@ const technology = ['open-source', 'sattelite', 'bluesky', 'large language model
   '3D Printing', 
 ];
 // +Arstechnica, +PublicEye
-const us = ['Anchorage'];
-// +Propublica
+
 
 
 
@@ -176,5 +177,6 @@ module.exports = {
   prison,
   country,
   rightWing,
+  us,
 };
 
