@@ -314,7 +314,9 @@ module.exports = [
   {
     name: 'Semafor',
     url: 'https://www.semafor.com/rss.xml',
-    inclusionWords: [...tList.location, ...tList.people, 'China hack'],
+    inclusionWords: [...tList.location, ...tList.people, 'China hack',
+      'Emirati', 'Sudan', 
+    ],
     exclusionWords: [...tList.culture],
   },
   {
