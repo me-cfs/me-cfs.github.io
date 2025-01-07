@@ -22,6 +22,7 @@ module.exports = [
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
       ...tList.weather, 'steel', 'reality check', 'mortgage rate',
       'documentary', 'director', 'top risk', 'bremmer', 
+      ...tList.clickbait, 
     ],
     minCharsTitle: 15,
   },
@@ -116,7 +117,8 @@ module.exports = [
     off: false,
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
-      ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance",
+      ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
+      
     ],
     minCharsTitle: 20,
   },
