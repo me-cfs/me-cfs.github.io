@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Jean-Marie Le Pen, father of the French far right, is dead at 96					 (Politico)</title>
+      <link>https://www.politico.eu/article/jean-marie-le-pen-dead/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/jean-marie-le-pen-dead/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:56:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Jean-Marie Le Pen, French Far-Right Leader, Dies At 96 (Huffington Post)</title>
+      <link>https://www.huffpost.com/entry/france-obit-le-pen_n_677d1d5fe4b07acf439c9732</link>
+      <author>Huffington Post</author>
+      <guid>https://www.huffpost.com/entry/france-obit-le-pen_n_677d1d5fe4b07acf439c9732</guid>
+      <pubDate>Tue, 07 Jan 2025 12:56:33 -0000</pubDate>
+    </item>
+    <item>
       <title>McDonald's ends some DEI initiatives as Robby Starbuck claims credit (Axios)</title>
       <link>https://www.axios.com/2025/01/06/mcdonalds-corporate-diversity-starbuck-trump</link>
       <author>Axios</author>
@@ -1420,20 +1435,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/never-underestimate-the-ignorance</guid>
       <pubDate>Fri, 03 Jan 2025 12:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sûreté nucléaire: l'ASNR est désormais l'autorité compétente en France (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250103-s%C3%BBret%C3%A9-nucl%C3%A9aire-l-asnr-est-d%C3%A9sormais-l-autorit%C3%A9-comp%C3%A9tente-en-france</link>
-      <author>RFI</author>
-      <guid>8933aee4-c9c2-11ef-84dd-005056bf1351</guid>
-      <pubDate>Fri, 03 Jan 2025 12:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump's uphill trade battle with China (Axios)</title>
-      <link>https://www.axios.com/2025/01/03/china-trade-deficit-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/03/china-trade-deficit-trump</guid>
-      <pubDate>Fri, 03 Jan 2025 12:00:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
