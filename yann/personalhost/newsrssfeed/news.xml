@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks against Ukraine kill 3, injure 23 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-115</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-115</guid>
+      <pubDate>Tue, 07 Jan 2025 09:35:06 +0200</pubDate>
+    </item>
+    <item>
       <title>Bickering over EU presidency levels up in Poland (EURACTIV)</title>
       <link>https://www.euractiv.com/section/politics/news/bickering-over-eu-presidency-levels-up-in-poland-2/</link>
       <author>EURACTIV</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/03/trump-inauguration-security-attacks-new-orleans-las-vegas</guid>
       <pubDate>Fri, 03 Jan 2025 09:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Parlement fédéral vote davantage à droite depuis les élections de 2023 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/parlement-suisse-virage-a-droite-apres-les-elections-de-2023-28743267.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28743267</guid>
-      <pubDate>Fri, 03 Jan 2025 09:03:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
