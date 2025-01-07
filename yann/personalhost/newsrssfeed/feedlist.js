@@ -289,12 +289,12 @@ module.exports = [
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
-    inclusionWords: [...tList.medicine, 'Idaho', 'ships', 'militia', 'ethics'],
+    inclusionWords: [...tList.medicine, 'Idaho', 'ships', 'militia', 'ethics', ...tList.us, ],
   },
   {
     name: 'Public Eye',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment],
+    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment, ...tList.location,],
   },
   {
     name: 'RFI',
