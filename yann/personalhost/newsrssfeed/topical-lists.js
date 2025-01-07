@@ -75,8 +75,10 @@ const commons = ['open-source', 'public housing', 'commons', 'community owned', 
 // +west england bylines
 const country = ['Angola',];
 //
-const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 'China hack', 'cybercrime'];
-// + Amnesty Intl, +Byline Times, +Human Rights Watch
+const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 'China hack', 'cybercrime',
+  'surveillence industry',
+];
+// + Amnesty Intl, +Byline Times, +EFF, +Human Rights Watch
 const dataJournalism = ['data', 'polling'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
   'chronic illness', 'lupus', 'eugenics',
