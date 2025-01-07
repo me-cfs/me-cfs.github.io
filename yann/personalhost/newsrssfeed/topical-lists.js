@@ -6,10 +6,19 @@ const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
+const rightWing = ['conservative backlash'];
+// +AP News
 
 // 1 Lists
 const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
+
+// 2 Lists
+const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed', 'socialist',
+  ...rightWing, 
+];
+// +Open Democracy, +RFI, +SBS News
+
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
@@ -98,10 +107,6 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +AP News, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed', 'socialist',
-  //
-];
-// +Open Democracy, +RFI, +SBS News
 const prison = ['pardon'];
 // +Amnesty
 const scienceResearch = ['science', 'astrobio', ...prehistory];
@@ -168,5 +173,6 @@ module.exports = {
   weather,
   prison,
   country,
+  rightWing,
 };
 
