@@ -209,6 +209,11 @@ module.exports = [
     exclusionWords: [...tList.nonArticle, ...tList.democraticParty, 'the Arctic'],
   },
   {
+    name: 'Electronic Frontiers Foundation',
+    url: 'https://www.eff.org/rss.xml',
+    inclusionWords: [...tList.cybersecurity],
+  },
+  {
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
