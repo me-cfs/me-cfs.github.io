@@ -226,6 +226,7 @@ module.exports = [
     url: 'https://www.euractiv.com/RSS',
     inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
+      'Italian', 'Poland',
     ],
     exclusionWords: ['Elon Musk', 'Gas Transit Dispute', 'Putin apologises'],
   },
