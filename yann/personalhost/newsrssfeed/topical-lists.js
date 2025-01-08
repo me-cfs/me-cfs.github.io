@@ -24,7 +24,7 @@ const us = ['Anchorage', ...usPolitics];
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
-  'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', 'won't believe', 'truth about',
+  'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', "won't believe", 'truth about',
 ];l
 // -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment',];
