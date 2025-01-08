@@ -24,10 +24,10 @@ const us = ['Anchorage', ...usPolitics];
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
-  'crazy', 'apocalypse', 'mega-maga', 'seeth', 
-];
+  'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', 'won't believe', 'truth about',
+];l
 // -Crikey, -Hill (Healthcare), -Politico EU
-const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
+const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment',];
 // -Open Democracy, -RTS, -Semafor
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
@@ -70,7 +70,7 @@ const weather = ['storm', 'tornado'];
 
 
 // inclusionLists
-const activism = ['protest', 'rights', 'strike', 'acivis'];
+const activism = ['protest', 'rights', 'strike', 'acivis', 'social justice', 'human rights', 'advocacy',p];
 // +Byline Times, +Converation, Indian Country Today, +Motherjones
 const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource'];
 // +west england bylines
@@ -87,12 +87,12 @@ const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap'
 // +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
-  'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 
+  'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 'sustainable', 
   ];
 // +Environment, +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
 // +opendemocracy
-const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations'];
+const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'international relations', 'global politics',];
 // *Crikey, +The intercept
 const history = ['Klu Klux Klan']; 
 // +Jacobin
