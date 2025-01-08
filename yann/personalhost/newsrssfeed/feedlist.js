@@ -24,7 +24,7 @@ module.exports = [
       'documentary', 'director', 'top risk', 'bremmer', 
       ...tList.clickbait, 
     ],
-    minCharsTitle: 15,
+    minCharsTitle: 17,
   },
   {
     name: 'BBC - Australia',
@@ -59,6 +59,7 @@ module.exports = [
     ],
     off: false,
     urlExclusionWords: ['business'],
+    minCharsTitle: 15,
   },
   {
     name: 'Economist the World this Week',
@@ -118,7 +119,7 @@ module.exports = [
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
-      
+      'times', 
     ],
     minCharsTitle: 20,
   },
