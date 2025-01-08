@@ -24,7 +24,7 @@ const us = ['Anchorage', ...usPolitics];
 
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
-  'crazy', 'apocalypse', 'mega-maga', 
+  'crazy', 'apocalypse', 'mega-maga', 'seeth', 
 ];
 // -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
@@ -32,7 +32,8 @@ const culture = ['anime', 'artist', 'manga', 'oscar', 'film'];
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
     'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat', "here's the",
-    'hollywood legend', 'always look on the bright side', 'light show', 'what I got', 
+    'hollywood legend', 'always look on the bright side', 'light show', 'what I got', 'good riddance', 'goes full',
+    
 ];
 // -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
