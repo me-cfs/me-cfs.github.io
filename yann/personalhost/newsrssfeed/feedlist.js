@@ -103,7 +103,7 @@ module.exports = [
     // Most Viewed
     name: 'New York Times',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle],
+    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, "aghast",],
   },
   {
     name: 'Paul Krugmann',
@@ -119,7 +119,7 @@ module.exports = [
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
-      'times', 
+      'times', ...tList.economics, 
     ],
     minCharsTitle: 20,
   },
@@ -128,7 +128,9 @@ module.exports = [
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
-    exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture],
+    exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
+      ...tList.fluffyTitle, 
+    ],
   },
   {
     name: 'Science Based Medicine',
@@ -163,7 +165,7 @@ module.exports = [
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
     inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity,
-      'native', 'Myannmar', ...tList.prison, 'Angola', 
+      'native', 'Myannmar', ...tList.prison, 'Angola', ...tList.humanRights, 
     ],
   },
  {
@@ -171,14 +173,14 @@ module.exports = [
     url: 'https://feedx.net/rss/ap.xml',
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
       'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 'looking at europe',
-      ...tList.rightWing, 
+      ...tList.rightWing, ...tList.war, ...tList.environment, 
     ],
   },
   {
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
-      'yellowstone', 'antitrust'
+      'yellowstone', 'antitrust', ...tList.cybersecurity, 
     ],
     exclusionWords: [...tList.uninterestedSports,],
   },
@@ -195,7 +197,7 @@ module.exports = [
     url: 'https://theconversation.com/articles.atom',
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
       ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
-      'Zimbabwe', 'data centre', 'invasive species', ...tList.prison, 
+      'Zimbabwe', 'data centre', 'invasive species', ...tList.prison, ...tList.technology,
     ],
   },
   {
@@ -226,7 +228,7 @@ module.exports = [
     url: 'https://www.euractiv.com/RSS',
     inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
-      'Italian', 'Poland',
+      'Italian', 'Poland', ...tList.politics, 
     ],
     exclusionWords: ['Elon Musk', 'Gas Transit Dispute', 'Putin apologises'],
   },
@@ -240,7 +242,7 @@ module.exports = [
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
-      ...tList.cybersecurity, ...tList.important, "Georgia",
+      ...tList.cybersecurity, ...tList.important, "Georgia", ...tList.humanRights,
     ],
   },
   {
@@ -264,7 +266,9 @@ module.exports = [
   {
     name: 'Jacobin',
     url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism, ...tList.history],
+    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism, ...tList.history,
+      ...tList.humanRights,
+    ],
   },
   {
     name: 'KFF Health News',
@@ -275,7 +279,9 @@ module.exports = [
   {
     name: 'Kyiv Indpendent',
     url: 'https://kyivindependent.com/feed/rss/',
-    inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing],
+    inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
+      
+    ],
   },
   {
     name: 'Motherjones',
