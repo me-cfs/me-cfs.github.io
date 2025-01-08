@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Mark Zuckerberg and Meta say good riddance to fact-checking (Axios)</title>
+      <link>https://www.axios.com/2025/01/08/zuckerberg-meta-content-moderation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/08/zuckerberg-meta-content-moderation</guid>
+      <pubDate>Wed, 08 Jan 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Missing hiker found after 13 days in Australian mountains (BBC - Australia)</title>
       <link>https://www.bbc.com/news/articles/c5ywy9xln2yo</link>
       <author>BBC - Australia</author>
@@ -1432,13 +1439,6 @@
       <author>RTS</author>
       <guid>28743775</guid>
       <pubDate>Sat, 04 Jan 2025 10:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tracing the New Orleans Attacker’s Secret Radicalization (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/04/us/new-orleans-attack-shamsud-din-jabbar-isis.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/04/us/new-orleans-attack-shamsud-din-jabbar-isis.html</guid>
-      <pubDate>Sat, 04 Jan 2025 10:01:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
