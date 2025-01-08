@@ -350,6 +350,11 @@ module.exports = [
     inclusionWords: ['Greenwashing', 'Bernie', 'Sanders', 'Genocide'],
     // seems the feed is not working
   },
+  {
+    name: '404 Media',
+    url: 'https://www.404media.co/rss/',
+    inclusionWords: [...tList.commons, ...tList.humanRights,],
+  },
 ];
 
 const off = [
