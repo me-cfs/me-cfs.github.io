@@ -70,10 +70,10 @@ const weather = ['storm', 'tornado'];
 
 
 // inclusionLists
-const activism = ['protest', 'rights', 'strike', 'acivis', 'social justice', 'human rights', 'advocacy',p];
+const activism = ['protest', 'rights', 'strike', 'acivis', 'social justice', 'human rights', 'advocacy',];
 // +Byline Times, +Converation, Indian Country Today, +Motherjones
-const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource'];
-// +west england bylines
+const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource', 'open source',];
+// +west england bylines +404 Media
 const country = ['Angola',];
 //
 const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 'China hack', 'cybercrime',
@@ -96,8 +96,8 @@ const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'inter
 // *Crikey, +The intercept
 const history = ['Klu Klux Klan']; 
 // +Jacobin
-const humanRights = ['death row'];
-// +AP
+const humanRights = ['death row', 'censorship'];
+// +AP, +404 Media
 const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine',];
 // +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
