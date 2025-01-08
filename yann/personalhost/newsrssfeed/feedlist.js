@@ -326,6 +326,10 @@ module.exports = [
     exclusionWords: [...tList.culture],
   },
   {
+    name: 'Survival International',
+    url: 'http://feeds.survivalinternational.org/SurvivalInternational',
+  },
+  {
     name: 'Vox',
     url: 'https://www.vox.com/rss/index.xml',
     inclusionWords: ['Public Housing', 'Data', 'gulag', ...tList.disability],
