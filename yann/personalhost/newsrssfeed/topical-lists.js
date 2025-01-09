@@ -6,10 +6,18 @@ const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 // -crimethinc, +usPolitics
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
+const prison = ['pardon', 'prison'];
+// +Amnesty, +Conversation
 const rightWing = ['conservative backlash', 'Orbán ally'];
 // +AP News, +Kiev Independent
+const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
+// -BBC Australia, -BBC Fiji
 
 // 1 Lists
+const humanRights = ['death row', 'censorship', ...prison];
+// +AP, +Amnesty, +HRW, +Jacobin, +404 Media
+const singlePerson = [...singleCrime, "eulogy",];
+// -Axios
 const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
@@ -42,11 +50,9 @@ const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'
 // -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
-    'these', "let's try something", 'to watch', 
+    'these', "let's try something", 'to watch', 'inside', "things to watch",
 ];
-// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -OpenDemocracy, -Vox
-const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
-// -BBC Australia, -BBC Fiji
+// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -OpenDemocracy, -Politico, -Vox
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
   'últimas', 'política', 'sociedad', 'educación', 'tecnología',
@@ -84,24 +90,22 @@ const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 
 // + Amnesty Intl, +Arstechnica, +Byline Times, +EFF, +Human Rights Watch
 const dataJournalism = ['data', 'polling'];
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
-  'chronic illness', 'lupus', 'eugenics',
+  'chronic illness', 'lupus', 'eugenics', 'long term sick',
 ];
-// +Amnesty Intl, +AP, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
+// +Amnesty Intl, +AP, +Byline Times, +Disabled Writer. +Orient XXI, *PublicEye, +Human Rights Watch, +Jacobin, 
 // +KFF Health, +SBS News, +West England Bylines, +Vox
-const environment = ['greenwashing', 'pesticides interdits', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
-  'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 'sustainable', 'extinction', 
+const environment = ['greenwashing', 'pesticide', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
+  'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 'sustainable', 'extinction', 'ecosystem',
   ];
-// +AP, +Equal Times. +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
+// +AP, +The Conversation, +Equal Times. +EURACTIV, +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'international relations', 'global politics',
-  "national security",
+  "national security", "taliban",
 ];
-// *Crikey, +The intercept
-const history = ['Klu Klux Klan']; 
-// +Jacobin
-const humanRights = ['death row', 'censorship'];
-// +AP, +Amnesty, +HRW, +Jacobin, +404 Media
+// *Crikey, +The intercept, +KyivI
+const history = ['Klu Klux Klan', 'Bronze Age',]; 
+// +Arstechnica, +Jacobin
 const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine', "harassment", "homelessness", "deported"];
 // +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, 
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
@@ -116,8 +120,6 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +AP News, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
-const prison = ['pardon', 'prison'];
-// +Amnesty, +Conversation
 const scienceResearch = ['science', 'astrobio', ...prehistory];
 // +Ap, +Inside Climate News
 const socialism = ['class', 'droits du travail', 'capitalism'];
@@ -126,7 +128,7 @@ const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI',
-  '3D Printing', 'AI could assist'
+  '3D Printing', 'AI could assist', 'LLMs',
 ];
 // +Arstechnica, +Conversation, PublicEye
 const war = ['missile attack', 'military aid'];
@@ -189,5 +191,6 @@ module.exports = {
   us,
   war,
   economics,
+  singlePerson, 
 };
 
