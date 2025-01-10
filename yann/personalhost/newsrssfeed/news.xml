@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> UK PM Starmer plans Ukraine visit to discuss peacekeeping mission, Bloomberg reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/uk-pm-starmer-plans-ukraine-visit-to-discuss-peacekeeping-mission-bloomberg-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/uk-pm-starmer-plans-ukraine-visit-to-discuss-peacekeeping-mission-bloomberg-reports</guid>
+      <pubDate>Fri, 10 Jan 2025 20:38:40 +0200</pubDate>
+    </item>
+    <item>
       <title>Supreme Court seems likely to uphold TikTok ban (Axios)</title>
       <link>https://www.axios.com/2025/01/10/supreme-court-tiktok-ban</link>
       <author>Axios</author>
@@ -152,6 +159,13 @@
       <author>BBC - Australia</author>
       <guid>https://www.bbc.com/news/articles/c3vpx5x6wdvo#0</guid>
       <pubDate>Fri, 10 Jan 2025 12:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Real Threat of Fake Numbers (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-real-threat-of-fake-numbers</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-real-threat-of-fake-numbers</guid>
+      <pubDate>Fri, 10 Jan 2025 12:03:02 GMT</pubDate>
     </item>
     <item>
       <title>‘If you are black, you are finished’: the ethnically targeted violence raging in Sudan (Guardian)</title>
@@ -1415,20 +1429,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
       <pubDate>Wed, 08 Jan 2025 17:52:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>EU “energetically” probing disinformation, right-wing bias on X, report says (Arstechnica)</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:37:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>To Ban TikTok, Supreme Court Would Rank “National Security” Before First Amendment (The Intercept)</title>
-      <link>https://theintercept.com/2025/01/08/tiktok-ban-supreme-court-first-amendment/</link>
-      <author>The Intercept</author>
-      <guid>https://theintercept.com/?p=484428</guid>
-      <pubDate>Wed, 08 Jan 2025 17:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
