@@ -83,7 +83,7 @@ const weather = ['storm', 'tornado'];
 
 // inclusionLists
 const activism = ['protest', 'rights', 'strike', 'acivis', 'social justice', 'human rights', 'advocacy',];
-// +Byline Times, +Converation, Indian Country Today, +Motherjones
+// +Byline Times, +Converation, Indian Country Today, +Motherjones, +404 Media, 
 const commons = ['open-source', 'public housing', 'commons', 'community owned', 'shared resource', 'open source',];
 // +west england bylines +404 Media
 const country = ['Angola',];
@@ -92,7 +92,8 @@ const cybersecurity = ['spyware', 'disinformation', 'astroturf', 'bot network', 
   'surveillence industry', 'leaking data', 
 ];
 // + Amnesty Intl, +Arstechnica, +Byline Times, +EFF, +Human Rights Watch
-const dataJournalism = ['data', 'polling'];
+const dataJournalism = ['data', 'polling', "poll"];
+// +AP News
 const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap', 'handicapé', 'face mask', 'ADHD advocate',
   'chronic illness', 'lupus', 'eugenics', 'long term sick',
 ];
@@ -100,8 +101,9 @@ const disability = ['disability', 'assisted suicide', 'disabilities', 'handicap'
 // +KFF Health, +SBS News, +West England Bylines, +Vox
 const environment = ['greenwashing', 'pesticide', 'ecocide', 'pollution', 'cop29', 'cop30', 'cop31', 'cop32', 'climat',
   'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 'sustainable', 'extinction', 'ecosystem',
+  "environment", "power plant",
   ];
-// +AP, +The Conversation, +Equal Times. +EURACTIV, +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
+// +AP, +Amnesty, +Arstechnica, The Conversation, +Equal Times. +EURACTIV, +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'international relations', 'global politics',
@@ -115,9 +117,9 @@ const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famin
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
 // +Conversation, Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
-  'France', 'Victoria', 'Suisse', 'français', 
+  'France', 'Victoria', 'Suisse', 'français', "Australia", 
 ];
-// +Amnesty Intl. +Human Rights Watch, +Orient XXI, +PublicEye,  +RFI, +Semafor, +West England Bylines
+// +Amnesty Intl. +The Conversation, Human Rights Watch, +Orient XXI, +PublicEye,  +RFI, +Semafor, +West England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
   'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie', 'public health',
 ];
@@ -132,9 +134,9 @@ const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI',
-  '3D Printing', 'AI could assist', 'LLMs',
+  '3D Printing', 'AI could assist', 'LLMs', "Spacecraft", "crypto reserve",
 ];
-// +Arstechnica, +Conversation, PublicEye
+// +AP, Arstechnica, +Conversation, PublicEye
 const war = ['missile attack', 'military aid', "peace"];
 // +AP, +Kiev Independent, 
 
