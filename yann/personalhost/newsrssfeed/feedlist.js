@@ -3,6 +3,17 @@ const medicalNews = require('./medical-news.js');
 const tList = require('./topical-lists.js')
 
 module.exports = [
+// Africa
+
+
+  {
+    // Guardian Africa
+    name: 'Guardian',
+    url: 'https://www.theguardian.com/world/africa/rss',
+    off: false,
+  },
+  
+
 // Europe 
 
 
