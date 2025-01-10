@@ -131,11 +131,10 @@ module.exports = [
   },
   {
     name: 'SBS News',
-    url: '',
+    url: 'https://www.sbs.com.au/news/topic/australia/feed',
     inclusionWords: [...tList.disability, ...tList.environment, ...tList.location,
       //'',
     ],
-    off: true,
   },
 
 
