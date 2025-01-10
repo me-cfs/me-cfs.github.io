@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Anne Argi: "Il est aussi important d'entourer les parents des enfants hospitalisés" (RTS)</title>
+      <link>https://www.rts.ch/info/sante/2025/article/fondation-planete-enfants-malades-soutien-aux-jeunes-patients-et-parents-28750797.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28750797</guid>
+      <pubDate>Fri, 10 Jan 2025 11:07:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Chômage en légère hausse en 2024, mais excédent de 1,5 milliard de francs pour l'assurance (RTS)</title>
       <link>https://www.rts.ch/info/economie/2025/article/chomage-en-suisse-hausse-a-2-4-en-2024-mais-excedent-de-1-5-milliard-dans-les-caisses-28750939.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1429,13 +1436,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/08/republican-trump-agenda-bill-deficit-debt-salt</guid>
       <pubDate>Wed, 08 Jan 2025 01:26:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Trump plans to invite entire GOP Senate to Mar-a-Lago bash (Axios)</title>
-      <link>https://www.axios.com/2025/01/08/trump-senate-republican-mar-a-lago</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/08/trump-senate-republican-mar-a-lago</guid>
-      <pubDate>Wed, 08 Jan 2025 01:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
