@@ -3,12 +3,33 @@ const medicalNews = require('./medical-news.js');
 const tList = require('./topical-lists.js')
 
 module.exports = [
+// Europe 
+
+
   {
-    name: 'The Athletic Football',
-    url: 'https://www.nytimes.com/athletic/rss/football/',
-    inclusionWords: [...tList.sportsInterested],
-    exclusionWords: ['USWNT'],
+    name: 'The Equal Times',
+    url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
+    inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
+      ...tList.medicine,
+    ],
   },
+  {
+    name: 'Guardian -- George Monbiot',
+    url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
+    off: false,
+  },
+  {
+    // RFI Europe
+    name: 'RFI',
+    url: 'https://www.rfi.fr/europe/rss',
+    inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
+      'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
+      'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
+    ],
+  },
+
+
+// North Americs
   {
     name: 'Axios',
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
@@ -27,6 +48,22 @@ module.exports = [
     minCharsTitle: 17,
   },
   {
+    name: 'Fivethirtyeight',
+    url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
+    off: false,
+    exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle],
+    cutoffDate: new Date('2024-12-10')
+  },
+  {
+    name: 'Grist',
+    url: 'https://grist.org/feed/',
+    off: false,
+    inclusionWords: [...tList.usPolitics, ...tList.environment],
+  },
+  
+
+// Oceania
+  {
     name: 'BBC - Australia',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
@@ -39,6 +76,15 @@ module.exports = [
     url: 'https://politepol.com/fd/WvvXWcEQFPXf.xml',
     off: false,
     exclusionWords: [...tList.singleCrime],
+  },
+
+
+  // World
+  {
+    name: 'The Athletic Football',
+    url: 'https://www.nytimes.com/athletic/rss/football/',
+    inclusionWords: [...tList.sportsInterested],
+    exclusionWords: ['USWNT'],
   },
   {
     name: 'Bellingcat',
@@ -71,18 +117,6 @@ module.exports = [
     off: false,
   },
   {
-    name: 'Fivethirtyeight',
-    url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
-    off: false,
-    exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle],
-    cutoffDate: new Date('2024-12-10')
-  },
-  {
-    name: 'Guardian -- George Monbiot',
-    url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
-    off: false,
-  },
-  {
     // Huffington Post (World Post)
     name: 'Huffington Post',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
@@ -93,6 +127,10 @@ module.exports = [
     name: 'ME/LC News',
     url: 'https://me-cfs.github.io/news/rss/community.xml',
   },
+  
+  
+  
+  
   {
     // Most Viewed
     name: 'New York Times',
@@ -135,14 +173,6 @@ module.exports = [
 
   // Depreciation Phase
 
-  { // hill being depreciated because corporate biased and  ownership company donates to the GOP mostpo qwerty
-    // climate change
-    name: 'The Hill',
-    url: 'https://thehill.com/social-tags/climate-change/feed/',
-    off: false,
-    inclusionWords: [...tList.usPolitics],
-    exclusionWords: [...tList.nonInformativeTitle],
-  },
   {
     // healthcare 
     name: 'The Hill',
@@ -211,29 +241,9 @@ module.exports = [
     url: 'https://www.eff.org/rss.xml',
     inclusionWords: [...tList.cybersecurity],
   },
-  {
-    name: 'The Equal Times',
-    url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
-    inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
-      ...tList.medicine,
-    ],
-  },
-  {
-    name: 'EURACTIV',
-    url: 'https://www.euractiv.com/RSS',
-    inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
-      'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
-      'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
-      
-    ],
-    exclusionWords: ['Elon Musk', 'Gas Transit Dispute', 'Putin apologises'],
-  },
-  {
-    name: 'Grist',
-    url: 'https://grist.org/feed/',
-    off: false,
-    inclusionWords: [...tList.usPolitics, ...tList.environment],
-  },
+
+
+
  {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
