@@ -21,8 +21,8 @@ module.exports = [
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
       ...tList.weather, 'steel', 'reality check', 'mortgage rate',
-      'documentary', 'director', 'top risk', 'bremmer', 
-      ...tList.clickbait, ...tList.singlePerson, 
+      'documentary', 'director', 'top risk', 'bremmer', "2024",
+      ...tList.clickbait, ...tList.singlePerson, "denies effort",
     ],
     minCharsTitle: 17,
   },
@@ -31,7 +31,7 @@ module.exports = [
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, ...tList.singleCrime, ...tList.fluffyTitle,
-      'Australia Debut',
+      'Australia Debut', ...tList.nonArticle, ...tList.uninterestedSports,
     ],
   },
   {
@@ -55,7 +55,7 @@ module.exports = [
     url: 'https://openrss.org/www.economist.com',
     fallbackUrls: ['https://feedx.net/rss/economist.xml'],
     exclusionWords: ['in brief', ...tList.nonArticle, ...tList.uninterestedSports, 'culture', ...tList.business,
-       'obituary', ...tList.fluffyTitle, 'fact-checking',
+       'obituary', ...tList.fluffyTitle, 'fact-checking', ...tList.nonInformativeTitle, 
     ],
     off: false,
     urlExclusionWords: ['business', 'finance'],
@@ -68,12 +68,6 @@ module.exports = [
       { original: 'Politics', replace: 'The world this week: Politics' },
       { original: 'Business', replace: 'The world this week: Business' },
     ],
-    off: false,
-  },
-  {
-    // Curcular Economy
-    name: 'EURACTIV',
-    url: 'https://www.euractiv.com/sections/circular-economy/feed/',
     off: false,
   },
   {
@@ -103,7 +97,7 @@ module.exports = [
     // Most Viewed
     name: 'New York Times',
     url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, "aghast",],
+    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, "aghast", "avoid sentencing", ],
   },
   {
     name: 'Paul Krugmann',
@@ -119,7 +113,7 @@ module.exports = [
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
-      'times', ...tList.economics, ...tList.nonInformativeTitle, 
+      'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", 
     ],
     minCharsTitle: 20,
   },
@@ -252,6 +246,7 @@ module.exports = [
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...tList.environment, ...tList.scienceResearch],
+    exlcusionWords: [...tList.nonInformativeTitle,]
   },
   {
     name: 'Indian Country Today',
