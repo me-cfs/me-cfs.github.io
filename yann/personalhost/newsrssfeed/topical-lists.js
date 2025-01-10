@@ -10,7 +10,9 @@ const prison = ['pardon', 'prison'];
 // +Amnesty, +Conversation
 const rightWing = ['conservative backlash', 'Orbán ally'];
 // +AP News, +Kiev Independent
-const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with'];
+const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with',
+  'suspect',
+];
 // -BBC Australia, -BBC Fiji
 
 // 1 Lists
@@ -43,16 +45,18 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
     'and the prize for the', 'sandwich', 'letter meant for', '5-star', 'most amazing', 'churchill short', 'drinking',
     'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat', "here's the",
     'hollywood legend', 'always look on the bright side', 'light show', 'what I got', 'good riddance', 'goes full',
-    'à ne pas manquer', 
+    'à ne pas manquer', "there is no such thing", "love-fest", "loom into", "weird monent", "teetering on edge",
+    "man in the", "here come",
 ];
 // -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI, -RTS, 
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
-// -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
+// -BBC Aus, -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
-    'these', "let's try something", 'to watch', 'inside', "things to watch",
+    'these', "let's try something", 'to watch', 'inside', "things to watch", "takeaway", 
 ];
-// -Axios. -Hill Climate, -Hill Healthcare. -Huffpost (World), -NYT Most Viewed, -OpenDemocracy, -Politico, -Vox
+// -Axios. -Economist, -Hill Climate, -Hill Healthcare. -Huffpost (World), 
+// -Inside Climate News, -NYT Most Viewed, -OpenDemocracy, -Politico, -Vox
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
   'últimas', 'política', 'sociedad', 'educación', 'tecnología',
@@ -72,7 +76,7 @@ const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake P
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts',
   'NASCAR', 
 ];
-// -Arstechnica, -Axios, -Economist, 
+// -Arstechnica, -Axios, -BBC Aus, -Economist, 
 const weather = ['storm', 'tornado'];
 // -Axios
 
@@ -131,8 +135,8 @@ const technology = ['open-source', 'sattelite', 'bluesky', 'large language model
   '3D Printing', 'AI could assist', 'LLMs',
 ];
 // +Arstechnica, +Conversation, PublicEye
-const war = ['missile attack', 'military aid'];
-// +AP, +pKiev Independent, 
+const war = ['missile attack', 'military aid', "peace"];
+// +AP, +Kiev Independent, 
 
 
 
