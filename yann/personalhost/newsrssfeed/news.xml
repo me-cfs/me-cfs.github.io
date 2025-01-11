@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Trump joins history’s long line of suitors coveting Greenland					 (Politico)</title>
+      <link>https://www.politico.eu/article/donald-trump-greenland-american-history/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/donald-trump-greenland-american-history/</guid>
+      <pubDate>Sat, 11 Jan 2025 06:47:17 -0000</pubDate>
+    </item>
+    <item>
       <title>Les radios France Bleu ont été rebaptisées « ici » (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20250111-les-radios-france-bleu-ont-%C3%A9t%C3%A9-rebaptis%C3%A9es-ici</link>
       <author>RFI</author>
@@ -1420,13 +1428,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/09/afl-cio-seiu-trump</guid>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>It’s remarkably easy to inject new medical misinformation into LLMs (Arstechnica)</title>
-      <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
-      <pubDate>Wed, 08 Jan 2025 22:58:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
