@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En 2025, la Suisse dit halte aux bruits routiers intempestifs (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/nouvelles-amendes-contre-le-bruit-routier-excessif-en-suisse-des-2025-28746123.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28746123</guid>
+      <pubDate>Sat, 11 Jan 2025 16:17:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Sudan’s army recaptures Wad Madani from rebel Rapid Support Forces (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/jan/11/sudan-army-recaptures-wad-madani-from-rebel-rapid-support-forces</link>
       <author>Guardian</author>
@@ -1417,13 +1424,6 @@
       <author>RFI</author>
       <guid>b8791a66-ce6a-11ef-909c-005056a97652</guid>
       <pubDate>Thu, 09 Jan 2025 09:37:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newly ignited L.A. fire triggers evacuation orders for over 100,000 in Hollywood (Axios)</title>
-      <link>https://www.axios.com/2025/01/09/la-sunset-fire-hollywood-evacuation-orders</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/09/la-sunset-fire-hollywood-evacuation-orders</guid>
-      <pubDate>Thu, 09 Jan 2025 09:36:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
