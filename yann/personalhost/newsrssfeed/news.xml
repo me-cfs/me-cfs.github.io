@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les radios France Bleu ont été rebaptisées « ici » (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20250111-les-radios-france-bleu-ont-%C3%A9t%C3%A9-rebaptis%C3%A9es-ici</link>
+      <author>RFI</author>
+      <guid>6a735a0e-cf99-11ef-be12-005056bf1351</guid>
+      <pubDate>Sat, 11 Jan 2025 06:00:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Judge Finds Giuliani in Contempt for Continued Defamation of Election Workers (New York Times)</title>
       <link>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</link>
       <author>New York Times</author>
@@ -1420,13 +1427,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 22:58:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Groenland: les déclarations de Trump créent la stupeur, le Danemark se dit «ouvert au dialogue» (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250108-groenland-les-d%C3%A9clarations-de-trump-cr%C3%A9ent-la-stupeur-le-danemark-se-dit-ouvert-au-dialogue</link>
-      <author>RFI</author>
-      <guid>fb84b404-ce0c-11ef-a2b5-005056a97652</guid>
-      <pubDate>Wed, 08 Jan 2025 22:48:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
