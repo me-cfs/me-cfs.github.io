@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L.A. fire losses will set records (Axios)</title>
+      <link>https://www.axios.com/2025/01/11/los-angeles-fire-insurance-losses-billions</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/11/los-angeles-fire-insurance-losses-billions</guid>
+      <pubDate>Sat, 11 Jan 2025 12:39:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Denmark sent Trump team private messages on Greenland (Axios)</title>
       <link>https://www.axios.com/2025/01/11/denmark-response-trump-greenland-threat</link>
       <author>Axios</author>
@@ -1417,13 +1424,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/08/us/california-fires-landmarks-pasadena-palisades-malibu.html</guid>
       <pubDate>Thu, 09 Jan 2025 04:37:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Alito spoke with Trump hours before Supreme Court filing on hush-money sentencing (Axios)</title>
-      <link>https://www.axios.com/2025/01/09/justice-alito-trump-call</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/09/justice-alito-trump-call</guid>
-      <pubDate>Thu, 09 Jan 2025 04:18:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
