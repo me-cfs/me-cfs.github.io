@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/la-politique-etrangere-delon-musk</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22896</guid>
+      <pubDate>01/12/2025 22:54</pubDate>
+    </item>
+    <item>
       <title>Les autorités suisses ont sous-estimé la menace de la mafia kosovo-albanaise, estime un spécialiste (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/mafia-kosovo-albanaise-en-suisse-une-menace-sous-estimee-selon-un-expert-28753002.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -116,6 +123,13 @@
       <author>RFI</author>
       <guid>ac96afc0-d0f8-11ef-9b29-005056a97652</guid>
       <pubDate>Sun, 12 Jan 2025 16:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kamala Harris Shares a Trump-less Photo of Presidents at Jimmy Carter’s Funeral (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/11/us/politics/trump-photo-carter-funeral.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/11/us/politics/trump-photo-carter-funeral.html</guid>
+      <pubDate>Sun, 12 Jan 2025 15:02:35 +0000</pubDate>
     </item>
     <item>
       <title>LA fires could be the U.S.' worst natural disaster, Newsom says (Axios)</title>
@@ -1413,20 +1427,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/dwps-chief-medical-adviser-dismisses-importance-of-her-own-departments-reviews-into-benefit-deaths/</guid>
       <pubDate>Thu, 09 Jan 2025 17:38:07 -0000</pubDate>
-    </item>
-    <item>
-      <title>Biden administration axes controversial climate plan for old growth forests (Grist)</title>
-      <link>https://grist.org/regulation/biden-administration-axes-controversial-climate-plan-for-old-growth-forests/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=656327</guid>
-      <pubDate>Thu, 09 Jan 2025 17:32:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italie: Giorgia Meloni juge Elon Musk bien moins nocif pour les démocraties que George Soros (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250109-italie-giorgia-meloni-juge-elon-musk-bien-moins-nocif-pour-les-d%C3%A9mocraties-que-george-soros</link>
-      <author>RFI</author>
-      <guid>e89dd8fa-cea9-11ef-8b67-005056bf1351</guid>
-      <pubDate>Thu, 09 Jan 2025 17:24:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
