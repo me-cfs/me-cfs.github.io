@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>A secret weapon in agriculture’s climate fight: Ants (Grist)</title>
+      <link>https://grist.org/food-and-agriculture/a-secret-weapon-in-agricultures-climate-fight-ants/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=656384</guid>
+      <pubDate>Mon, 13 Jan 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title> Russian attacks across Ukraine kill 1, injure 17 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-8</link>
       <author>Kyiv Indpendent</author>
@@ -1420,14 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/09/trump-crypto-bitcoin-etf-investments</guid>
       <pubDate>Thu, 09 Jan 2025 19:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Musk hosts love-fest with far-right AfD chief on X 					 (Politico)</title>
-      <link>https://www.politico.eu/article/elon-musk-far-right-afd-germany-alice-weidel-x-interview/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/elon-musk-far-right-afd-germany-alice-weidel-x-interview/</guid>
-      <pubDate>Thu, 09 Jan 2025 19:21:01 -0000</pubDate>
     </item>
   </channel>
 </rss>
