@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: l'abbé Pierre visé par neuf nouvelles accusations de violences sexuelles, dont un viol sur mineur (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250113-france-l-abb%C3%A9-pierre-vis%C3%A9-par-neuf-nouvelles-accusations-de-violences-sexuelles-dont-un-viol-sur-mineur</link>
+      <author>RFI</author>
+      <guid>3f8545fa-d1ce-11ef-9871-005056a97652</guid>
+      <pubDate>Mon, 13 Jan 2025 17:40:49 GMT</pubDate>
+    </item>
+    <item>
       <title>LA fires: New "Particularly Dangerous" warning issued (Axios)</title>
       <link>https://www.axios.com/2025/01/13/california-fires-particularly-dangerous-situation-santa-ana</link>
       <author>Axios</author>
@@ -1420,13 +1427,6 @@
       <author>Inside Climate News</author>
       <guid>https://insideclimatenews.org/?p=90321</guid>
       <pubDate>Fri, 10 Jan 2025 03:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump and Musk want to help U.S. auto industry, Ford chairman says (Axios)</title>
-      <link>https://www.axios.com/2025/01/10/trump-musk-ford</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/10/trump-musk-ford</guid>
-      <pubDate>Fri, 10 Jan 2025 02:47:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
