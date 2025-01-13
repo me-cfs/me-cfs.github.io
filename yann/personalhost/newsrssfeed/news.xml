@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>After the Palisades Fire, What Can We Really Rebuild? (Propublica)</title>
+      <link>https://www.propublica.org/article/pacific-palisades-california-wildfires-rebuilding-community</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/pacific-palisades-california-wildfires-rebuilding-community</guid>
+      <pubDate>Mon, 13 Jan 2025 17:30:00 -0500</pubDate>
+    </item>
+    <item>
       <title>Crise de l’accueil des demandeurs d’asile: Berne priée d'agir sur la vitesse des procédures (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/crise-de-l-asile-les-communes-suisses-appellent-a-accelerer-les-procedures-28754478.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1418,13 +1425,6 @@
       <link>https://www.axios.com/2025/01/10/ai-agents-jobs-workplace-openai-altman</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/10/ai-agents-jobs-workplace-openai-altman</guid>
-      <pubDate>Fri, 10 Jan 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI CEO Sam Altman says AI agents will enter workforce this year (Axios)</title>
-      <link>https://www.axios.com/2025/01/10/ai-agents-sam-altman-workers</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/10/ai-agents-sam-altman-workers</guid>
       <pubDate>Fri, 10 Jan 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
