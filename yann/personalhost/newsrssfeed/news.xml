@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: pugnace à son procès, Nicolas Sarkozy dit n'avoir «jamais» pensé au financement de sa campagne (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250113-france-pugnace-%C3%A0-son-proc%C3%A8s-nicolas-sarkozy-dit-n-avoir-jamais-pens%C3%A9-au-financement-de-sa-campagne</link>
+      <author>RFI</author>
+      <guid>ff890e8a-d1f7-11ef-b08d-005056bf1351</guid>
+      <pubDate>Mon, 13 Jan 2025 22:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok ban timeline: Here's where things stand (Axios)</title>
+      <link>https://www.axios.com/2025/01/13/tiktok-ban-timeline</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/13/tiktok-ban-timeline</guid>
+      <pubDate>Mon, 13 Jan 2025 22:39:56 +0000</pubDate>
+    </item>
+    <item>
       <title>After the Palisades Fire, What Can We Really Rebuild? (Propublica)</title>
       <link>https://www.propublica.org/article/pacific-palisades-california-wildfires-rebuilding-community</link>
       <author>Propublica</author>
@@ -1412,20 +1426,6 @@
       <author>RFI</author>
       <guid>7b43b64e-cf30-11ef-bdf7-005056a97652</guid>
       <pubDate>Fri, 10 Jan 2025 09:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title> Russian attacks across Ukraine kill 3, injure 19 over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russian-attacks-across-ukraine-kill-3-injure-19-over-past-day-2</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russian-attacks-across-ukraine-kill-3-injure-19-over-past-day-2</guid>
-      <pubDate>Fri, 10 Jan 2025 11:01:45 +0200</pubDate>
-    </item>
-    <item>
-      <title>Here come the AI agents (Axios)</title>
-      <link>https://www.axios.com/2025/01/10/ai-agents-jobs-workplace-openai-altman</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/10/ai-agents-jobs-workplace-openai-altman</guid>
-      <pubDate>Fri, 10 Jan 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
