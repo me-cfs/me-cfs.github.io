@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pourquoi faut-il désormais préciser le type d'emballage sur la balance des supermarchés? (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/nouvelle-regle-pour-peser-fruits-et-legumes-ce-qui-change-en-supermarche-28755791.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28755791</guid>
+      <pubDate>Tue, 14 Jan 2025 19:56:35 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Ireland’s centrist parties reach coalition deal to retain power					 (Politico)</title>
       <link>https://www.politico.eu/article/ireland-centrist-party-coalition-deal-government-micheal-martin-dianna-fail-simon-harris-fine-gael/</link>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/11/trumps-israel-gaza-deal-jan-20-witkoff</guid>
       <pubDate>Sat, 11 Jan 2025 13:49:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>SCOTUS to review ACA preventive services mandate (Axios)</title>
-      <link>https://www.axios.com/2025/01/11/scotus-obamacare-preventive-services</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/11/scotus-obamacare-preventive-services</guid>
-      <pubDate>Sat, 11 Jan 2025 13:22:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
