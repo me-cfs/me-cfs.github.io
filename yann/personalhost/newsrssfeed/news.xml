@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le Premier ministre François Bayrou annonce rouvrir le chantier des retraites (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250114-france-le-premier-ministre-fran%C3%A7ois-bayrou-annonce-rouvrir-le-chantier-des-retraites</link>
+      <author>RFI</author>
+      <guid>f2779e68-d27a-11ef-b102-005056bf762b</guid>
+      <pubDate>Tue, 14 Jan 2025 15:09:46 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						France danced ‘fatal tango’ with debt, PM Bayrou says as he takes aim at predecessors					 (Politico)</title>
       <link>https://www.politico.eu/article/pm-francois-bayrou-calls-out-predecessors-as-he-calls-for-france-to-get-its-finances-in-order/</link>
@@ -55,6 +62,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-afd-firestorm-distribute-fake-deportation-ticket-migrant-karlsruhe/</guid>
       <pubDate>Tue, 14 Jan 2025 12:53:52 -0000</pubDate>
+    </item>
+    <item>
+      <title>Remembrance of Red State Bailouts Past (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/remembrance-of-red-state-bailouts</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/remembrance-of-red-state-bailouts</guid>
+      <pubDate>Tue, 14 Jan 2025 12:35:18 GMT</pubDate>
     </item>
     <item>
       <title>China mulls TikTok sale to Musk (Semafor)</title>
@@ -1416,21 +1430,6 @@
       <author>RTS</author>
       <guid>28752066</guid>
       <pubDate>Sat, 11 Jan 2025 07:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump joins history’s long line of suitors coveting Greenland					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-greenland-american-history/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-greenland-american-history/</guid>
-      <pubDate>Sat, 11 Jan 2025 06:47:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>Les radios France Bleu ont été rebaptisées « ici » (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20250111-les-radios-france-bleu-ont-%C3%A9t%C3%A9-rebaptis%C3%A9es-ici</link>
-      <author>RFI</author>
-      <guid>6a735a0e-cf99-11ef-be12-005056bf1351</guid>
-      <pubDate>Sat, 11 Jan 2025 06:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
