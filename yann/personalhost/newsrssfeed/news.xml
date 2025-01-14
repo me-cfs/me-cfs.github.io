@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>New Orleans attack injured 57 people, FBI says in latest update (Axios)</title>
+      <link>https://www.axios.com/local/new-orleans/2025/01/14/new-orleans-attack-injured-57-people-fbi</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/new-orleans/2025/01/14/new-orleans-attack-injured-57-people-fbi</guid>
+      <pubDate>Tue, 14 Jan 2025 16:16:15 +0000</pubDate>
+    </item>
+    <item>
       <title>France: le Premier ministre François Bayrou annonce rouvrir le chantier des retraites (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250114-france-le-premier-ministre-fran%C3%A7ois-bayrou-annonce-rouvrir-le-chantier-des-retraites</link>
       <author>RFI</author>
@@ -1423,13 +1430,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/attacks-117</guid>
       <pubDate>Sat, 11 Jan 2025 09:36:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>L'ancien conseiller fédéral Ueli Maurer critique le rapport de la CEP sur la chute de Credit Suisse (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/ueli-maurer-critique-le-rapport-sur-credit-suisse-j-etais-le-bouc-emissaire-28752066.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28752066</guid>
-      <pubDate>Sat, 11 Jan 2025 07:35:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
