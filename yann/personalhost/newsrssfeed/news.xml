@@ -5,12 +5,47 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Suspected outbreak of deadly Marburg virus disease kills eight in Tanzania (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/15/suspected-outbreak-of-deadly-marburg-virus-disease-kills-eight-in-tanzania</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/15/suspected-outbreak-of-deadly-marburg-virus-disease-kills-eight-in-tanzania</guid>
+      <pubDate>Wed, 15 Jan 2025 12:12:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump presidency has CEOs more worried about trade wars, national debt (Axios)</title>
+      <link>https://www.axios.com/2025/01/15/trump-ceos-debt-trade-tariff</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/15/trump-ceos-debt-trade-tariff</guid>
+      <pubDate>Wed, 15 Jan 2025 12:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘The fight is existential’: Cameroon’s anglophone leaders lead a revolution from behind bars (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/15/the-fight-is-existential-cameroons-anglophone-leaders-lead-a-revolution-from-behind-bars</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/15/the-fight-is-existential-cameroons-anglophone-leaders-lead-a-revolution-from-behind-bars</guid>
+      <pubDate>Wed, 15 Jan 2025 12:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>New York Attorney General Launches Investigation of Guardianship Providers (Propublica)</title>
+      <link>https://www.propublica.org/article/new-york-guardianship-investigation-letitia-james-nygs</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/new-york-guardianship-investigation-letitia-james-nygs</guid>
+      <pubDate>Wed, 15 Jan 2025 07:00:00 -0500</pubDate>
+    </item>
+    <item>
       <title>
 						EU lines up intel-sharing, cyber squads to stop hospital hacks					 (Politico)</title>
       <link>https://www.politico.eu/article/eu-intel-system-cyberattacks-hospital-hacks-henna-virkkunen/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-intel-system-cyberattacks-hospital-hacks-henna-virkkunen/</guid>
       <pubDate>Wed, 15 Jan 2025 11:22:42 -0000</pubDate>
+    </item>
+    <item>
+      <title>A global commodities 'supercycle' may be ending as China's growth slows (Semafor)</title>
+      <link>https://www.semafor.com/article/01/15/2025/a-global-commodities-supercycle-may-be-ending-as-chinas-growth-slows</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/01/15/2025/a-global-commodities-supercycle-may-be-ending-as-chinas-growth-slows</guid>
+      <pubDate>Wed, 15 Jan 2025 11:10:16 +0000</pubDate>
     </item>
     <item>
       <title>France: plus de 80 associations annoncent leur départ du réseau social X (RFI)</title>
@@ -1398,42 +1433,6 @@
       <author>RTS</author>
       <guid>28753240</guid>
       <pubDate>Sun, 12 Jan 2025 20:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Sur le trajet de l'immigration, la femme n'est rien" (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/violences-sexuelles-envers-les-migrantes-des-temoignages-bouleversants-28752979.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28752979</guid>
-      <pubDate>Sun, 12 Jan 2025 20:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japanese startup Ispace eyes Moon landing attempt (Semafor)</title>
-      <link>https://www.semafor.com/article/01/12/2025/japanese-startup-ispace-eyes-second-moon-landing-attempt</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/01/12/2025/japanese-startup-ispace-eyes-second-moon-landing-attempt</guid>
-      <pubDate>Sun, 12 Jan 2025 19:41:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bulk billing rates across Australia — and where you're most likely to find a fee-free GP (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/bulk-billing-rates-across-australia-and-where-youre-most-likely-to-find-a-fee-free-gp/mdunrqyoc</link>
-      <author>SBS News</author>
-      <guid>00000194-43f8-d62a-a5dd-d3fa1ff40000</guid>
-      <pubDate>Sun, 12 Jan 2025 19:40:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Populist incumbent sails to victory in Croatia presidential election					 (Politico)</title>
-      <link>https://www.politico.eu/article/populist-incumbent-croatia-president-zoran-milanovic-hdz-party/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/populist-incumbent-croatia-president-zoran-milanovic-hdz-party/</guid>
-      <pubDate>Sun, 12 Jan 2025 19:32:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Will Trump Withhold Disaster Aid to California? (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/01/will-trump-withhold-disaster-aid-to-california/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1108254</guid>
-      <pubDate>Sun, 12 Jan 2025 19:17:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
