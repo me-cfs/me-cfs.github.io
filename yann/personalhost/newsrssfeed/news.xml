@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Viola Amherd annonce sa démission pour le 31 mars 2025 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28756608.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28756608</guid>
+      <pubDate>Wed, 15 Jan 2025 13:25:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Gaza hostage and ceasefire deal imminent after breakthrough in Doha: officials (Axios)</title>
       <link>https://www.axios.com/2025/01/15/gaza-hostage-ceasefire-deal-israel-hamas</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/15/gaza-hostage-ceasefire-deal-israel-hamas</guid>
       <pubDate>Wed, 15 Jan 2025 13:07:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'année 2025 sera pauvre en votations fédérales avec plus de 7 mois sans scrutin (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/l-annee-2025-sera-pauvre-en-votations-federales-avec-plus-de-7-mois-sans-scrutin-28756534.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28756534</guid>
+      <pubDate>Wed, 15 Jan 2025 13:07:29 GMT</pubDate>
     </item>
     <item>
       <title>Face à l'inflation, les ventes explosent dans les épiceries Caritas (RTS)</title>
@@ -1420,20 +1434,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/france-germany-next-chancellor-friedrich-merz-positive-eu-laurent-saint-martin/</guid>
       <pubDate>Mon, 13 Jan 2025 03:47:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>Gaza Death Toll Is At Least 40% Higher Than Reported, New Study Estimates (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/gaza-death-toll-40-higher-study-lancet-israel_n_67845d16e4b09b604d8f597d</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/gaza-death-toll-40-higher-study-lancet-israel_n_67845d16e4b09b604d8f597d</guid>
-      <pubDate>Mon, 13 Jan 2025 02:16:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>Retiring FBI chief: Critics claim to like "independence and objectivity" until it hurts them (Axios)</title>
-      <link>https://www.axios.com/2025/01/13/fbi-christopher-wray-60-minutes-trump-biden-jan-6</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/13/fbi-christopher-wray-60-minutes-trump-biden-jan-6</guid>
-      <pubDate>Mon, 13 Jan 2025 02:13:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
