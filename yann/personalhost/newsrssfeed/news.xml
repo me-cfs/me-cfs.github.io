@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>In photos: L.A. County endures a week of fires (Axios)</title>
+      <link>https://www.axios.com/2025/01/15/la-fires-photos-wildfires-week-california</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/15/la-fires-photos-wildfires-week-california</guid>
+      <pubDate>Wed, 15 Jan 2025 05:51:32 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Austria’s Kickl brings Europe’s anti-populist firewall crashing down					 (Politico)</title>
       <link>https://www.politico.eu/article/austria-far-right-herbert-kickl-europe-populism/</link>
@@ -1425,13 +1432,6 @@
       <author>BBC - Australia</author>
       <guid>https://www.bbc.com/sport/tennis/articles/cqx9r3q1rx4o#1</guid>
       <pubDate>Sun, 12 Jan 2025 13:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>LA area fires: Climate change playing key contributing, but not sole, role (Axios)</title>
-      <link>https://www.axios.com/2025/01/12/la-fires-climate-change-drought-extreme-weather</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/12/la-fires-climate-change-drought-extreme-weather</guid>
-      <pubDate>Sun, 12 Jan 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
