@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The American Climate Corps is over. What even was it? (Grist)</title>
+      <link>https://grist.org/politics/american-climate-corps-biden-jobs-program-trump/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=656754</guid>
+      <pubDate>Wed, 15 Jan 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump aims for $500 million war chest in post-election windfall (Axios)</title>
       <link>https://www.axios.com/2025/01/15/trump-windfall-fundraising-500-million</link>
       <author>Axios</author>
@@ -1426,13 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/12/jd-vance-trump-greenland-deal</guid>
       <pubDate>Sun, 12 Jan 2025 16:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: la tempête tropicale Dikeledi s'éloigne de Mayotte, toujours en alerte rouge (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250112-france-la-temp%C3%AAte-tropicale-dikeledi-s-%C3%A9loigne-de-mayotte-toujours-en-alerte-rouge</link>
-      <author>RFI</author>
-      <guid>ac96afc0-d0f8-11ef-9b29-005056a97652</guid>
-      <pubDate>Sun, 12 Jan 2025 16:17:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
