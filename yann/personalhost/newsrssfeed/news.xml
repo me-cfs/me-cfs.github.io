@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU lines up intel-sharing, cyber squads to stop hospital hacks					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-intel-system-cyberattacks-hospital-hacks-henna-virkkunen/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-intel-system-cyberattacks-hospital-hacks-henna-virkkunen/</guid>
+      <pubDate>Wed, 15 Jan 2025 11:22:42 -0000</pubDate>
+    </item>
+    <item>
       <title>France: plus de 80 associations annoncent leur départ du réseau social X (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250115-france-plus-de-80-associations-annoncent-leur-d%C3%A9part-du-r%C3%A9seau-social-x</link>
       <author>RFI</author>
       <guid>a1532af6-d32a-11ef-a309-005056a97652</guid>
       <pubDate>Wed, 15 Jan 2025 11:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tribal Lenders Say They Can Charge Over 600% Interest. These States Stopped Them. (Propublica)</title>
+      <link>https://www.propublica.org/article/states-tribal-lenders-high-interest-rates</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/states-tribal-lenders-high-interest-rates</guid>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 -0500</pubDate>
     </item>
     <item>
       <title>Margot Chauderna: "L'économie doit fonctionner dans le cadre de l'environnement" (RTS)</title>
@@ -1418,21 +1433,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/01/12/2025/china-uk-resume-economic-talks</guid>
       <pubDate>Sun, 12 Jan 2025 19:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Populist incumbent sailing to victory in Croatia presidential election					 (Politico)</title>
-      <link>https://www.politico.eu/article/populist-incumbent-croatia-president-zoran-milanovic-hdz-party/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/populist-incumbent-croatia-president-zoran-milanovic-hdz-party/</guid>
-      <pubDate>Sun, 12 Jan 2025 18:32:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>Biden and Netanyahu speak as Gaza negotiations reach critical point (Axios)</title>
-      <link>https://www.axios.com/2025/01/12/israel-hamas-hostage-deal-biden-netanyahu</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/12/israel-hamas-hostage-deal-biden-netanyahu</guid>
-      <pubDate>Sun, 12 Jan 2025 18:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
