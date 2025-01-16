@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Lawyer for Ugandan opposition politician ‘arrested and tortured’ (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/16/lawyer-for-ugandan-opposition-politician-arrested-and-tortured-eron-kiiza-kizza-besigye-yoweri-museveni</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/16/lawyer-for-ugandan-opposition-politician-arrested-and-tortured-eron-kiiza-kizza-besigye-yoweri-museveni</guid>
+      <pubDate>Thu, 16 Jan 2025 13:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>L'initiative "pour la responsabilité environnementale" soumise à la population suisse le 9 février (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/initiative-environnementale-la-suisse-face-a-ses-limites-planetaires-28757547.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28757547</guid>
+      <pubDate>Thu, 16 Jan 2025 12:56:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Netanyahu Says 'Last Minute Crisis' With Hamas Holding Up Approval Of Ceasefire Deal (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/mideast-wars_n_6788f1aae4b0ebaad44ef8de</link>
       <author>Huffington Post</author>
@@ -267,6 +281,13 @@
       <author>RFI</author>
       <guid>07422ef6-d372-11ef-abac-005056bf762b</guid>
       <pubDate>Wed, 15 Jan 2025 23:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pete Hegseth Is the Secretary of Defense We Deserve (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/15/opinion/pete-hegseth-hearings-defense.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/15/opinion/pete-hegseth-hearings-defense.html</guid>
+      <pubDate>Wed, 15 Jan 2025 22:58:21 +0000</pubDate>
     </item>
     <item>
       <title>Who could buy TikTok to avoid a ban (Axios)</title>
@@ -1018,6 +1039,13 @@
       <pubDate>Tue, 14 Jan 2025 22:11:56 GMT</pubDate>
     </item>
     <item>
+      <title>Special Counsel Report Says Trump Would Have Been Convicted in Election Case (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/14/us/politics/trump-special-counsel-report-election-jan-6.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/14/us/politics/trump-special-counsel-report-election-jan-6.html</guid>
+      <pubDate>Tue, 14 Jan 2025 22:08:57 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						France’s Bayrou buys himself time with overture to Socialists					 (Politico)</title>
       <link>https://www.politico.eu/article/france-prime-minister-francois-bayrou-retirement-age-socialists/</link>
@@ -1401,34 +1429,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/14/trump-cabinet-age-white-house</guid>
       <pubDate>Tue, 14 Jan 2025 10:24:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>MPs Cashed in More Than £1 Million From GB News and Other Media and Speaking Gigs Last Year (Byline Times)</title>
-      <link>https://bylinetimes.com/2025/01/14/mps-cashed-in-more-than-1-million-from-gb-news-and-other-media-and-speaking-gigs-last-year/</link>
-      <author>Byline Times</author>
-      <guid>https://bylinetimes.com/?p=241538</guid>
-      <pubDate>Tue, 14 Jan 2025 10:03:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix Your Glutes. Fix Your Life. (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/14/magazine/glutes-running.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/14/magazine/glutes-running.html</guid>
-      <pubDate>Tue, 14 Jan 2025 10:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Many Cars Have Connecticut Towing Companies Sold? The DMV Can’t Tell Us. (Propublica)</title>
-      <link>https://www.propublica.org/article/connecticut-dmv-towing-public-records</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/connecticut-dmv-towing-public-records</guid>
-      <pubDate>Tue, 14 Jan 2025 05:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jack Smith in Jan. 6 report says Trump would have been convicted if he hadn't won in November (Axios)</title>
-      <link>https://www.axios.com/2025/01/14/trump-jan-6-report-jack-smith</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/14/trump-jan-6-report-jack-smith</guid>
-      <pubDate>Tue, 14 Jan 2025 09:37:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
