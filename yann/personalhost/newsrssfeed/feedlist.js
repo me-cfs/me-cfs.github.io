@@ -21,7 +21,7 @@ module.exports = [
     name: 'Byline Times',
     url: 'https://bylinetimes.com/feed/',
     inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity,
-      ...tList.ukraineRussia, ...tList.disability, 
+      ...tList.ukraineRussia, ...tList.disability, "cashed in", 
        ],
   },
   {
@@ -43,14 +43,45 @@ module.exports = [
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
   },
+  { // Only Europe
+    name: 'Politico',
+    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
+    off: false,
+    urlBlacklist: ['politico.com'],
+    exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
+      ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
+      'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 
+    ],
+    minCharsTitle: 20,
+  },
   {
-    // RFI Europe
+    name: 'Public Eye',
+    url: 'https://www.publiceye.ch/fr/rssNews.xml',
+    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment, ...tList.location,],
+  },
+  { // France
+    name: 'RFI',
+    url: 'https://www.rfi.fr/france/rss',
+    inclusionWords: [...tList.location, ...tList.politics],
+    exclusionWords: [...tList.fluffyTitle, 'découverte',],
+    urlExlusionWord: ['podcast'],
+  },
+  { // Europe
     name: 'RFI',
     url: 'https://www.rfi.fr/europe/rss',
     inclusionWords: ['South Korea', 'NATO', 'North Korea', 'Mediterranian',
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
       'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
-      "Italie", "Autriche",
+      "Italie", "Autriche", ...tList.important, ...tList.war, "Croatie", 
+      "Allemagne", 
+    ],
+  },
+  { // headlines
+    name: 'RTS',
+    url: 'https://www.rts.ch/info/suisse?format=rss/news',
+    off: false,
+    exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
+      ...tList.fluffyTitle, ...tList.nonInfornativeTitle, ...tList.singlePerson, 
     ],
   },
 
@@ -62,8 +93,8 @@ module.exports = [
     off: false,
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
-      'Fact Check: Biden', 'fans', 'collection:', 'peggy',
-      'Simone', 'Warner', 'soccer', ...tList.business,
+      'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", 
+      'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
@@ -84,7 +115,10 @@ module.exports = [
     name: 'Grist',
     url: 'https://grist.org/feed/',
     off: false,
-    inclusionWords: [...tList.usPolitics, ...tList.environment],
+    inclusionWords: [...tList.usPolitics, ...tList.environment,
+      ...tList.nonInformativeTitle,
+    ],
+    minCharsTitle: 15,
   },
   {
     // healthcare 
@@ -101,15 +135,36 @@ module.exports = [
     exlcusionWords: [...tList.nonInformativeTitle,]
   },
   {
+    name: 'The Intercept',
+    url: 'https://theintercept.com/feed/?rss',
+    inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
+      'paywall', 'Nigeria', ...tList.rightWing, "Porn",
+    ],
+  },
+  {
     name: 'KFF Health News',
     url: 'https://kffhealthnews.org/feed/',
     inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
     exclusionWords: [...tList.spanish],
-  },
+  },p
   {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
+  },
+  {
+    // Most Viewed
+    name: 'New York Times',
+    url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
+    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, "aghast", "avoid sentencing",
+      ...tList.singlePerson, ...tList.uninterestedPeople, 
+       ],
+  },
+  {
+    name: 'Paul Krugmann',
+    url: 'https://openrss.org/paulkrugman.substack.com/feed',
+    altUrls: ['https://paulkrugman.substack.com/feed'],
+    off: false,
   },
   {
     name: 'Science Based Medicine',
@@ -120,12 +175,13 @@ module.exports = [
   
 
 // Oceania
-  {
-    name: 'BBC - Australia',
+  { //Australia
+    name: 'BBC',
     url: 'https://feeds.bbci.co.uk/news/world/australia/rss.xml',
     off: false,
-    exclusionWords: [...tList.uninterestedGeneral, ...tList.singleCrime, ...tList.fluffyTitle,
-      'Australia Debut', ...tList.nonArticle, ...tList.uninterestedSports,
+    exclusionWords: [...tList.uninterestedGeneral, ...tList.singlePerson, ...tList.fluffyTitle,
+      'Australia Debut', ...tList.nonArticle, ...tList.uninterestedSports, ...tList.clickbait,
+      
     ],
   },
   {
@@ -146,6 +202,7 @@ module.exports = [
     inclusionWords: [...tList.disability, ...tList.environment, ...tList.location,
       //'',
     ],
+    exclusionWords: [...tList.fluffyTitle,],
   },
 
 
@@ -156,7 +213,7 @@ module.exports = [
     inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
       'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 'looking at europe',
       ...tList.rightWing, ...tList.war, ...tList.environment, 'mastermind', ...tList.dataJournalism, 
-      ...tList.technology,
+      ...tList.technology, "Yemen", "Cuba", 
     ],
   },
   {
@@ -184,6 +241,7 @@ module.exports = [
     name: 'Bellingcat',
     url: 'https://www.bellingcat.com/feed/',
     off: false,
+    urlBlacklist: ['resources'],
   },
   {
     name: 'Chapatte Dessins',
@@ -196,15 +254,20 @@ module.exports = [
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
       ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
       'Zimbabwe', 'data centre', 'invasive species', ...tList.prison, ...tList.technology,
-      ...tList.environment, ...tList.location, 
+      ...tList.environment, ...tList.location, "West Africa", "randomness", 
     ],
+  },
+  {
+    name: 'CrimethInc',
+    url: 'https://crimethinc.com/feed',
+    exclusionWords: [...tList.nonArticle, ...tList.democraticParty, 'the Arctic'],
   },
   {
     name: 'Economist',
     url: 'https://openrss.org/www.economist.com',
     fallbackUrls: ['https://feedx.net/rss/economist.xml'],
     exclusionWords: ['in brief', ...tList.nonArticle, ...tList.uninterestedSports, 'culture', ...tList.business,
-       'obituary', ...tList.fluffyTitle, 'fact-checking', ...tList.nonInformativeTitle, 
+       'obituary', ...tList.fluffyTitle, 'fact-checking', ...tList.nonInformativeTitle, "expensive", 
     ],
     off: false,
     urlExclusionWords: ['business', 'finance'],
@@ -229,14 +292,23 @@ module.exports = [
     name: 'Huffington Post',
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
-    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers],
+    exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers,
+      ...tList.uninterestedPeople,
+    ],
   },
   {
     name: 'Human Rights Watch',
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
       ...tList.cybersecurity, ...tList.important, "Georgia", ...tList.humanRights,
-      "Cameroon", "Thailand",
+      "Cameroon", "Thailand", "Lebanon", "Nigeria", 
+    ],
+  },
+  {
+    name: 'Jacobin',
+    url: 'https://jacobinmag.com/feed/',
+    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism, ...tList.history,
+      ...tList.humanRights,
     ],
   },
   {
@@ -248,6 +320,7 @@ module.exports = [
     url: 'https://www.semafor.com/rss.xml',
     inclusionWords: [...tList.location, ...tList.people, 'China hack',
       'Emirati', 'Sudan', "Turkey", "Carbon Emissions", "China",
+      "Pyongyang",
     ],
     exclusionWords: [...tList.culture],
   },
@@ -259,12 +332,19 @@ module.exports = [
     name: '404 Media',
     url: 'https://www.404media.co/rss/',
     inclusionWords: [...tList.commons, ...tList.humanRights,
-      ...tList.activism, "spy", 
+      ...tList.activism, "spy", ...tList.technology,
+      "trans", 
     ],
   },
   
   
 // RSS Feed Not Working
+  {
+    name: 'Indian Country Today',
+    url: 'https://indiancountrytoday.com/.rss/full/',
+    inclusionWords: [...tList.environment, ...tList.activism],
+    // feed problems. seems to work on rss reder tho
+  },
   {
     name: 'Znetwork',
     url: 'https://znetwork.org/feed/',
@@ -283,65 +363,14 @@ module.exports = [
   
   
   
-  {
-    // Most Viewed
-    name: 'New York Times',
-    url: 'https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml',
-    exclusionWords: [...tList.fluffyTitle, ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, "aghast", "avoid sentencing", ],
-  },
-  {
-    name: 'Paul Krugmann',
-    url: 'https://openrss.org/paulkrugman.substack.com/feed',
-    altUrls: ['https://paulkrugman.substack.com/feed'],
-    off: false,
-  },
-  {
-    // Only Europe
-    name: 'Politico',
-    url: 'https://politepol.com/fd/NVF0NUvfXJS9.xml',
-    off: false,
-    urlBlacklist: ['politico.com'],
-    exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
-      ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
-      'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", 
-    ],
-    minCharsTitle: 20,
-  },
-  {
-    // headlines
-    name: 'RTS',
-    url: 'https://www.rts.ch/info/suisse?format=rss/news',
-    off: false,
-    exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
-      ...tList.fluffyTitle, 
-    ],
-  },
 
-  {
-    name: 'CrimethInc',
-    url: 'https://crimethinc.com/feed',
-    exclusionWords: [...tList.nonArticle, ...tList.democraticParty, 'the Arctic'],
-  },
-  {
-    name: 'Indian Country Today',
-    url: 'https://indiancountrytoday.com/.rss/full/',
-    inclusionWords: [...tList.environment, ...tList.activism],
-    // feed problems. seems to work on rss reder tho
-  },
-  {
-    name: 'The Intercept',
-    url: 'https://theintercept.com/feed/?rss',
-    inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
-      'paywall', 'Nigeria', 
-    ],
-  },
-  {
-    name: 'Jacobin',
-    url: 'https://jacobinmag.com/feed/',
-    inclusionWords: ['Suicide', ...tList.disability, ...tList.socialism, ...tList.history,
-      ...tList.humanRights,
-    ],
-  },
+
+
+
+
+
+
+
 
  {
     name: 'Orient XXI',
@@ -360,26 +389,6 @@ module.exports = [
     // inclusionWords: [...tList.medicine, 'Idaho', 'ships', 'militia', 'ethics', ...tList.us, 'Musk', 
     //  'Tunnel',
     // ],
-  },
-  {
-    name: 'Public Eye',
-    url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment, ...tList.location,],
-  },
-  {
-    name: 'RFI',
-    url: 'https://www.rfi.fr/france/rss',
-    inclusionWords: [...tList.location, ...tList.politics],
-    exclusionWords: [...tList.fluffyTitle],
-    urlExclusionWords: ['podcast'],
-  },
-
-
-  {
-    name: 'Vox',
-    url: 'https://www.vox.com/rss/index.xml',
-    inclusionWords: ['Public Housing', 'Data', 'gulag', ...tList.disability],
-    exclusionWords: [...tList.nonInformativeTitle, ...tList.nonArticle],
   },
   {
     name: 'West England Bylines',
