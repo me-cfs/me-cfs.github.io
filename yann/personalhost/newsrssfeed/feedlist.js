@@ -146,7 +146,7 @@ module.exports = [
     url: 'https://kffhealthnews.org/feed/',
     inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
     exclusionWords: [...tList.spanish],
-  },p
+  },
   {
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
