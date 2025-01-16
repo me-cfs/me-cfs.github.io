@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Anduril picks Ohio for weapons megafactory Arsenal-1 (Axios)</title>
+      <link>https://www.axios.com/2025/01/16/anduril-weapons-factory-ohio-brose</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/16/anduril-weapons-factory-ohio-brose</guid>
+      <pubDate>Thu, 16 Jan 2025 10:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Africa has no shortage of celebrated writers – so why is it so hard for African readers to get hold of their books? (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/jan/16/africa-celebrated-writers-hard-african-readers-books-tsitsi-dangarembga-chimamanda-ngozi-adichie-mubanga-kalimamukwento</link>
       <author>Guardian</author>
@@ -17,6 +24,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1970523</guid>
       <pubDate>Thu, 16 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hydroelectric Dams on Oregon’s Willamette River Kill Salmon. Congress Says It’s Time to Consider Shutting Them Down. (Propublica)</title>
+      <link>https://www.propublica.org/article/oregon-willamette-river-dams-shutdown</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/oregon-willamette-river-dams-shutdown</guid>
+      <pubDate>Thu, 16 Jan 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title>"Viola Amherd ne s'est jamais démontée et a toujours tenu sa ligne", salue Dominique de Buman (RTS)</title>
@@ -525,6 +539,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/russia-planned-terror-attacks-airlines-around-world-donald-tusk-says/</guid>
       <pubDate>Wed, 15 Jan 2025 14:08:35 -0000</pubDate>
+    </item>
+    <item>
+      <title>She Is in Love With ChatGPT (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html</guid>
+      <pubDate>Wed, 15 Jan 2025 14:00:09 +0000</pubDate>
     </item>
     <item>
       <title>Prosthetic Penis Pictures Cost Soccer Club Falconer His Job (Huffington Post)</title>
@@ -1409,29 +1430,6 @@
       <author>SBS News</author>
       <guid>00000194-62d2-d20b-affe-ead6bc240000</guid>
       <pubDate>Tue, 14 Jan 2025 04:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Southern California faces rare fire warning (Axios)</title>
-      <link>https://www.axios.com/2025/01/13/california-fires-particularly-dangerous-situation-santa-ana</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/13/california-fires-particularly-dangerous-situation-santa-ana</guid>
-      <pubDate>Tue, 14 Jan 2025 04:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Poland and EU hawks push for Russian LNG ban					 (Politico)</title>
-      <link>https://www.politico.eu/article/poland-eu-russia-lng-ban-oil-ukraine-gas-war-average-sales-trade-supply/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/poland-eu-russia-lng-ban-oil-ukraine-gas-war-average-sales-trade-supply/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:56:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						‘It’s a mess’: Macron’s inner circle in turmoil after top adviser says he’s resigning					 (Politico)</title>
-      <link>https://www.politico.eu/article/emmanuel-macron-emmanuel-bonne-france-resign-diplomat-europe-paris-chief-military/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/emmanuel-macron-emmanuel-bonne-france-resign-diplomat-europe-paris-chief-military/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:41:04 -0000</pubDate>
     </item>
   </channel>
 </rss>
