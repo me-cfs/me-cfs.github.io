@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Thierry Breton: «L'Europe doit rester unie face à Donald Trump» (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250116-thierry-breton-l-europe-doit-rester-unie-face-%C3%A0-donald-trump</link>
+      <author>RFI</author>
+      <guid>ea0a531e-d3d9-11ef-b8d0-005056a97652</guid>
+      <pubDate>Thu, 16 Jan 2025 08:14:16 GMT</pubDate>
+    </item>
+    <item>
       <title> Russian attacks against Ukraine kill 4, injure 27 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-against-ukraine-kill-4-injure-27-over-past-day</link>
       <author>Kyiv Indpendent</author>
@@ -1427,13 +1434,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/middle-east-and-africa/2025/01/14/violent-jihadists-are-getting-frustrated-by-the-new-syria</guid>
       <pubDate>Tue, 14 Jan 2025 02:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Southern California Edison accused of "profits over safety" in L.A. fires lawsuit (Axios)</title>
-      <link>https://www.axios.com/2025/01/14/california-wildfires-edison-utility-sued-la-eaton-fire</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/14/california-wildfires-edison-utility-sued-la-eaton-fire</guid>
-      <pubDate>Tue, 14 Jan 2025 01:37:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
