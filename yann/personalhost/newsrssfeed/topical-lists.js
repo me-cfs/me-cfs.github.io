@@ -8,8 +8,8 @@ const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehi
 // +Arstechnica, +The Conversation, +Science Research
 const prison = ['pardon', 'prison'];
 // +Amnesty, +Conversation
-const rightWing = ['conservative backlash', 'Orbán ally'];
-// +AP News, +Kiev Independent
+const rightWing = ['conservative backlash', 'Orbán ally', "Murdoch",];
+// +AP News, +Intercept, +Kiev Independent
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with',
   'suspect',
 ];
@@ -18,8 +18,8 @@ const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poiso
 // 1 Lists
 const humanRights = ['death row', 'censorship', ...prison];
 // +AP, +Amnesty, +HRW, +Jacobin, +404 Media
-const singlePerson = [...singleCrime, "eulogy",];
-// -Axios
+const singlePerson = [...singleCrime, "eulogy", "bride", "dead at", "décédé",];
+// -Axios, -BBCAu, -NYT, -RTS
 const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
@@ -35,8 +35,9 @@ const us = ['Anchorage', ...usPolitics];
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', "won't believe", 'truth about',
+  "fury",
 ];
-// -Crikey, -Hill (Healthcare), -Politico EU
+// -BBCaus -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment',];
 // -Open Democracy, -RTS, -Semafor
 const economics = ["GDP"];
@@ -46,17 +47,17 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
     'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat', "here's the",
     'hollywood legend', 'always look on the bright side', 'light show', 'what I got', 'good riddance', 'goes full',
     'à ne pas manquer', "there is no such thing", "love-fest", "loom into", "weird monent", "teetering on edge",
-    "man in the", "here come",
+    "man in the", "here come", "hushed up", "ronance", "as a", "Knives are out", "Oldest and youngest", 
 ];
-// -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI, -RTS, 
+// -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI, -RTS, -SBS
 const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
 // -BBC Aus, -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
     'these', "let's try something", 'to watch', 'inside', "things to watch", "takeaway", 
 ];
-// -Axios. -Economist, -Hill Climate, -Hill Healthcare. -Huffpost (World), 
-// -Inside Climate News, -NYT Most Viewed, -OpenDemocracy, -Politico, -Vox
+// -Axios. -Economist, -Grist, -Hill Healthcare. -Huffpost (World), 
+// -Inside Climate News, -NYT Most Viewed, -OpenDemocracy, -Politico, -RTS, -Vox
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
   'últimas', 'política', 'sociedad', 'educación', 'tecnología',
@@ -71,8 +72,8 @@ const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Ch
     'fashion brand', 'traffic jam', 'noël', 'Mega Millions', 'nativity', 'marries', 
 ];
 // -Axios, -BBC (Australia), -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS
-const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson'];
-// Axios
+const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson', "Kate Middleton", "Bob Dylan",];
+// -Axios, -Huffpost, -NYT
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts',
   'NASCAR', 
 ];
@@ -112,8 +113,10 @@ const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'inter
 // *Crikey, +The intercept, +KyivI
 const history = ['Klu Klux Klan', 'Bronze Age',]; 
 // +Arstechnica, +Jacobin
-const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine', "harassment", "homelessness", "deported"];
-// +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, 
+const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine', "harassment", "homelessness", "deported",
+  "colonialisme",
+];
+// +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, +RFI Eu
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate'];
 // +Conversation, Open Democracy, +Orient XXI
 const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan', 'chippenham', 'calne', 'bristol', 'romandie', 'lausanne',
@@ -134,11 +137,11 @@ const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI',
-  '3D Printing', 'AI could assist', 'LLMs', "Spacecraft", "crypto reserve",
+  '3D Printing', 'AI could assist', 'LLMs', "Spacecraft", "crypto reserve", "Pixelfed", 
 ];
-// +AP, Arstechnica, +Conversation, PublicEye
-const war = ['missile attack', 'military aid', "peace"];
-// +AP, +Kiev Independent, 
+// +AP, Arstechnica, +Conversation, PublicEye +404
+const war = ['missile attack', 'military aid', "peace", "guerre"];
+// +AP, +Kiev Independent, RFI EU
 
 
 
