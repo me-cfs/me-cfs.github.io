@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						European Parliament finally devises plan to force lawmakers to actually turn up					 (Politico)</title>
+      <link>https://www.politico.eu/article/european-parliament-lawmakers-plan-roberta-metsola-digital-services-act/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/european-parliament-lawmakers-plan-roberta-metsola-digital-services-act/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:46:44 -0000</pubDate>
+    </item>
+    <item>
       <title>Un système de collecte pour les emballages plastiques et berlingots mis en place dans plusieurs communes (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/recyclage-du-plastique-en-suisse-nouveau-systeme-de-collecte-lance-28758232.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1424,13 +1432,6 @@
       <author>SBS News</author>
       <guid>00000194-6632-d62a-a5dd-f7f2d1280000</guid>
       <pubDate>Tue, 14 Jan 2025 19:38:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colonialisme : la Suisse fait son examen de conscience, et le débat reste vif chez ses voisins (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250114-colonialisme-la-suisse-fait-son-examen-de-conscience-et-le-d%C3%A9bat-reste-vif-chez-ses-voisins</link>
-      <author>RFI</author>
-      <guid>d6c451de-d2ac-11ef-a5a7-005056bf762b</guid>
-      <pubDate>Tue, 14 Jan 2025 19:22:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
