@@ -81,7 +81,7 @@ module.exports = [
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
-      ...tList.fluffyTitle, ...tList.nonInfornativeTitle, ...tList.singlePerson, 
+      ...tList.fluffyTitle, ...tList.nonInformativeTitle, ...tList.singlePerson, 
     ],
   },
 
