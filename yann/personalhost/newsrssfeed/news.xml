@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Apple pauses AI-generated news alerts after fake headline notifications (Axios)</title>
+      <link>https://www.axios.com/2025/01/17/apple-ai-news-alerts-fake-headlines</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/17/apple-ai-news-alerts-fake-headlines</guid>
+      <pubDate>Fri, 17 Jan 2025 04:52:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Does new ME/CFS research finally prove that long Covid is the same thing? (ME/LC News)</title>
       <link>https://www.thecanary.co/global/world-news/2025/01/16/mecfs-research-long-covid/</link>
       <author>ME/LC News</author>
@@ -79,6 +86,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/17/abortion-pill-texas-judge</guid>
       <pubDate>Fri, 17 Jan 2025 01:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>China says it's sending top Xi official, Vice President Han Zheng, to Trump's inauguration (Axios)</title>
+      <link>https://www.axios.com/2025/01/17/china-trump-inauguration-xi-vice-president</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/17/china-trump-inauguration-xi-vice-president</guid>
+      <pubDate>Fri, 17 Jan 2025 01:03:48 +0000</pubDate>
     </item>
     <item>
       <title>Scoop: Trump team sweats McConnell's vote on Tulsi Gabbard (Axios)</title>
@@ -1417,22 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/15/la-fires-photos-wildfires-week-california</guid>
       <pubDate>Wed, 15 Jan 2025 05:51:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Austria’s Kickl brings Europe’s anti-populist firewall crashing down					 (Politico)</title>
-      <link>https://www.politico.eu/article/austria-far-right-herbert-kickl-europe-populism/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/austria-far-right-herbert-kickl-europe-populism/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:29:14 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s likely next chancellor vows to put economy before climate					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-next-chancellor-friedrich-merz-vows-put-economy-before-climate-elections/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-next-chancellor-friedrich-merz-vows-put-economy-before-climate-elections/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:14:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
