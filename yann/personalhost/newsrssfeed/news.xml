@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump inauguration set to move indoors over frigid weather (Axios)</title>
+      <link>https://www.axios.com/2025/01/17/trump-inauguration-indoors-dc-cold-weather</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/17/trump-inauguration-indoors-dc-cold-weather</guid>
+      <pubDate>Fri, 17 Jan 2025 17:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biden sets presidential record on pardons and clemency (Axios)</title>
+      <link>https://www.axios.com/2025/01/17/biden-presidential-pardons-clemency-record</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/17/biden-presidential-pardons-clemency-record</guid>
+      <pubDate>Fri, 17 Jan 2025 16:56:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Tunisian Human Rights Defender on Hunger Strike (Human Rights Watch)</title>
       <link>https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike</link>
       <author>Human Rights Watch</author>
@@ -202,6 +216,13 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/01/17/2025/china-gdp-growth-hits-government-targets-beating-analyst-expectations</guid>
       <pubDate>Fri, 17 Jan 2025 11:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Voodoo, MAGA Style (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/voodoo-maga-style</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/voodoo-maga-style</guid>
+      <pubDate>Fri, 17 Jan 2025 11:30:55 GMT</pubDate>
     </item>
     <item>
       <title>Le directeur général de La Poste Roberto Cirillo démissionne (RTS)</title>
@@ -1406,29 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/13/tiktok-ban-supreme-court-rednote-lemon8</guid>
       <pubDate>Wed, 15 Jan 2025 17:31:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						German farmers fear ‘massive’ hit from foot-and-mouth outbreak					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-farmer-fear-massive-hit-foot-and-mouth-outbreak/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-farmer-fear-massive-hit-foot-and-mouth-outbreak/</guid>
-      <pubDate>Wed, 15 Jan 2025 17:26:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>France: le Parti socialiste va-t-il finalement censurer le gouvernement de François Bayrou? (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250115-france-le-parti-socialiste-va-t-il-finalement-censurer-le-gouvernement-de-fran%C3%A7ois-bayrou</link>
-      <author>RFI</author>
-      <guid>df91eec0-d351-11ef-a8d8-005056a97652</guid>
-      <pubDate>Wed, 15 Jan 2025 17:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Nearly half the world’s population holds antisemitic beliefs					 (Politico)</title>
-      <link>https://www.politico.eu/article/nearly-half-the-worlds-population-holds-antisemitic-beliefs/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/nearly-half-the-worlds-population-holds-antisemitic-beliefs/</guid>
-      <pubDate>Wed, 15 Jan 2025 17:11:11 -0000</pubDate>
     </item>
   </channel>
 </rss>
