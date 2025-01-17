@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Tunisian Human Rights Defender on Hunger Strike (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike</guid>
+      <pubDate>Fri, 17 Jan 2025 11:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mute Egede, le dirigeant du Groenland face aux visées expansionnistes de Trump (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/europ%C3%A9en-de-la-semaine/20250117-mute-egede-le-dirigeant-du-groenland-face-aux-vis%C3%A9es-expansionnistes-de-trump</link>
+      <author>RFI</author>
+      <guid>222becbc-d4e8-11ef-86b3-005056a97652</guid>
+      <pubDate>Fri, 17 Jan 2025 16:23:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump And Xi Speak On The Phone Ahead Inauguration, China’s Foreign Ministry Says (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/trump-xi-speak-on-the-phone-ahead-inauguration-chinas-foreign-ministry-says_n_678a6db1e4b097ab56975297</link>
       <author>Huffington Post</author>
@@ -481,6 +495,13 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1189954</guid>
       <pubDate>Thu, 16 Jan 2025 23:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gaza Changed the World (The Intercept)</title>
+      <link>https://theintercept.com/2025/01/16/israel-palestine-ceasefire/</link>
+      <author>The Intercept</author>
+      <guid>https://theintercept.com/?p=485129</guid>
+      <pubDate>Thu, 16 Jan 2025 23:17:38 +0000</pubDate>
     </item>
     <item>
       <title>Les progrès dans l'accès à l'avortement en France, 50 ans après la loi Veil (RFI)</title>
@@ -1408,27 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/nearly-half-the-worlds-population-holds-antisemitic-beliefs/</guid>
       <pubDate>Wed, 15 Jan 2025 17:11:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>Gaza hostage and ceasefire deal reached (Axios)</title>
-      <link>https://www.axios.com/2025/01/15/gaza-hostage-ceasefire-deal-israel-hamas</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/15/gaza-hostage-ceasefire-deal-israel-hamas</guid>
-      <pubDate>Wed, 15 Jan 2025 16:51:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Americans are reacting to the Los Angeles wildfires (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/538/los-angeles-wildfires-worst/story?id=117673558</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/538/los-angeles-wildfires-worst/story?id=117673558</guid>
-      <pubDate>Wed, 15 Jan 2025 16:47:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>New Jersey stockpiling abortion medication as Trump prepares for White House return (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5086860-new-jersey-phil-murphy-abortion-pills-trump-administration/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5086860</guid>
-      <pubDate>Wed, 15 Jan 2025 16:26:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
