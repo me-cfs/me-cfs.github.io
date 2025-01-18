@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les Alpes suisses, nouvel eldorado pour les promoteurs immobiliers (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/boom-immobilier-dans-les-alpes-suisses-des-projets-qui-divisent-28759935.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28759935</guid>
+      <pubDate>Sat, 18 Jan 2025 17:58:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Allemagne: Chemnitz, capitale européenne de la culture 2025, veut changer d'image (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250118-allemagne-chemnitz-capitale-europ%C3%A9enne-de-la-culture-2025-veut-changer-d-image</link>
       <author>RFI</author>
@@ -52,6 +59,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/18/tiktok-ban-trump-executive-order</guid>
       <pubDate>Sat, 18 Jan 2025 12:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Notes From All Over, #1 (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/notes-from-all-over-1</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/notes-from-all-over-1</guid>
+      <pubDate>Sat, 18 Jan 2025 11:31:05 GMT</pubDate>
     </item>
     <item>
       <title>Une randonnée anti-WEF réunit environ 350 manifestants vers Davos (RTS)</title>
@@ -1412,20 +1426,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/uks-starmer-to-sign-100-year-treaty-with-zelenskyy-in-ukraine/</guid>
       <pubDate>Thu, 16 Jan 2025 06:47:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump is "going to find a way to preserve" TikTok, aide says as ban deadline looms (Axios)</title>
-      <link>https://www.axios.com/2025/01/16/trump-tiktok-ban</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/16/trump-tiktok-ban</guid>
-      <pubDate>Thu, 16 Jan 2025 05:44:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘I can’t lose hope’: families await news of trapped miners in South Africa (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/jan/16/families-await-news-trapped-workers-south-african-gold-mine</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/jan/16/families-await-news-trapped-workers-south-african-gold-mine</guid>
-      <pubDate>Thu, 16 Jan 2025 05:00:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
