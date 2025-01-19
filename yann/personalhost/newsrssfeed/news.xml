@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: la fuite d'une note confidentielle de l'ambassadeur aux États-Unis embarrasse Berlin (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250119-allemagne-la-fuite-d-une-note-confidentielle-de-l-ambassadeur-aux-%C3%A9tats-unis-embarrasse-berlin</link>
+      <author>RFI</author>
+      <guid>b6618ec0-d6a8-11ef-8605-005056bf762b</guid>
+      <pubDate>Sun, 19 Jan 2025 21:53:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Democratic Governors Are Preparing to Fight Trump’s Anti-Abortion Agenda (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/01/democratic-governors-are-preparing-to-fight-trumps-anti-abortion-agenda/</link>
       <author>Motherjones</author>
@@ -172,6 +179,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/19/donald-trump-crypto-billionaire</guid>
       <pubDate>Sun, 19 Jan 2025 13:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>When does it get too hot to play tennis? (BBC)</title>
+      <link>https://www.bbc.com/sport/tennis/articles/c3w8ejl3elno</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/tennis/articles/c3w8ejl3elno#0</guid>
+      <pubDate>Sun, 19 Jan 2025 13:10:47 GMT</pubDate>
     </item>
     <item>
       <title>
@@ -1411,20 +1425,6 @@
       <author>SBS News</author>
       <guid>00000194-62a6-d20b-affe-eae699600000</guid>
       <pubDate>Thu, 16 Jan 2025 18:37:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tory ministers blocked ‘unique’ research on ESA claimants from inclusion in benefit cuts green paper (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/tory-ministers-blocked-unique-research-on-esa-claimants-from-inclusion-in-benefit-cuts-green-paper/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/tory-ministers-blocked-unique-research-on-esa-claimants-from-inclusion-in-benefit-cuts-green-paper/</guid>
-      <pubDate>Thu, 16 Jan 2025 18:33:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ministers decided to sit on critical PIP report, just days before publishing ‘brutal’ green paper (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/ministers-decided-to-sit-on-critical-pip-report-just-days-before-publishing-brutal-green-paper/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/ministers-decided-to-sit-on-critical-pip-report-just-days-before-publishing-brutal-green-paper/</guid>
-      <pubDate>Thu, 16 Jan 2025 18:18:35 -0000</pubDate>
     </item>
   </channel>
 </rss>
