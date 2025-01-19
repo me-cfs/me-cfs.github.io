@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>In photos: Trump at pre-inauguration rally vows to "fix every single crisis" the U.S. faces (Axios)</title>
+      <link>https://www.axios.com/2025/01/19/trump-pre-inauguration-rally</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/19/trump-pre-inauguration-rally</guid>
+      <pubDate>Sun, 19 Jan 2025 22:45:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Allemagne: la fuite d'une note confidentielle de l'ambassadeur aux États-Unis embarrasse Berlin (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250119-allemagne-la-fuite-d-une-note-confidentielle-de-l-ambassadeur-aux-%C3%A9tats-unis-embarrasse-berlin</link>
       <author>RFI</author>
@@ -1418,13 +1425,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/olaf-scholz-germany-war-in-ukraine-aid-package-borrowing/</guid>
       <pubDate>Thu, 16 Jan 2025 19:16:37 -0000</pubDate>
-    </item>
-    <item>
-      <title>France: échec de la première motion de censure contre le gouvernement Bayrou (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250116-france-%C3%A9chec-de-la-premi%C3%A8re-motion-de-censure-contre-le-gouvernement-bayrou</link>
-      <author>RFI</author>
-      <guid>21c9805e-d439-11ef-849f-005056a97652</guid>
-      <pubDate>Thu, 16 Jan 2025 18:45:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
