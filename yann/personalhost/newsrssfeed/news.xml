@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le style du Premier ministre François Bayrou divise les politiques français (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20250119-le-style-du-premier-ministre-fran%C3%A7ois-bayrou-divise-les-politiques-fran%C3%A7ais</link>
+      <author>RFI</author>
+      <guid>0c04157a-d4b8-11ef-8df6-005056bf762b</guid>
+      <pubDate>Sun, 19 Jan 2025 08:04:35 GMT</pubDate>
+    </item>
+    <item>
       <title>En Écosse, Donald Trump se bat contre des «moulins à vent» au nom du golf (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250119-en-%C3%A9cosse-donald-trump-se-bat-contre-des-moulins-%C3%A0-vent-au-nom-du-golf</link>
       <author>RFI</author>
@@ -1419,13 +1426,6 @@
       <link>https://www.hrw.org/news/2025/01/16/australia-reversals-respect-childrens-rights</link>
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/01/16/australia-reversals-respect-childrens-rights</guid>
-      <pubDate>Thu, 16 Jan 2025 09:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lebanon: Hostilities Wreak Havoc on Civilians (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/01/16/lebanon-hostilities-wreak-havoc-civilians</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/01/16/lebanon-hostilities-wreak-havoc-civilians</guid>
       <pubDate>Thu, 16 Jan 2025 09:00:00 -0500</pubDate>
     </item>
   </channel>
