@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: la population entre résignation et méfiance, sur le plan de cessez-le-feu de Trump (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250120-guerre-ukraine-population-entre-r%C3%A9signation-et-m%C3%A9fiance-sur-le-plan-de-cessez-le-feu-de-trump</link>
+      <author>RFI</author>
+      <guid>64675146-d6fc-11ef-ab49-005056a97652</guid>
+      <pubDate>Mon, 20 Jan 2025 08:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘It was almost a relief when someone died’: former prisoners on the torture and terror of Eritrea’s secret prisons (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/20/eritrea-torture-terror-prisons-former-prisoners</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/20/eritrea-torture-terror-prisons-former-prisoners</guid>
+      <pubDate>Mon, 20 Jan 2025 08:00:17 GMT</pubDate>
+    </item>
+    <item>
       <title>USA: President Trump must respect human rights in his second term (Amnesty International)</title>
       <link>https://www.amnesty.org/en/latest/news/2025/01/usa-president-trump-must-respect-human-rights-second-term/</link>
       <author>Amnesty International</author>
@@ -1412,20 +1426,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1189954</guid>
       <pubDate>Thu, 16 Jan 2025 23:34:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaza Changed the World (The Intercept)</title>
-      <link>https://theintercept.com/2025/01/16/israel-palestine-ceasefire/</link>
-      <author>The Intercept</author>
-      <guid>https://theintercept.com/?p=485129</guid>
-      <pubDate>Thu, 16 Jan 2025 23:17:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les progrès dans l'accès à l'avortement en France, 50 ans après la loi Veil (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250116-les-progr%C3%A8s-dans-l-acc%C3%A8s-%C3%A0-l-avortement-en-france-50-ans-apr%C3%A8s-la-loi-veil</link>
-      <author>RFI</author>
-      <guid>456219cc-d457-11ef-87b0-005056a97652</guid>
-      <pubDate>Thu, 16 Jan 2025 23:05:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
