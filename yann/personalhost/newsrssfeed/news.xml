@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Un vin suisse sans alcool, un data center écologique et des champignons à boire (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/innovations-suisses-vin-sans-alcool-data-center-ecolo-et-champignons-a-boire-28758886.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28758886</guid>
+      <pubDate>Mon, 20 Jan 2025 15:26:45 GMT</pubDate>
+    </item>
+    <item>
       <title>France: à Marseille, une patiente a priori guérie du virus du sida, une première (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250120-france-%C3%A0-marseille-une-patiente-a-priori-gu%C3%A9rie-du-virus-du-sida-une-premi%C3%A8re</link>
       <author>RFI</author>
@@ -1418,13 +1425,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/russian-attacks-against-ukraine-kill-1-injure-16-over-past-day</guid>
       <pubDate>Fri, 17 Jan 2025 09:49:59 +0200</pubDate>
-    </item>
-    <item>
-      <title>La Suisse prend des mesures de protection face à l'épidémie de fièvre aphteuse en Allemagne (RTS)</title>
-      <link>https://www.rts.ch/info/monde/2025/article/fievre-aphteuse-en-allemagne-la-suisse-interdit-les-importations-28758578.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28758578</guid>
-      <pubDate>Fri, 17 Jan 2025 07:19:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
