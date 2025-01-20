@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: l'écologiste Yannick Jadot annonce sa candidature à la mairie de Paris (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250120-france-l-%C3%A9cologiste-yannick-jadot-annonce-sa-candidature-%C3%A0-la-mairie-de-paris</link>
+      <author>RFI</author>
+      <guid>eb04cf66-d734-11ef-b8bc-005056a97652</guid>
+      <pubDate>Mon, 20 Jan 2025 13:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title> Trump sees peace in Ukraine as a deal but refuses to play his winning hand  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/trump-sees-peace-in-ukraine-as-a-deal-but-refuses-to-play-his-winning-hand</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/trump-sees-peace-in-ukraine-as-a-deal-but-refuses-to-play-his-winning-hand</guid>
+      <pubDate>Mon, 20 Jan 2025 15:50:46 +0200</pubDate>
+    </item>
+    <item>
+      <title>Comment la presse russe accueille le retour de Donald Trump à la Maison Blanche (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250120-comment-la-presse-russe-accueille-le-retour-de-donald-trump-%C3%A0-la-maison-blanche</link>
+      <author>RFI</author>
+      <guid>8dbf2068-d734-11ef-b874-005056a97652</guid>
+      <pubDate>Mon, 20 Jan 2025 13:49:44 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						EU industry chief warns Trump: Trade war won’t let us hit defense spending target					 (Politico)</title>
       <link>https://www.politico.eu/article/stephane-sejourne-donald-trump-trade-war-europe-defense-spending-target/</link>
@@ -1404,27 +1425,6 @@
       <author>SBS News</author>
       <guid>00000194-723f-d20b-affe-fa7f79870000</guid>
       <pubDate>Fri, 17 Jan 2025 05:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu Says Deal To Release Hamas-Held Hostages Has Been Reached After Last Minute Snags (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/mideast-wars_n_6788f1aae4b0ebaad44ef8de</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/mideast-wars_n_6788f1aae4b0ebaad44ef8de</guid>
-      <pubDate>Fri, 17 Jan 2025 05:36:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>A Marriage Starts to Unravel on the Honeymoon (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/17/style/modern-love-marriage-starts-to-unravel-on-honeymoon.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/17/style/modern-love-marriage-starts-to-unravel-on-honeymoon.html</guid>
-      <pubDate>Fri, 17 Jan 2025 05:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apple pauses AI-generated news alerts after fake headline notifications (Axios)</title>
-      <link>https://www.axios.com/2025/01/17/apple-ai-news-alerts-fake-headlines</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/17/apple-ai-news-alerts-fake-headlines</guid>
-      <pubDate>Fri, 17 Jan 2025 04:52:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
