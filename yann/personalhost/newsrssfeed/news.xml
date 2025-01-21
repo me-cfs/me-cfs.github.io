@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks against Ukraine injure 15 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-attacks-against-ukraine-injure-15</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-attacks-against-ukraine-injure-15</guid>
+      <pubDate>Tue, 21 Jan 2025 10:30:31 +0200</pubDate>
+    </item>
+    <item>
       <title>Faeces and bacteria found in mystery balls on Sydney beaches (BBC)</title>
       <link>https://www.bbc.com/news/articles/cpql7wdz5vyo</link>
       <author>BBC</author>
@@ -1424,13 +1431,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/biden-executive-order-cybersecurity-microsoft-solarwinds-hack</guid>
       <pubDate>Fri, 17 Jan 2025 16:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Les tarifs des bains thermaux ne baisseront pas, malgré le tassement du prix de l'électricité (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/bains-thermaux-tarifs-maintenus-malgre-la-baisse-du-prix-de-l-electricite-28759908.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28759908</guid>
-      <pubDate>Fri, 17 Jan 2025 21:13:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
