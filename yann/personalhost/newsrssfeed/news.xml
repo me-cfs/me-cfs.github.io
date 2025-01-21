@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'initiative sur la responsabilité des multinationales bis a déjà récolté 180'000 signatures (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/nouvelle-initiative-sur-les-multinationales-180-000-signatures-en-deux-semaines-28763123.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28763123</guid>
+      <pubDate>Tue, 21 Jan 2025 11:52:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Taliban Say 2 Americans Held In Afghanistan Were Freed In A Prisoner Exchange (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/afghanistan-us-detainees_n_678f6823e4b0a55290ff69dc</link>
       <author>Huffington Post</author>
@@ -140,6 +147,13 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=657435</guid>
       <pubDate>Tue, 21 Jan 2025 02:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Withdraws U.S. from World Health Organization (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-world-health-organization.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-world-health-organization.html</guid>
+      <pubDate>Tue, 21 Jan 2025 02:12:20 +0000</pubDate>
     </item>
     <item>
       <title>Trump Frees Violent January 6 Attackers (Motherjones)</title>
@@ -1417,20 +1431,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-immigration-raids-chicago.html</guid>
       <pubDate>Sat, 18 Jan 2025 05:08:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia's wild weather: Thousands without power in NSW as cyclone looms off WA (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/australias-wild-weather-thousands-without-power-in-nsw-as-cyclone-looms-off-wa/a1w1tsgvn</link>
-      <author>SBS News</author>
-      <guid>00000194-776c-df36-a7be-77fcb97c0000</guid>
-      <pubDate>Sat, 18 Jan 2025 04:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hongrie: Viktor Orban absent pour l'investiture de Donald Trump (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250118-hongrie-viktor-orban-absent-pour-l-investiture-de-donald-trump</link>
-      <author>RFI</author>
-      <guid>f5967882-d516-11ef-9e98-005056a97652</guid>
-      <pubDate>Sat, 18 Jan 2025 04:13:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
