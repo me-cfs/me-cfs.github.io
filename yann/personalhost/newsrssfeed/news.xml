@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: sur la ligne de front, des opérations d'évacuation pour les civils proches (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250121-guerre-en-ukraine-sur-la-ligne-de-front-des-op%C3%A9rations-d-%C3%A9vacuation-pour-les-civils-proches</link>
+      <author>RFI</author>
+      <guid>e83aa5b8-d846-11ef-a30a-005056a97652</guid>
+      <pubDate>Tue, 21 Jan 2025 23:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Executive Orders on Climate Will Likely Face Legal Challenges, but Already Threaten Global Fallout (Inside Climate News)</title>
+      <link>https://insideclimatenews.org/news/21012025/trump-climate-executive-orders-threaten-global-fallout/</link>
+      <author>Inside Climate News</author>
+      <guid>https://insideclimatenews.org/?p=90654</guid>
+      <pubDate>Tue, 21 Jan 2025 22:58:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump rolls back Biden directive to study methods of lowering prescription costs (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5098715-trump-executive-order-biden-prescription-drug-costs/</link>
       <author>The Hill</author>
@@ -148,6 +162,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-russia-hybrid-attack-diplomacy-shadow-fleet-ukraine-russia-putin/</guid>
       <pubDate>Tue, 21 Jan 2025 18:19:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>High-tech antidotes for snake bites (Economist)</title>
+      <link>https://www.economist.com/science-and-technology/2025/01/21/high-tech-antidotes-for-snake-bites</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/science-and-technology/2025/01/21/high-tech-antidotes-for-snake-bites</guid>
+      <pubDate>Tue, 21 Jan 2025 18:13:38 GMT</pubDate>
     </item>
     <item>
       <title>Finding an accepted Long COVID biomarker will be complicated. This blood test could give us answers. (ME/LC News)</title>
@@ -1414,27 +1435,6 @@
       <author>RFI</author>
       <guid>20896456-d647-11ef-8b46-005056bf762b</guid>
       <pubDate>Sun, 19 Jan 2025 11:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le froid de ce mois de janvier fait le bonheur des  maraîchers (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/le-froid-de-janvier-allie-inattendu-des-maraichers-romands-28760630.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28760630</guid>
-      <pubDate>Sun, 19 Jan 2025 11:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>These States Will Keep Fighting for Climate Progress, Trump or No Trump (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/01/states-climate-progress-trump/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1109324</guid>
-      <pubDate>Sun, 19 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gaza Ceasefire In Effect After Delay As Hamas Names Hostages To Be Released Sunday (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/hamas-names-hostages-release-potentially-clearing-way-gaza-truce_n_678cb5fbe4b08d0b5174cc5f</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/hamas-names-hostages-release-potentially-clearing-way-gaza-truce_n_678cb5fbe4b08d0b5174cc5f</guid>
-      <pubDate>Sun, 19 Jan 2025 10:09:17 -0000</pubDate>
     </item>
   </channel>
 </rss>
