@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>"This is just the beginning": Pentagon sending 1,500 troops to U.S.-Mexico border (Axios)</title>
+      <link>https://www.axios.com/2025/01/22/troops-us-mexico-border-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/22/troops-us-mexico-border-trump</guid>
+      <pubDate>Wed, 22 Jan 2025 23:17:57 +0000</pubDate>
+    </item>
+    <item>
       <title>France: la CGT manifeste devant Bercy pour défendre un secteur industriel menacé (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250122-france-la-cgt-manifeste-devant-bercy-pour-d%C3%A9fendre-un-secteur-industriel-menac%C3%A9</link>
       <author>RFI</author>
       <guid>736df27e-d8f7-11ef-83db-005056a97652</guid>
       <pubDate>Wed, 22 Jan 2025 23:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title> US leadership essential in Ukraine peace efforts, Zelensky tells Bloomberg  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/zelensky-tells-bloomberg-us-leadership-essential-in-ukraine-peace-efforts</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/zelensky-tells-bloomberg-us-leadership-essential-in-ukraine-peace-efforts</guid>
+      <pubDate>Thu, 23 Jan 2025 00:46:00 +0200</pubDate>
     </item>
     <item>
       <title>RFK Jr. earned millions from law work, book deals (Axios)</title>
@@ -25,6 +39,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/olaf-scholz-germany-knife-attack-migration-election/</guid>
       <pubDate>Wed, 22 Jan 2025 22:08:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>The White House is cleaning house at a key independent government surveillance watchdog (Axios)</title>
+      <link>https://www.axios.com/2025/01/22/white-house-pclob-democrats-termination</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/22/white-house-pclob-democrats-termination</guid>
+      <pubDate>Wed, 22 Jan 2025 21:47:47 +0000</pubDate>
     </item>
     <item>
       <title>Trump Shuts Down Diversity Programs Across Government (Motherjones)</title>
@@ -256,6 +277,20 @@
       <pubDate>Wed, 22 Jan 2025 10:08:59 -0500</pubDate>
     </item>
     <item>
+      <title>Sabalenka &amp; Badosa put friendship aside for semi-finals (BBC)</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cjw4q2d1ww1o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/tennis/articles/cjw4q2d1ww1o#1</guid>
+      <pubDate>Wed, 22 Jan 2025 14:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shelton criticises 'disrespectful' on-court interviews (BBC)</title>
+      <link>https://www.bbc.com/sport/tennis/articles/c93lykxde50o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/tennis/articles/c93lykxde50o#1</guid>
+      <pubDate>Wed, 22 Jan 2025 14:33:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Scoop: ICE returns to calling immigrants "aliens" (Axios)</title>
       <link>https://www.axios.com/2025/01/22/trump-dhs-ice-immigration-noncitizen-alien</link>
       <author>Axios</author>
@@ -331,6 +366,13 @@
       <pubDate>Wed, 22 Jan 2025 12:55:08 -0000</pubDate>
     </item>
     <item>
+      <title>Sinner dismisses health fears to reach semis  (BBC)</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cdd92e30qgeo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/tennis/articles/cdd92e30qgeo#1</guid>
+      <pubDate>Wed, 22 Jan 2025 12:39:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Memorial to black first world war soldiers opens in South Africa (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/jan/22/memorial-to-black-and-asian-first-world-war-soldiers-opens-in-south-africa</link>
       <author>Guardian</author>
@@ -357,6 +399,13 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/voodoo-trade-policy-comes-to-america</guid>
       <pubDate>Wed, 22 Jan 2025 11:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Patten 'trying to replicate' Wimbledon win in Melbourne  (BBC)</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cm23yyd7718o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/tennis/articles/cm23yyd7718o#1</guid>
+      <pubDate>Wed, 22 Jan 2025 11:33:05 GMT</pubDate>
     </item>
     <item>
       <title>Rupert Murdoch's U.K. Tabloids Offer Rare Apology In Legal Settlement With Prince Harry (Huffington Post)</title>
@@ -1386,57 +1435,6 @@
       <author>RFI</author>
       <guid>e121150c-d77c-11ef-8fae-005056bf762b</guid>
       <pubDate>Mon, 20 Jan 2025 22:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Royaume-Uni: le prince Harry devant la justice contre les journaux du milliardaire Rupert Murdoch (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250120-royaume-uni-le-prince-harry-devant-la-justice-contre-les-journaux-du-milliardaire-rupert-murdoch</link>
-      <author>RFI</author>
-      <guid>76582a94-d777-11ef-b668-005056a97652</guid>
-      <pubDate>Mon, 20 Jan 2025 22:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Line in Trump’s Speech That Will Echo in Time (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/20/opinion/the-line-in-trumps-speech-that-will-echo-in-time.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/20/opinion/the-line-in-trumps-speech-that-will-echo-in-time.html</guid>
-      <pubDate>Mon, 20 Jan 2025 22:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s hands-off abortion stance faces political reality (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5096237-trump-abortion-actions/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5096237</guid>
-      <pubDate>Mon, 20 Jan 2025 21:56:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australian police probe whether overseas criminals are behind antisemitic attacks (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/australian-police-probe-whether-overseas-criminals-are-behind-antisemitic-attacks/ro37b6uf3</link>
-      <author>SBS News</author>
-      <guid>00000194-8599-d20b-affe-cdddf2d10000</guid>
-      <pubDate>Mon, 20 Jan 2025 21:56:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Wealth Spikes and Plummets on the Launch of His Meme Coin (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/01/trumps-wealth-spikes-and-plummets-on-the-launch-of-his-meme-coin/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1110002</guid>
-      <pubDate>Mon, 20 Jan 2025 21:11:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						As Trump arrives, Macron hints NATO spending target is too low					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-emmanuel-macron-hints-nato-spending-target-is-too-low-donald-trump/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-emmanuel-macron-hints-nato-spending-target-is-too-low-donald-trump/</guid>
-      <pubDate>Mon, 20 Jan 2025 21:07:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Le Monde, French newspaper of record, quits Elon Musk’s X					 (Politico)</title>
-      <link>https://www.politico.eu/article/le-monde-france-top-newspaper-quits-elon-musk-x/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/le-monde-france-top-newspaper-quits-elon-musk-x/</guid>
-      <pubDate>Mon, 20 Jan 2025 20:52:59 -0000</pubDate>
     </item>
   </channel>
 </rss>
