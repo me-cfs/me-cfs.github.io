@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Scholz hardens rhetoric on migrants after fatal knife attack					 (Politico)</title>
+      <link>https://www.politico.eu/article/olaf-scholz-germany-knife-attack-migration-election/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/olaf-scholz-germany-knife-attack-migration-election/</guid>
+      <pubDate>Wed, 22 Jan 2025 22:08:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Shuts Down Diversity Programs Across Government (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/01/trump-dei-ban-federal-government/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1110581</guid>
+      <pubDate>Wed, 22 Jan 2025 21:45:51 +0000</pubDate>
+    </item>
+    <item>
       <title>A &amp;#36;500bn investment plan says a lot about Trump’s AI priorities (Economist)</title>
       <link>https://www.economist.com/business/2025/01/22/a-500bn-investment-plan-says-a-lot-about-trumps-ai-priorities</link>
       <author>Economist</author>
@@ -645,6 +660,13 @@
       <pubDate>Tue, 21 Jan 2025 23:06:03 +0200</pubDate>
     </item>
     <item>
+      <title>Trump Administration Fires U.S. Coast Guard Commandant (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/21/us/politics/admiral-fagan-fired-coast-guard.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/21/us/politics/admiral-fagan-fired-coast-guard.html</guid>
+      <pubDate>Tue, 21 Jan 2025 21:05:47 +0000</pubDate>
+    </item>
+    <item>
       <title>The Anti-Trump Resistance Is Alive at This Historic Black DC Church (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/</link>
       <author>Motherjones</author>
@@ -1140,6 +1162,13 @@
       <pubDate>Tue, 21 Jan 2025 03:56:26 -0000</pubDate>
     </item>
     <item>
+      <title>Trump's orders unleash sweeping limits on immigration, asylum (Axios)</title>
+      <link>https://www.axios.com/2025/01/20/trump-immigration-executive-orders-deportations</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/20/trump-immigration-executive-orders-deportations</guid>
+      <pubDate>Tue, 21 Jan 2025 03:48:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump targets transgender protections in new executive order (Axios)</title>
       <link>https://www.axios.com/2025/01/21/trump-trans-rights-executive-order</link>
       <author>Axios</author>
@@ -1408,34 +1437,6 @@
       <author>SBS News</author>
       <guid>00000194-8517-d62a-a5dd-95d791620000</guid>
       <pubDate>Mon, 20 Jan 2025 19:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>David Lynch Dead: ‘Twin Peaks’ and ‘Mulholland Drive’ Director Was 78 (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</guid>
-      <pubDate>Mon, 20 Jan 2025 19:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk's DOGE targeted by union lawsuit ahead of Trump's executive order (Axios)</title>
-      <link>https://www.axios.com/2025/01/20/doge-musk-executive-orders-court-challanges</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/20/doge-musk-executive-orders-court-challanges</guid>
-      <pubDate>Mon, 20 Jan 2025 19:02:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Here Are Trump’s Expected Executive Orders (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-executive-orders-list.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-executive-orders-list.html</guid>
-      <pubDate>Mon, 20 Jan 2025 18:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'unité européenne à l'épreuve de Trump II (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250120-l-unit%C3%A9-europ%C3%A9enne-%C3%A0-l-%C3%A9preuve-de-trump-ii</link>
-      <author>RFI</author>
-      <guid>877fa050-d75d-11ef-bf04-005056a97652</guid>
-      <pubDate>Mon, 20 Jan 2025 18:36:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
