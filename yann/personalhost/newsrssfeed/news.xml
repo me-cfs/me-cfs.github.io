@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: François Bayrou divise en appelant à une scission du projet de loi sur l'aide à mourir (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250122-france-fran%C3%A7ois-bayrou-divise-en-appelant-%C3%A0-une-scission-du-projet-de-loi-sur-l-aide-%C3%A0-mourir</link>
+      <author>RFI</author>
+      <guid>8c4d410e-d8ee-11ef-8e34-005056bf762b</guid>
+      <pubDate>Wed, 22 Jan 2025 18:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meloni faces questions after Italy frees Libyan general accused of war crimes (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/jan/22/giorgia-meloni-faces-questions-after-italy-frees-libyan-general-accused-of-war-crimes</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/jan/22/giorgia-meloni-faces-questions-after-italy-frees-libyan-general-accused-of-war-crimes</guid>
+      <pubDate>Wed, 22 Jan 2025 18:19:04 GMT</pubDate>
+    </item>
+    <item>
       <title>National Security Council staffers grilled about loyalty to Trump (Axios)</title>
       <link>https://www.axios.com/2025/01/22/trump-national-security-council-civil-servants</link>
       <author>Axios</author>
@@ -1424,20 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/20/trump-tariffs-dollar-trade</guid>
       <pubDate>Mon, 20 Jan 2025 14:34:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: l'écologiste Yannick Jadot annonce sa candidature à la mairie de Paris (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250120-france-l-%C3%A9cologiste-yannick-jadot-annonce-sa-candidature-%C3%A0-la-mairie-de-paris</link>
-      <author>RFI</author>
-      <guid>eb04cf66-d734-11ef-b8bc-005056a97652</guid>
-      <pubDate>Mon, 20 Jan 2025 13:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title> Trump sees peace in Ukraine as a deal but refuses to play his winning hand  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/trump-sees-peace-in-ukraine-as-a-deal-but-refuses-to-play-his-winning-hand</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/trump-sees-peace-in-ukraine-as-a-deal-but-refuses-to-play-his-winning-hand</guid>
-      <pubDate>Mon, 20 Jan 2025 15:50:46 +0200</pubDate>
     </item>
   </channel>
 </rss>
