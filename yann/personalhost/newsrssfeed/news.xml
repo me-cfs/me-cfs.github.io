@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump leaving the Paris Agreement is ‘mostly symbolic.’ What does it actually mean? (Grist)</title>
+      <link>https://grist.org/politics/us-leaving-paris-agreement-trump-deregulatory-agenda/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=657534</guid>
+      <pubDate>Thu, 23 Jan 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Immigrants rush to prepare for Trump deportation raids (Axios)</title>
       <link>https://www.axios.com/2025/01/23/immigrants-scramble-trump-deportation-raids</link>
       <author>Axios</author>
@@ -1428,13 +1435,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/norway-donald-trump-demand-defense-spending-increase/</guid>
       <pubDate>Tue, 21 Jan 2025 10:09:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Plusieurs sites web suisses touchés par une cyberattaque russe (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/cyberattaque-russe-sur-des-sites-suisses-pendant-le-forum-de-davos-28763073.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28763073</guid>
-      <pubDate>Tue, 21 Jan 2025 10:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
