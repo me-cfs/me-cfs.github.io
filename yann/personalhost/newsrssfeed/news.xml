@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Family of jailed dissident urge Lammy to prioritise case as he visits Egypt (Guardian)</title>
+      <link>https://www.theguardian.com/politics/2025/jan/23/family-jailed-dissident-david-lammy-egypt-alaa-abd-el-fattah</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/politics/2025/jan/23/family-jailed-dissident-david-lammy-egypt-alaa-abd-el-fattah</guid>
+      <pubDate>Thu, 23 Jan 2025 13:12:53 GMT</pubDate>
+    </item>
+    <item>
+      <title> Zelensky clarifies comment on 200,000 peacekeepers, says figure depends on Ukrainian army size  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/zelensky-clarifies-comment-on-200-000-peacekeepers</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/zelensky-clarifies-comment-on-200-000-peacekeepers</guid>
+      <pubDate>Thu, 23 Jan 2025 14:58:27 +0200</pubDate>
+    </item>
+    <item>
       <title>Un centre de surveillance des épidémies ouvre ses portes à Berne (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-ouvre-un-centre-de-surveillance-des-epidemies-a-berne-28766139.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1299,6 +1313,13 @@
       <pubDate>Tue, 21 Jan 2025 17:35:14 +0000</pubDate>
     </item>
     <item>
+      <title>Elon Musk Ignites Online Speculation Over the Meaning of a Hand Gesture (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/20/us/politics/elon-musk-hand-gesture-speech.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/20/us/politics/elon-musk-hand-gesture-speech.html</guid>
+      <pubDate>Tue, 21 Jan 2025 17:16:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Biden’s Preemptive Fauci Pardon Generates Fresh Conspiracies  (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/01/bidens-preemptive-fauci-pardon-generates-fresh-conspiracies/</link>
       <author>Motherjones</author>
@@ -1412,28 +1433,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/obstacles-to-opening-child-care-facilities-rural-illinois</guid>
       <pubDate>Tue, 21 Jan 2025 09:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump: Putin is ‘destroying’ Russia					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-vladimir-putin-russia-ukraine-war-destroying/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-vladimir-putin-russia-ukraine-war-destroying/</guid>
-      <pubDate>Tue, 21 Jan 2025 13:53:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's Paris Agreement withdrawal: second time is not like the first (Axios)</title>
-      <link>https://www.axios.com/2025/01/21/us-paris-withdrawal-effects-second-time</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/21/us-paris-withdrawal-effects-second-time</guid>
-      <pubDate>Tue, 21 Jan 2025 13:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI product chief says world is "on the verge" of AI agents (Axios)</title>
-      <link>https://www.axios.com/2025/01/21/openai-davos-kevin-weil-ai-agents</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/21/openai-davos-kevin-weil-ai-agents</guid>
-      <pubDate>Tue, 21 Jan 2025 13:39:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
