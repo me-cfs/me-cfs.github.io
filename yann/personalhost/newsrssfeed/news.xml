@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s covers (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/01/23/this-weeks-covers</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/u0bstmda15cmtu8p38jioch8mgm0icfm</guid>
+      <pubDate>Thu, 23 Jan 2025 15:11:15 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						China’s cyber spies are targeting Russia’s aerospace and defense firms					 (Politico)</title>
       <link>https://www.politico.eu/article/china-state-hackers-russia-targeting-aerospace-and-defense-firms/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/china-state-hackers-russia-targeting-aerospace-and-defense-firms/</guid>
       <pubDate>Thu, 23 Jan 2025 15:09:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>This Icebreaker Has Design Problems and a History of Failure. It’s America’s Latest Military Vessel. (Propublica)</title>
+      <link>https://www.propublica.org/article/aiviq-icebreaker-military-coast-guard</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/aiviq-icebreaker-military-coast-guard</guid>
+      <pubDate>Thu, 23 Jan 2025 10:00:00 -0500</pubDate>
     </item>
     <item>
       <title>‘We were betrayed’: families of apartheid victims sue South African government (Guardian)</title>
@@ -1419,20 +1433,6 @@
       <author>RTS</author>
       <guid>28763018</guid>
       <pubDate>Tue, 21 Jan 2025 15:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The most notorious Jan. 6 defendants pardoned by Trump (Axios)</title>
-      <link>https://www.axios.com/2025/01/21/trump-jan-6-pardons-j6-proud-boys-oath-keepers</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/21/trump-jan-6-pardons-j6-proud-boys-oath-keepers</guid>
-      <pubDate>Tue, 21 Jan 2025 15:45:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Djokovic overcomes injury to stun Alcaraz in Melbourne (BBC)</title>
-      <link>https://www.bbc.com/sport/tennis/articles/cvg8nz90xkjo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/sport/tennis/articles/cvg8nz90xkjo#1</guid>
-      <pubDate>Tue, 21 Jan 2025 15:25:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
