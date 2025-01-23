@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks against Ukraine kill 2, injure 46 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-120</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-120</guid>
+      <pubDate>Thu, 23 Jan 2025 11:19:55 +0200</pubDate>
+    </item>
+    <item>
       <title>Drones israéliens sous le feu des critiques: "Une véritable catastrophe", dénonce Pierre-Alain Fridez (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/drones-israeliens-de-l-armee-suisse-retards-et-gestion-critiques-28765903.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1428,13 +1435,6 @@
       <author>RTS</author>
       <guid>28762897</guid>
       <pubDate>Tue, 21 Jan 2025 08:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jimmy Fallon: Melania’s Hat Is Her ‘Very Own Border Wall’ (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/21/arts/television/jimmy-fallon-melania-trump-hat.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/21/arts/television/jimmy-fallon-melania-trump-hat.html</guid>
-      <pubDate>Tue, 21 Jan 2025 08:51:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
