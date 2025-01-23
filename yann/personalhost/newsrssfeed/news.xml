@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Des failles de sécurité dans les systèmes d'information hospitaliers (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/failles-de-securite-dans-les-hopitaux-suisses-donnees-patients-menacees-28766123.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28766123</guid>
+      <pubDate>Thu, 23 Jan 2025 11:00:20 GMT</pubDate>
+    </item>
+    <item>
       <title>‘If I Die, So Be It’: Mother of British-Egyptian Prisoner Alaa Abd El-Fattah Speaks Out on Hunger Strike (Byline Times)</title>
       <link>https://bylinetimes.com/2025/01/23/if-i-die-so-be-it-mother-of-british-egyptian-prisoner-alaa-abd-el-fattah-speaks-out-on-hunger-strike/</link>
       <author>Byline Times</author>
@@ -1428,13 +1435,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/20/us/politics/elon-musk-hand-gesture-speech.html</guid>
       <pubDate>Tue, 21 Jan 2025 12:06:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'initiative sur la responsabilité des multinationales bis a déjà récolté 180'000 signatures (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/nouvelle-initiative-sur-les-multinationales-180-000-signatures-en-deux-semaines-28763123.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28763123</guid>
-      <pubDate>Tue, 21 Jan 2025 11:52:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
