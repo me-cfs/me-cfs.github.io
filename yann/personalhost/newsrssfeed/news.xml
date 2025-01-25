@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: 7 inculpations après l'enlèvement de David Balland cofondateur d'une entreprise de cryptomonnaies (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250125-france-7-inculpations-apr%C3%A8s-l-enl%C3%A8vement-de-david-balland-cofondateur-d-une-entreprise-de-cryptomonnaies</link>
+      <author>RFI</author>
+      <guid>42364c64-db41-11ef-bfb7-005056bf762b</guid>
+      <pubDate>Sat, 25 Jan 2025 17:52:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Kristi Noem wins Senate approval to lead Trump's DHS (Axios)</title>
       <link>https://www.axios.com/2025/01/25/kristi-noem-dhs-senate-confirms</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/25/kristi-noem-dhs-senate-confirms</guid>
       <pubDate>Sat, 25 Jan 2025 17:03:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Fires at Least 12 Inspectors General in Late-Night Purge (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</guid>
+      <pubDate>Sat, 25 Jan 2025 16:25:57 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1408,20 +1422,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/20/style/melania-trump-hat-inauguration-outfit.html</guid>
       <pubDate>Thu, 23 Jan 2025 11:52:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden Pardons 5 Members of His Family in Final Minutes in Office (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-family.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-family.html</guid>
-      <pubDate>Thu, 23 Jan 2025 11:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s new anti-trans executive order is ‘human rights violation’ (Open Democracy)</title>
-      <link>https://www.opendemocracy.net/en/trump-lgbtq-trans-abortion-executive-order-dangerous/</link>
-      <author>Open Democracy</author>
-      <guid>https://www.opendemocracy.net/en/trump-lgbtq-trans-abortion-executive-order-dangerous/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:44:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
