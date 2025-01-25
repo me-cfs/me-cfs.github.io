@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU’s new economic vision is speaking to Green Deal critics					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-new-economic-vision-is-speaking-to-green-deal-critics-competitiveness-compass/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-new-economic-vision-is-speaking-to-green-deal-critics-competitiveness-compass/</guid>
+      <pubDate>Sat, 25 Jan 2025 04:31:08 -0000</pubDate>
+    </item>
+    <item>
       <title>What we saw during Trump's first week in office (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/learn-trumps-week/story?id=118072739</link>
       <author>Fivethirtyeight</author>
@@ -45,6 +53,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/25/trump-reinstates-mexico-city-policy-abortion</guid>
       <pubDate>Sat, 25 Jan 2025 00:33:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>At least four homes lost as hot weather and strong winds fuel Western Australian bushfires (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/four-homes-lost-as-hot-weather-and-strong-winds-fuel-western-australian-bushfires/ol2yviv6n</link>
+      <author>SBS News</author>
+      <guid>00000194-9ac0-d62a-a5dd-9bc221200000</guid>
+      <pubDate>Sat, 25 Jan 2025 00:13:11 +0000</pubDate>
     </item>
     <item>
       <title> Zelensky says Putin wants to &amp;#x27;manipulate&amp;#x27; Trump amid talk of peace negotiations  (Kyiv Indpendent)</title>
@@ -1406,20 +1421,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cvgpnqe91j1o#2</guid>
       <pubDate>Thu, 23 Jan 2025 04:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACLU sues to block Trump's expansion of "fast-track" deportations (Axios)</title>
-      <link>https://www.axios.com/2025/01/23/aclu-lawsuit-trump-fast-track-deportations</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/23/aclu-lawsuit-trump-fast-track-deportations</guid>
-      <pubDate>Thu, 23 Jan 2025 04:38:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'Union européenne redoute les menaces commerciales de Donald Trump (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250123-l-union-europ%C3%A9enne-redoute-les-menaces-commerciales-de-donald-trump</link>
-      <author>RFI</author>
-      <guid>fdd2018a-d90b-11ef-a1a8-005056bf762b</guid>
-      <pubDate>Thu, 23 Jan 2025 04:10:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
