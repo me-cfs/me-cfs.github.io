@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le centriste Markus Ritter officialise sa candidature au Conseil fédéral (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/markus-ritter-brigue-le-conseil-federal-enjeux-et-reactions-politiques-28768651.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28768651</guid>
+      <pubDate>Sat, 25 Jan 2025 20:35:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Australian Open 2025: Madison Keys stuns Aryna Sabalenka to claim maiden Grand Slam title (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/australian-open-2025-madison-keys-stuns-aryna-sabalenka-to-claim-maiden-grand-slam-title/t74rw9k7p</link>
       <author>SBS News</author>
@@ -1415,13 +1422,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/kremlin-sees-no-new-elements-in-trumps-statement-on-sanctions-against-russia</guid>
       <pubDate>Thu, 23 Jan 2025 14:10:30 +0200</pubDate>
-    </item>
-    <item>
-      <title>Musk and Tesla remain bulletproof after Nazi salute accusations (Axios)</title>
-      <link>https://www.axios.com/2025/01/23/musk-tesla-trump-nazi-salute</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/23/musk-tesla-trump-nazi-salute</guid>
-      <pubDate>Thu, 23 Jan 2025 12:10:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
