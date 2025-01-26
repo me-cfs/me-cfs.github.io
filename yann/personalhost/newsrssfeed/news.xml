@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Dozens killed in hospital attack in Sudan’s besieged El Fasher, says WHO (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/jan/26/hospital-attack-sudan-besieged-el-fasher-who</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/jan/26/hospital-attack-sudan-besieged-el-fasher-who</guid>
+      <pubDate>Sun, 26 Jan 2025 09:45:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Bariolage Multi-Environnement (BME), le nouveau treillis des armées françaises (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250126-bariolage-multi-environnement-bme-le-nouveau-treillis-des-arm%C3%A9es-fran%C3%A7aises</link>
       <author>RFI</author>
@@ -1416,13 +1423,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/aiviq-icebreaker-military-coast-guard</guid>
       <pubDate>Thu, 23 Jan 2025 10:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>‘We were betrayed’: families of apartheid victims sue South African government (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/jan/23/apartheid-victims-families-sue-south-african-government-cradock-four-killings</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/jan/23/apartheid-victims-families-sue-south-african-government-cradock-four-killings</guid>
-      <pubDate>Thu, 23 Jan 2025 14:40:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
