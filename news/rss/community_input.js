@@ -87,7 +87,11 @@ module.exports = [
     url: 'https://openrss.org/theredtreeandme.substack.com/feed',
     cutoffDate: new Date('2024-12-31'),
   },
-  
+  {
+    name: '#ThereForME',
+    url: 'https://www.thereforme.uk/feed',
+    cutoffDate: new Date('2024-01-26'),
+  },
   
   // Add more feeds with their respective cutoff dates and exclusion words as needed
 ];
