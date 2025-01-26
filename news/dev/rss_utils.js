@@ -32,14 +32,23 @@ function deduplicateItems(items) {
 // filters the list of feed items based on criteria
 function filterItems(items, localFeed, addAuthorTitle) {
   return items.filter(item => {
+    console.log(JSON.stringify(item));
     // extract: title, content, and pubDate
     let title = item.title || null;
     const content = item.content ? item.content.toLowerCase() : '';
     const pubDate = item.pubDate ? new Date(item.pubDate) : null;
 
     // Check at least has both title and pubDate
-    if (!title || !pubDate) {
-      console.log(`Excluding item due to missing title or pubDate: ${JSON.stringify(item)}`);
+    if (!title) {
+      if (!content) {
+        console.log(`Excluding item due to missing title: ${JSON.stringify(item)}`);
+        return false;
+      } else {
+        let title = content;
+      }
+    }
+    if (!pubDate) {
+      console.log(`Excluding item due to missing pubDate: ${JSON.stringify(item)}`);
       return false;
     }
 
