@@ -17,21 +17,24 @@ async function filterAndUpdateFeed() {
     // fetch all feeds and flatten the result into a single array
     console.log('Fetching all Feed Items and Flattening into single array');
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
-    console.log('allFeedItems = [sample]', allFeedItems.slice(0,5), allFeedItems.slice(80,83));
+    // console.log('allFeedItems = [sample]', allFeedItems.slice(0,5), allFeedItems.slice(80,83));
 
     // remove any duplicates
     console.log('removing duplicates...');
     const uniqueFeedItems = deduplicateItems(allFeedItems);
     
-    // Log each feed's source URL and the number of items it contains
-    feedUrls.forEach((feedObj, index) => {
-  const feedUrl = feedObj.url || 'Unknown URL'; // Use 'Unknown URL' if the object doesn't have a URL
-  const feedItemsCount = (allFeedItems[index] || []).length;
-
-  console.log(`Feed Name: ${feedObj.name || 'Unnamed Feed'}`);
-  console.log(`Feed URL: ${feedUrl}`);
-  console.log(`Number of items fetched: ${feedItemsCount}`);
-});
+    // Group and count items by source
+    const sourceCounts = allFeedItems.reduce((acc, item) => {
+      const source = item.source || 'Unknown Source';
+      acc[source] = (acc[source] || 0) + 1;
+      return acc;
+    }, {});
+    
+    // Log the counts for each source
+    console.log('Item counts by source:');
+    Object.entries(sourceCounts).forEach(([source, count]) => {
+      console.log(`Source: ${source}, Number of items: ${count}`);
+    });
 
     // load the localFeed from the file (the RSS feed hosted on my website)
     console.log('loading the local feed');
