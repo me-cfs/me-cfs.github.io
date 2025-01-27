@@ -19,7 +19,7 @@ Flanders Dunbar, sometimes referred to as the “mother” of the 20th century p
 
 She was educated in among other places clinical pastoral schools such as the Union Theological Seminary where her mentor was Anton Boisen, co-founder of the Clinical Pastoral Education movement. She believed in the power of “symbols” in medicine, such as religion. She eventually created the laws she called “emotional thermodynamics”, which were
 1. Psychological energy seeks an outlet through physical symptoms when it is not expressed mentally
-2. Permanent faults in personality can lead to disruption of energy and “somatic dysfunction”
+2. Permanent faults in personality can lead to disruption of energy and “somatic [bodily] dysfunction”
 
 Her research commonly showed correlation but failed to prove causation. She believed psychosomatics would be valuable in all facets of medicine, for example by sketching out a “cardiac type of personality”, which was thought to lead to cardiac problems.  She viewed personality defects as leading to specific organic illnesses, which was related to the overstimulation of the ANS and endocrine glands related to too much mental energy (it is worth noting this physical model does not hold with current evidence from neurology and endocrinology).
 
