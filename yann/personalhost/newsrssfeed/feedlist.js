@@ -10,6 +10,7 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
+    exclusionWords: ['|', ...tList.siglePerson,],
     off: false,
   },
   
@@ -21,18 +22,20 @@ module.exports = [
     name: 'Byline Times',
     url: 'https://bylinetimes.com/feed/',
     inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity,
-      ...tList.ukraineRussia, ...tList.disability, "cashed in", 
+      ...tList.ukraineRussia, ...tList.disability, "cashed in", ...tList.medicine,
+      
        ],
   },
   {
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
-      ...tList.medicine,
+      ...tList.medicine, ...tList.indepedenceMovements, 
     ],
   },
   {
-    name: 'Guardian -- George Monbiot',
+    // George Monbiot Guardian
+    name: 'Guardian',
     url: 'http://www.guardian.co.uk/profile/georgemonbiot/rss',
     off: false,
   },
@@ -42,6 +45,8 @@ module.exports = [
     inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
+    exclusionWods: [...tList.nonInformativeTitle, ],
+    urlBlacklist: ['video'], 
   },
   { // Only Europe
     name: 'Politico',
@@ -50,14 +55,15 @@ module.exports = [
     urlBlacklist: ['politico.com'],
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
-      'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 
+      'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
+      'zz',
     ],
-    minCharsTitle: 20,
+    minCharsTitle: 23,
   },
   {
     name: 'Public Eye',
     url: 'https://www.publiceye.ch/fr/rssNews.xml',
-    inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment, ...tList.location,],
+    // inclusionWords: [...tList.technology, ...tList.disability, ...tList.environment, ...tList.location,],
   },
   { // France
     name: 'RFI',
@@ -73,7 +79,7 @@ module.exports = [
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
       'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
       "Italie", "Autriche", ...tList.important, ...tList.war, "Croatie", 
-      "Allemagne", 
+      "Allemagne", 'Baltique', 
     ],
   },
   { // headlines
@@ -92,7 +98,7 @@ module.exports = [
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
     off: false,
     exclusionWords: [
-      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance',
+      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance', 'which',
       'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", 
       'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
@@ -102,7 +108,7 @@ module.exports = [
       'documentary', 'director', 'top risk', 'bremmer', "2024",
       ...tList.clickbait, ...tList.singlePerson, "denies effort",
     ],
-    minCharsTitle: 17,
+    minCharsTitle: 20,
   },
   {
     name: 'Fivethirtyeight',
@@ -118,6 +124,7 @@ module.exports = [
     inclusionWords: [...tList.usPolitics, ...tList.environment,
       ...tList.nonInformativeTitle,
     ],
+    exclusionWords: [...tList.nonInformativeTitle],
     minCharsTitle: 15,
   },
   {
@@ -138,7 +145,7 @@ module.exports = [
     name: 'The Intercept',
     url: 'https://theintercept.com/feed/?rss',
     inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
-      'paywall', 'Nigeria', ...tList.rightWing, "Porn",
+      'paywall', 'Nigeria', ...tList.rightWing, "Porn", ...tList.cybersecurity, 
     ],
   },
   {
@@ -151,6 +158,7 @@ module.exports = [
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
+    exclusionWords: [...tList.nonInformativeTitle],
   },
   {
     // Most Viewed
@@ -193,16 +201,18 @@ module.exports = [
   {
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
-    inclusionWords: [...tList.activism, ...tList.geopolitics],
+    inclusionWords: [...tList.activism, ...tList.geopolitics, ...tList.politics,],
     exclusionWords: [...tList.clickbait],
   },
   {
     name: 'SBS News',
     url: 'https://www.sbs.com.au/news/topic/australia/feed',
-    inclusionWords: [...tList.disability, ...tList.environment, ...tList.location,
+    inclusionWords: [...tList.disability, ...tList.environment, ...tList.location, ...tList.history,
       //'',
     ],
-    exclusionWords: [...tList.fluffyTitle,],
+    exclusionWords: [...tList.fluffyTitle, 'Australia Day', ...tList.nonInformativeTitle,
+      ...tList.uninterestedSports, 
+    ],
   },
 
 
@@ -227,7 +237,7 @@ module.exports = [
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
-      'yellowstone', 'antitrust', ...tList.cybersecurity, ...tList.history, 
+      'yellowstone', 'antitrust', ...tList.cybersecurity, ...tList.history, ...tList.commons, 
     ],
     exclusionWords: [...tList.uninterestedSports,],
   },
@@ -301,7 +311,7 @@ module.exports = [
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
       ...tList.cybersecurity, ...tList.important, "Georgia", ...tList.humanRights,
-      "Cameroon", "Thailand", "Lebanon", "Nigeria", 
+      "Cameroon", "Thailand", "Lebanon", "Nigeria", 'Canada',
     ],
   },
   {
@@ -375,7 +385,9 @@ module.exports = [
  {
     name: 'Orient XXI',
     url: 'https://orientxxi.info/?page=backend&lang=fr',
-    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements],
+    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements,
+      ...tList.humanRights, 
+    ],
   },
   {
     name: 'Open Democracy',
@@ -393,7 +405,9 @@ module.exports = [
   {
     name: 'West England Bylines',
     url: 'https://politepol.com/fd/8IDvxrMRKuNI.xml',
-    inclusionWords: [...tList.location, ...tList.disability, ...tList.commons],
+    inclusionWords: [...tList.location, ...tList.disability, ...tList.commons, ...tList.rightWing,
+      
+    ],
     cutoffDate: new Date('2024-12-12'),
   },
 ];
