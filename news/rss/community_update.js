@@ -17,7 +17,7 @@ async function filterAndUpdateFeed() {
     // fetch all feeds and flatten the result into a single array
     console.log('Fetching all Feed Items and Flattening into single array');
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
-    console.log('allFeedItems = ' + allFeedItems);
+    console.log('allFeedItems = [sample]', allFeedItems.slice(0,5), allFeedItems.slice(80,83));
 
     // remove any duplicates
     console.log('removing duplicates...');
