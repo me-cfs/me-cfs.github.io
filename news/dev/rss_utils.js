@@ -5,6 +5,7 @@ const xml2js = require('xml2js');
 const { removeHiddenWords, extractBaseUrl } = require('../dev/node_utils.js');
 
 async function loadLocalFeed(localFile) {
+  console.log('loading feed...' + localFile);
   if (fs.existsSync(localFile)) {
     const localData = fs.readFileSync(localFile, 'utf8');
     return await xml2js.parseStringPromise(localData);
