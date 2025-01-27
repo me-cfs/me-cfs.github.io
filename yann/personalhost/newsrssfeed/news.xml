@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Bulgarian police ‘blocked rescue’ of teenage migrants who froze to death (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/27/bulgaria-border-police-block-rescue-egyptian-migrant-boys-freeze-death-human-rights-activists</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/27/bulgaria-border-police-block-rescue-egyptian-migrant-boys-freeze-death-human-rights-activists</guid>
+      <pubDate>Mon, 27 Jan 2025 05:00:09 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Murder in the House of Ullens: The fall from grace of one of Belgium’s richest families					 (Politico)</title>
       <link>https://www.politico.eu/article/myriam-ullens-baroness-murder-trial-baron-nicolas-guy-belgium-ohain/</link>
@@ -201,6 +208,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/israel-lebanon-kills-protesters-withdrawal-ceasefire_n_67966a89e4b09bc16a07086c</guid>
       <pubDate>Sun, 26 Jan 2025 18:31:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>La Colombie accepte finalement les conditions de Donald Trump sur le rapatriement des migrants (RTS)</title>
+      <link>https://www.rts.ch/info/monde/2025/article/colombie-refuse-les-avions-militaires-us-expulsant-ses-migrants-28769347.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28769347</guid>
+      <pubDate>Sun, 26 Jan 2025 17:31:52 GMT</pubDate>
     </item>
     <item>
       <title>Israel Blocks Thousands Of Palestinians From Returning To Northern Gaza (Huffington Post)</title>
@@ -1417,20 +1431,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/undersea-cables-finland-eagle-s-tanker-jef-baltic-sea-eez-nato/</guid>
       <pubDate>Fri, 24 Jan 2025 03:00:18 -0000</pubDate>
-    </item>
-    <item>
-      <title>Captain Cook statue vandalised ahead of Australia Day (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c70qxq49ejlo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c70qxq49ejlo#0</guid>
-      <pubDate>Fri, 24 Jan 2025 01:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thune plunges into weekend standoff over Trump confirmations (Axios)</title>
-      <link>https://www.axios.com/2025/01/24/thune-senate-cabinet-confirmations-schumer</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/24/thune-senate-cabinet-confirmations-schumer</guid>
-      <pubDate>Fri, 24 Jan 2025 01:10:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
