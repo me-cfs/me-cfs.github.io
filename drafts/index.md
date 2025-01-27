@@ -8,6 +8,7 @@ tags:
   - posthumous
   - yann me/cfs blog
   - me/cfs article directory
+  - CFS Unpublished
 canonical_url: "https://mecfsadvocacy.org/drafts/"
 ---
   
@@ -17,13 +18,15 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
 
 * [Disabled people are a secondary minority group, forgotten and ignored](https://mecfsadvocacy.org/drafts/disabled-secondary-minority.html)
 
-* [Epistemic Denial as a Negative Feedback Loop: The case of ME](https://me-cfs.github.io/drafts/epistemic-denial-negative-feedback.html)
+* [Epistemic Denial as a Negative Feedback Loop: The case of ME](https://mecfsadvocacy.org/drafts/epistemic-denial-negative-feedback.html)
 
 * [Explaining ME through metaphors](https://me-cfs.github.io/drafts/me-metaphors.html)
 
 * [Foucaultian Conceptions of ME/CFS](https://me-cfs.github.io/drafts/foucault-mecfs.html)
 
-* [Ignoring and psychologising us kills us](https://me-cfs.github.io/drafts/ignoring-kills.html)
+* [Ignoring and psychologising us kills us](https://mecfsadvocacy.org/drafts/ignoring-kills.html)
+
+* [](https://mecfsadvocacy.org/drafts/fraction-functioning.html)
 
 * [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://me-cfs.github.io/drafts/masking-denial.html)
 
