@@ -84,7 +84,7 @@ module.exports = [
   },
   {
     name: 'The Red Tree and ME',
-    url: 'https://theredtreeandme.substack.com/feed'
+    url: 'https://theredtreeandme.substack.com/feed',
     fallback_url: 'https://openrss.org/theredtreeandme.substack.com/feed',
     cutoffDate: new Date('2024-12-31'),
   },
