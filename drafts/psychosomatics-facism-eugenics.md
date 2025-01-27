@@ -6,6 +6,7 @@ tags:
   - psychosomatics genocide
   - psychosomatics Nazi
   - psychosomatics Metaxas
+  - History of Psychosomatics
 canonical_url: "https://mecfsadvocacy.org/drafts/psychosomatics-facism-eugenics.html"
 ---
   
