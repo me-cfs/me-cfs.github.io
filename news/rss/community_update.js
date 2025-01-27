@@ -15,12 +15,15 @@ const addAuthorTitle = process.env.addAuthorTitle
 async function filterAndUpdateFeed() {
   try {
     // fetch all feeds and flatten the result into a single array
+    console.log('Fetching all Feed Items and Flattening into single array');
     const allFeedItems = (await Promise.all(feedUrls.map(fetchFeed))).flat();
 
     // remove any duplicates
+    console.log('removing duplicates...');
     const uniqueFeedItems = deduplicateItems(allFeedItems);
     
     // load the localFeed from the file (the RSS feed hosted on my website)
+    console.log('loading the local feed');
     let localFeed = await loadLocalFeed(localFile);
 
     // filter all items for various criteria. Passed items included in newItemd
