@@ -28,7 +28,7 @@ She founded the American Society of Psychosomatics in 1942 and was the first edi
 
 Franz Alexander, sometimes called the father of psychosomatics, had similar beliefs. He viewed organic illness through psychoanalysis, forming a theory of “organ specificity”, where specific psychological stressors evoke specific organic damage to different organs. This was based on studying, among others, peptic ulcers and rheumatoid arthritis (we now know peptic ulcers are caused by bacterial infection).
 
-The popularity did not immediately wane post-world war 2
+Although the prime of Dunbar and Alexander's career's was nearing it's end, the popularity of the theories they put forward did not immediately wane post-world war 2
 > [post WW2] general practitioners would be receptive to teaching and applying psychosomatic medicine to the many veterans and to patients with "functional disorders" admitted to general hospitals. Although the courses were well attended and full of promise, the impediments to implementation led to disappointing results.
 
 ([The Evolution of Psychosomatic Medicine](http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld.pdf))Blumenfeld
