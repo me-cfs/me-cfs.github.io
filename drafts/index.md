@@ -26,9 +26,9 @@ canonical_url: "https://mecfsadvocacy.org/drafts/"
 
 * [Ignoring and psychologising us kills us](https://mecfsadvocacy.org/drafts/ignoring-kills.html)
 
-* [](https://mecfsadvocacy.org/drafts/fraction-functioning.html)
+* [Living with a Fraction of the Physical Function of a Healthy Person](https://mecfsadvocacy.org/drafts/fraction-functioning.html)
 
-* [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://me-cfs.github.io/drafts/masking-denial.html)
+* [Masking denial: the lure of agency and merit, through recovery stories, alternative medicine, and mind-body interpretations](https://mecfsadvocacy.org/drafts/masking-denial.html)
 
 * [Medicine has lost it's scientific integrity](https://me-cfs.github.io/drafts/medicine-integrity.html)
 
