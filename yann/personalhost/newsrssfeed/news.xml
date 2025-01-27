@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Fed's big Trump question (Axios)</title>
+      <link>https://www.axios.com/2025/01/27/fed-cuts-trump-immigration-tariffs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/27/fed-cuts-trump-immigration-tariffs</guid>
+      <pubDate>Mon, 27 Jan 2025 16:58:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump team avoids Middle East escalation in first weekend in office (Axios)</title>
       <link>https://www.axios.com/2025/01/27/trump-middle-east-gaza-lebanon-israel-ceasefires</link>
       <author>Axios</author>
@@ -1418,13 +1425,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1110885</guid>
       <pubDate>Fri, 24 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insurers Failed to Comply With Mental Health Coverage Law, Department of Labor Report Finds (Propublica)</title>
-      <link>https://www.propublica.org/article/department-labor-investigation-health-insurance-doctors-healthcare</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/department-labor-investigation-health-insurance-doctors-healthcare</guid>
-      <pubDate>Fri, 24 Jan 2025 06:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
