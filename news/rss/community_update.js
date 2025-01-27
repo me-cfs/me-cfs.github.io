@@ -23,11 +23,15 @@ async function filterAndUpdateFeed() {
     const uniqueFeedItems = deduplicateItems(allFeedItems);
     
     // Log each feed's source URL and the number of items it contains
-feedUrls.forEach((url, index) => {
+    feedUrls.forEach((feedObj, index) => {
+  const feedUrl = feedObj.url || 'Unknown URL'; // Use 'Unknown URL' if the object doesn't have a URL
   const feedItemsCount = (allFeedItems[index] || []).length;
-  console.log(`Feed URL: ${url}`);
+
+  console.log(`Feed Name: ${feedObj.name || 'Unnamed Feed'}`);
+  console.log(`Feed URL: ${feedUrl}`);
   console.log(`Number of items fetched: ${feedItemsCount}`);
 });
+
     // load the localFeed from the file (the RSS feed hosted on my website)
     console.log('loading the local feed');
     let localFeed = await loadLocalFeed(localFile);
