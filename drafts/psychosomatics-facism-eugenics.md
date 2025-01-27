@@ -38,7 +38,7 @@ Eventually in the 1950s, the first edition of the DSM (sometimes referred to as 
 The takeaway from all this that is relevant to the next section, is that 20th century psychosomatics has pseudoscientific roots, and that it seeks not just to explain a few select illnesses as mind-body, but large swaths, and if allowed, the entirety of medicine. Echos of this can be seen in the 1980s for example where Cognitive-behavioural therapy was increasingly thought to improve breast cancer outcomes. 
 
 ## Psychosomatics, Eugenice, and Facism
-The eugenics movement was strongly based on genetic determinism, to the point that they saw both biological realities and sociopsychological realities as being caused by genetic factors. They framed criminality, poverty, illness, “deviant states” (queerness), being caused by hereditary factors.
+The eugenics movement was strongly based on genetic determinism, to the point that they saw both biological realities and sociopsychological realities as being caused by genetic factors. They framed criminality, poverty, illness, “deviant states” (queerness), as being caused by hereditary factors.
 
 Many chronic illnesses didn’t fit well into that paradigm. How could someone born perfectly healthy all of the sudden develop a vague and persistent state of disease, especially if that disease doesn’t follow obvious hereditary patterns. The psychosomatic movement offered a simplistic (and therefore “elegant”) solution to the disconnect between many chronic illnesses and eugenic theories. 
 
