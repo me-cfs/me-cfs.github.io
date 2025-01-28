@@ -30,7 +30,7 @@ module.exports = [
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
-      ...tList.medicine, ...tList.indepedenceMovements, 
+      ...tList.medicine, ...tList.independenceMovements, 
     ],
   },
   {
