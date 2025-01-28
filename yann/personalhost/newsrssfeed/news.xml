@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Consumer stress is on the rise (Axios)</title>
+      <link>https://www.axios.com/2025/01/28/consumers-car-payments-credit-cards</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/28/consumers-car-payments-credit-cards</guid>
+      <pubDate>Tue, 28 Jan 2025 16:13:51 +0000</pubDate>
+    </item>
+    <item>
       <title>How our Trump approval polling average works (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/trump-approval-polling-average-works/story?id=117999010</link>
       <author>Fivethirtyeight</author>
@@ -1360,6 +1367,13 @@
       <pubDate>Sat, 25 Jan 2025 17:52:01 GMT</pubDate>
     </item>
     <item>
+      <title>Four Israeli women soldiers freed as part of Gaza ceasefire deal (Axios)</title>
+      <link>https://www.axios.com/2025/01/25/israeli-women-soldiers-released-hamas-ceasefire</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/25/israeli-women-soldiers-released-hamas-ceasefire</guid>
+      <pubDate>Sat, 25 Jan 2025 17:36:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Kristi Noem wins Senate approval to lead Trump's DHS (Axios)</title>
       <link>https://www.axios.com/2025/01/25/kristi-noem-dhs-senate-confirms</link>
       <author>Axios</author>
@@ -1415,20 +1429,6 @@
       <author>RTS</author>
       <guid>28768573</guid>
       <pubDate>Sat, 25 Jan 2025 14:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hamas Frees 4 Israeli Soldiers As Part Of Gaza Ceasefire In Exchange For 200 Prisoners (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/hamas-frees-4-israeli-soldiers-gaza-ceasefire-exchange-200-prisoners_n_6794efc0e4b07cdb53ec9633</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/hamas-frees-4-israeli-soldiers-gaza-ceasefire-exchange-200-prisoners_n_6794efc0e4b07cdb53ec9633</guid>
-      <pubDate>Sat, 25 Jan 2025 14:46:49 -0000</pubDate>
-    </item>
-    <item>
-      <title>Législatives en Allemagne: «On voit une montée en puissance de l'AfD sur les réseaux sociaux» (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20250125-l%C3%A9gislatives-allemagne-mont%C3%A9e-puissance-de-l-afd-r%C3%A9seaux-sociaux-jeanette-s%C3%BCess-ifri</link>
-      <author>RFI</author>
-      <guid>d746799c-db22-11ef-be74-005056bf762b</guid>
-      <pubDate>Sat, 25 Jan 2025 14:26:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
