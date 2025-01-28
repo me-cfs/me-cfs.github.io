@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>«Trump n'aura pas le Groenland» affirme le ministre danois des Affaires étrangères (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250128-trump-n-aura-pas-le-groenland-affirme-le-ministre-danois-des-affaires-%C3%A9trang%C3%A8res</link>
+      <author>RFI</author>
+      <guid>aedefc16-dd90-11ef-b190-005056a97652</guid>
+      <pubDate>Tue, 28 Jan 2025 17:27:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing 538's presidential approval polling average for Donald Trump (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/trump-starts-term-weak-approval-rating/story?id=118146633</link>
       <author>Fivethirtyeight</author>
@@ -1332,6 +1339,13 @@
       <pubDate>Sat, 25 Jan 2025 23:13:00 GMT</pubDate>
     </item>
     <item>
+      <title>Rwandan army ‘ready to invade DRC’ and help rebels seize city (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city</guid>
+      <pubDate>Sat, 25 Jan 2025 23:07:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Allemagne: Elon Musk apparaît à nouveau en soutien au parti d'extrême droite AfD (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250125-allemagne-elon-musk-appara%C3%AEt-%C3%A0-nouveau-en-soutien-au-parti-d-extr%C3%AAme-droite-afd</link>
       <author>RFI</author>
@@ -1414,21 +1428,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</guid>
       <pubDate>Sat, 25 Jan 2025 16:25:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine can bring Azeri gas to Europe, Zelenskyy says					 (Politico)</title>
-      <link>https://www.politico.eu/article/ukraine-azerbaijan-gas-europe-slovakia-robert-fico-hungary-viktor-orban-energy-russia-vladimir-putin-volodymyr-zelenskyy/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ukraine-azerbaijan-gas-europe-slovakia-robert-fico-hungary-viktor-orban-energy-russia-vladimir-putin-volodymyr-zelenskyy/</guid>
-      <pubDate>Sat, 25 Jan 2025 16:08:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump fires inspectors general across government: report (Axios)</title>
-      <link>https://www.axios.com/2025/01/25/trump-fires-inspectors-general</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/25/trump-fires-inspectors-general</guid>
-      <pubDate>Sat, 25 Jan 2025 15:30:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
