@@ -48,7 +48,11 @@ function filterItems(items, localFeed, addAuthorTitle) {
         let title = content;
       }
     }
-    console.log('title: ' + title + ' link:' + item.link);
+    try {
+      console.log('title: ' + title + ' link: ' + item.link);
+    } catch (error) {
+      console.error('Error logging title or link:', error.message);
+    }
     if (!pubDate) {
       console.log(`Excluding item due to missing pubDate: ${JSON.stringify(item)}`);
       return false;
