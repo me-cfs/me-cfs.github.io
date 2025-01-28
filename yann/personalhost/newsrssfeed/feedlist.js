@@ -10,7 +10,7 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
-    exclusionWords: ['|', ...tList.siglePerson,],
+    exclusionWords: ['|', ...tList.singlePerson,],
     off: false,
   },
   
