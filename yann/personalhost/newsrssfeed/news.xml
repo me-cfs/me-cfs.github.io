@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Chancellerie fédérale dépose une troisième plainte pour falsification de signatures (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/nouvelle-plainte-pour-21-000-signatures-falsifiees-sur-5-initiatives-28771703.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28771703</guid>
+      <pubDate>Tue, 28 Jan 2025 16:35:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Consumer stress is on the rise (Axios)</title>
       <link>https://www.axios.com/2025/01/28/consumers-car-payments-credit-cards</link>
       <author>Axios</author>
@@ -1197,6 +1204,13 @@
       <pubDate>Sun, 26 Jan 2025 13:38:21 GMT</pubDate>
     </item>
     <item>
+      <title>Hamas Frees 4 Israeli Soldiers In Exchange For 200 Palestinian Prisoners As Ceasefire Holds (Huffington Post)</title>
+      <link>https://www.huffpost.com/entry/hamas-frees-4-israeli-soldiers-gaza-ceasefire-exchange-200-prisoners_n_6794efc0e4b07cdb53ec9633</link>
+      <author>Huffington Post</author>
+      <guid>https://www.huffpost.com/entry/hamas-frees-4-israeli-soldiers-gaza-ceasefire-exchange-200-prisoners_n_6794efc0e4b07cdb53ec9633</guid>
+      <pubDate>Sun, 26 Jan 2025 13:31:38 -0000</pubDate>
+    </item>
+    <item>
       <title>Musk tells far-right Germany AfD party "there's too much focus on past guilt" (Axios)</title>
       <link>https://www.axios.com/2025/01/26/musk-germany-afd-party-past-guilt-holocaust</link>
       <author>Axios</author>
@@ -1415,20 +1429,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/25/trump-los-angeles-fires-help-rebuild</guid>
       <pubDate>Sat, 25 Jan 2025 15:27:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Vert'libéraux appuient l'initiative pour un congé familial (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/conge-familial-les-vert-liberaux-soutiennent-l-initiative-de-18-semaines-28768596.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28768596</guid>
-      <pubDate>Sat, 25 Jan 2025 15:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Soutien des Vert-e-s à l'initiative pour un congé familial (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/conge-parental-les-verts-lancent-une-initiative-pour-18-semaines-par-parent-28768573.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28768573</guid>
-      <pubDate>Sat, 25 Jan 2025 14:56:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
