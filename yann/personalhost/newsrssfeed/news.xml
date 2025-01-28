@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Toujours en colère, les agriculteurs suisses estiment que leurs revendications n'ont pas été entendues (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/agriculteurs-suisses-colere-persistante-face-aux-revendications-ignorees-28770576.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28770576</guid>
+      <pubDate>Tue, 28 Jan 2025 20:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fighting between DRC army and M23 rebels rages in eastern city of Goma (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/jan/28/drc-democratic-republic-of-congo-army-m23-rebels-fighting-goma</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/jan/28/drc-democratic-republic-of-congo-army-m23-rebels-fighting-goma</guid>
+      <pubDate>Tue, 28 Jan 2025 19:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>White House "looking into" national security implications of DeepSeek's AI (Axios)</title>
+      <link>https://www.axios.com/2025/01/28/deepseek-ai-national-security-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/28/deepseek-ai-national-security-trump</guid>
+      <pubDate>Tue, 28 Jan 2025 19:48:24 +0000</pubDate>
+    </item>
+    <item>
       <title>White House defends inspectors general firings by citing Supreme Court ruling (Axios)</title>
       <link>https://www.axios.com/2025/01/28/white-house-ig-firings</link>
       <author>Axios</author>
@@ -24,6 +45,13 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5111210</guid>
       <pubDate>Tue, 28 Jan 2025 19:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Signs Sweeping Trans Military Ban (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/01/trump-transgender-military-ban-executive-order/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1111656</guid>
+      <pubDate>Tue, 28 Jan 2025 19:40:27 +0000</pubDate>
     </item>
     <item>
       <title>Scoop: Senate Democrats unify against GOP on ICC sanctions (Axios)</title>
@@ -1400,36 +1428,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/jan/26/hospital-attack-sudan-besieged-el-fasher-who</guid>
       <pubDate>Sun, 26 Jan 2025 09:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>News in Brief for the week of January 19th (ME/LC News)</title>
-      <link>https://www.s4me.info/threads/news-in-brief-january-2025.41981/#post-582686</link>
-      <author>ME/LC News</author>
-      <guid>https://med-mastodon.com/@s4me/113893979670041682</guid>
-      <pubDate>Sun, 26 Jan 2025 09:36:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bariolage Multi-Environnement (BME), le nouveau treillis des armées françaises (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250126-bariolage-multi-environnement-bme-le-nouveau-treillis-des-arm%C3%A9es-fran%C3%A7aises</link>
-      <author>RFI</author>
-      <guid>d62e240e-da43-11ef-beb7-005056a97652</guid>
-      <pubDate>Sun, 26 Jan 2025 08:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine left vital nuclear plants exposed to Russian bombs. Lawmakers want answers.					 (Politico)</title>
-      <link>https://www.politico.eu/article/ukraine-lawmakers-war-russia-bombs-nuclear-plant-energy-winter-blackout/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ukraine-lawmakers-war-russia-bombs-nuclear-plant-energy-winter-blackout/</guid>
-      <pubDate>Sun, 26 Jan 2025 06:46:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Belarus election: Putin’s grip on Minsk sickens opponents of Lukashenko regime					 (Politico)</title>
-      <link>https://www.politico.eu/article/vladimir-putins-grip-belarus-sicken-opponent-alexander-lukashenko-regime/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/vladimir-putins-grip-belarus-sicken-opponent-alexander-lukashenko-regime/</guid>
-      <pubDate>Sun, 26 Jan 2025 06:31:28 -0000</pubDate>
     </item>
   </channel>
 </rss>
