@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Germany’s Scholz lashes out at Musk’s ‘disgusting’ interventions in Europe					 (Politico)</title>
+      <link>https://www.politico.eu/article/olaf-scholz-germany-election-elon-musk-nazis-history/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/olaf-scholz-germany-election-elon-musk-nazis-history/</guid>
+      <pubDate>Tue, 28 Jan 2025 22:36:54 -0000</pubDate>
+    </item>
+    <item>
       <title>States' Medicaid portal access restored after lapse under Trump, but it's 'not functioning correctly' (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5111725-states-medicaid-portal-access/</link>
       <author>The Hill</author>
@@ -24,6 +32,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/28/trumps-funding-freezing-temporarily-halted-by-federal-judge</guid>
       <pubDate>Tue, 28 Jan 2025 22:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s “Wildly Illegal” Spending Gambit (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/01/trump-spending-memo-omb-impoundment/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1112039</guid>
+      <pubDate>Tue, 28 Jan 2025 22:12:31 +0000</pubDate>
     </item>
     <item>
       <title>Climate change primed LA to burn — catastrophically (Grist)</title>
@@ -710,6 +725,13 @@
       <author>SBS News</author>
       <guid>00000194-aa0c-de4d-ab97-ee6ca4020000</guid>
       <pubDate>Tue, 28 Jan 2025 00:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>INTERACTIVE: 2025 German election polls and prediction model (Economist)</title>
+      <link>https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The election in Tasmania’s Franklin represents everything about this political moment (Crikey)</title>
@@ -1406,27 +1428,6 @@
       <author>RTS</author>
       <guid>28769321</guid>
       <pubDate>Sun, 26 Jan 2025 16:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>'Sinner will be one of greatest players we've ever seen' (BBC)</title>
-      <link>https://www.bbc.com/sport/tennis/articles/ce8j3g8z0deo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/sport/tennis/articles/ce8j3g8z0deo#0</guid>
-      <pubDate>Sun, 26 Jan 2025 16:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title> The week ahead: Key developments impacting global politics &amp;amp; markets  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/the-week-ahead-key-developments-impacting-global-politics-markets-7</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/the-week-ahead-key-developments-impacting-global-politics-markets-7</guid>
-      <pubDate>Sun, 26 Jan 2025 18:22:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>L'Italie transfère à nouveau des migrants vers l'Albanie (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250126-l-italie-transf%C3%A8re-%C3%A0-nouveau-des-migrants-vers-l-albanie</link>
-      <author>RFI</author>
-      <guid>547f18da-dbf8-11ef-8c55-005056a97652</guid>
-      <pubDate>Sun, 26 Jan 2025 16:10:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
