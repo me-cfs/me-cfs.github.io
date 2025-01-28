@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Macron unveils plans to move ‘Mona Lisa,’ build new Louvre entrance as billions in budget cuts loom					 (Politico)</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-announce-new-multimillion-louvre-entrance-mona-lisa-government-debates-budget-cuts/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-announce-new-multimillion-louvre-entrance-mona-lisa-government-debates-budget-cuts/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:20:41 -0000</pubDate>
+    </item>
+    <item>
+      <title>Press Secretary Karoline Leavitt vows to hold media accountable for "lies" (Axios)</title>
+      <link>https://www.axios.com/2025/01/28/white-house-press-secretary-media-accountable</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/28/white-house-press-secretary-media-accountable</guid>
+      <pubDate>Tue, 28 Jan 2025 19:14:55 +0000</pubDate>
+    </item>
+    <item>
       <title>US Subsidiary of Chinese Chemical Conglomerate Gave $250,000 to Trump Inauguration (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/01/trump-inaugural-syngenta-china/</link>
       <author>Motherjones</author>
@@ -81,6 +96,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/538/trump-starts-term-weak-approval-rating/story?id=118146633</guid>
       <pubDate>Tue, 28 Jan 2025 17:26:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Rwanda does a Putin in Congo (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/01/28/rwanda-does-a-putin-in-congo</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/leaders/2025/01/28/rwanda-does-a-putin-in-congo</guid>
+      <pubDate>Tue, 28 Jan 2025 17:04:34 GMT</pubDate>
     </item>
     <item>
       <title>Trump's federal funding freeze is latest fiscal austerity signal (Axios)</title>
@@ -1408,27 +1430,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/jan/25/united-airlines-nigeria-washington-dc</guid>
       <pubDate>Sat, 25 Jan 2025 23:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rwandan army ‘ready to invade DRC’ and help rebels seize city (Guardian)</title>
-      <link>https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/global-development/2025/jan/25/rwandan-army-ready-to-invade-drc-and-help-rebels-seize-city</guid>
-      <pubDate>Sat, 25 Jan 2025 23:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Trump lifts Biden's hold on 2,000-pound bombs to Israel (Axios)</title>
-      <link>https://www.axios.com/2025/01/25/trump-israel-bomb-shipment-hold-gaza</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/25/trump-israel-bomb-shipment-hold-gaza</guid>
-      <pubDate>Sat, 25 Jan 2025 23:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Fires at Least 12 Inspectors General in Late-Night Purge (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</guid>
-      <pubDate>Sat, 25 Jan 2025 22:28:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
