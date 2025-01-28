@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>States' Medicaid portal access restored after lapse under Trump, but it's 'not functioning correctly' (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5111725-states-medicaid-portal-access/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5111725</guid>
+      <pubDate>Tue, 28 Jan 2025 22:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House defends spending freeze as Democrats spotlight pain points (Axios)</title>
+      <link>https://www.axios.com/2025/01/28/white-house-spending-freeze-medicaid-portals</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/28/white-house-spending-freeze-medicaid-portals</guid>
+      <pubDate>Tue, 28 Jan 2025 22:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's funding freezing temporarily halted by federal judge (Axios)</title>
+      <link>https://www.axios.com/2025/01/28/trumps-funding-freezing-temporarily-halted-by-federal-judge</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/28/trumps-funding-freezing-temporarily-halted-by-federal-judge</guid>
+      <pubDate>Tue, 28 Jan 2025 22:15:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Climate change primed LA to burn — catastrophically (Grist)</title>
       <link>https://grist.org/climate/climate-change-los-angeles-wildfire-attribution/</link>
       <author>Grist</author>
@@ -331,6 +352,13 @@
       <pubDate>Tue, 28 Jan 2025 17:13:06 +0200</pubDate>
     </item>
     <item>
+      <title>Why are Australia so much better than England? (BBC)</title>
+      <link>https://www.bbc.com/sport/cricket/articles/c04nepk34pdo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/cricket/articles/c04nepk34pdo#0</guid>
+      <pubDate>Tue, 28 Jan 2025 15:09:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump fires chair of National Labor Relations Board (Axios)</title>
       <link>https://www.axios.com/2025/01/28/trump-nlrb-gwynne-wilcox</link>
       <author>Axios</author>
@@ -408,6 +436,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/global-development/2025/jan/28/charities-reeling-from-usaid-freeze-warn-of-life-or-death-effects</guid>
       <pubDate>Tue, 28 Jan 2025 13:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Be careful with DeepSeek, Australia says - so is it safe to use? (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cx2k7r5nrvpo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cx2k7r5nrvpo#0</guid>
+      <pubDate>Tue, 28 Jan 2025 12:56:39 GMT</pubDate>
     </item>
     <item>
       <title>France: un narcotrafic en évolution constante, des canaux d'approvisionnement très flexibles (RFI)</title>
@@ -1392,43 +1427,6 @@
       <author>RFI</author>
       <guid>547f18da-dbf8-11ef-8c55-005056a97652</guid>
       <pubDate>Sun, 26 Jan 2025 16:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>How the roots of the ‘PayPal mafia’ extend to apartheid South Africa (Guardian)</title>
-      <link>https://www.theguardian.com/technology/2025/jan/26/elon-musk-peter-thiel-apartheid-south-africa</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/technology/2025/jan/26/elon-musk-peter-thiel-apartheid-south-africa</guid>
-      <pubDate>Sun, 26 Jan 2025 16:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guy Parmelin critique les restrictions d'accès des Etats-Unis sur les puces informatiques (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/parmelin-critique-les-restrictions-us-sur-les-puces-ia-pour-la-suisse-28769301.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28769301</guid>
-      <pubDate>Sun, 26 Jan 2025 15:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Turkey pushing to help EU replace Ukraine gas transit					 (Politico)</title>
-      <link>https://www.politico.eu/article/turkey-europe-gas-transit-ukraine-replace-cyprus/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/turkey-europe-gas-transit-ukraine-replace-cyprus/</guid>
-      <pubDate>Sun, 26 Jan 2025 15:46:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s Habeck warns of an Austria-style right-wing wave					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-robert-habeck-austria-style-right-wing-wave-germany-warning/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-robert-habeck-austria-style-right-wing-wave-germany-warning/</guid>
-      <pubDate>Sun, 26 Jan 2025 15:31:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>Vance tells Catholic Bishops to 'look in the mirror' over immigration policy concerns (Axios)</title>
-      <link>https://www.axios.com/2025/01/26/vance-trump-immigration-executive-order-catholic-criticism</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/26/vance-trump-immigration-executive-order-catholic-criticism</guid>
-      <pubDate>Sun, 26 Jan 2025 15:30:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
