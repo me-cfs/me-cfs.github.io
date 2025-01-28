@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>US Subsidiary of Chinese Chemical Conglomerate Gave $250,000 to Trump Inauguration (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/01/trump-inaugural-syngenta-china/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1111657</guid>
+      <pubDate>Tue, 28 Jan 2025 18:34:26 +0000</pubDate>
+    </item>
+    <item>
       <title>France: le Premier ministre François Bayrou divise son camp en parlant de «submersion» migratoire (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250128-france-le-premier-ministre-fran%C3%A7ois-bayrou-divise-son-camp-en-parlant-de-submersion-migratoire</link>
       <author>RFI</author>
@@ -1422,13 +1429,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/24/us/politics/trump-fires-inspectors-general.html</guid>
       <pubDate>Sat, 25 Jan 2025 22:28:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: Elon Musk apparaît à nouveau en soutien au parti d'extrême droite AfD (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250125-allemagne-elon-musk-appara%C3%AEt-%C3%A0-nouveau-en-soutien-au-parti-d-extr%C3%AAme-droite-afd</link>
-      <author>RFI</author>
-      <guid>b196001c-db56-11ef-9939-005056bf762b</guid>
-      <pubDate>Sat, 25 Jan 2025 21:15:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
