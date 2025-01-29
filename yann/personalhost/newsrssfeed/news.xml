@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Zurichois Philipp Kutter ne sera finalement pas candidat au Conseil fédéral (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/philipp-kutter-renonce-au-conseil-federal-pour-raisons-familiales-28772496.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28772496</guid>
+      <pubDate>Wed, 29 Jan 2025 10:17:43 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Merz’s anti-migration drive triggers backlash over far-right support					 (Politico)</title>
       <link>https://www.politico.eu/article/germany-friedrich-merz-cdu-political-tightrope-far-right-votes-afd-migration-crackdown/</link>
@@ -39,6 +46,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/29/native-american-immigration-raids-navajo-nation</guid>
       <pubDate>Wed, 29 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Defense Department Directive to Expand Access to Military Courts Falls Short of Federal Law’s Requirements (Propublica)</title>
+      <link>https://www.propublica.org/article/military-courts-access-navy-propublica-lawsuit</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/military-courts-access-navy-propublica-lawsuit</guid>
+      <pubDate>Wed, 29 Jan 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title>"Take this fight to every town hall": Trump's funding freeze awakens the "Resistance" (Axios)</title>
@@ -1254,6 +1268,13 @@
       <pubDate>Mon, 27 Jan 2025 15:40:36 +0000</pubDate>
     </item>
     <item>
+      <title>DRC conflict: M23 rebels enter Goma after claiming capture of city – as it happened (Guardian)</title>
+      <link>https://www.theguardian.com/world/live/2025/jan/27/democratic-republic-congo-conflict-m23-rebels-goma-latest-updates-live</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/live/2025/jan/27/democratic-republic-congo-conflict-m23-rebels-goma-latest-updates-live</guid>
+      <pubDate>Mon, 27 Jan 2025 15:37:07 GMT</pubDate>
+    </item>
+    <item>
       <title>What Trump Voters Want for the Future of America (New York Times)</title>
       <link>https://www.nytimes.com/2025/01/25/magazine/trump-supporters-maga-america-future.html</link>
       <author>New York Times</author>
@@ -1406,27 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/27/trump-health-communications-medical-researchers</guid>
       <pubDate>Mon, 27 Jan 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stunning breakthroughs from China's DeepSeek AI alarm U.S. rivals (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/deepseek-ai-model-china-openai-rival</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/deepseek-ai-model-china-openai-rival</guid>
-      <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Montana Eyes $30M Revamp of Mental Health, Developmental Disability Facilities (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/montana-behavioral-health-developmental-disability-capital-project-spending/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=1974369</guid>
-      <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An Arm and a Leg: The ‘Shkreli Awards’ — For Dysfunction and Profiteering in Health Care (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/podcast/an-arm-and-a-leg-shkreli-awards-dysfunction-profiteering-health-care/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=1973842&amp;post_type=podcast&amp;preview_id=1973842</guid>
-      <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
