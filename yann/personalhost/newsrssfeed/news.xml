@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Lammy tells Rwanda it is putting $1bn in aid ‘under threat’ in DRC invasion (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/jan/29/rwanda-global-aid-under-threat-drc-invasion-david-lammy</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/jan/29/rwanda-global-aid-under-threat-drc-invasion-david-lammy</guid>
+      <pubDate>Wed, 29 Jan 2025 19:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allemagne: un vote parlementaire rompt le «cordon sanitaire» contre l'extrême-droite (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250129-allemagne-un-vote-parlementaire-rompt-le-cordon-sanitaire-contre-l-extr%C3%AAme-droite</link>
+      <author>RFI</author>
+      <guid>cb89ed3e-de6d-11ef-87c6-005056a97652</guid>
+      <pubDate>Wed, 29 Jan 2025 18:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Democrats hammer RFK Jr. on shifting vaccine, abortion views (The Hill)</title>
+      <link>https://thehill.com/homenews/senate/5113645-kennedy-democrats-abortion-vaccines-hearing/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5113645</guid>
+      <pubDate>Wed, 29 Jan 2025 18:50:30 +0000</pubDate>
+    </item>
+    <item>
       <title>The Guardian view on conflict in the Democratic Republic of the Congo: a disaster with many makers (Guardian)</title>
       <link>https://www.theguardian.com/commentisfree/2025/jan/29/the-guardian-view-on-conflict-in-the-democratic-republic-of-the-congo-a-disaster-with-many-makers</link>
       <author>Guardian</author>
@@ -110,6 +131,13 @@
       <author>RTS</author>
       <guid>28772811</guid>
       <pubDate>Wed, 29 Jan 2025 15:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>France : la culture sportive est-elle en péril ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250129-france-la-culture-sportive-est-elle-en-p%C3%A9ril</link>
+      <author>RFI</author>
+      <guid>dac4ba88-de52-11ef-8328-005056a97652</guid>
+      <pubDate>Wed, 29 Jan 2025 15:08:10 GMT</pubDate>
     </item>
     <item>
       <title>Climate change set the table for Los Angeles wildfires (Arstechnica)</title>
@@ -1402,34 +1430,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/how-to-damage-us-manufacturing</guid>
       <pubDate>Tue, 28 Jan 2025 00:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fires continue in Victoria as severe weather warnings issued (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/fires-continue-in-victoria-as-severe-weather-warnings-issued/wy4sbjnfb</link>
-      <author>SBS News</author>
-      <guid>00000194-aa0c-de4d-ab97-ee6ca4020000</guid>
-      <pubDate>Tue, 28 Jan 2025 00:05:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>INTERACTIVE: 2025 German election polls and prediction model (Economist)</title>
-      <link>https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The election in Tasmania’s Franklin represents everything about this political moment (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/01/28/peter-george-franklin-tasmania-election-salmon-farming/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1190762</guid>
-      <pubDate>Mon, 27 Jan 2025 23:39:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Tax Cuts Not Just Good For Billionaires, Say Billionaires (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/01/guardian-koch-trump-tax-cuts-extension/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1111659</guid>
-      <pubDate>Mon, 27 Jan 2025 23:30:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
