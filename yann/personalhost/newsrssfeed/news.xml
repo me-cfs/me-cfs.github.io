@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une loi spatiale pour renforcer la place de la Suisse dans le secteur (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-se-dote-d-une-loi-spatiale-pour-encadrer-l-exploitation-des-satellites-28772804.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28772804</guid>
+      <pubDate>Wed, 29 Jan 2025 15:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Confédération prévoit 2,7 milliards de francs d'économies en 2027 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/economies-federales-2-7-milliards-vises-en-2027-social-et-climat-touches-28772811.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28772811</guid>
+      <pubDate>Wed, 29 Jan 2025 15:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Climate change set the table for Los Angeles wildfires (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/01/climate-change-set-the-table-for-los-angeles-wildfires/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/01/climate-change-set-the-table-for-los-angeles-wildfires/</guid>
+      <pubDate>Wed, 29 Jan 2025 15:05:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Le Conseil fédéral rejette les initiatives sur "la Suisse à 10 millions" et "le fonds climat" (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/conseil-federal-rejette-initiatives-sur-immigration-et-climat-les-details-28772552.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1407,27 +1428,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/01/27/amid-talk-of-a-ceasefire-ukraines-front-line-is-crumbling</guid>
       <pubDate>Mon, 27 Jan 2025 16:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump team avoids Middle East escalation in first weekend in office (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/trump-middle-east-gaza-lebanon-israel-ceasefires</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/trump-middle-east-gaza-lebanon-israel-ceasefires</guid>
-      <pubDate>Mon, 27 Jan 2025 16:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>How My Trip to Quit Sugar Quickly Became a Journey Into Hell (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/25/magazine/quit-sugar.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/25/magazine/quit-sugar.html</guid>
-      <pubDate>Mon, 27 Jan 2025 16:22:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA Values Are Not Shared by Most UK Residents (West England Bylines)</title>
-      <link>https://westenglandbylines.co.uk/politics/maga-values-are-not-shared-by-most-uk-residents/</link>
-      <author>West England Bylines</author>
-      <guid>https://westenglandbylines.co.uk/politics/maga-values-are-not-shared-by-most-uk-residents/</guid>
-      <pubDate>Mon, 27 Jan 2025 16:11:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
