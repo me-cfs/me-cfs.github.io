@@ -5,6 +5,53 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Von der Leyen builds bonfire of EU’s environmental red tape					 (Politico)</title>
+      <link>https://www.politico.eu/article/ursula-von-der-leyen-eu-environmental-regulation-industry-competition/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ursula-von-der-leyen-eu-environmental-regulation-industry-competition/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:11:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>France: une jeune fille originaire du Burkina Faso arrêtée dans son collège pour être expulsée (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250129-france-une-jeune-fille-originaire-du-burkina-faso-arr%C3%AAt%C3%A9e-dans-son-coll%C3%A8ge-pour-%C3%AAtre-expuls%C3%A9e</link>
+      <author>RFI</author>
+      <guid>c3637e60-dde4-11ef-a4d8-005056bf762b</guid>
+      <pubDate>Wed, 29 Jan 2025 04:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+						ECB set to cut rates as Europe eyes Trump tariffs					 (Politico)</title>
+      <link>https://www.politico.eu/article/ecb-cut-rates-europes-eyes-us-donald-trump-tariffs/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ecb-cut-rates-europes-eyes-us-donald-trump-tariffs/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:56:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Britain’s Rachel Reeves needs a growth miracle					 (Politico)</title>
+      <link>https://www.politico.eu/article/labour-chancellor-rachel-reeves-speech-uk-economy-growth-deregulation/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/labour-chancellor-rachel-reeves-speech-uk-economy-growth-deregulation/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:41:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Europe’s AI hopes rebound after DeepSeek success					 (Politico)</title>
+      <link>https://www.politico.eu/article/europe-ai-scene-hope-china-deepseek-ai-model-r1-success/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/europe-ai-scene-hope-china-deepseek-ai-model-r1-success/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:26:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						EU lets Russian LNG slip in new sanctions package					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-lets-russian-gas-slip-again-in-new-sanctions-package/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-lets-russian-gas-slip-again-in-new-sanctions-package/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:11:19 -0000</pubDate>
+    </item>
+    <item>
       <title>France: Emmanuel Macron essaie de se réinventer avec la renaissance du Louvre (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250129-france-emmanuel-macron-essaie-de-se-r%C3%A9inventer-avec-la-renaissance-du-louvre</link>
       <author>RFI</author>
@@ -202,6 +249,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/28/trump-immigrants-criminals-white-house-briefing</guid>
       <pubDate>Tue, 28 Jan 2025 21:17:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Caroline Kennedy Calls RFK Jr. a ‘Predator’ in Letter to Senators (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/28/health/caroline-kennedy-rfk-jr-hhs-confirmation.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/28/health/caroline-kennedy-rfk-jr-hhs-confirmation.html</guid>
+      <pubDate>Tue, 28 Jan 2025 21:12:26 +0000</pubDate>
     </item>
     <item>
       <title>Nvidia is in danger of losing its monopoly-like margins (Economist)</title>
@@ -1377,56 +1431,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/israel-blocks-palestinians-returning-home-northern-gaza-ceasefire_n_6796632de4b09bc16a07064d</guid>
       <pubDate>Mon, 27 Jan 2025 01:50:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>South Korea's impeached president indicted on corruption charges over martial law attempt (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/yoon-becomes-south-koreas-first-sitting-president-to-be-indicted</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/yoon-becomes-south-koreas-first-sitting-president-to-be-indicted</guid>
-      <pubDate>Mon, 27 Jan 2025 01:46:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel-Lebanon ceasefire extension announced by White House, avoiding renewed fighting (Axios)</title>
-      <link>https://www.axios.com/2025/01/26/israel-lebanon-ceasefire-extended-trump-white-house</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/26/israel-lebanon-ceasefire-extended-trump-white-house</guid>
-      <pubDate>Mon, 27 Jan 2025 01:01:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>NSW, Victoria ‘critically important’ in federal election, but some NSW seats still lack Liberal candidates (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/01/27/nsw-victoria-liberal-party-election-seats/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1191018</guid>
-      <pubDate>Mon, 27 Jan 2025 00:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat of 'uncontrollable' bushfires as heatwave warnings issued for most of Australia (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/threat-of-uncontrollable-bushfires-as-heatwave-warnings-issued-for-most-of-australia/tnxrdcx4k</link>
-      <author>SBS News</author>
-      <guid>00000194-a51e-d20b-affe-ed5e67b70000</guid>
-      <pubDate>Mon, 27 Jan 2025 00:54:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Putting EU troops in Greenland makes sense, bloc’s top military official says					 (Politico)</title>
-      <link>https://www.politico.eu/article/top-eu-military-official-stationing-eu-troops-in-greenland-makes-sense/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/top-eu-military-official-stationing-eu-troops-in-greenland-makes-sense/</guid>
-      <pubDate>Mon, 27 Jan 2025 00:44:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>Israel to let Palestinians move to northern Gaza on Monday after hostage deal crisis solved (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/israel-palestinians-northern-gaza-move-hostage-deal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/israel-palestinians-northern-gaza-move-hostage-deal</guid>
-      <pubDate>Mon, 27 Jan 2025 00:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump signs executive order to examine FEMA overhaul (Axios)</title>
-      <link>https://www.axios.com/2025/01/26/trump-fema-executive-order</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/26/trump-fema-executive-order</guid>
-      <pubDate>Sun, 26 Jan 2025 23:54:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
