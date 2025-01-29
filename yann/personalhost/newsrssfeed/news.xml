@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le réseau social TikTok ouvre une filiale en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/tiktok-s-implante-en-suisse-nouveau-bureau-a-zurich-malgre-les-defis-28772096.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28772096</guid>
+      <pubDate>Wed, 29 Jan 2025 07:53:03 GMT</pubDate>
+    </item>
+    <item>
       <title>‘I was told books don’t sell here. I knew that wasn’t true’: the English teacher shaking up Nigeria’s publishing scene (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/jan/29/new-nigerian-writers-othuke-ominiabohs-novels-masobe-books</link>
       <author>Guardian</author>
@@ -1419,13 +1426,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/26/world/americas/colombia-us-deportation-flights.html</guid>
       <pubDate>Mon, 27 Jan 2025 07:03:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>ICE arrests 956 in 1 day, as Trump administration immigration enforcement crackdown ramps up (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/immigrant-arrests-ice-raids-trump-administration</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/immigrant-arrests-ice-raids-trump-administration</guid>
-      <pubDate>Mon, 27 Jan 2025 06:13:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
