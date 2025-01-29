@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Vers un net rejet de l'initiative pour la responsabilité environnementale, selon le deuxième sondage SSR (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/vers-un-net-rejet-de-l-initiative-pour-la-responsabilite-environnementale-selon-le-deuxieme-sondage-ssr-28770512.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28770512</guid>
+      <pubDate>Wed, 29 Jan 2025 04:58:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Pentagon says it's pulling Gen. Milley's security detail, clearance (Axios)</title>
       <link>https://www.axios.com/2025/01/29/mark-milley-hegseth-trump-security-rank</link>
       <author>Axios</author>
@@ -1423,13 +1430,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-eu-trade-deals-tariffs-ursula-von-der-leyen-maros-sefcovic/</guid>
       <pubDate>Mon, 27 Jan 2025 03:46:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump pausing Colombia tariffs after deal on "unrestricted acceptance" of migrants, WH says (Axios)</title>
-      <link>https://www.axios.com/2025/01/27/trump-colombia-tariffs-paused</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/27/trump-colombia-tariffs-paused</guid>
-      <pubDate>Mon, 27 Jan 2025 03:39:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
