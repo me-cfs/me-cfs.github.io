@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Fiscalité des entreprises en France: la grogne de patron de LMVH, Bernard Arnault (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250129-fiscalit%C3%A9-des-entreprises-en-france-la-grogne-de-patron-de-lmvh-bernard-arnault</link>
+      <author>RFI</author>
+      <guid>2e5e5968-de46-11ef-aee5-005056a97652</guid>
+      <pubDate>Wed, 29 Jan 2025 13:40:42 GMT</pubDate>
+    </item>
+    <item>
       <title>M23 Rebels Consolidate Control over Key City in DR Congo (Bellingcat)</title>
       <link>https://www.bellingcat.com/news/2025/01/29/m23-rebels-goma-congo-fighting-clashes-drc-kivu-control/</link>
       <author>Bellingcat</author>
@@ -1420,13 +1427,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/jan/27/refugees-justice-hopes-crushed-italy-releases-libya-war-crimes-suspect-osama-najim</guid>
       <pubDate>Mon, 27 Jan 2025 14:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: objectif législatives pour le président du RN Jordan Bardella (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250127-france-objectif-l%C3%A9gislatives-pour-le-pr%C3%A9sident-du-rn-jordan-bardella</link>
-      <author>RFI</author>
-      <guid>0d70962e-dcb3-11ef-a557-005056a97652</guid>
-      <pubDate>Mon, 27 Jan 2025 14:34:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
