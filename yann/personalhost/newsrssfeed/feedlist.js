@@ -45,7 +45,7 @@ module.exports = [
     inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
-    exclusionWods: [...tList.nonInformativeTitle, ],
+    exclusionWods: [...tList.nonInformativeTitle, "war latest",],
     urlBlacklist: ['video'], 
   },
   { // Only Europe
@@ -79,7 +79,7 @@ module.exports = [
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
       'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
       "Italie", "Autriche", ...tList.important, ...tList.war, "Croatie", 
-      "Allemagne", 'Baltique', 
+      "Allemagne", 'Baltique', "Serbie", "Espagne", 
     ],
   },
   { // headlines
@@ -87,7 +87,7 @@ module.exports = [
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
-      ...tList.fluffyTitle, ...tList.nonInformativeTitle, ...tList.singlePerson, 
+      ...tList.fluffyTitle, ...tList.nonInformativeTitle, ...tList.singlePerson, "emplois",
     ],
   },
 
@@ -105,8 +105,8 @@ module.exports = [
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
       ...tList.weather, 'steel', 'reality check', 'mortgage rate',
-      'documentary', 'director', 'top risk', 'bremmer', "2024",
-      ...tList.clickbait, ...tList.singlePerson, "denies effort",
+      'documentary', 'director', 'top risk', 'bremmer', "2024", "you're", 
+      ...tList.clickbait, ...tList.singlePerson, "denies effort", "transgender", 
     ],
     minCharsTitle: 20,
   },
@@ -114,7 +114,9 @@ module.exports = [
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
     off: false,
-    exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle],
+    exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle, "How",
+      
+    ],
     cutoffDate: new Date('2024-12-10')
   },
   {
@@ -122,9 +124,8 @@ module.exports = [
     url: 'https://grist.org/feed/',
     off: false,
     inclusionWords: [...tList.usPolitics, ...tList.environment,
-      ...tList.nonInformativeTitle,
     ],
-    exclusionWords: [...tList.nonInformativeTitle],
+    exclusionWords: [...tList.nonInformativeTitle, "catastrophic",],
     minCharsTitle: 15,
   },
   {
@@ -133,7 +134,9 @@ module.exports = [
     url: 'https://thehill.com/policy/healthcare/feed/',
     off: false,
     inclusionWords: [...tList.usPolitics],
-    exclusionWords: ['rage', ...tList.nonInformativeTitle, ...tList.clickbait],
+    exclusionWords: ['rage', ...tList.nonInformativeTitle, ...tList.clickbait,
+      "gender",
+    ],
   },
   {
     name: 'Inside Climate News',
@@ -159,6 +162,7 @@ module.exports = [
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
     exclusionWords: [...tList.nonInformativeTitle],
+    minCharsTitle: 15,
   },
   {
     // Most Viewed
@@ -231,6 +235,7 @@ module.exports = [
     url: 'https://www.amnesty.org/en/rss/',
     inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity,
       'native', 'Myannmar', ...tList.prison, 'Angola', ...tList.humanRights, ...tList.environment,
+      "DRC", "USA", 
     ],
   },
   {
@@ -264,7 +269,7 @@ module.exports = [
     inclusionWords: ['microbiology', 'anarchism', 'astrobio', ...tList.prehistory, ...tList.medicine,
       ...tList.activism, ...tList.independenceMovements, 'secret weapon', 'greeks and romans',
       'Zimbabwe', 'data centre', 'invasive species', ...tList.prison, ...tList.technology,
-      ...tList.environment, ...tList.location, "West Africa", "randomness", 
+      ...tList.environment, ...tList.location, "West Africa", "randomness", "Africa",
     ],
   },
   {
@@ -281,7 +286,7 @@ module.exports = [
     ],
     off: false,
     urlExclusionWords: ['business', 'finance'],
-    minCharsTitle: 15,
+    minCharsTitle: 18,
   },
   {
     name: 'Economist the World this Week',
@@ -311,7 +316,7 @@ module.exports = [
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
       ...tList.cybersecurity, ...tList.important, "Georgia", ...tList.humanRights,
-      "Cameroon", "Thailand", "Lebanon", "Nigeria", 'Canada',
+      "Cameroon", "Thailand", "Lebanon", "Nigeria", 'Canada', "Gaza", 
     ],
   },
   {
@@ -330,7 +335,7 @@ module.exports = [
     url: 'https://www.semafor.com/rss.xml',
     inclusionWords: [...tList.location, ...tList.people, 'China hack',
       'Emirati', 'Sudan', "Turkey", "Carbon Emissions", "China",
-      "Pyongyang",
+      "Pyongyang", "Guatemala",
     ],
     exclusionWords: [...tList.culture],
   },
