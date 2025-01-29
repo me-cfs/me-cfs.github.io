@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What polling tells us about Americans' support for Trump's mass deportations (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/americans-support-trumps-mass-deportations/story?id=118194123</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/americans-support-trumps-mass-deportations/story?id=118194123</guid>
+      <pubDate>Wed, 29 Jan 2025 18:34:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>The $50,000 reason some Australian music festivals are calling it quits (SBS News)</title>
+      <link>https://www.sbs.com.au/news/the-feed/article/why-do-nsw-music-festivals-foot-the-bill-for-their-police-presence/clpfhl8j3</link>
+      <author>SBS News</author>
+      <guid>00000194-aade-d20b-affe-eade8f8f0000</guid>
+      <pubDate>Wed, 29 Jan 2025 18:30:16 +0000</pubDate>
+    </item>
+    <item>
       <title>White House rescinds Trump's funding freeze after massive backlash (Axios)</title>
       <link>https://www.axios.com/2025/01/29/federal-funding-freeze-memo-rescinded</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/29/federal-funding-freeze-memo-rescinded</guid>
       <pubDate>Wed, 29 Jan 2025 18:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Don’t let Donald Trump see our Big Mac index (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/01/29/dont-let-donald-trump-see-our-big-mac-index</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/01/29/dont-let-donald-trump-see-our-big-mac-index</guid>
+      <pubDate>Wed, 29 Jan 2025 17:54:35 GMT</pubDate>
     </item>
     <item>
       <title>‘Paranoia and distrust’: How Trump’s mass firing of government watchdogs will affect climate policy (Grist)</title>
@@ -1409,27 +1430,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/27/quakers-trump-immigration-raid-churches-lawsuit</guid>
       <pubDate>Mon, 27 Jan 2025 22:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats call on White House to restore NIH operations (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5109147-democrats-white-house-nih-operations/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5109147</guid>
-      <pubDate>Mon, 27 Jan 2025 22:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Stocks Sink Amid Fears Over DeepSeek and Chinese A.I. Advancements (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/27/business/us-stock-market-deepseek-ai-sp500-nvidia.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/27/business/us-stock-market-deepseek-ai-sp500-nvidia.html</guid>
-      <pubDate>Mon, 27 Jan 2025 21:53:05 +0000</pubDate>
-    </item>
-    <item>
-      <title> Trump &amp;#x27;helped&amp;#x27; persuade Hungary to unblock EU Russia sanctions, Polish FM claims  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/trump-helped-persuade-hungary-to-unblock-eu-russia-sanctions-polish-fm-claims</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/trump-helped-persuade-hungary-to-unblock-eu-russia-sanctions-polish-fm-claims</guid>
-      <pubDate>Mon, 27 Jan 2025 23:51:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
