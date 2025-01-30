@@ -5,6 +5,34 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/01/30/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/b664bb6qnhkabai8erlnadttoio186b3</guid>
+      <pubDate>Thu, 30 Jan 2025 15:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/01/30/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/79d2vdubm9crolc6nnc4ln9600nb5rf5</guid>
+      <pubDate>Thu, 30 Jan 2025 15:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/01/30/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/ahr4bterdfv0dbd3f0j0qasm7n7kfqsp</guid>
+      <pubDate>Thu, 30 Jan 2025 15:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sierra Leone: Authorities must release and guarantee fair trial for TV personality detained under accusations of insulting the President and First Lady (Amnesty International)</title>
+      <link>https://www.amnesty.org/en/latest/news/2025/01/sierra-leone-fair-trial-hawa-hunt/</link>
+      <author>Amnesty International</author>
+      <guid>https://www.amnesty.org/en/?p=222206</guid>
+      <pubDate>Thu, 30 Jan 2025 15:36:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Les parents du djihadiste suisse parti en Syrie écopent de peines avec sursis (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/les-parents-du-djihadiste-suisse-parti-en-syrie-ecopent-de-peines-avec-sursis-28774379.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1399,34 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/28/white-house-press-secretary-media-accountable</guid>
       <pubDate>Tue, 28 Jan 2025 19:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>US Subsidiary of Chinese Chemical Conglomerate Gave $250,000 to Trump Inauguration (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/01/trump-inaugural-syngenta-china/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1111657</guid>
-      <pubDate>Tue, 28 Jan 2025 18:34:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: le Premier ministre François Bayrou divise son camp en parlant de «submersion» migratoire (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250128-france-le-premier-ministre-fran%C3%A7ois-bayrou-divise-son-camp-en-parlant-de-submersion-migratoire</link>
-      <author>RFI</author>
-      <guid>135cd610-dd9e-11ef-baa1-005056bf762b</guid>
-      <pubDate>Tue, 28 Jan 2025 18:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>What the L.A. wildfires could mean for the 2028 Olympics (Axios)</title>
-      <link>https://www.axios.com/2025/01/28/la-wildfires-2028-olympics</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/28/la-wildfires-2028-olympics</guid>
-      <pubDate>Tue, 28 Jan 2025 18:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Many Students Have Been Expelled Under Tennessee’s School Threats Law? There’s No Clear Answer. (Propublica)</title>
-      <link>https://www.propublica.org/article/tennessee-school-threat-law-expulsions-data</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/tennessee-school-threat-law-expulsions-data</guid>
-      <pubDate>Tue, 28 Jan 2025 13:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
