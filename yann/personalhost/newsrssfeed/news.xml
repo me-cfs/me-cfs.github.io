@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Neo-Nazis Linked to “Terrorist Activities” to Host Budapest Concert (Bellingcat)</title>
+      <link>https://www.bellingcat.com/news/2025/01/30/neo-nazis-linked-to-terrorist-activities-to-host-budapest-concert/</link>
+      <author>Bellingcat</author>
+      <guid>https://www.bellingcat.com/?p=47752</guid>
+      <pubDate>Thu, 30 Jan 2025 10:04:28 +0000</pubDate>
+    </item>
+    <item>
       <title>The Elon-ification of the federal government (Axios)</title>
       <link>https://www.axios.com/2025/01/30/elon-musk-government-takeover-federal-workers</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1971284</guid>
       <pubDate>Thu, 30 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the Wild West of School Voucher Expansions, States Rely on Untested Companies, With Mixed Results (Propublica)</title>
+      <link>https://www.propublica.org/article/school-voucher-management-classwallet-odyssey-merit-student-first</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/school-voucher-management-classwallet-odyssey-merit-student-first</guid>
+      <pubDate>Thu, 30 Jan 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title>Flood Study Calls for Wide-Ranging Measures to Control Bigger Storms Coming With Climate Change (Inside Climate News)</title>
@@ -1412,20 +1426,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/28/gary-peters-retiring-senate-battleground-michigan</guid>
       <pubDate>Tue, 28 Jan 2025 15:05:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Pete Buttigieg taking "serious look" at Michigan Senate race in 2026 (Axios)</title>
-      <link>https://www.axios.com/2025/01/28/pete-buttigieg-michigan-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/28/pete-buttigieg-michigan-senate</guid>
-      <pubDate>Tue, 28 Jan 2025 15:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Listen to the Latest ‘KFF Health News Minute’ (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2025/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=1966416&amp;post_type=article&amp;preview_id=1966416</guid>
-      <pubDate>Tue, 28 Jan 2025 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
