@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ranked: Which European politicians are chummiest with Trump					 (Politico)</title>
+      <link>https://www.politico.eu/article/chase-us-president-donald-trump-europe-politician-giorgia-meloni-viktor-orban-nigel-farage-eric-zemmour/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/chase-us-president-donald-trump-europe-politician-giorgia-meloni-viktor-orban-nigel-farage-eric-zemmour/</guid>
+      <pubDate>Thu, 30 Jan 2025 14:08:42 -0000</pubDate>
+    </item>
+    <item>
       <title>Jailed British-Egyptian dissident may give up both citizenships over failure to be released (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/jan/30/jailed-british-egyptian-dissident-may-give-up-both-citizenships-over-failure-to-be-released</link>
       <author>Guardian</author>
@@ -24,6 +32,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/lithuania-consider-sending-troops-to-ukraine-for-peacekeeping-mission-chief-commander-says</guid>
       <pubDate>Thu, 30 Jan 2025 15:08:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Hamas releases another eight hostages as part of Gaza ceasefire deal (Axios)</title>
+      <link>https://www.axios.com/2025/01/30/hamas-releases-another-eight-hostages-as-part-of-gaza-ceasefire-deal</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/30/hamas-releases-another-eight-hostages-as-part-of-gaza-ceasefire-deal</guid>
+      <pubDate>Thu, 30 Jan 2025 13:08:02 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1413,20 +1428,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/jan/28/giorgia-meloni-invesigation-repatriation-osama-najim-libya</guid>
       <pubDate>Tue, 28 Jan 2025 18:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>En Serbie, le gouvernement vacille (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250128-en-serbie-le-gouvernement-vacille</link>
-      <author>RFI</author>
-      <guid>6d348af4-dda1-11ef-8e87-005056bf762b</guid>
-      <pubDate>Tue, 28 Jan 2025 17:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: la lutte contre le narcotrafic «priorité absolue» avec une proposition de loi examinée au Sénat (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250128-france-la-lutte-contre-le-narcotrafic-priorit%C3%A9-absolue-avec-une-proposition-de-loi-examin%C3%A9e-au-s%C3%A9nat</link>
-      <author>RFI</author>
-      <guid>82d0de58-dd83-11ef-b197-005056a97652</guid>
-      <pubDate>Tue, 28 Jan 2025 17:50:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
