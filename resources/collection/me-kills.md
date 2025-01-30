@@ -8,7 +8,8 @@ tags:
   - CFS death
 canonical_url: "https://mecfsadvocacy.org/resources/collection/me-kills.html"
 ---
-  
+
+* https://www.legacy.com/us/obituaries/name/wendy-gish-obituary?id=57356998
 * https://bsky.app/profile/cabruce.bsky.social/post/3lgnx3tvpy22h
   
 
