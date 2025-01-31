@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Weather tracker: Elvis shakes Madagascar after Europe’s triple threat (Guardian)</title>
+      <link>https://www.theguardian.com/environment/2025/jan/31/weather-tracker-elvis-shakes-madagascar-after-europes-triple-threat</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/environment/2025/jan/31/weather-tracker-elvis-shakes-madagascar-after-europes-triple-threat</guid>
+      <pubDate>Fri, 31 Jan 2025 10:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Watchdog Groups Anticipate ‘an All-Out War on Science and Scientists’ by the Trump Administration (Inside Climate News)</title>
+      <link>https://insideclimatenews.org/news/31012025/trump-administration-war-on-science/</link>
+      <author>Inside Climate News</author>
+      <guid>https://insideclimatenews.org/?p=90973</guid>
+      <pubDate>Fri, 31 Jan 2025 10:05:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Marriage rates for women without college degrees are falling (Axios)</title>
       <link>https://www.axios.com/2025/01/31/marriage-gap-women</link>
       <author>Axios</author>
@@ -24,6 +38,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1978830</guid>
       <pubDate>Fri, 31 Jan 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boxed Up: A Portrait of an Immigrant Community Living Under Threat of Deportation (Propublica)</title>
+      <link>https://www.propublica.org/article/immigration-wisconsin-trump-mass-deportations-nicaragua</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/immigration-wisconsin-trump-mass-deportations-nicaragua</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title> EU denies any links between Russian gas purchases, Ukraine peace talks  (Kyiv Indpendent)</title>
@@ -1400,28 +1421,6 @@
       <author>RTS</author>
       <guid>28772400</guid>
       <pubDate>Wed, 29 Jan 2025 10:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Espagne: grâce à un accord avec les séparatistes catalans, Pedro Sanchez fait passer des mesures sociales (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250129-espagne-accord-avec-les-s%C3%A9paratistes-catalans-pedro-sanchez-fait-passer-des-mesures-sociales</link>
-      <author>RFI</author>
-      <guid>6815d940-de25-11ef-bd23-005056bf762b</guid>
-      <pubDate>Wed, 29 Jan 2025 10:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le Zurichois Philipp Kutter ne sera finalement pas candidat au Conseil fédéral (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/philipp-kutter-renonce-au-conseil-federal-pour-raisons-familiales-28772496.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28772496</guid>
-      <pubDate>Wed, 29 Jan 2025 10:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Merz’s anti-migration drive triggers backlash over far-right support					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-friedrich-merz-cdu-political-tightrope-far-right-votes-afd-migration-crackdown/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-friedrich-merz-cdu-political-tightrope-far-right-votes-afd-migration-crackdown/</guid>
-      <pubDate>Wed, 29 Jan 2025 10:09:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
