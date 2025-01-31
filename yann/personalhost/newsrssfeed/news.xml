@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 1 killed, 35 injured in Russian attacks across Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-123</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-123</guid>
+      <pubDate>Fri, 31 Jan 2025 09:42:56 +0200</pubDate>
+    </item>
+    <item>
       <title>Gérard Davet et Fabrice Lhomme: «La France a très mal géré la crise du Covid-19 les premiers mois» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250131-g%C3%A9rard-davet-et-fabrice-lhomme-la-france-a-tr%C3%A8s-mal-g%C3%A9r%C3%A9-la-crise-du-covid-19-les-premiers-mois</link>
       <author>RFI</author>
@@ -1414,13 +1421,6 @@
       <author>RTS</author>
       <guid>28772096</guid>
       <pubDate>Wed, 29 Jan 2025 07:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘I was told books don’t sell here. I knew that wasn’t true’: the English teacher shaking up Nigeria’s publishing scene (Guardian)</title>
-      <link>https://www.theguardian.com/global-development/2025/jan/29/new-nigerian-writers-othuke-ominiabohs-novels-masobe-books</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/global-development/2025/jan/29/new-nigerian-writers-othuke-ominiabohs-novels-masobe-books</guid>
-      <pubDate>Wed, 29 Jan 2025 07:00:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
