@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: compromis trouvé sur le budget de l'État à la commission mixte paritaire (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250131-france-compromis-trouv%C3%A9-sur-le-budget-de-l-%C3%A9tat-%C3%A0-la-commission-mixte-paritaire</link>
+      <author>RFI</author>
+      <guid>e574e798-dfd1-11ef-85f5-005056a97652</guid>
+      <pubDate>Fri, 31 Jan 2025 13:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Democrats want answers on cost-cutting prescription payment models abandoned by Trump (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5117971-democrats-want-answers-on-cost-cutting-prescription-payment-models-abandoned-by-trump/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5117971</guid>
+      <pubDate>Fri, 31 Jan 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>‘I curse this war’: hunger and fear in Goma after rebel takeover (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/jan/31/hunger-fear-goma-m23-takeover-democratic-republic-of-the-congo</link>
       <author>Guardian</author>
@@ -33,6 +47,13 @@
       <pubDate>Fri, 31 Jan 2025 12:13:27 GMT</pubDate>
     </item>
     <item>
+      <title>Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport? (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</guid>
+      <pubDate>Fri, 31 Jan 2025 12:00:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Robert F. Kennedy Jr.'s confirmation is a coin toss (Axios)</title>
       <link>https://www.axios.com/2025/01/31/rfk-senate-confirmation-vaccines-abortion</link>
       <author>Axios</author>
@@ -45,6 +66,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/china-providing-rare-metals-to-russia-media-says</guid>
       <pubDate>Fri, 31 Jan 2025 13:39:15 +0200</pubDate>
+    </item>
+    <item>
+      <title>Oppose, Oppose, Oppose — and Do It Loudly (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/oppose-oppose-oppose-and-do-it-loudly</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/oppose-oppose-oppose-and-do-it-loudly</guid>
+      <pubDate>Fri, 31 Jan 2025 11:31:38 GMT</pubDate>
     </item>
     <item>
       <title>Tesla ‘in a bind’ over China plans as earnings disappoint  (Semafor)</title>
@@ -1392,35 +1420,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/france-pm-francois-bayrou-comments-immigration-socialist-budget-talks/</guid>
       <pubDate>Wed, 29 Jan 2025 14:08:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>Libération du chef de la police libyenne par l'Italie: visée par une enquête, Meloni cible les magistrats (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250129-lib%C3%A9ration-chef-de-la-police-libyenne-italie-vis%C3%A9e-enqu%C3%AAte-meloni-cible-les-magistrats</link>
-      <author>RFI</author>
-      <guid>061df366-de44-11ef-99e6-005056a97652</guid>
-      <pubDate>Wed, 29 Jan 2025 14:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Von der Leyen’s bid to boost business relies on government help 					 (Politico)</title>
-      <link>https://www.politico.eu/article/ursula-von-der-leyen-competitiveness-compass-pitch-relies-on-government-help/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ursula-von-der-leyen-competitiveness-compass-pitch-relies-on-government-help/</guid>
-      <pubDate>Wed, 29 Jan 2025 13:53:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>Fiscalité des entreprises en France: la grogne de patron de LMVH, Bernard Arnault (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250129-fiscalit%C3%A9-des-entreprises-en-france-la-grogne-de-patron-de-lmvh-bernard-arnault</link>
-      <author>RFI</author>
-      <guid>2e5e5968-de46-11ef-aee5-005056a97652</guid>
-      <pubDate>Wed, 29 Jan 2025 13:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>M23 Rebels Consolidate Control over Key City in DR Congo (Bellingcat)</title>
-      <link>https://www.bellingcat.com/news/2025/01/29/m23-rebels-goma-congo-fighting-clashes-drc-kivu-control/</link>
-      <author>Bellingcat</author>
-      <guid>https://www.bellingcat.com/?p=47610</guid>
-      <pubDate>Wed, 29 Jan 2025 13:23:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
