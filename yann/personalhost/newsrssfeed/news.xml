@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> How Russia profits from arms exports despite sanctions  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/how-russia-profits-from-arms-exports-despite-sanctions</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/how-russia-profits-from-arms-exports-despite-sanctions</guid>
+      <pubDate>Fri, 31 Jan 2025 17:29:31 +0200</pubDate>
+    </item>
+    <item>
+      <title>Les fromages suisses séduisent toujours plus à l'étranger (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/exportations-de-fromages-suisses-en-hausse-80-000-tonnes-sont-sorties-du-pays-en-2024-28775643.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28775643</guid>
+      <pubDate>Fri, 31 Jan 2025 15:26:45 GMT</pubDate>
+    </item>
+    <item>
       <title>France: la capture du CO2, l'espoir coûteux d'une industrie moins polluante (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250131-france-la-capture-du-co2-l-espoir-co%C3%BBteux-d-une-industrie-moins-polluante</link>
       <author>RFI</author>
@@ -695,6 +709,13 @@
       <link>https://www.economist.com/obituary/2025/01/30/mauro-morandi-needed-to-abandon-consumer-society</link>
       <author>Economist</author>
       <guid>https://www.economist.com/obituary/2025/01/30/mauro-morandi-needed-to-abandon-consumer-society</guid>
+      <pubDate>Thu, 30 Jan 2025 15:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Elon Musk should learn from Larry Ellison (Economist)</title>
+      <link>https://www.economist.com/business/2025/01/30/what-elon-musk-should-learn-from-larry-ellison</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/business/2025/01/30/what-elon-musk-should-learn-from-larry-ellison</guid>
       <pubDate>Thu, 30 Jan 2025 15:42:32 GMT</pubDate>
     </item>
     <item>
@@ -1399,27 +1420,6 @@
       <author>RTS</author>
       <guid>28772810</guid>
       <pubDate>Wed, 29 Jan 2025 15:31:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Be careful with DeepSeek, Australia says - so is it safe to use? (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cx2k7r5nrvpo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cx2k7r5nrvpo#1</guid>
-      <pubDate>Wed, 29 Jan 2025 15:20:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Une loi spatiale pour renforcer la place de la Suisse dans le secteur (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-se-dote-d-une-loi-spatiale-pour-encadrer-l-exploitation-des-satellites-28772804.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28772804</guid>
-      <pubDate>Wed, 29 Jan 2025 15:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>La Confédération prévoit 2,7 milliards de francs d'économies en 2027 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/economies-federales-2-7-milliards-vises-en-2027-social-et-climat-touches-28772811.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28772811</guid>
-      <pubDate>Wed, 29 Jan 2025 15:08:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
