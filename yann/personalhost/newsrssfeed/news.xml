@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Gérard Davet et Fabrice Lhomme: «La France a très mal géré la crise du Covid-19 les premiers mois» (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250131-g%C3%A9rard-davet-et-fabrice-lhomme-la-france-a-tr%C3%A8s-mal-g%C3%A9r%C3%A9-la-crise-du-covid-19-les-premiers-mois</link>
+      <author>RFI</author>
+      <guid>ea2231b4-df9b-11ef-8049-005056a97652</guid>
+      <pubDate>Fri, 31 Jan 2025 06:38:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Une société médicale accusée de surfacturer des frais de déplacement en institutions de soins (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/surfacturation-medicale-des-milliers-de-francs-d-indemnites-abusives-28772589.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -61,6 +68,13 @@
       <author>SBS News</author>
       <guid>00000194-b954-d20b-affe-f95469700000</guid>
       <pubDate>Fri, 31 Jan 2025 01:25:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Trump's funding freeze becomes ad fodder for Democrats (Axios)</title>
+      <link>https://www.axios.com/2025/01/31/trump-funding-freeze-house-democrats-ad</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/01/31/trump-funding-freeze-house-democrats-ad</guid>
+      <pubDate>Fri, 31 Jan 2025 00:57:44 +0000</pubDate>
     </item>
     <item>
       <title>Pentagon scrubs Biden-era abortion travel policy (The Hill)</title>
@@ -1407,20 +1421,6 @@
       <author>RTS</author>
       <guid>28771868</guid>
       <pubDate>Wed, 29 Jan 2025 05:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vers un net rejet de l'initiative pour la responsabilité environnementale, selon le deuxième sondage SSR (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/vers-un-net-rejet-de-l-initiative-pour-la-responsabilite-environnementale-selon-le-deuxieme-sondage-ssr-28770512.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28770512</guid>
-      <pubDate>Wed, 29 Jan 2025 04:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pentagon says it's pulling Gen. Milley's security detail, clearance (Axios)</title>
-      <link>https://www.axios.com/2025/01/29/mark-milley-hegseth-trump-security-rank</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/29/mark-milley-hegseth-trump-security-rank</guid>
-      <pubDate>Wed, 29 Jan 2025 04:43:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
