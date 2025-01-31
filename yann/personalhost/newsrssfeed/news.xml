@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: les députés rejettent un texte sur l'immigration soutenu par la droite et l'extrême droite (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250131-allemagne-les-d%C3%A9put%C3%A9s-rejettent-un-texte-sur-l-immigration-soutenu-par-la-droite-et-l-extr%C3%AAme-droite</link>
+      <author>RFI</author>
+      <guid>af25c3f0-dff5-11ef-af4f-005056bf762b</guid>
+      <pubDate>Fri, 31 Jan 2025 17:39:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump tariffs threaten to interrupt Americans' economic gains in recent years (Axios)</title>
       <link>https://www.axios.com/2025/01/31/trump-tariffs-canada-mexico-inflation</link>
       <author>Axios</author>
@@ -1411,13 +1418,6 @@
       <author>RTS</author>
       <guid>28772897</guid>
       <pubDate>Wed, 29 Jan 2025 16:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOJ moves to drop classified docs case against Trump's co-defendants (Axios)</title>
-      <link>https://www.axios.com/2025/01/29/trump-doj-classified-documents-case-dismiss-request</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/29/trump-doj-classified-documents-case-dismiss-request</guid>
-      <pubDate>Wed, 29 Jan 2025 16:31:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
