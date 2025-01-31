@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une société médicale accusée de surfacturer des frais de déplacement en institutions de soins (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/surfacturation-medicale-des-milliers-de-francs-d-indemnites-abusives-28772589.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28772589</guid>
+      <pubDate>Fri, 31 Jan 2025 05:27:01 GMT</pubDate>
+    </item>
+    <item>
       <title>'Protect your heart and wallet': Thousands of Australians warned over scam threat (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/protect-your-heart-and-wallet-thousands-of-australians-warned-over-scam-threat/fdtyc99jy</link>
       <author>SBS News</author>
@@ -1414,13 +1421,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/29/mark-milley-hegseth-trump-security-rank</guid>
       <pubDate>Wed, 29 Jan 2025 04:43:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who are the betting markets backing this election? (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/01/29/betting-odds-markets-2025-austrailan-federal-election/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1191342</guid>
-      <pubDate>Wed, 29 Jan 2025 04:32:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
