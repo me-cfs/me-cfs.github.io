@@ -5,11 +5,48 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Merz’s far-right gamble backfires					 (Politico)</title>
+      <link>https://www.politico.eu/article/friedrich-merz-germany-gamble-to-accept-far-right-support-fails-in-parliament-afd-cdu-migration/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/friedrich-merz-germany-gamble-to-accept-far-right-support-fails-in-parliament-afd-cdu-migration/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:12:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						German authorities ‘well prepared’ for social media election interference					 (Politico)</title>
+      <link>https://www.politico.eu/article/german-authorities-prepared-social-media-election-interference-tiktok-meta-x/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/german-authorities-prepared-social-media-election-interference-tiktok-meta-x/</guid>
+      <pubDate>Fri, 31 Jan 2025 17:57:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>ICE Enforcement Official Tapped to Lead Unaccompanied Migrant Children Office, Triggering Alarms (Propublica)</title>
+      <link>https://www.propublica.org/article/immigration-children-ice-office-refugee-resettlement-mellissa-harper</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/immigration-children-ice-office-refugee-resettlement-mellissa-harper</guid>
+      <pubDate>Fri, 31 Jan 2025 12:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Allemagne: Alice Weidel, l'inquiétant visage d'une extrême droite décomplexée (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/europ%C3%A9en-de-la-semaine/20250131-allemagne-alice-weidel-l-inqui%C3%A9tant-visage-d-une-extr%C3%AAme-droite-d%C3%A9complex%C3%A9e</link>
+      <author>RFI</author>
+      <guid>eb4d52e0-dfef-11ef-865c-005056a97652</guid>
+      <pubDate>Fri, 31 Jan 2025 17:49:30 GMT</pubDate>
+    </item>
+    <item>
       <title>Allemagne: les députés rejettent un texte sur l'immigration soutenu par la droite et l'extrême droite (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250131-allemagne-les-d%C3%A9put%C3%A9s-rejettent-un-texte-sur-l-immigration-soutenu-par-la-droite-et-l-extr%C3%AAme-droite</link>
       <author>RFI</author>
       <guid>af25c3f0-dff5-11ef-af4f-005056bf762b</guid>
       <pubDate>Fri, 31 Jan 2025 17:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s War on Medicaid Will Institutionalize Millions of People (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/01/trump-medicaid-institutionalization-hcbs-cuts-gop/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1110829</guid>
+      <pubDate>Fri, 31 Jan 2025 17:09:23 +0000</pubDate>
     </item>
     <item>
       <title>Trump tariffs threaten to interrupt Americans' economic gains in recent years (Axios)</title>
@@ -1383,41 +1420,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/finance-and-economics/2025/01/29/dont-let-donald-trump-see-our-big-mac-index</guid>
       <pubDate>Wed, 29 Jan 2025 17:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘Paranoia and distrust’: How Trump’s mass firing of government watchdogs will affect climate policy (Grist)</title>
-      <link>https://grist.org/accountability/paranoia-and-distrust-how-trumps-mass-firing-of-government-watchdogs-will-affect-climate-policy/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=657907</guid>
-      <pubDate>Wed, 29 Jan 2025 17:42:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr. struggles to answer Medicaid questions in confirmation hearing (Axios)</title>
-      <link>https://www.axios.com/2025/01/29/rfk-confirmation-hearing-trump-health-secretary-hhs</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/29/rfk-confirmation-hearing-trump-health-secretary-hhs</guid>
-      <pubDate>Wed, 29 Jan 2025 16:59:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hamas talks a big game but is in chaos (Economist)</title>
-      <link>https://www.economist.com/middle-east-and-africa/2025/01/29/hamas-talks-a-big-game-but-is-in-chaos</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/middle-east-and-africa/2025/01/29/hamas-talks-a-big-game-but-is-in-chaos</guid>
-      <pubDate>Wed, 29 Jan 2025 16:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kash Patel is a crackpot (Economist)</title>
-      <link>https://www.economist.com/united-states/2025/01/29/kash-patel-is-a-crackpot</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/united-states/2025/01/29/kash-patel-is-a-crackpot</guid>
-      <pubDate>Wed, 29 Jan 2025 16:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Les Suisses ne devraient plus pouvoir adopter des enfants à l'étranger, demande le Conseil fédéral (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-interdit-les-adoptions-internationales-pour-proteger-les-enfants-28772897.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28772897</guid>
-      <pubDate>Wed, 29 Jan 2025 16:38:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
