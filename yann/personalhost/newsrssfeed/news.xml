@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: la capture du CO2, l'espoir coûteux d'une industrie moins polluante (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250131-france-la-capture-du-co2-l-espoir-co%C3%BBteux-d-une-industrie-moins-polluante</link>
+      <author>RFI</author>
+      <guid>166abeea-df3c-11ef-acbe-005056bf762b</guid>
+      <pubDate>Fri, 31 Jan 2025 14:55:27 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Buy American to avoid a trade war with Trump, Italy says					 (Politico)</title>
       <link>https://www.politico.eu/article/buy-american-avoid-trade-war-with-donald-trump-says-italy-foreign-minister-antonio-tajani/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/buy-american-avoid-trade-war-with-donald-trump-says-italy-foreign-minister-antonio-tajani/</guid>
       <pubDate>Fri, 31 Jan 2025 14:36:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>L'entreprise Trafigura écope d'une amende et certains accusés de prison ferme pour corruption en Angola (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/l-entreprise-trafigura-condamnee-a-une-amende-de-3-millions-de-francs-pour-corruption-en-angola-28775742.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28775742</guid>
+      <pubDate>Fri, 31 Jan 2025 14:36:24 GMT</pubDate>
     </item>
     <item>
       <title>From Ukraine to Uganda, Trump’s aid freeze endangers millions (Open Democracy)</title>
@@ -1406,20 +1420,6 @@
       <author>RTS</author>
       <guid>28772811</guid>
       <pubDate>Wed, 29 Jan 2025 15:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>France : la culture sportive est-elle en péril ? (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250129-france-la-culture-sportive-est-elle-en-p%C3%A9ril</link>
-      <author>RFI</author>
-      <guid>dac4ba88-de52-11ef-8328-005056a97652</guid>
-      <pubDate>Wed, 29 Jan 2025 15:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Climate change set the table for Los Angeles wildfires (Arstechnica)</title>
-      <link>https://arstechnica.com/science/2025/01/climate-change-set-the-table-for-los-angeles-wildfires/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/science/2025/01/climate-change-set-the-table-for-los-angeles-wildfires/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:05:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
