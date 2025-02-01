@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump spoke to Egyptian president about plan to evict Palestinians from Gaza (Axios)</title>
+      <link>https://www.axios.com/2025/02/01/trump-sisi-move-palestinians-gaza-egypt</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/01/trump-sisi-move-palestinians-gaza-egypt</guid>
+      <pubDate>Sat, 01 Feb 2025 15:56:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Dozens killed as opposition RSF forces attack open market in Sudan (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/feb/01/dozens-killed-as-opposition-rsf-forces-attack-open-market-in-sudan</link>
       <author>Guardian</author>
@@ -1415,13 +1422,6 @@
       <author>Bellingcat</author>
       <guid>https://www.bellingcat.com/?p=47752</guid>
       <pubDate>Thu, 30 Jan 2025 10:04:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Elon-ification of the federal government (Axios)</title>
-      <link>https://www.axios.com/2025/01/30/elon-musk-government-takeover-federal-workers</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/30/elon-musk-government-takeover-federal-workers</guid>
-      <pubDate>Thu, 30 Jan 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
