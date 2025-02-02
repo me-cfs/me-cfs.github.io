@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>‘People Will Die’: The Trump administration said it lifted its ban on lifesaving humanitarian aid. That’s not true (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/02/03/usaid-ban-funding-donald-trump-administration-elon-musk-doge/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1191860</guid>
+      <pubDate>Sun, 02 Feb 2025 23:14:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump is making it easier for multinationals to minimise their tax bills — and Australians will lose out (Crikey)</title>
       <link>https://www.crikey.com.au/2025/02/03/donald-trump-multinational-tax-minimisation-australia/</link>
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1191837</guid>
       <pubDate>Sun, 02 Feb 2025 22:47:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dallas Mavericks trade superstar Luka Dončić to the Lakers (Axios)</title>
+      <link>https://www.axios.com/local/dallas/2025/02/02/luka-doncic-lakers-trade-dallas-mavericks</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/dallas/2025/02/02/luka-doncic-lakers-trade-dallas-mavericks</guid>
+      <pubDate>Sun, 02 Feb 2025 22:25:13 +0000</pubDate>
     </item>
     <item>
       <title>RFK Jr. Refuses to Disclose to Senate Details of Two “Misconduct” Cases He Settled (Motherjones)</title>
@@ -365,6 +379,13 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/31/us/plane-crash-philadelphia-roosevelt-mall.html</guid>
       <pubDate>Sat, 01 Feb 2025 16:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Blames D.E.I. and Biden for Crash Under His Watch (New York Times)</title>
+      <link>https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html</guid>
+      <pubDate>Sat, 01 Feb 2025 16:13:39 +0000</pubDate>
     </item>
     <item>
       <title>Trump spoke to Egyptian president about plan to evict Palestinians from Gaza (Axios)</title>
@@ -1404,27 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/01/30/dc-plane-crash-victims-list-american-airlines-5342</guid>
       <pubDate>Thu, 30 Jan 2025 18:23:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Espagne : 3 mois après les inondations d’octobre, le lent retour des enfants à une vie normale (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250130-espagne-3-mois-apr%C3%A8s-les-inondations-d-octobre-le-lent-retour-des-enfants-%C3%A0-une-vie-normale</link>
-      <author>RFI</author>
-      <guid>abd1db18-df36-11ef-ace7-005056bf762b</guid>
-      <pubDate>Thu, 30 Jan 2025 18:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safeguards against coercion in assisted suicide bill are ‘incredibly weak’, disabled academic tells MPs (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/safeguards-against-coercion-in-assisted-suicide-bill-are-incredibly-weak-disabled-academic-tells-mps/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/safeguards-against-coercion-in-assisted-suicide-bill-are-incredibly-weak-disabled-academic-tells-mps/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:18:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>"Despicable": Buttigieg fires back at Trump criticisms after deadly plane crash (Axios)</title>
-      <link>https://www.axios.com/2025/01/30/pete-buttigieg-trump-plane-crash</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/30/pete-buttigieg-trump-plane-crash</guid>
-      <pubDate>Thu, 30 Jan 2025 18:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
