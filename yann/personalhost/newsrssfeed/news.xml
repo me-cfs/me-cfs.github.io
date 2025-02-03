@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						German election: AfD’s Weidel doubles down on Holocaust comments					 (Politico)</title>
+      <link>https://www.politico.eu/article/germany-election-afd-alice-weidel-doubles-down-holocaust-comments/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/germany-election-afd-alice-weidel-doubles-down-holocaust-comments/</guid>
+      <pubDate>Mon, 03 Feb 2025 22:08:23 -0000</pubDate>
+    </item>
+    <item>
       <title>Plans d'urgence dans les écoles: la recommandation de résister en cas d’attaque suscite des réactions (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/nouvelles-directives-amok-dans-les-ecoles-romandes-debat-et-inquietudes-28778776.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -183,6 +191,13 @@
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/02/03/taiwan-executes-first-prisoner-five-years</guid>
       <pubDate>Mon, 03 Feb 2025 10:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>2025 Grammys: Best and Worst Moments (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/03/arts/music/grammys-2025-best-worst-moments.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/03/arts/music/grammys-2025-best-worst-moments.html</guid>
+      <pubDate>Mon, 03 Feb 2025 14:57:57 +0000</pubDate>
     </item>
     <item>
       <title>La Rega a organisé près de 20'000 missions en 2024 (RTS)</title>
@@ -1417,20 +1432,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/culture/2025/01/31/performing-in-a-cinema-near-you-bob-dylan-and-maria-callas</guid>
       <pubDate>Fri, 31 Jan 2025 16:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump blames fatal D.C. plane crash on Black Hawk helicopter pilot (Axios)</title>
-      <link>https://www.axios.com/2025/01/31/trump-helicopter-blame-plane-crash-dc</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/01/31/trump-helicopter-blame-plane-crash-dc</guid>
-      <pubDate>Fri, 31 Jan 2025 16:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krugman &amp; Azhar: The World in 2025 (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/krugman-and-azhar-the-world-in-2025</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/krugman-and-azhar-the-world-in-2025</guid>
-      <pubDate>Fri, 31 Jan 2025 15:48:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
