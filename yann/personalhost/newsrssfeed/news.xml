@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						NGO accuses European Commission of anti-transparency drive					 (Politico)</title>
+      <link>https://www.politico.eu/article/ngo-clientearth-goes-after-eu-commission-for-restricting-transparency/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ngo-clientearth-goes-after-eu-commission-for-restricting-transparency/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:09:29 -0000</pubDate>
+    </item>
+    <item>
       <title>Taiwan Executes First Prisoner in Five Years (Human Rights Watch)</title>
       <link>https://www.hrw.org/news/2025/02/03/taiwan-executes-first-prisoner-five-years</link>
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/02/03/taiwan-executes-first-prisoner-five-years</guid>
       <pubDate>Mon, 03 Feb 2025 10:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>La Rega a organisé près de 20'000 missions en 2024 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-rega-a-secouru-35-personnes-par-jour-en-moyenne-en-2024-28778214.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28778214</guid>
+      <pubDate>Mon, 03 Feb 2025 14:38:03 GMT</pubDate>
     </item>
     <item>
       <title>
@@ -1414,20 +1429,6 @@
       <author>The Intercept</author>
       <guid>https://theintercept.com/?p=485987</guid>
       <pubDate>Fri, 31 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ProPublica’s Coverage of Donald Trump’s Appointments — and How They Could Reshape Federal Agencies (Propublica)</title>
-      <link>https://www.propublica.org/article/donald-trump-appointments-cabinet-propublica-reporting</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/donald-trump-appointments-cabinet-propublica-reporting</guid>
-      <pubDate>Fri, 31 Jan 2025 06:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Weather tracker: Elvis shakes Madagascar after Europe’s triple threat (Guardian)</title>
-      <link>https://www.theguardian.com/environment/2025/jan/31/weather-tracker-elvis-shakes-madagascar-after-europes-triple-threat</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/environment/2025/jan/31/weather-tracker-elvis-shakes-madagascar-after-europes-triple-threat</guid>
-      <pubDate>Fri, 31 Jan 2025 10:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
