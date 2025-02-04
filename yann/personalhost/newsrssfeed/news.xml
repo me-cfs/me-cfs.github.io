@@ -5,11 +5,39 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Immigration en France: hausse des expulsions et baisse des régularisations en 2024 (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250204-immigration-france-hausse-des-expulsions-et-baisse-des-r%C3%A9gularisations-en-2024</link>
+      <author>RFI</author>
+      <guid>92063020-e2f2-11ef-86c0-005056a97652</guid>
+      <pubDate>Tue, 04 Feb 2025 12:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Russia circumvents sanctions by smuggling goods through Kyrgyzstan, China (Semafor)</title>
+      <link>https://www.semafor.com/article/02/04/2025/russia-circumvents-sanctions-by-smuggling-goods-through-kyrgyzstan-china</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/02/04/2025/russia-circumvents-sanctions-by-smuggling-goods-through-kyrgyzstan-china</guid>
+      <pubDate>Tue, 04 Feb 2025 12:37:50 +0000</pubDate>
+    </item>
+    <item>
       <title>France: la menace de la censure du gouvernement Bayrou semble s'éloigner (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250204-france-la-menace-de-la-censure-du-gouvernement-bayrou-semble-s-%C3%A9loigner</link>
       <author>RFI</author>
       <guid>921a77dc-e2ee-11ef-ba45-005056bf762b</guid>
       <pubDate>Tue, 04 Feb 2025 12:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Binyamin Netanyahu is about to discover if Donald Trump is friend or foe (Economist)</title>
+      <link>https://www.economist.com/middle-east-and-africa/2025/02/04/binyamin-netanyahu-is-about-to-discover-if-donald-trump-is-friend-or-foe</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/middle-east-and-africa/2025/02/04/binyamin-netanyahu-is-about-to-discover-if-donald-trump-is-friend-or-foe</guid>
+      <pubDate>Tue, 04 Feb 2025 11:41:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>China hits back at US with tariffs, a Google probe, and mineral export curbs (Semafor)</title>
+      <link>https://www.semafor.com/article/02/04/2025/china-hits-back-at-us-with-tariffs-a-google-probe-and-mineral-export-curbs</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/02/04/2025/china-hits-back-at-us-with-tariffs-a-google-probe-and-mineral-export-curbs</guid>
+      <pubDate>Tue, 04 Feb 2025 11:33:43 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1399,34 +1427,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/01/31/us/plane-crash-philadelphia-roosevelt-mall.html</guid>
       <pubDate>Sat, 01 Feb 2025 16:59:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Blames D.E.I. and Biden for Crash Under His Watch (New York Times)</title>
-      <link>https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html</guid>
-      <pubDate>Sat, 01 Feb 2025 16:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>American hostage Keith Siegel and two Israeli hostages released by Hamas (Axios)</title>
-      <link>https://www.axios.com/2025/02/01/gaza-hostage-release-hamas-siegel-israel</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/01/gaza-hostage-release-hamas-siegel-israel</guid>
-      <pubDate>Sat, 01 Feb 2025 16:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump spoke to Egyptian president about plan to evict Palestinians from Gaza (Axios)</title>
-      <link>https://www.axios.com/2025/02/01/trump-sisi-move-palestinians-gaza-egypt</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/01/trump-sisi-move-palestinians-gaza-egypt</guid>
-      <pubDate>Sat, 01 Feb 2025 15:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dozens killed as opposition RSF forces attack open market in Sudan (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/feb/01/dozens-killed-as-opposition-rsf-forces-attack-open-market-in-sudan</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/feb/01/dozens-killed-as-opposition-rsf-forces-attack-open-market-in-sudan</guid>
-      <pubDate>Sat, 01 Feb 2025 15:44:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
