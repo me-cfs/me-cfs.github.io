@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia bans DeepSeek on government devices over security risk (BBC)</title>
+      <link>https://www.bbc.com/news/articles/c8d95v0nr1yo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/c8d95v0nr1yo#0</guid>
+      <pubDate>Tue, 04 Feb 2025 14:24:34 GMT</pubDate>
+    </item>
+    <item>
       <title> Less than half of Poles support continued military aid to Ukraine, survey shows  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/less-than-half-of-poles-support-continued-military-aid-to-ukraine-survey-shows</link>
       <author>Kyiv Indpendent</author>
@@ -664,6 +671,13 @@
       <link>https://www.bbc.com/news/articles/cn57gk917dpo</link>
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cn57gk917dpo#0</guid>
+      <pubDate>Mon, 03 Feb 2025 14:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>'We haven't panicked, but we are prepared': The residents waiting out Australia's floods (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cn57gk917dpo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cn57gk917dpo#1</guid>
       <pubDate>Mon, 03 Feb 2025 14:56:06 GMT</pubDate>
     </item>
     <item>
@@ -1413,20 +1427,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/feb/01/donald-trump-us-airstrikes-islamic-state-somalia</guid>
       <pubDate>Sat, 01 Feb 2025 21:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump moves you might have missed this week (Axios)</title>
-      <link>https://www.axios.com/2025/02/01/trump-moves-missed-plane-crash-dei</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/01/trump-moves-missed-plane-crash-dei</guid>
-      <pubDate>Sat, 01 Feb 2025 20:59:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Military Conducts Airstrikes Against Islamic State Operatives In Somalia (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/united-states-military-conducts-airstrikes-against-islamic-state-operatives-somalia_n_679e649de4b0b66856bd8b06</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/united-states-military-conducts-airstrikes-against-islamic-state-operatives-somalia_n_679e649de4b0b66856bd8b06</guid>
-      <pubDate>Sat, 01 Feb 2025 19:31:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
