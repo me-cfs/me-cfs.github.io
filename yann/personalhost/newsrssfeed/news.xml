@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Senate panel advances RFK Jr. as HHS Secretary on party-line vote (The Hill)</title>
+      <link>https://thehill.com/homenews/senate/5123633-kennedy-nomination-advances/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5123633</guid>
+      <pubDate>Tue, 04 Feb 2025 15:28:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Tulsi Gabbard wins critical GOP swing vote to advance confirmation past Intel Committee (Axios)</title>
       <link>https://www.axios.com/2025/02/04/todd-young-tulsi-gabbard-confirmation-senate</link>
       <author>Axios</author>
@@ -1293,6 +1300,13 @@
       <pubDate>Sun, 02 Feb 2025 12:37:05 GMT</pubDate>
     </item>
     <item>
+      <title>Trump imposes tariffs on Canada, Mexico and China (Axios)</title>
+      <link>https://www.axios.com/2025/02/01/trump-canada-mexico-tariffs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/01/trump-canada-mexico-tariffs</guid>
+      <pubDate>Sun, 02 Feb 2025 12:25:55 +0000</pubDate>
+    </item>
+    <item>
       <title>The humble penny meets a formidable match: Elon Musk (Axios)</title>
       <link>https://www.axios.com/2025/02/02/penny-musk-doge</link>
       <author>Axios</author>
@@ -1412,20 +1426,6 @@
       <author>SBS News</author>
       <guid>00000194-c36a-de59-abf4-d37a6c670000</guid>
       <pubDate>Sat, 1 Feb 2025 23:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump imposes tariffs on Canada, Mexico, and China (Semafor)</title>
-      <link>https://www.semafor.com/article/01/31/2025/us-allies-threaten-retaliation-as-tariffs-loom</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/01/31/2025/us-allies-threaten-retaliation-as-tariffs-loom</guid>
-      <pubDate>Sat, 01 Feb 2025 22:52:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>At least 770 killed in Goma, east DRC in fighting with Rwanda-backed M23 (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/feb/01/at-least-770-killed-in-goma-east-drc-in-fighting-with-rwanda-backed-m23</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/feb/01/at-least-770-killed-in-goma-east-drc-in-fighting-with-rwanda-backed-m23</guid>
-      <pubDate>Sat, 01 Feb 2025 22:43:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
