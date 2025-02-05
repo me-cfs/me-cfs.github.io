@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: François Bayrou survit à deux censures, le PS contesté au sein de la coalition de gauche (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250205-france-fran%C3%A7ois-bayrou-survit-%C3%A0-deux-censures-le-ps-contest%C3%A9-au-sein-de-la-coalition-de-gauche</link>
+      <author>RFI</author>
+      <guid>65d38acc-e417-11ef-a8d5-005056a97652</guid>
+      <pubDate>Wed, 05 Feb 2025 23:32:50 GMT</pubDate>
+    </item>
+    <item>
       <title>The 2026 Michigan Senate race is already heating up (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/538/2026-michigan-senate-race-heating/story?id=118491811</link>
       <author>Fivethirtyeight</author>
@@ -1418,13 +1425,6 @@
       <author>RTS</author>
       <guid>28778698</guid>
       <pubDate>Mon, 03 Feb 2025 20:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ending USAID climate programs could boost security risks (Axios)</title>
-      <link>https://www.axios.com/2025/02/03/usaid-programs-climate-adaptation-resilience</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/03/usaid-programs-climate-adaptation-resilience</guid>
-      <pubDate>Mon, 03 Feb 2025 19:57:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
