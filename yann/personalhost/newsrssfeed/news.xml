@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Musk controversy over Treasury access puts file permissions at top of DC agenda (Axios)</title>
+      <link>https://www.axios.com/2025/02/05/musk-doge-treasury-payments-access-read-only</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/05/musk-doge-treasury-payments-access-read-only</guid>
+      <pubDate>Wed, 05 Feb 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Jérôme Durain (sénateur PS): en France, «le narcotrafic ronge la société» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250205-j%C3%A9r%C3%B4me-durain-s%C3%A9nateur-ps-en-france-le-narcotrafic-ronge-la-soci%C3%A9t%C3%A9</link>
       <author>RFI</author>
@@ -1421,13 +1428,6 @@
       <author>RFI</author>
       <guid>2c8e55cc-e1ff-11ef-badd-005056a97652</guid>
       <pubDate>Mon, 03 Feb 2025 08:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAHA: Echoes of The Secret (Science Based Medicine)</title>
-      <link>https://sciencebasedmedicine.org/maha-echoes-of-the-secret/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maha-echoes-of-the-secret</link>
-      <author>Science Based Medicine</author>
-      <guid>https://sciencebasedmedicine.org/?p=104925</guid>
-      <pubDate>Mon, 03 Feb 2025 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
