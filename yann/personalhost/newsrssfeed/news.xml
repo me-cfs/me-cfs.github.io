@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le département d'Albert Rösti renonce à restreindre l'usage d'un insecticide hautement toxique (RTS)</title>
+      <link>https://www.rts.ch/info/dialogue/2025/article/insecticide-toxique-la-suisse-renonce-a-limiter-l-usage-de-la-deltamethrine-28780856.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28780856</guid>
+      <pubDate>Thu, 06 Feb 2025 05:27:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump admin proposes limiting Musk's DOGE access to Treasury data amid privacy lawsuit (Axios)</title>
       <link>https://www.axios.com/2025/02/06/doge-treasury-payments-system-access-trump-musk</link>
       <author>Axios</author>
@@ -1013,6 +1020,13 @@
       <pubDate>Tue, 04 Feb 2025 16:11:07 -0000</pubDate>
     </item>
     <item>
+      <title>The Senate's vibe shift on Tulsi Gabbard (Axios)</title>
+      <link>https://www.axios.com/2025/02/04/tulsi-gabbard-confirmation-vote-senate-intel</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/04/tulsi-gabbard-confirmation-vote-senate-intel</guid>
+      <pubDate>Tue, 04 Feb 2025 15:56:39 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Russia to Trump: Back off Ukraine’s rare earths					 (Politico)</title>
       <link>https://www.politico.eu/article/kremlin-russia-slams-us-donald-trump-ukraine-exchange-rare-earth-resources/</link>
@@ -1417,20 +1431,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1113329</guid>
       <pubDate>Tue, 04 Feb 2025 02:18:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump admin sued over Musk-run DOGE's access to Treasury's sensitive data (Axios)</title>
-      <link>https://www.axios.com/2025/02/04/treasury-sued-doge-sensitive-information-musk-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/04/treasury-sued-doge-sensitive-information-musk-trump</guid>
-      <pubDate>Tue, 04 Feb 2025 01:57:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s Blitz Shakes U.S. Government as He Sweeps Through Agencies (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html</guid>
-      <pubDate>Tue, 04 Feb 2025 01:25:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
