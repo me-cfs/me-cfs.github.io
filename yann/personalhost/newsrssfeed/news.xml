@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Authoritarian regimes around the world cheer on dismantling of USAid (Guardian)</title>
+      <link>https://www.theguardian.com/us-news/2025/feb/06/authoritarian-usaid-elon-musk</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/us-news/2025/feb/06/authoritarian-usaid-elon-musk</guid>
+      <pubDate>Thu, 06 Feb 2025 19:13:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Federal judge delays Trump's worker "buyout" deadline (Axios)</title>
       <link>https://www.axios.com/2025/02/06/trump-buyout-federal-workers-postponed</link>
       <author>Axios</author>
@@ -329,6 +336,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/06/elon-musk-doge-health-data-cms</guid>
       <pubDate>Thu, 06 Feb 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>It’s not over: Donald Trump could still blow up global trade (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/02/06/its-not-over-donald-trump-could-still-blow-up-global-trade</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/leaders/2025/02/06/its-not-over-donald-trump-could-still-blow-up-global-trade</guid>
+      <pubDate>Thu, 06 Feb 2025 10:14:42 GMT</pubDate>
     </item>
     <item>
       <title>How the Money Stopped at One Environmental Nonprofit, Causing Hardship and Alarm (Inside Climate News)</title>
@@ -1414,20 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ukraine-independent-media-civil-society-take-first-bullets-donald-trump-foreign-aid-freeze/</guid>
       <pubDate>Tue, 04 Feb 2025 17:13:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>China targets US energy, Google, mineral exports in retaliation for Trump tariffs (Semafor)</title>
-      <link>https://www.semafor.com/article/02/04/2025/china-hits-back-at-us-with-tariffs-a-google-probe-and-mineral-export-curbs</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/02/04/2025/china-hits-back-at-us-with-tariffs-a-google-probe-and-mineral-export-curbs</guid>
-      <pubDate>Tue, 04 Feb 2025 17:07:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: la justice n'ouvrira pas d'enquête sur l'affaire Abbé Pierre, couverte par la prescription (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250204-france-la-justice-n-ouvrira-pas-d-enqu%C3%AAte-sur-l-affaire-abb%C3%A9-pierre-couverte-par-la-prescription</link>
-      <author>RFI</author>
-      <guid>154050aa-e317-11ef-ba3a-005056a97652</guid>
-      <pubDate>Tue, 04 Feb 2025 17:07:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
