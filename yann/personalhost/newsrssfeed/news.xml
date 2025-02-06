@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La prise en charge des victimes d'excision encore lacunaire en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/excision-en-suisse-20-000-femmes-ignorent-leurs-droits-aux-soins-28781730.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28781730</guid>
+      <pubDate>Thu, 06 Feb 2025 13:33:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump claims no U.S. troops needed for his Gaza takeover plan (Axios)</title>
       <link>https://www.axios.com/2025/02/06/trump-no-us-troops-gaza-takeover-plan</link>
       <author>Axios</author>
@@ -45,6 +52,13 @@
       <author>RTS</author>
       <guid>28782195</guid>
       <pubDate>Thu, 06 Feb 2025 11:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. and the MAGA Death Trip (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/rfk-jr-and-the-maga-death-trip</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/rfk-jr-and-the-maga-death-trip</guid>
+      <pubDate>Thu, 06 Feb 2025 11:31:03 GMT</pubDate>
     </item>
     <item>
       <title>GOP seeks to corner Democrats with fentanyl bill (The Hill)</title>
@@ -1416,20 +1430,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/illinois-student-civil-rights-police-ticketing-bill</guid>
       <pubDate>Tue, 04 Feb 2025 06:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Second woman confirmed dead in Australia's floods (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cvgpvrgezp3o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cvgpvrgezp3o#0</guid>
-      <pubDate>Tue, 04 Feb 2025 10:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satellite Imagery Shows Schools and Hospitals Destroyed in Northern Gaza (Bellingcat)</title>
-      <link>https://www.bellingcat.com/news/2025/02/04/satellite-imagery-shows-schools-and-hospitals-destroyed-in-northern-gaza/</link>
-      <author>Bellingcat</author>
-      <guid>https://www.bellingcat.com/?p=47782</guid>
-      <pubDate>Tue, 04 Feb 2025 10:47:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
