@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's record number of executive orders test the limits of presidential power (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/trumps-record-number-executive-orders-testing-limits-presidential/story?id=118535046</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/trumps-record-number-executive-orders-testing-limits-presidential/story?id=118535046</guid>
+      <pubDate>Thu, 06 Feb 2025 23:33:30 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump imposes sanctions on International Criminal Court over Israel probe (Axios)</title>
+      <link>https://www.axios.com/2025/02/06/icc-trump-international-criminal-court-sanctions</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/06/icc-trump-international-criminal-court-sanctions</guid>
+      <pubDate>Thu, 06 Feb 2025 23:29:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Court rulings test limits of Trump's power (Axios)</title>
       <link>https://www.axios.com/2025/02/06/judges-rule-against-trump-doge-buyout</link>
       <author>Axios</author>
@@ -1414,20 +1428,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1113633</guid>
       <pubDate>Tue, 04 Feb 2025 21:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senate GOP plots to bypass Mike Johnson on reconciliation (Axios)</title>
-      <link>https://www.axios.com/2025/02/04/republicans-barrasso-trump-mike-johnson</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/04/republicans-barrasso-trump-mike-johnson</guid>
-      <pubDate>Tue, 04 Feb 2025 20:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Trump’s USAID shutdown threatens the world’s climate goals (Grist)</title>
-      <link>https://grist.org/politics/usaid-elon-musk-trump-climate/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=658336</guid>
-      <pubDate>Tue, 04 Feb 2025 20:56:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
