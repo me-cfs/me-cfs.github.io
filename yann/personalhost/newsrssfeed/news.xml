@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les producteurs de lait veulent négocier le prix du litre à 1 franc minimum  (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/prix-du-lait-suisse-les-producteurs-reclament-1-franc-minimum-par-litre-28783357.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28783357</guid>
+      <pubDate>Fri, 07 Feb 2025 07:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>France: l'adoption du budget risque la suppression de 6500 places d'hébergement pour demandeurs d'asile (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250207-france-l-adoption-du-budget-risque-la-suppression-de-6500-places-d-h%C3%A9bergement-pour-demandeurs-d-asile</link>
+      <author>RFI</author>
+      <guid>5bc9979e-e51e-11ef-8ca3-005056a97652</guid>
+      <pubDate>Fri, 07 Feb 2025 07:36:10 GMT</pubDate>
+    </item>
+    <item>
       <title> Trump imposes sanctions on International Criminal Court through executive order  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/trump-imposes-sanctions-on-international-criminal-court-through-executive-order</link>
       <author>Kyiv Indpendent</author>
@@ -1416,20 +1430,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/era-donald-trump-poland-spend-stay-friends-washington/</guid>
       <pubDate>Wed, 05 Feb 2025 03:30:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump admin placing most USAID staff on administrative leave worldwide (Axios)</title>
-      <link>https://www.axios.com/2025/02/05/usaid-staff-administrative-leave-trump-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/05/usaid-staff-administrative-leave-trump-musk</guid>
-      <pubDate>Wed, 05 Feb 2025 02:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>USPS temporarily suspends some inbound parcels from China amid Trump trade war (Axios)</title>
-      <link>https://www.axios.com/2025/02/05/usps-china-packages-delivery-suspended</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/05/usps-china-packages-delivery-suspended</guid>
-      <pubDate>Wed, 05 Feb 2025 02:04:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
