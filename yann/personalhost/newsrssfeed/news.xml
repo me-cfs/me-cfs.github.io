@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU chiefs chastise Trump for sanctioning the ICC 					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-slams-donald-trump-sanctioning-icc-antonio-costa-ursula-von-der-leyen/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-slams-donald-trump-sanctioning-icc-antonio-costa-ursula-von-der-leyen/</guid>
+      <pubDate>Fri, 07 Feb 2025 11:32:17 -0000</pubDate>
+    </item>
+    <item>
       <title>Markus Ritter, ce candidat au Conseil fédéral qui revendique sa foi traditionaliste (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/markus-ritter-un-candidat-au-conseil-federal-guide-par-sa-foi-catholique-28782493.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28782493</guid>
       <pubDate>Fri, 07 Feb 2025 11:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Four Years in a Day (Propublica)</title>
+      <link>https://www.propublica.org/article/donald-trump-immigration-executive-orders</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/donald-trump-immigration-executive-orders</guid>
+      <pubDate>Fri, 07 Feb 2025 06:00:00 -0500</pubDate>
     </item>
     <item>
       <title> Trump ready to step up Russia sanctions to end war in Ukraine, special envoy says  (Kyiv Indpendent)</title>
@@ -1411,20 +1426,6 @@
       <author>RTS</author>
       <guid>28780510</guid>
       <pubDate>Wed, 05 Feb 2025 09:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Test annuel des sirènes d'alarme en Suisse, rappel des comportements à adopter (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/sirenes-d-alarme-en-suisse-test-annuel-et-consignes-a-connaitre-28780408.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28780408</guid>
-      <pubDate>Wed, 05 Feb 2025 09:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>The scramble to save critical climate data from Trump’s war on DEI (Grist)</title>
-      <link>https://grist.org/politics/the-scramble-to-save-critical-climate-data-from-trumps-war-on-dei/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=658357</guid>
-      <pubDate>Wed, 05 Feb 2025 09:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
