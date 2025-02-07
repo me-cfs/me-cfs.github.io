@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: convoqués au tribunal, les mineurs isolés réfugiés à la Gaîté Lyrique de Paris manifestent (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250207-france-convoqu%C3%A9s-au-tribunal-les-mineurs-isol%C3%A9s-r%C3%A9fugi%C3%A9s-%C3%A0-la-ga%C3%AEt%C3%A9-lyrique-de-paris-manifestent</link>
+      <author>RFI</author>
+      <guid>5aa38ba8-e583-11ef-8555-005056bf762b</guid>
+      <pubDate>Fri, 07 Feb 2025 19:24:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Enrico Letta : «Répliquons à Trump en évitant d'être une colonie de la finance américaine !» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/ici-l-europe/20250207-enrico-letta-r%C3%A9pliquons-%C3%A0-trump-en-%C3%A9vitant-d-%C3%AAtre-une-colonie-de-la-finance-am%C3%A9ricaine</link>
       <author>RFI</author>
       <guid>cbfe80c0-e577-11ef-acd4-005056a97652</guid>
       <pubDate>Fri, 07 Feb 2025 19:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>UK demands Apple break encryption to allow gov’t spying worldwide, reports say (Arstechnica)</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/</guid>
+      <pubDate>Fri, 07 Feb 2025 18:40:45 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1412,21 +1426,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/artanddesign/2025/feb/05/serge-alain-nitegeka-configurations-in-black</guid>
       <pubDate>Wed, 05 Feb 2025 17:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>House GOP eyes new Plan B on extending Trump tax cuts (Axios)</title>
-      <link>https://www.axios.com/2025/02/05/house-republicans-reconciliation-trump-tax-cuts</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/05/house-republicans-reconciliation-trump-tax-cuts</guid>
-      <pubDate>Wed, 05 Feb 2025 17:31:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						French PM Bayrou survives no-confidence vote thanks to far right					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-far-right-set-to-keep-pm-francois-bayrou-in-office-on-budget-no-confidence-vote/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-far-right-set-to-keep-pm-francois-bayrou-in-office-on-budget-no-confidence-vote/</guid>
-      <pubDate>Wed, 05 Feb 2025 17:26:38 -0000</pubDate>
     </item>
   </channel>
 </rss>
