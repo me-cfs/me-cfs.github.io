@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/un-plan-pour-gaza</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22921</guid>
+      <pubDate>02/08/2025 18:25</pubDate>
+    </item>
+    <item>
+      <title>En Europe, Donald Trump ne laisse pas les partis d'extrême droite indifférents (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250208-en-europe-donald-trump-ne-laisse-pas-les-partis-d-extr%C3%AAme-droite-indiff%C3%A9rents</link>
+      <author>RFI</author>
+      <guid>1a984234-e631-11ef-bd09-005056a97652</guid>
+      <pubDate>Sat, 08 Feb 2025 17:31:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump moves you may have missed this week (Axios)</title>
       <link>https://www.axios.com/2025/02/08/trump-orders-usaid-trans-sports-gaza</link>
       <author>Axios</author>
@@ -1411,21 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/06/doge-treasury-payments-system-access-trump-musk</guid>
       <pubDate>Thu, 06 Feb 2025 05:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cautious Albanese keen to not rock Parliament ahead of election (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/02/06/anthony-albanese-cautious-parliament-election-2025/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1192484</guid>
-      <pubDate>Thu, 06 Feb 2025 04:37:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Here’s what Germany’s next government will look like					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-next-government-friedrich-merz-politics-eu-cdu-csu-afd-spd-greens-olaf-scholz/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-next-government-friedrich-merz-politics-eu-cdu-csu-afd-spd-greens-olaf-scholz/</guid>
-      <pubDate>Thu, 06 Feb 2025 04:31:36 -0000</pubDate>
     </item>
   </channel>
 </rss>
