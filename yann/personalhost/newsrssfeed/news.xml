@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le milan royal reste davantage en Suisse l'hiver à cause du changement climatique (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/milan-royal-en-suisse-expansion-liee-aux-hivers-plus-doux-28780688.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28780688</guid>
+      <pubDate>Sat, 08 Feb 2025 20:51:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump Finally Found His Kind of Refugee (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/02/donald-trump-elon-musk-south-africa-refugee-afrikaner/</link>
       <author>Motherjones</author>
@@ -1418,13 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/06/bots-group-chat-meetings-uncanny-valley</guid>
       <pubDate>Thu, 06 Feb 2025 09:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>America’s scheme for Gaza contains much to regret (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/02/06/americas-scheme-for-gaza-contains-much-to-regret</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/02/06/americas-scheme-for-gaza-contains-much-to-regret</guid>
-      <pubDate>Thu, 06 Feb 2025 09:24:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
