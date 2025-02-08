@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: Volodymyr Zelensky prêt à négocier ses ressources stratégiques avec Donald Trump (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250208-ukraine-volodymyr-zelensky-pr%C3%AAt-%C3%A0-n%C3%A9gocier-ses-ressources-strat%C3%A9giques-avec-donald-trump</link>
+      <author>RFI</author>
+      <guid>835f1b16-e61e-11ef-999e-005056bf762b</guid>
+      <pubDate>Sat, 08 Feb 2025 14:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meet the young Musketeers, our unelected overlords employed by ‘Doge’ (Guardian)</title>
+      <link>https://www.theguardian.com/commentisfree/2025/feb/08/elon-musk-doge</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/commentisfree/2025/feb/08/elon-musk-doge</guid>
+      <pubDate>Sat, 08 Feb 2025 14:00:23 GMT</pubDate>
+    </item>
+    <item>
       <title>NIH chops support for some medical research costs (Axios)</title>
       <link>https://www.axios.com/2025/02/08/nih-cut-university-medical-research-costs</link>
       <author>Axios</author>
@@ -1417,20 +1431,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-strip-netanyahu.html</guid>
       <pubDate>Thu, 06 Feb 2025 02:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Labor groups sue to block DOGE from accessing key economic data (Axios)</title>
-      <link>https://www.axios.com/2025/02/06/musk-doge-labor-bls</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/06/musk-doge-labor-bls</guid>
-      <pubDate>Thu, 06 Feb 2025 02:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Media plays Trump’s Gaza game, again obsessing over words — not actions (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/02/06/donald-trump-gaza-plan-palestinians-media-coverage/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1192425</guid>
-      <pubDate>Thu, 06 Feb 2025 01:17:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
