@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Nicolas Sarkozy met ses activités d'ancien président «entre parenthèses» (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250208-france-nicolas-sarkozy-met-ses-activit%C3%A9s-d-ancien-pr%C3%A9sident-entre-parenth%C3%A8ses</link>
+      <author>RFI</author>
+      <guid>38c2fcc2-e668-11ef-bf2c-005056a97652</guid>
+      <pubDate>Sat, 08 Feb 2025 22:56:39 GMT</pubDate>
+    </item>
+    <item>
       <title>The Department of Education Told Employees to End Support for Transgender Students (Propublica)</title>
       <link>https://www.propublica.org/article/department-of-education-transgender-students-email</link>
       <author>Propublica</author>
@@ -53,6 +60,13 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22921</guid>
       <pubDate>02/08/2025 18:25</pubDate>
+    </item>
+    <item>
+      <title>Woman's deepfake betrayal by close friend: 'Every moment turned into porn' (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cm21j341m31o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cm21j341m31o#0</guid>
+      <pubDate>Sat, 08 Feb 2025 18:08:04 GMT</pubDate>
     </item>
     <item>
       <title>En Europe, Donald Trump ne laisse pas les partis d'extrême droite indifférents (RFI)</title>
@@ -1411,20 +1425,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=658425</guid>
       <pubDate>Thu, 06 Feb 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's ICE frees hundreds of immigrants under "catch and release" (Axios)</title>
-      <link>https://www.axios.com/2025/02/06/trump-immigration-catch-release</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/06/trump-immigration-catch-release</guid>
-      <pubDate>Thu, 06 Feb 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's gut-it-all plan for D.C.'s "Deep State" (Axios)</title>
-      <link>https://www.axios.com/2025/02/06/trump-deep-state-usaid-elon-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/06/trump-deep-state-usaid-elon-musk</guid>
-      <pubDate>Thu, 06 Feb 2025 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
