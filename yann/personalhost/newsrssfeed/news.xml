@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Elon Musk's X army takes the wheel (Axios)</title>
+      <link>https://www.axios.com/2025/02/08/elon-musk-x-followers-us-government</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/08/elon-musk-x-followers-us-government</guid>
+      <pubDate>Sat, 08 Feb 2025 14:16:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine: Volodymyr Zelensky prêt à négocier ses ressources stratégiques avec Donald Trump (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250208-ukraine-volodymyr-zelensky-pr%C3%AAt-%C3%A0-n%C3%A9gocier-ses-ressources-strat%C3%A9giques-avec-donald-trump</link>
       <author>RFI</author>
@@ -26,11 +33,25 @@
       <pubDate>Sat, 08 Feb 2025 13:24:58 +0000</pubDate>
     </item>
     <item>
+      <title>What the Edwardians Could Teach Trump About Trade (Wonkish) (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/what-the-edwardians-could-teach-trump</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/what-the-edwardians-could-teach-trump</guid>
+      <pubDate>Sat, 08 Feb 2025 13:24:38 GMT</pubDate>
+    </item>
+    <item>
       <title>“You Don’t Own Gaza, Donald Trump”: Palestinians Vow to Remain and Rebuild (The Intercept)</title>
       <link>https://theintercept.com/2025/02/08/trump-gaza-palestinians-displace/</link>
       <author>The Intercept</author>
       <guid>https://theintercept.com/?p=486305</guid>
       <pubDate>Sat, 08 Feb 2025 11:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trade Flows and Trade Balances (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/trade-flows-and-trade-balances</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/trade-flows-and-trade-balances</guid>
+      <pubDate>Sat, 08 Feb 2025 11:15:42 GMT</pubDate>
     </item>
     <item>
       <title>
@@ -1409,28 +1430,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cy9l1w5zlgdo#0</guid>
       <pubDate>Thu, 06 Feb 2025 03:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scientists produce first kangaroo embryo using IVF (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cy9l1w5zlgdo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cy9l1w5zlgdo#1</guid>
-      <pubDate>Thu, 06 Feb 2025 03:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Like it or not, the rules-based order is no more					 (Politico)</title>
-      <link>https://www.politico.eu/article/rules-danish-prime-minister-mette-frederiksen-us-president-donald-trump-greenland-power-politics/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/rules-danish-prime-minister-mette-frederiksen-us-president-donald-trump-greenland-power-politics/</guid>
-      <pubDate>Thu, 06 Feb 2025 03:01:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Proposes U.S. Takeover of Gaza and Says Palestinians Should Move (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-strip-netanyahu.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/04/us/politics/trump-gaza-strip-netanyahu.html</guid>
-      <pubDate>Thu, 06 Feb 2025 02:39:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
