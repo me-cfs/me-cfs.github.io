@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>OpenAI CEO to issue warning to world leaders at AI Action Summit (Axios)</title>
+      <link>https://www.axios.com/2025/02/08/open-ai-ceo-issue-warning-world-leaders</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/08/open-ai-ceo-issue-warning-world-leaders</guid>
+      <pubDate>Sat, 08 Feb 2025 16:09:37 +0000</pubDate>
+    </item>
+    <item>
       <title>War-Torn Lebanon Forms Its First Government In Over 2 Years (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/war-torn-lebanon-forms-first-government-2-years_n_67a776f3e4b0c49b6c88ee1b</link>
       <author>Huffington Post</author>
@@ -1420,13 +1427,6 @@
       <author>SBS News</author>
       <guid>00000194-d92f-d757-afbf-fdbf506c0000</guid>
       <pubDate>Thu, 6 Feb 2025 04:14:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: Emmanuel Macron veut profiter du sommet sur l'IA pour se donner un nouvel élan (RFI)</title>
-      <link>https://www.rfi.fr/fr/technologies/20250206-france-emmanuel-macron-veut-profiter-du-sommet-sur-l-ia-pour-se-donner-un-nouvel-%C3%A9lan</link>
-      <author>RFI</author>
-      <guid>23053f72-e432-11ef-82e1-005056a97652</guid>
-      <pubDate>Thu, 06 Feb 2025 04:06:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
