@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Richard Ferrand pressenti pour être proposé à la tête du Conseil constitutionnel par Macron (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250210-france-richard-ferrand-pressenti-pour-%C3%AAtre-propos%C3%A9-%C3%A0-la-t%C3%AAte-du-conseil-constitutionnel-par-macron</link>
+      <author>RFI</author>
+      <guid>4b4151ba-e76b-11ef-9013-005056a97652</guid>
+      <pubDate>Mon, 10 Feb 2025 05:54:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Fight club: plongée dans l'univers des combats extrêmes et illégaux (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/fight-clubs-clandestins-la-fascination-pour-les-combats-extremes-28784410.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1425,13 +1432,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=5211</guid>
       <pubDate>Thu, 06 Feb 2025 17:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>DRC: Regional leadership needed to prevent further atrocities and hold those suspected of criminal responsibility accountable (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/02/drc-regional-leadership-needed-prevent-atrocities/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=222794</guid>
-      <pubDate>Thu, 06 Feb 2025 17:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
