@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Netanyahu asked U.S. for AI chip export waiver (Axios)</title>
+      <link>https://www.axios.com/2025/02/10/netanyahu-waiver-ai-chips-us-exports</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/10/netanyahu-waiver-ai-chips-us-exports</guid>
+      <pubDate>Mon, 10 Feb 2025 21:06:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>France: Emmanuel Macron choisit Richard Ferrand comme candidat à la tête du Conseil constitutionnel (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250210-france-emmanuel-macron-choisit-richard-ferrand-comme-candidat-%C3%A0-la-t%C3%AAte-du-conseil-constitutionnel</link>
+      <author>RFI</author>
+      <guid>2d3562a8-e7eb-11ef-837c-005056a97652</guid>
+      <pubDate>Mon, 10 Feb 2025 20:50:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Future Made in Australia : Senate passes Labor's flagship clean energy plan (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/future-made-in-australia-senate-passes-labors-flagship-clean-energy-plan/aykniavnp</link>
       <author>SBS News</author>
@@ -1418,20 +1432,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cgmypx0wldro#0</guid>
       <pubDate>Fri, 07 Feb 2025 07:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Les producteurs de lait veulent négocier le prix du litre à 1 franc minimum  (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/prix-du-lait-suisse-les-producteurs-reclament-1-franc-minimum-par-litre-28783357.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28783357</guid>
-      <pubDate>Fri, 07 Feb 2025 07:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: l'adoption du budget risque la suppression de 6500 places d'hébergement pour demandeurs d'asile (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250207-france-l-adoption-du-budget-risque-la-suppression-de-6500-places-d-h%C3%A9bergement-pour-demandeurs-d-asile</link>
-      <author>RFI</author>
-      <guid>5bc9979e-e51e-11ef-8ca3-005056a97652</guid>
-      <pubDate>Fri, 07 Feb 2025 07:36:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
