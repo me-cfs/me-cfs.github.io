@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Wild weather: Australia's summer drenching continues amid flood, cyclone warnings (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/wet-weather-to-hit-parts-of-qld-wa-nsw-victoria/ypfmj6hs3</link>
+      <author>SBS News</author>
+      <guid>00000194-ec13-d514-a5be-fef30cc30000</guid>
+      <pubDate>Mon, 10 Feb 2025 00:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Législatives en Allemagne: Olaf Scholz à l'offensive lors du débat télévisé face à Friedrich Merz (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250210-l%C3%A9gislatives-en-allemagne-olaf-scholz-%C3%A0-l-offensive-lors-du-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-face-%C3%A0-friedrich-merz</link>
+      <author>RFI</author>
+      <guid>b33dbd28-e73c-11ef-9a22-005056a97652</guid>
+      <pubDate>Mon, 10 Feb 2025 00:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Global/France: AI Action Summit must meaningfully center binding and enforceable regulation to curb AI-driven harms   (Amnesty International)</title>
       <link>https://www.amnesty.org/en/latest/news/2025/02/global-france-ai-action-summit-must-meaningfully-center-binding-and-enforceable-regulation-to-curb-ai-driven-harms/</link>
       <author>Amnesty International</author>
@@ -110,6 +124,13 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22922</guid>
       <pubDate>02/09/2025 16:50</pubDate>
+    </item>
+    <item>
+      <title>This Isn’t the Donald Trump America Elected (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/09/opinion/donald-trump-foreign-policy.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/09/opinion/donald-trump-foreign-policy.html</guid>
+      <pubDate>Sun, 09 Feb 2025 16:21:26 +0000</pubDate>
     </item>
     <item>
       <title>"Utopique", une votation qui "ne sert presque à rien": la presse peu tendre avec l'initiative pour la responsabilité environnementale (RTS)</title>
@@ -1388,6 +1409,13 @@
       <pubDate>Thu, 06 Feb 2025 15:22:53 +0000</pubDate>
     </item>
     <item>
+      <title>My Farewell Column (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/05/opinion/writing-journalism-coming-out.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/05/opinion/writing-journalism-coming-out.html</guid>
+      <pubDate>Thu, 06 Feb 2025 15:02:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Most Americans have positive view of agencies Trump is targeting: poll (Axios)</title>
       <link>https://www.axios.com/2025/02/06/trump-doge-federal-workforce-government-agency-poll</link>
       <author>Axios</author>
@@ -1400,35 +1428,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
       <pubDate>Thu, 06 Feb 2025 14:30:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump doubles down on kicking Palestinians out of Gaza					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-take-palestinians-out-of-gaza/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-take-palestinians-out-of-gaza/</guid>
-      <pubDate>Thu, 06 Feb 2025 14:08:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>Politics (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/02/06/politics</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/kh819ha7jrqqlrqvda4ep3sbiifu2chq</guid>
-      <pubDate>Thu, 06 Feb 2025 14:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/02/06/business</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/jrv073ihb8ie2f2tv6hg6jvasbeac7ev</guid>
-      <pubDate>Thu, 06 Feb 2025 14:08:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The weekly cartoon (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/02/06/the-weekly-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/ihlrqh3sf9u4mvhhbibmflklfav9b4r0</guid>
-      <pubDate>Thu, 06 Feb 2025 14:08:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
