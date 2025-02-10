@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Entre défaillances et crises, «la France est à l'aube d'une nouvelle vague de désindustrialisation» (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250210-entre-d%C3%A9faillances-et-crises-la-france-est-%C3%A0-l-aube-d-une-nouvelle-vague-de-d%C3%A9sindustrialisation</link>
+      <author>RFI</author>
+      <guid>5e6e9280-e7c4-11ef-8226-005056bf762b</guid>
+      <pubDate>Mon, 10 Feb 2025 16:16:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Grammys 2025’s Unforgettable Looks: Jaden Smith, Bianca Censori, Chappell Roan (New York Times)</title>
       <link>https://www.nytimes.com/2025/02/02/style/grammys-2025-red-carpet.html</link>
       <author>New York Times</author>
@@ -1427,13 +1434,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/06/judges-rule-against-trump-doge-buyout</guid>
       <pubDate>Thu, 06 Feb 2025 22:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s Demolition Crew (Propublica)</title>
-      <link>https://projects.propublica.org/elon-musk-doge-tracker/</link>
-      <author>Propublica</author>
-      <guid>https://projects.propublica.org/elon-musk-doge-tracker/</guid>
-      <pubDate>Thu, 06 Feb 2025 17:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
