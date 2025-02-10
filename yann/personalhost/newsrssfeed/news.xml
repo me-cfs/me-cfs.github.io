@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Union sues Trump admin over CFPB shutdown attempt and DOGE access (Axios)</title>
+      <link>https://www.axios.com/2025/02/10/cfpb-trump-doge-vought-lawsuit-union</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/10/cfpb-trump-doge-vought-lawsuit-union</guid>
+      <pubDate>Mon, 10 Feb 2025 13:31:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Fears grow for health of social media influencer arrested on live TV in Sierra Leone (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/feb/10/social-media-influencer-sierra-leone-hawa-hunt</link>
       <author>Guardian</author>
@@ -31,6 +38,13 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/02/10/2025/paris-hosts-ai-summit-as-france-looks-to-challenge-us-dominance</guid>
       <pubDate>Mon, 10 Feb 2025 11:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sabotaging the Pax Americana (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/sabotaging-the-pax-americana</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/sabotaging-the-pax-americana</guid>
+      <pubDate>Mon, 10 Feb 2025 11:31:22 GMT</pubDate>
     </item>
     <item>
       <title>Industrie, commerce, bâtiment, services… : portrait d’une France en crise (RFI)</title>
@@ -1418,20 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/06/trump-buyout-federal-workers-postponed</guid>
       <pubDate>Thu, 06 Feb 2025 20:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Trump orders key government agency to cancel all media contracts (Axios)</title>
-      <link>https://www.axios.com/2025/02/06/trump-politico-subscriptions-doge-elon-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/06/trump-politico-subscriptions-doge-elon-musk</guid>
-      <pubDate>Thu, 06 Feb 2025 20:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Rubio planning first Middle East trip in mid-February (Axios)</title>
-      <link>https://www.axios.com/2025/02/06/marco-rubio-israel-middle-east-trip</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/06/marco-rubio-israel-middle-east-trip</guid>
-      <pubDate>Thu, 06 Feb 2025 20:00:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
