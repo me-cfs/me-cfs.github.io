@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>GOP leaders downplay Medicaid cuts as they seek $2T in savings (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5139533-house-republicans-medicaid-cuts/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5139533</guid>
+      <pubDate>Tue, 11 Feb 2025 22:51:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Elon Musk’s &amp;#36;97bn offer is a nuisance for Sam Altman’s OpenAI (Economist)</title>
       <link>https://www.economist.com/business/2025/02/11/elon-musks-97bn-offer-is-a-nuisance-for-sam-altmans-openai</link>
       <author>Economist</author>
@@ -123,6 +130,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/11/pope-francis-trump-vance-mass-deportations-immigration</guid>
       <pubDate>Tue, 11 Feb 2025 16:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>The neglect of Asia was the great failure of Yalta, writes Stephen Kotkin (Economist)</title>
+      <link>https://www.economist.com/by-invitation/2025/02/11/the-neglect-of-asia-was-the-great-failure-of-yalta-writes-stephen-kotkin</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/by-invitation/2025/02/11/the-neglect-of-asia-was-the-great-failure-of-yalta-writes-stephen-kotkin</guid>
+      <pubDate>Tue, 11 Feb 2025 16:00:36 GMT</pubDate>
     </item>
     <item>
       <title>ULA’s Vulcan rocket still doesn’t have the Space Force’s seal of approval (Arstechnica)</title>
@@ -1417,20 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/08/israeli-hostages-released-gaza-ceasefire-deal</guid>
       <pubDate>Sat, 08 Feb 2025 17:42:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Europe, Donald Trump ne laisse pas les partis d'extrême droite indifférents (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250208-en-europe-donald-trump-ne-laisse-pas-les-partis-d-extr%C3%AAme-droite-indiff%C3%A9rents</link>
-      <author>RFI</author>
-      <guid>1a984234-e631-11ef-bd09-005056a97652</guid>
-      <pubDate>Sat, 08 Feb 2025 17:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Judge Halts DOGE Access to Treasury Payment Systems (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/07/nyregion/attorneys-general-trump-musk-suit.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/07/nyregion/attorneys-general-trump-musk-suit.html</guid>
-      <pubDate>Sat, 08 Feb 2025 17:28:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
