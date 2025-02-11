@@ -5,6 +5,41 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Where unemployment is rising and falling (Axios)</title>
+      <link>https://www.axios.com/2025/02/11/unemployment-by-city-metro-map</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/11/unemployment-by-city-metro-map</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tracking Trump's executive actions by category (Axios)</title>
+      <link>https://www.axios.com/2025/02/11/trumps-executive-orders-memos</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/11/trumps-executive-orders-memos</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk escalates Sam Altman feud in battle for AI's future (Axios)</title>
+      <link>https://www.axios.com/2025/02/11/elon-musk-sam-altman-openai-bid</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/11/elon-musk-sam-altman-openai-bid</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kaiser Permanente Back in the Hot Seat Over Mental Health Care, but It’s Not Only a KP Issue (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/kaiser-permanente-mental-health-parity/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?p=1982277&amp;post_type=article&amp;preview_id=1982277</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>One Agency Tried to Regulate SpaceX. Now Its Fate Could Be in Elon Musk’s Hands. (Propublica)</title>
+      <link>https://www.propublica.org/article/elon-musk-spacex-doge-faa-ast-regulation-spaceflight-trump</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/elon-musk-spacex-doge-faa-ast-regulation-spaceflight-trump</guid>
+      <pubDate>Tue, 11 Feb 2025 05:00:00 -0500</pubDate>
+    </item>
+    <item>
       <title>
 						EU vows ‘firm and proportionate’ response to Trump’s tariffs					 (Politico)</title>
       <link>https://www.politico.eu/article/von-der-leyen-vows-firm-and-proportionate-answer-to-trumps-tariffs/</link>
@@ -1398,41 +1433,6 @@
       <author>RTS</author>
       <guid>28784018</guid>
       <pubDate>Fri, 07 Feb 2025 20:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Learned That the Problem in My Marriage Was Me (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/04/magazine/therapy-marriage-couples-counseling.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/04/magazine/therapy-marriage-couples-counseling.html</guid>
-      <pubDate>Fri, 07 Feb 2025 19:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karam fled Gaza for Australia. He's 'can't process' Trump's 'shocking' plan (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/palestinians-in-australia-react-to-donald-trumps-gaza-take-over-plan/27leu9ccv</link>
-      <author>SBS News</author>
-      <guid>00000194-de9b-d757-afbf-febf001a0000</guid>
-      <pubDate>Fri, 7 Feb 2025 19:37:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaving Abortion to the States: A Broken Trump Campaign Promise (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/the-week-in-brief-trump-abortion-states/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=1983439&amp;post_type=article&amp;preview_id=1983439</guid>
-      <pubDate>Fri, 07 Feb 2025 19:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: convoqués au tribunal, les mineurs isolés réfugiés à la Gaîté Lyrique de Paris manifestent (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250207-france-convoqu%C3%A9s-au-tribunal-les-mineurs-isol%C3%A9s-r%C3%A9fugi%C3%A9s-%C3%A0-la-ga%C3%AEt%C3%A9-lyrique-de-paris-manifestent</link>
-      <author>RFI</author>
-      <guid>5aa38ba8-e583-11ef-8555-005056bf762b</guid>
-      <pubDate>Fri, 07 Feb 2025 19:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scientists’ Mad Scramble to Save Critical Climate Data From Trump’s War on DEI (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/02/federal-researchers-science-archive-critical-climate-data-trump-war-dei-resist/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1114749</guid>
-      <pubDate>Fri, 07 Feb 2025 19:18:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
