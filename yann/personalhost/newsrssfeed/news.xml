@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Planes, phones and a bank: What Australians used to own (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/planes-phones-and-a-bank-what-australians-used-to-own/8r94gagra</link>
+      <author>SBS News</author>
+      <guid>00000194-f7db-d644-a5dd-f7ff34c80000</guid>
+      <pubDate>Wed, 12 Feb 2025 05:14:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump orders "large-scale" cuts to federal workforce and gives DOGE more power (Axios)</title>
       <link>https://www.axios.com/2025/02/12/trump-doge-executive-order-musk-federal-staff-cuts</link>
       <author>Axios</author>
@@ -108,6 +115,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-rails-against-uk-huge-trade-deficit-as-hopes-of-tariff-exemption-fade/</guid>
       <pubDate>Wed, 12 Feb 2025 01:50:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>Musk's DOGE complicates Mike Johnson's government shutdown options (Axios)</title>
+      <link>https://www.axios.com/2025/02/12/elon-musk-doge-government-shutdowns</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/12/elon-musk-doge-government-shutdowns</guid>
+      <pubDate>Wed, 12 Feb 2025 01:34:00 +0000</pubDate>
     </item>
     <item>
       <title>Scoop: Dems "pissed" at liberal groups MoveOn, Indivisible (Axios)</title>
@@ -1420,20 +1434,6 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22922</guid>
       <pubDate>02/09/2025 16:50</pubDate>
-    </item>
-    <item>
-      <title>This Isn’t the Donald Trump America Elected (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/09/opinion/donald-trump-foreign-policy.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/09/opinion/donald-trump-foreign-policy.html</guid>
-      <pubDate>Sun, 09 Feb 2025 16:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Utopique", une votation qui "ne sert presque à rien": la presse peu tendre avec l'initiative pour la responsabilité environnementale (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/initiative-environnementale-rejetee-la-presse-critique-une-proposition-utopique-28785490.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28785490</guid>
-      <pubDate>Sun, 09 Feb 2025 16:01:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
