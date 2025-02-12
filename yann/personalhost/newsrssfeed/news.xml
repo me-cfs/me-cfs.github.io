@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France-Inde: à Marseille, Emmanuel Macron et Narendra Modi affichent leur proximité (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250212-france-inde-%C3%A0-marseille-emmanuel-macron-et-narendra-modi-affichent-leur-proximit%C3%A9</link>
+      <author>RFI</author>
+      <guid>2f87b7e8-e969-11ef-97d2-005056a97652</guid>
+      <pubDate>Wed, 12 Feb 2025 18:24:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Top Dem on DOGE subcommittee calls on Elon Musk to testify (Axios)</title>
       <link>https://www.axios.com/2025/02/12/melanie-stansbury-doge-subcommittee-elon-musk</link>
       <author>Axios</author>
@@ -165,6 +172,13 @@
       <link>https://www.economist.com/europe/2025/02/12/ukraines-president-fears-donald-trump-is-keeping-him-out-of-the-loop</link>
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/02/12/ukraines-president-fears-donald-trump-is-keeping-him-out-of-the-loop</guid>
+      <pubDate>Wed, 12 Feb 2025 13:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ukraine is cut out of negotiations between America and Russia (Economist)</title>
+      <link>https://www.economist.com/europe/2025/02/12/ukraine-is-cut-out-of-negotiations-between-america-and-russia</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/europe/2025/02/12/ukraine-is-cut-out-of-negotiations-between-america-and-russia</guid>
       <pubDate>Wed, 12 Feb 2025 13:02:04 GMT</pubDate>
     </item>
     <item>
@@ -1415,20 +1429,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/02/10/2025/rising-borrowing-costs-in-japan-suggest-era-of-deflation-may-be-ending</guid>
       <pubDate>Mon, 10 Feb 2025 11:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>China to cut renewable subsidies after meeting targets years early (Semafor)</title>
-      <link>https://www.semafor.com/article/02/10/2025/china-to-cut-renewable-subsidies-after-meeting-targets-years-early</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/02/10/2025/china-to-cut-renewable-subsidies-after-meeting-targets-years-early</guid>
-      <pubDate>Mon, 10 Feb 2025 11:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paris hosts AI summit as France looks to challenge US dominance (Semafor)</title>
-      <link>https://www.semafor.com/article/02/10/2025/paris-hosts-ai-summit-as-france-looks-to-challenge-us-dominance</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/02/10/2025/paris-hosts-ai-summit-as-france-looks-to-challenge-us-dominance</guid>
-      <pubDate>Mon, 10 Feb 2025 11:38:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
