@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Bruno Retailleau annonce sa candidature à la présidence du parti Les Républicains (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250212-france-bruno-retailleau-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidence-du-parti-les-r%C3%A9publicains</link>
+      <author>RFI</author>
+      <guid>7cdfadb6-e932-11ef-9da5-005056a97652</guid>
+      <pubDate>Wed, 12 Feb 2025 12:19:29 GMT</pubDate>
+    </item>
+    <item>
       <title>The Long Wave: Why Trump’s aid freeze endangers millions (Guardian)</title>
       <link>https://www.theguardian.com/news/2025/feb/11/trump-aid-freeze-endangers-millions-us-aid</link>
       <author>Guardian</author>
@@ -1426,13 +1433,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/von-der-leyen-to-host-ceos-after-unveiling-eus-economic-plan/</guid>
       <pubDate>Mon, 10 Feb 2025 03:17:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>'Grease and rags' sewer fatberg halts Bryan Adams concert (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c626qwvekl1o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c626qwvekl1o#0</guid>
-      <pubDate>Mon, 10 Feb 2025 03:03:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
