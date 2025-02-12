@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Inspectors general sue Trump admin over their firings (Axios)</title>
+      <link>https://www.axios.com/2025/02/12/trump-inspector-generals-lawsuit-firings</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/12/trump-inspector-generals-lawsuit-firings</guid>
+      <pubDate>Wed, 12 Feb 2025 16:22:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>House GOP unveils $2 trillion in proposed spending cuts (Axios)</title>
+      <link>https://www.axios.com/2025/02/12/house-republicans-budget-resolution</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/12/house-republicans-budget-resolution</guid>
+      <pubDate>Wed, 12 Feb 2025 16:17:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Proche de l'équilibre, le compte de la Confédération en 2024 est finalement meilleur qu'attendu (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/finances-federales-2024-deficit-de-80-millions-au-lieu-de-2-6-milliards-28789198.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1416,20 +1430,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/jan-6-pardons-trump-purges-domestic-terrorism-focus</guid>
       <pubDate>Mon, 10 Feb 2025 05:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Paris AI summit forecast: more talk than action (Axios)</title>
-      <link>https://www.axios.com/2025/02/10/paris-ai-summit-starts</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/10/paris-ai-summit-starts</guid>
-      <pubDate>Mon, 10 Feb 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forte de sa victoire dimanche, l'UDC veut sortir de l'accord de Paris sur le climat (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/l-udc-veut-sortir-de-l-accord-de-paris-apres-le-rejet-de-l-initiative-climat-28785991.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28785991</guid>
-      <pubDate>Mon, 10 Feb 2025 09:27:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
