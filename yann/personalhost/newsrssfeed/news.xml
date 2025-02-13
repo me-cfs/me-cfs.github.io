@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: malgré l'épisode du budget quasi bouclé, le risque de paralysie guette l'Assemblée nationale (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250213-france-malgr%C3%A9-l-%C3%A9pisode-du-budget-quasi-boucl%C3%A9-risque-paralysie-guette-assembl%C3%A9e-nationale</link>
+      <author>RFI</author>
+      <guid>3195e28c-e9df-11ef-a4f1-005056a97652</guid>
+      <pubDate>Thu, 13 Feb 2025 09:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Another casualty of Trump’s funding freeze: New Orleans’ tree canopy (Grist)</title>
+      <link>https://grist.org/cities/trump-stops-tree-replacement-new-orleans/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=658762</guid>
+      <pubDate>Thu, 13 Feb 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Australia accuses China of 'unsafe' fighter jet move (BBC)</title>
       <link>https://www.bbc.com/news/articles/cly403ly0gyo</link>
       <author>BBC</author>
@@ -1421,20 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/11/nyc-mayor-eric-adams-charges-dropped-doj-move</guid>
       <pubDate>Tue, 11 Feb 2025 01:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today’s Trump chaos is exactly what Australia feared when it planned AUKUS (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/02/11/todays-trump-chaos-is-exactly-what-australia-feared-when-it-planned-aukus/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1193666</guid>
-      <pubDate>Tue, 11 Feb 2025 01:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thune and Johnson vow to take DOGE spending cuts to the next level (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/elon-musk-doge-spending-cuts-johnson-thune</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/elon-musk-doge-spending-cuts-johnson-thune</guid>
-      <pubDate>Tue, 11 Feb 2025 00:59:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
