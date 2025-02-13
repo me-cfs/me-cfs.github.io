@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump blasts McConnell for voting against RFK Jr., disregarding his childhood polio (The Hill)</title>
+      <link>https://thehill.com/homenews/administration/5143911-trump-mcconnell-rfk-jr-vote/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5143911</guid>
+      <pubDate>Thu, 13 Feb 2025 21:05:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Albanese stirs election fever (Crikey)</title>
       <link>https://www.crikey.com.au/2025/02/14/anthony-albanese-federal-election-russia-putin-trump/</link>
       <author>Crikey</author>
@@ -280,6 +287,13 @@
       <link>https://www.economist.com/britain/2025/02/13/valentines-day-may-need-to-adjust-to-the-times</link>
       <author>Economist</author>
       <guid>https://www.economist.com/britain/2025/02/13/valentines-day-may-need-to-adjust-to-the-times</guid>
+      <pubDate>Thu, 13 Feb 2025 14:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Le Chat, the cat-bot France has pinned its AI hopes on (Economist)</title>
+      <link>https://www.economist.com/europe/2025/02/13/is-frances-le-chat-in-fact-a-cat</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/europe/2025/02/13/is-frances-le-chat-in-fact-a-cat</guid>
       <pubDate>Thu, 13 Feb 2025 14:42:19 GMT</pubDate>
     </item>
     <item>
@@ -1419,20 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/11/record-1277m-watched-super-bowl-lix</guid>
       <pubDate>Tue, 11 Feb 2025 20:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump White House tells Congress it needs border cash now (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/white-house-congress-border-funding-reconciliation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/white-house-congress-border-funding-reconciliation</guid>
-      <pubDate>Tue, 11 Feb 2025 20:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netanyahu Threatens To Resume Fighting In Gaza If Hostages Aren't Released Saturday (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/israel-beef-troops-gaza-ceasefire-falters_n_67ab7e78e4b03d52c7eaabb5</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/israel-beef-troops-gaza-ceasefire-falters_n_67ab7e78e4b03d52c7eaabb5</guid>
-      <pubDate>Tue, 11 Feb 2025 19:46:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
