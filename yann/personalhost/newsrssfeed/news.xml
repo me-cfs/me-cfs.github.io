@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En France, les nouvelles technologies manquent de chercheurs, Thalès cherche à séduire (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250213-en-france-les-nouvelles-technologies-manquent-de-chercheurs-thal%C3%A8s-cherche-%C3%A0-s%C3%A9duire</link>
+      <author>RFI</author>
+      <guid>4384c3c0-ea2d-11ef-b687-005056bf762b</guid>
+      <pubDate>Thu, 13 Feb 2025 23:01:39 GMT</pubDate>
+    </item>
+    <item>
       <title>JD Vance Used Catholic Theology to Justify Trump’s Immigrant Expulsion. The Pope Said He Was Wrong. (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/02/jd-vance-used-catholic-theology-to-justify-trumps-immigrant-expulsion-the-pope-said-he-was-wrong/</link>
       <author>Motherjones</author>
@@ -1426,13 +1433,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/10/opinion/treasure-secretaries-doge-musk.html</guid>
       <pubDate>Tue, 11 Feb 2025 22:17:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s &amp;#36;97bn offer is a nuisance for Sam Altman’s OpenAI (Economist)</title>
-      <link>https://www.economist.com/business/2025/02/11/elon-musks-97bn-offer-is-a-nuisance-for-sam-altmans-openai</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/business/2025/02/11/elon-musks-97bn-offer-is-a-nuisance-for-sam-altmans-openai</guid>
-      <pubDate>Tue, 11 Feb 2025 21:34:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
