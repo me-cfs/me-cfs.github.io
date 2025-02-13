@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s covers (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/02/13/this-weeks-covers</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/ecnbt6ldvi99eliu9murig12c9menq1l</guid>
+      <pubDate>Thu, 13 Feb 2025 13:01:42 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Von der Leyen aide held secret talks with Trump team amid trade war					 (Politico)</title>
       <link>https://www.politico.eu/article/ursula-von-der-leyen-aide-bjoern-seibert-held-secret-talks-with-donald-trump-team-to-avert-trade-war/</link>
@@ -62,6 +69,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/1-killed-20-injured-in-russian-attacks-across-ukraine-over-past-day</guid>
       <pubDate>Thu, 13 Feb 2025 13:35:49 +0200</pubDate>
+    </item>
+    <item>
+      <title>Trump and Putin’s call triggers fear in Ukraine and Europe (Economist)</title>
+      <link>https://www.economist.com/podcasts/2025/02/13/trump-and-putins-call-triggers-fear-in-ukraine-and-europe</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/podcasts/2025/02/13/trump-and-putins-call-triggers-fear-in-ukraine-and-europe</guid>
+      <pubDate>Thu, 13 Feb 2025 11:33:20 GMT</pubDate>
     </item>
     <item>
       <title>The Truth About Russia’s Campaign of Interference in British Democracy (Byline Times)</title>
@@ -1420,20 +1434,6 @@
       <author>ME/LC News</author>
       <guid>https://www.thereforme.uk/p/campaign-update-13-keeping-up-the</guid>
       <pubDate>Tue, 11 Feb 2025 09:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>La lutte contre la corruption ne s'améliore pas en Suisse selon Transparency (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/corruption-en-suisse-transparency-pointe-des-lacunes-persistantes-28787298.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28787298</guid>
-      <pubDate>Tue, 11 Feb 2025 08:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Après la Croatie, le Kosovo et la Serbie, le boycott des grandes enseignes s'étend à la Roumanie (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250211-apr%C3%A8s-la-croatie-le-kosovo-et-la-serbie-le-boycott-des-grandes-enseignes-s-%C3%A9tend-%C3%A0-la-roumanie</link>
-      <author>RFI</author>
-      <guid>e728beb6-e84b-11ef-9552-005056a97652</guid>
-      <pubDate>Tue, 11 Feb 2025 08:21:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
