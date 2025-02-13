@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 1 killed, 20 injured in Russian attacks across Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/1-killed-20-injured-in-russian-attacks-across-ukraine-over-past-day</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/1-killed-20-injured-in-russian-attacks-across-ukraine-over-past-day</guid>
+      <pubDate>Thu, 13 Feb 2025 13:35:49 +0200</pubDate>
+    </item>
+    <item>
       <title>The Truth About Russia’s Campaign of Interference in British Democracy (Byline Times)</title>
       <link>https://bylinetimes.com/2025/02/13/russian-interference-british-politics-sergei-westminster-spy-ring/</link>
       <author>Byline Times</author>
@@ -1424,13 +1431,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/commentisfree/2025/feb/11/donald-trump-labour-government</guid>
       <pubDate>Tue, 11 Feb 2025 06:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s Team Decimates Education Department Arm That Tracks National School Performance (Propublica)</title>
-      <link>https://www.propublica.org/article/department-of-education-institute-education-science-contracts-doge</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/department-of-education-institute-education-science-contracts-doge</guid>
-      <pubDate>Tue, 11 Feb 2025 00:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
