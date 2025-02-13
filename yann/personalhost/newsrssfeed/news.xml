@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia accuses China of 'unsafe' fighter jet move (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cly403ly0gyo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cly403ly0gyo#0</guid>
+      <pubDate>Thu, 13 Feb 2025 07:28:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Guerre en Ukraine: pas de décision sans Kiev ni les Européens, affirment des ministres de l'UE (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250213-guerre-en-ukraine-pas-de-d%C3%A9cision-sans-kiev-ni-les-europ%C3%A9ens-affirment-des-ministres-de-l-ue</link>
       <author>RFI</author>
@@ -1328,6 +1335,13 @@
       <pubDate>Tue, 11 Feb 2025 06:26:16 GMT</pubDate>
     </item>
     <item>
+      <title>The Afghan women's team who will not be silenced (BBC)</title>
+      <link>https://www.bbc.com/sport/cricket/articles/cx2k1z7zg8do</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/sport/cricket/articles/cx2k1z7zg8do#1</guid>
+      <pubDate>Tue, 11 Feb 2025 06:26:16 GMT</pubDate>
+    </item>
+    <item>
       <title>It’s straight from the Trump playbook: Labour is tearing up the machinery of government | George Monbiot (Guardian)</title>
       <link>https://www.theguardian.com/commentisfree/2025/feb/11/donald-trump-labour-government</link>
       <author>Guardian</author>
@@ -1421,20 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/11/elon-musk-doge-spending-cuts-johnson-thune</guid>
       <pubDate>Tue, 11 Feb 2025 00:59:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>The big bet behind Chuck Schumer's shutdown warning (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/chuck-schumer-government-shutdown-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/chuck-schumer-government-shutdown-trump</guid>
-      <pubDate>Tue, 11 Feb 2025 00:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk Leads $97.4 Billion Bid to Control OpenAI (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html</guid>
-      <pubDate>Tue, 11 Feb 2025 00:40:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
