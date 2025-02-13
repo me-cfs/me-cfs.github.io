@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/02/13/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/cgvmdcggrobhrkoe29fu2gd55od135e1</guid>
+      <pubDate>Thu, 13 Feb 2025 14:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/02/13/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/p0gprj0adevg2peil7mms127uuinnin5</guid>
+      <pubDate>Thu, 13 Feb 2025 14:42:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/02/13/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/fd7bmqbanf9m3v0k8qhtl4l0r7uu6998</guid>
+      <pubDate>Thu, 13 Feb 2025 14:42:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Linda McMahon auditions to lead Education Department Trump wants to eliminate (Axios)</title>
       <link>https://www.axios.com/2025/02/13/linda-mcmahon-education-department-hearing</link>
       <author>Axios</author>
@@ -1413,27 +1434,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/11/ozempic-weight-loss-drugs-side-effects</guid>
       <pubDate>Tue, 11 Feb 2025 10:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where unemployment is rising and falling (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/unemployment-by-city-metro-map</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/unemployment-by-city-metro-map</guid>
-      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking Trump's executive actions by category (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/trumps-executive-orders-memos</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/trumps-executive-orders-memos</guid>
-      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk escalates Sam Altman feud in battle for AI's future (Axios)</title>
-      <link>https://www.axios.com/2025/02/11/elon-musk-sam-altman-openai-bid</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/11/elon-musk-sam-altman-openai-bid</guid>
-      <pubDate>Tue, 11 Feb 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
