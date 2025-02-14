@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/lallemagne-bout-de-nerfs</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22926</guid>
+      <pubDate>02/15/2025 00:10</pubDate>
+    </item>
+    <item>
+      <title>
+						US Democrats slam Vance Munich speech as ‘hypocrisy’					 (Politico)</title>
+      <link>https://www.politico.eu/article/democrats-slam-vance-munich-speech-as-hypocrisy/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/democrats-slam-vance-munich-speech-as-hypocrisy/</guid>
+      <pubDate>Fri, 14 Feb 2025 18:34:14 -0000</pubDate>
+    </item>
+    <item>
       <title>Vance takes MAGA to Munich with speech scolding European leaders (Axios)</title>
       <link>https://www.axios.com/2025/02/14/vance-munich-speech-free-speech-afd</link>
       <author>Axios</author>
@@ -39,6 +54,13 @@
       <author>RTS</author>
       <guid>28791086</guid>
       <pubDate>Fri, 14 Feb 2025 16:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s “Iron Dome” Looks Like Another Payday for Elon Musk (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/02/elon-musk-trump-iron-dome-space-x-payday-spacex-missle-defense/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1116524</guid>
+      <pubDate>Fri, 14 Feb 2025 16:44:31 +0000</pubDate>
     </item>
     <item>
       <title>Who are the M23 rebels and why is there fighting in eastern DRC? (Guardian)</title>
@@ -1298,6 +1320,13 @@
       <pubDate>Wed, 12 Feb 2025 22:16:14 +0000</pubDate>
     </item>
     <item>
+      <title>Trump says he might meet Putin in Saudi Arabia after call on Ukraine (Axios)</title>
+      <link>https://www.axios.com/2025/02/12/trump-putin-negotiations-end-ukraine-war</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/12/trump-putin-negotiations-end-ukraine-war</guid>
+      <pubDate>Wed, 12 Feb 2025 22:02:03 +0000</pubDate>
+    </item>
+    <item>
       <title>After DeepSeek, America and the EU are getting AI wrong (Economist)</title>
       <link>https://www.economist.com/leaders/2025/02/12/after-deepseek-america-and-the-eu-are-getting-ai-wrong</link>
       <author>Economist</author>
@@ -1411,34 +1440,6 @@
       <author>SBS News</author>
       <guid>00000194-f898-d757-afbf-fcbc77010000</guid>
       <pubDate>Wed, 12 Feb 2025 18:49:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>France-Inde: à Marseille, Emmanuel Macron et Narendra Modi affichent leur proximité (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250212-france-inde-%C3%A0-marseille-emmanuel-macron-et-narendra-modi-affichent-leur-proximit%C3%A9</link>
-      <author>RFI</author>
-      <guid>2f87b7e8-e969-11ef-97d2-005056a97652</guid>
-      <pubDate>Wed, 12 Feb 2025 18:24:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Top Dem on DOGE subcommittee calls on Elon Musk to testify (Axios)</title>
-      <link>https://www.axios.com/2025/02/12/melanie-stansbury-doge-subcommittee-elon-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/12/melanie-stansbury-doge-subcommittee-elon-musk</guid>
-      <pubDate>Wed, 12 Feb 2025 18:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>In photos: Black History Month's 60 year anniversaries (Axios)</title>
-      <link>https://www.axios.com/2025/02/12/black-history-months-60-year-anniversaries</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/12/black-history-months-60-year-anniversaries</guid>
-      <pubDate>Wed, 12 Feb 2025 17:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tulsi Gabbard confirmed as Trump's intel chief (Axios)</title>
-      <link>https://www.axios.com/2025/02/12/tulsi-gabbard-confirmed-dni-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/12/tulsi-gabbard-confirmed-dni-senate</guid>
-      <pubDate>Wed, 12 Feb 2025 17:38:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
