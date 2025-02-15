@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Autriche: un mort et quatre blessés dans une attaque au couteau à Villach, dans le sud du pays (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250215-autriche-un-mort-et-quatre-bless%C3%A9s-dans-une-attaque-au-couteau-%C3%A0-villach-dans-le-sud-du-pays</link>
+      <author>RFI</author>
+      <guid>d8f64e74-ebe0-11ef-9857-005056bf762b</guid>
+      <pubDate>Sat, 15 Feb 2025 21:15:27 GMT</pubDate>
+    </item>
+    <item>
       <title> Trump team heading to Saudi Arabia for Ukraine-Russia peace talks, Politico reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/trump-team-heading-to-saudia-arabia-for-ukraine-peace-talks-politico-reports</link>
       <author>Kyiv Indpendent</author>
@@ -1428,14 +1435,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/ap-ml-mideast-wars-palestinian-journalists-gaza-israel_n_67adefdde4b0cd8699ac6ed2</guid>
       <pubDate>Thu, 13 Feb 2025 14:08:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump kept Germany’s Scholz in the dark about his Ukraine peace plan					 (Politico)</title>
-      <link>https://www.politico.eu/article/olaf-scholz-germany-donald-trump-war-in-ukraine-peace-plan/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/olaf-scholz-germany-donald-trump-war-in-ukraine-peace-plan/</guid>
-      <pubDate>Thu, 13 Feb 2025 14:08:58 -0000</pubDate>
     </item>
   </channel>
 </rss>
