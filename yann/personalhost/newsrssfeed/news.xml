@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Attaques de bancomats: "Ce n'est qu'une question de temps avant qu'il y ait des victimes" (RTS)</title>
+      <link>https://www.rts.ch/info/dialogue/2025/article/explosions-de-bancomats-risque-croissant-pour-la-population-suisse-28789942.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28789942</guid>
+      <pubDate>Sun, 16 Feb 2025 06:45:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Up to $250k: How scammers are illegally using Bunnings to trick Australians (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/how-scammers-are-illegally-using-bunnings-to-trick-australians/mbpo34g4u</link>
       <author>SBS News</author>
@@ -1429,13 +1436,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/munich-car-attack-germany-election-migration/</guid>
       <pubDate>Thu, 13 Feb 2025 15:10:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>How a Risky State Investment in Seafood Cost Alaskans Millions and Left a Fishing Town in Crisis (Propublica)</title>
-      <link>https://www.propublica.org/article/alaska-seafood-company-investment-king-cove</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/alaska-seafood-company-investment-king-cove</guid>
-      <pubDate>Thu, 13 Feb 2025 10:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
