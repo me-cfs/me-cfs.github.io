@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Vance’s week of waging war on EU tech law					 (Politico)</title>
+      <link>https://www.politico.eu/article/jd-vance-waging-war-eu-tech-law-msc-ai-summit/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/jd-vance-waging-war-eu-tech-law-msc-ai-summit/</guid>
+      <pubDate>Sun, 16 Feb 2025 11:32:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Les Européens dans l'urgence stratégique face au deal voulu par Trump sur l'Ukraine (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250216-les-europ%C3%A9ens-dans-l-urgence-strat%C3%A9gique-face-au-deal-voulu-par-trump-sur-l-ukraine</link>
+      <author>RFI</author>
+      <guid>b7c22d10-ebb6-11ef-a16b-005056a97652</guid>
+      <pubDate>Sun, 16 Feb 2025 11:28:58 GMT</pubDate>
+    </item>
+    <item>
       <title>News in Brief for the week of February 9th (ME/LC News)</title>
       <link>https://www.s4me.info/threads/news-in-brief-february-2025.42561/#post-588001</link>
       <author>ME/LC News</author>
@@ -1423,20 +1438,6 @@
       <author>RFI</author>
       <guid>ef28cbe0-ea1e-11ef-8767-005056a97652</guid>
       <pubDate>Thu, 13 Feb 2025 17:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump administration falls short of federal workforce buyout goal (Axios)</title>
-      <link>https://www.axios.com/2025/02/13/trump-buyout-federal-workforce-deadline-goal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/13/trump-buyout-federal-workforce-deadline-goal</guid>
-      <pubDate>Thu, 13 Feb 2025 17:04:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk, State Dept. push back on reports of plan to buy $400M of armored Teslas (Axios)</title>
-      <link>https://www.axios.com/2025/02/13/musk-contract-armored-tesla</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/13/musk-contract-armored-tesla</guid>
-      <pubDate>Thu, 13 Feb 2025 17:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
