@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Elections législatives en Allemagne: la hantise du déclin économique (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/grand-reportage/20250217-elections-l%C3%A9gislatives-en-allemagne-la-hantise-du-d%C3%A9clin-%C3%A9conomique</link>
+      <author>RFI</author>
+      <guid>0cb89206-ed23-11ef-bdc9-005056a97652</guid>
+      <pubDate>Mon, 17 Feb 2025 18:39:49 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Looser state aid rules aim to stoke clean tech demand					 (Politico)</title>
       <link>https://www.politico.eu/article/clean-industrial-deal-state-aid-rules-stoke-demand-private-investment-cleantech-manufacturing-teresa-ribera/</link>
@@ -559,6 +566,13 @@
       <author>RTS</author>
       <guid>28792908</guid>
       <pubDate>Sun, 16 Feb 2025 12:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Javier Milei is betting big on an Argentine oil gusher (Economist)</title>
+      <link>https://www.economist.com/the-americas/2025/02/16/javier-milei-is-betting-big-on-an-argentine-oil-gusher</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/the-americas/2025/02/16/javier-milei-is-betting-big-on-an-argentine-oil-gusher</guid>
+      <pubDate>Sun, 16 Feb 2025 12:05:45 GMT</pubDate>
     </item>
     <item>
       <title>Brother of British national held in Nigeria says UK has ‘turned its back’ (Guardian)</title>
@@ -1425,21 +1439,6 @@
       <author>RTS</author>
       <guid>28791493</guid>
       <pubDate>Fri, 14 Feb 2025 14:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Farm subsidy audits are one piece of red tape the EU shouldn’t cut, says top former official					 (Politico)</title>
-      <link>https://www.politico.eu/article/farm-subsidy-audits-are-one-piece-of-red-tape-the-eu-shouldnt-cut-rudolf-mogele-cap/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/farm-subsidy-audits-are-one-piece-of-red-tape-the-eu-shouldnt-cut-rudolf-mogele-cap/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:08:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Russia gets its first African naval base in Sudan  (Semafor)</title>
-      <link>https://www.semafor.com/article/02/14/2025/russia-and-sudan-agree-naval-base-deal</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/02/14/2025/russia-and-sudan-agree-naval-base-deal</guid>
-      <pubDate>Fri, 14 Feb 2025 14:05:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
