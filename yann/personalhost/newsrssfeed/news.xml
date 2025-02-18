@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Prisonniers de guerre ukrainiens: un retour au pays qui met en lumière l’enfer des geôles russes (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/grand-reportage/20250218-prisonniers-de-guerre-ukrainiens-un-retour-au-pays-qui-met-en-lumi%C3%A8re-l-enfer-des-ge%C3%B4les-russes</link>
+      <author>RFI</author>
+      <guid>39126d26-edec-11ef-bbab-005056bf762b</guid>
+      <pubDate>Tue, 18 Feb 2025 17:33:25 GMT</pubDate>
+    </item>
+    <item>
       <title> Turkey &amp;#x27;ideal host&amp;#x27; for peace talks on Russia-Ukraine war, Erdogan says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/turkey-ideal-host-for-peace-talks-on-russia-ukraine-war-erdogan-tells-zelensky</link>
       <author>Kyiv Indpendent</author>
@@ -1431,13 +1438,6 @@
       <author>RTS</author>
       <guid>28792439</guid>
       <pubDate>Sat, 15 Feb 2025 16:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's behind Brett Guthrie's targeting of Medicaid (Axios)</title>
-      <link>https://www.axios.com/2025/02/15/whats-behind-brett-guthries-targeting-of-medicaid</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/15/whats-behind-brett-guthries-targeting-of-medicaid</guid>
-      <pubDate>Sat, 15 Feb 2025 16:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
