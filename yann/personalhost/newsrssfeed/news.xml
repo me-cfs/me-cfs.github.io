@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>To Win America, Democrats Must Win the Story (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/02/democrats-win-america-story-donald-trump-elon-musk-usaid-doge/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1116978</guid>
+      <pubDate>Tue, 18 Feb 2025 15:25:42 +0000</pubDate>
+    </item>
+    <item>
       <title>Listen to the Latest ‘KFF Health News Minute’ (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/listen-to-the-latest-kff-health-news-minute-2025/</link>
       <author>KFF Health News</author>
@@ -69,6 +76,13 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/02/18/2025/china-signals-softening-stance-on-private-sector-as-economy-flounders</guid>
       <pubDate>Tue, 18 Feb 2025 12:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>À Riyad, les Russes et les Américains conviennent de nommer des négociateurs sur la guerre en Ukraine (RFI)</title>
+      <link>https://www.rfi.fr/fr/monde/20250218-%C3%A9changes-russo-am%C3%A9ricains-%C3%A0-riyad-moscou-veut-parler-de-s%C3%A9curit%C3%A9-en-europe-refuse-l-ukraine-dans-l-otan</link>
+      <author>RFI</author>
+      <guid>7cb63ec6-eded-11ef-8c88-005056a97652</guid>
+      <pubDate>Tue, 18 Feb 2025 12:12:21 GMT</pubDate>
     </item>
     <item>
       <title>Social Security head resigns over DOGE data push (Axios)</title>
@@ -1425,20 +1439,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=658863</guid>
       <pubDate>Sat, 15 Feb 2025 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>6 Americans on What They Think of Trump, Elon Musk and Gaza (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/15/us/politics/americans-trump-elon-musk-gaza.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/15/us/politics/americans-trump-elon-musk-gaza.html</guid>
-      <pubDate>Sat, 15 Feb 2025 13:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracking Trump: Workforce cuts, Putin talks, DOJ drama (Axios)</title>
-      <link>https://www.axios.com/2025/02/15/trump-actions-staffing-cuts-trade-ukraine</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/15/trump-actions-staffing-cuts-trade-ukraine</guid>
-      <pubDate>Sat, 15 Feb 2025 13:49:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
