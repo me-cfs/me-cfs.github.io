@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						The fight for Europe is on					 (Politico)</title>
+      <link>https://www.politico.eu/article/europe-jd-vance-ukraine-volodymyr-zelenskyy-political-divisions-maga/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/europe-jd-vance-ukraine-volodymyr-zelenskyy-political-divisions-maga/</guid>
+      <pubDate>Tue, 18 Feb 2025 02:05:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>Delta Plane Crashes at Toronto Airport While Landing (New York Times)</title>
+      <link>https://www.nytimes.com/live/2025/02/17/world/delta-toronto-plane-crash/delta-toronto-plane-crash</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/live/2025/02/17/world/delta-toronto-plane-crash/delta-toronto-plane-crash</guid>
+      <pubDate>Tue, 18 Feb 2025 01:50:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Delta Plane Crashes at Toronto Airport While Landing (New York Times)</title>
       <link>https://www.nytimes.com/2025/02/17/world/canada/delta-toronto-plane-crash.html</link>
       <author>New York Times</author>
@@ -336,6 +351,13 @@
       <author>RFI</author>
       <guid>0ccd7dc0-ed1d-11ef-ba54-005056bf762b</guid>
       <pubDate>Mon, 17 Feb 2025 13:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Trumpian worldview, laid bare on the global-security stage (Economist)</title>
+      <link>https://www.economist.com/podcasts/2025/02/17/the-trumpian-worldview-laid-bare-on-the-global-security-stage</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/podcasts/2025/02/17/the-trumpian-worldview-laid-bare-on-the-global-security-stage</guid>
+      <pubDate>Mon, 17 Feb 2025 12:24:48 GMT</pubDate>
     </item>
     <item>
       <title>Le PS veut réduire de 45 à 38 heures la durée hebdomadaire maximale du travail (RTS)</title>
@@ -1417,28 +1439,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5146096</guid>
       <pubDate>Fri, 14 Feb 2025 19:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: clap de fin pour Olaf Scholz (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/europ%C3%A9en-de-la-semaine/20250214-allemagne-clap-de-fin-pour-olaf-scholz</link>
-      <author>RFI</author>
-      <guid>d1f8d440-eab7-11ef-99a1-005056bf762b</guid>
-      <pubDate>Fri, 14 Feb 2025 19:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump's DOJ is at war with its own prosecutors (Axios)</title>
-      <link>https://www.axios.com/2025/02/14/trumps-doj-prosecutors-eric-adams</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/14/trumps-doj-prosecutors-eric-adams</guid>
-      <pubDate>Fri, 14 Feb 2025 18:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						US Democrats slam Vance Munich speech as ‘hypocrisy’					 (Politico)</title>
-      <link>https://www.politico.eu/article/democrats-slam-vance-munich-speech-as-hypocrisy/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/democrats-slam-vance-munich-speech-as-hypocrisy/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:34:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
