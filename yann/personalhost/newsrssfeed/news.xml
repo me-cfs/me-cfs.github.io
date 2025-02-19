@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Des montagnes d'aliments invendus sont détruits chaque année en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/gaspillage-alimentaire-en-suisse-des-solutions-pour-reduire-l-impact-28795183.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28795183</guid>
+      <pubDate>Wed, 19 Feb 2025 05:23:21 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Merz’s coalition dream hinges on implosion of smaller rivals					 (Politico)</title>
       <link>https://www.politico.eu/article/germany-election-friedrich-merz-dream-coalition-maps-historical-results-die-linke-fdp-sahra-wagenknecht-alliance-cdu/</link>
@@ -1431,13 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/16/democrats-government-shutdown-republicans-doge</guid>
       <pubDate>Sun, 16 Feb 2025 19:35:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump’s assault on Europe (Economist)</title>
-      <link>https://www.economist.com/international/2025/02/16/donald-trumps-assault-on-europe</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/international/2025/02/16/donald-trumps-assault-on-europe</guid>
-      <pubDate>Sun, 16 Feb 2025 19:27:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
