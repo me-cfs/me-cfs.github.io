@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>What Americans think of Trump's support for Israel (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/americans-trumps-support-israel/story?id=118962257</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/americans-trumps-support-israel/story?id=118962257</guid>
+      <pubDate>Wed, 19 Feb 2025 19:20:02 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						Trump is just what Europe’s defense needs					 (Politico)</title>
       <link>https://www.politico.eu/article/donald-trump-europe-us-eu-common-security-defense-policy-nato-command-attack-disruptive/</link>
@@ -39,6 +46,13 @@
       <author>RFI</author>
       <guid>d8969af8-eee5-11ef-82f4-005056a97652</guid>
       <pubDate>Wed, 19 Feb 2025 17:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>L’insécurité est-elle en hausse en France ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250219-l-ins%C3%A9curit%C3%A9-est-elle-en-hausse-en-france</link>
+      <author>RFI</author>
+      <guid>9aa79f9a-eee4-11ef-81fb-005056bf762b</guid>
+      <pubDate>Wed, 19 Feb 2025 17:11:47 GMT</pubDate>
     </item>
     <item>
       <title>Trump calls Zelensky a "dictator" in latest smear (Axios)</title>
@@ -1417,21 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/17/trump-federal-funding-race-diversity-schools-education</guid>
       <pubDate>Mon, 17 Feb 2025 16:30:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU airlines slam Qatar aviation deal amid corruption allegations					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-airlines-question-qatar-aviation-deal-corruption-allegation/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-airlines-question-qatar-aviation-deal-corruption-allegation/</guid>
-      <pubDate>Mon, 17 Feb 2025 16:11:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>Despite court orders, climate and energy programs stalled by Trump freeze (Arstechnica)</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/despite-court-orders-climate-and-energy-programs-stalled-by-trump-freeze/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/tech-policy/2025/02/despite-court-orders-climate-and-energy-programs-stalled-by-trump-freeze/</guid>
-      <pubDate>Mon, 17 Feb 2025 16:05:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
