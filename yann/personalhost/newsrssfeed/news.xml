@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Conseil fédéral annonce un contre-projet pour assurer l'approvisionnement médical (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/contre-projet-federal-pour-lutter-contre-les-penuries-de-medicaments-28796461.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28796461</guid>
+      <pubDate>Wed, 19 Feb 2025 16:41:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Stop punishing Palestinian solidarity and start punishing those who commit genocide (Amnesty International)</title>
       <link>https://www.amnesty.org/en/latest/news/2025/02/stop-punishing-palestinian-solidarity-and-start-punishing-those-who-commit-genocide/</link>
       <author>Amnesty International</author>
@@ -1426,13 +1433,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/02/16/2025/us-state-departments-edits-language-on-taiwan-independence</guid>
       <pubDate>Mon, 17 Feb 2025 13:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: les quatre principaux candidats à la chancellerie réunis lors d'un débat télévisé, une première (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250217-allemagne-les-quatre-principaux-candidats-%C3%A0-la-chancellerie-r%C3%A9unis-lors-d-un-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-une-premi%C3%A8re</link>
-      <author>RFI</author>
-      <guid>0ccd7dc0-ed1d-11ef-ba54-005056bf762b</guid>
-      <pubDate>Mon, 17 Feb 2025 13:03:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
