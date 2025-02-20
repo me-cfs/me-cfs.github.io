@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Six cas d'encéphalites à tiques déjà signalés en ce début d'année (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/alerte-hausse-des-cas-d-encephalites-a-tiques-en-suisse-debut-2025-28797324.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28797324</guid>
+      <pubDate>Thu, 20 Feb 2025 11:37:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Despite Trump tariffs, CEO confidence rises to highest level in years (Axios)</title>
       <link>https://www.axios.com/2025/02/20/trump-tariffs-ceo-confidence</link>
       <author>Axios</author>
@@ -1424,13 +1431,6 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=223076</guid>
       <pubDate>Tue, 18 Feb 2025 11:35:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Making Microbes Great Again (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/making-microbes-great-again</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/making-microbes-great-again</guid>
-      <pubDate>Tue, 18 Feb 2025 11:30:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
