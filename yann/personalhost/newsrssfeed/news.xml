@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: le destin tumultueux des jeunes étudiants africains contraints à l'exil en France (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250220-ukraine-le-destin-tumultueux-des-jeunes-%C3%A9tudiants-africains-contraints-%C3%A0-l-exil</link>
+      <author>RFI</author>
+      <guid>253a75bc-efc4-11ef-ace1-005056bf762b</guid>
+      <pubDate>Thu, 20 Feb 2025 23:33:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Élections en Allemagne: l'extrême droite à la conquête de l'Ouest (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250220-%C3%A9lections-en-allemagne-l-extr%C3%AAme-droite-%C3%A0-la-conqu%C3%AAte-de-l-ouest</link>
       <author>RFI</author>
@@ -1420,13 +1427,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/18/opinion/vance-munich-germany-afd.html</guid>
       <pubDate>Tue, 18 Feb 2025 22:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump:  AP White House access restricted until they use "Gulf of America" (Axios)</title>
-      <link>https://www.axios.com/2025/02/18/trump-gulf-of-mexico-associated-press</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/18/trump-gulf-of-mexico-associated-press</guid>
-      <pubDate>Tue, 18 Feb 2025 21:54:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
