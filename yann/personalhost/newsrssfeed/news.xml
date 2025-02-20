@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Élections en Allemagne: l'extrême droite à la conquête de l'Ouest (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250220-%C3%A9lections-en-allemagne-l-extr%C3%AAme-droite-%C3%A0-la-conqu%C3%AAte-de-l-ouest</link>
+      <author>RFI</author>
+      <guid>e1ad835c-ed0c-11ef-97a4-005056bf762b</guid>
+      <pubDate>Thu, 20 Feb 2025 23:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Senate Democrats squeeze Republicans on Trump's IVF promise (Axios)</title>
+      <link>https://www.axios.com/2025/02/20/senate-democrats-trump-ivf-vote</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/20/senate-democrats-trump-ivf-vote</guid>
+      <pubDate>Thu, 20 Feb 2025 22:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>I looked at 35 years of data to see how Australians vote. Here’s what it tells us about the next election (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/02/21/35-years-voting-data-2025-federal-election/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1195339</guid>
+      <pubDate>Thu, 20 Feb 2025 22:50:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Mitch McConnell's retirement sparks a political explosion in Kentucky (Axios)</title>
       <link>https://www.axios.com/2025/02/20/mitch-mcconnell-kentucky-senate-retirement</link>
       <author>Axios</author>
@@ -357,6 +378,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/20/andrew-ross-sorkin-1929-an-immersive-narrative-on-the-great-crash</guid>
       <pubDate>Thu, 20 Feb 2025 10:58:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>For Donald Trump, the resignations are the point (Economist)</title>
+      <link>https://www.economist.com/united-states/2025/02/20/for-donald-trump-the-resignations-are-the-point</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/united-states/2025/02/20/for-donald-trump-the-resignations-are-the-point</guid>
+      <pubDate>Thu, 20 Feb 2025 10:56:30 GMT</pubDate>
     </item>
     <item>
       <title>Serbie: les manifestants anticorruption font le siège d'une mairie pour obtenir la démission de l'édile (RFI)</title>
@@ -1399,34 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/18/trump-gulf-of-mexico-associated-press</guid>
       <pubDate>Tue, 18 Feb 2025 21:54:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Passengers On Flipped Toronto Plane Describe Harrowing Ordeal (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/delta-airlines-survivors-toronto-plane-crash_n_67b4d59fe4b08e2e24822f16</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/delta-airlines-survivors-toronto-plane-crash_n_67b4d59fe4b08e2e24822f16</guid>
-      <pubDate>Tue, 18 Feb 2025 21:46:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Administration Cuts Off Legal Aid For Youth Facing Deportation (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/02/trump-stop-legal-aid-migrant-minors/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1117095</guid>
-      <pubDate>Tue, 18 Feb 2025 21:38:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>America's nervous skies: Searches about airplane safety are spiking (Axios)</title>
-      <link>https://www.axios.com/2025/02/18/is-it-safe-to-fly-airplane-crashes-google-trends</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/18/is-it-safe-to-fly-airplane-crashes-google-trends</guid>
-      <pubDate>Tue, 18 Feb 2025 20:52:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Pope Has Pneumonia In Both Lungs But Remains In Good Spirits, The Vatican Says (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/bc-eu-rel-vatican-pope-francis-pneumonia_n_67b4e7f6e4b08e2e24823da6</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/bc-eu-rel-vatican-pope-francis-pneumonia_n_67b4e7f6e4b08e2e24823da6</guid>
-      <pubDate>Tue, 18 Feb 2025 20:46:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
