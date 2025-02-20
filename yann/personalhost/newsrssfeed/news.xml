@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's appeal on birthright citizenship order rejected by court (Axios)</title>
+      <link>https://www.axios.com/2025/02/20/trump-birthright-citizenship-order-blocked-court-appeal</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/20/trump-birthright-citizenship-order-blocked-court-appeal</guid>
+      <pubDate>Thu, 20 Feb 2025 03:07:16 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						European aviation ‘dumbstruck’ by Musk’s takeover of US air traffic control					 (Politico)</title>
       <link>https://www.politico.eu/article/europe-aviation-dumbstruck-elon-musk-takeover-united-states-air-traffic-control-spacex-donald-trump-doge/</link>
@@ -33,6 +40,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-volodymyr-zelenskyy-ukraine-russia-reelection-eu-uk-war-olaf/</guid>
       <pubDate>Thu, 20 Feb 2025 00:29:15 -0000</pubDate>
+    </item>
+    <item>
+      <title>HHS redefines sex as "immutable" in new guidance (Axios)</title>
+      <link>https://www.axios.com/2025/02/20/hhs-redefines-sex-as-immutable</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/20/hhs-redefines-sex-as-immutable</guid>
+      <pubDate>Thu, 20 Feb 2025 00:21:03 +0000</pubDate>
     </item>
     <item>
       <title>The math questions behind DOGE's $55 billion savings claim (Axios)</title>
@@ -1416,20 +1430,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/17/elon-musk-space-x-doge-faa-air-traffic-control</guid>
       <pubDate>Tue, 18 Feb 2025 00:07:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>This WA election, let’s just dynamite the Ningaloo reef and be done with it (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/02/18/western-australia-election-roger-cook-libby-mettam/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1194722</guid>
-      <pubDate>Tue, 18 Feb 2025 00:02:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>En Italie, un programme scolaire essaie de détourner les enfants de la mafia (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250217-en-italie-un-programme-scolaire-essaie-de-d%C3%A9tourner-les-enfants-de-la-mafia</link>
-      <author>RFI</author>
-      <guid>b89aee30-ed6d-11ef-a93c-005056a97652</guid>
-      <pubDate>Mon, 17 Feb 2025 23:09:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
