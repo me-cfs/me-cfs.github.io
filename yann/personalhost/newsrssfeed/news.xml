@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 12 killed, 6 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-130</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-130</guid>
+      <pubDate>Fri, 21 Feb 2025 09:09:42 +0200</pubDate>
+    </item>
+    <item>
       <title>"Le crack, un fléau qui aggrave la précarité" (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/crack-en-suisse-explosion-de-la-consommation-et-precarite-croissante-28798105.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -198,6 +205,13 @@
       <author>RFI</author>
       <guid>e1ad835c-ed0c-11ef-97a4-005056bf762b</guid>
       <pubDate>Thu, 20 Feb 2025 23:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Guerre en Ukraine: la Suisse doit appliquer sérieusement les sanctions (Public Eye)</title>
+      <link>https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/ukrainekrieg-auch-die-schweiz-muss-die-sanktionen-endlich-ernsthaft-umsetzen</link>
+      <author>Public Eye</author>
+      <guid>187-1912</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Scoop: Senate Democrats squeeze Republicans on Trump's IVF promise (Axios)</title>
@@ -1416,20 +1430,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/eu-ambassadors-reportedly-agree-on-16th-package-of-russia-sanctions</guid>
       <pubDate>Wed, 19 Feb 2025 10:59:19 +0200</pubDate>
-    </item>
-    <item>
-      <title>N.Y.U. College Republicans President Resigns After Remarks About Barron Trump (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/18/us/barron-trump-nyu-college-republicans.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/18/us/barron-trump-nyu-college-republicans.html</guid>
-      <pubDate>Wed, 19 Feb 2025 08:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title> 1 killed, 14 injured in Russian attacks across Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-127</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-127</guid>
-      <pubDate>Wed, 19 Feb 2025 09:53:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
