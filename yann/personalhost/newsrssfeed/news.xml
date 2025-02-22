@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pope Francis critical after "respiratory crisis," Vatican says (Axios)</title>
+      <link>https://www.axios.com/2025/02/19/pope-francis-has-double-pneumonia-vatican-says</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/19/pope-francis-has-double-pneumonia-vatican-says</guid>
+      <pubDate>Sat, 22 Feb 2025 21:08:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Federal Judge to Trump: No, You Can’t Ban DEI (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/02/federal-judge-trump-dei-order-blocked/</link>
       <author>Motherjones</author>
@@ -1419,13 +1426,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis</guid>
       <pubDate>Thu, 20 Feb 2025 05:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Texas Won’t Study How Its Abortion Ban Impacts Women, So We Did (Propublica)</title>
-      <link>https://www.propublica.org/article/texas-maternal-mortality-analysis-methodology</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/texas-maternal-mortality-analysis-methodology</guid>
-      <pubDate>Thu, 20 Feb 2025 04:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
