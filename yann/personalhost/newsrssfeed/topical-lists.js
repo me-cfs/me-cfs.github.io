@@ -39,8 +39,10 @@ const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'sh
   "fury",
 ];
 // -BBCaus -Crikey, -Hill (Healthcare), -Politico EU
-const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment',];
-// -Open Democracy, -RTS, -Semafor
+const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment', "télévision",
+  "photo", "grammy", 
+];
+// -Axios, -Guardian Africa, -Open Democracy, -RTS, -Semafor
 const economics = ["GDP"];
 // -Politico
 const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', 'behind the curtain', 'the most powerful',
@@ -107,17 +109,17 @@ const environment = ['greenwashing', 'pesticide', 'ecocide', 'pollution', 'cop29
   'fast fashion', 'global warming', 'glacier', 'recyclage', 'Manta Ray', 'sustainable', 'extinction', 'ecosystem',
   "environment", "power plant", 'mushroom', 
   ];
-// +AP, +Amnesty, +Arstechnica, The Conversation, +Equal Times. +EURACTIV, +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
+// +AP, +Amnesty, +Arstechnica, +The Conversation, +Equal Times. +EURACTIV, +Indian Country Today, +Inside Climate News, +Grist, *Open Democracy, +Orient XXI, +PublicEye
 const europe = ['EU funding'];
 // +opendemocracy
 const geopolitics = ['sanctions', 'five eyes', 'brics', 'united nations', 'international relations', 'global politics',
-  "national security", "taliban",
+  "national security", "taliban", "l'ONU", "foreign aid",
 ];
-// *Crikey, +The intercept, +KyivI
+// +Byline Times, *Crikey, +Equal Times, +The intercept, +KyivI
 const history = ['Klu Klux Klan', 'Bronze Age', 'Holocaust', ]; 
 // +Arstechnica, +The Conversation, +Jacobin
 const important = ['genocide', 'génocide', 'human toll', 'human rights', 'famine', "harassment", "homelessness", "deported",
-  "colonialisme",
+  "colonialisme", "war criminal",
 ];
 // +AmnestyInternational, +Equal Times, +Human Rights Watch, +Motherjones, +Orient XXI, +RFI Eu
 const independenceMovements = ['sahara occidental', 'catalonia', 'taiwan', 'indigenous', 'microstate', 'Tigré',];
@@ -127,9 +129,9 @@ const location = ['idaho', 'france', 'switzerland', 'fiji', 'australia', 'japan'
 ];
 // +Amnesty Intl. +The Conversation, Human Rights Watch, +Orient XXI, +PublicEye,  +RFI, +Semafor, +West England Bylines
 const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer', 'covid', 'medicaid', 'hospital',
-  'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie', 'public health', 'immune', 'health', 
+  'brain inflammation', 'epistemic', 'pandemic', 'medic', 'maladie', 'public health', 'immune', 'health', "vaccine",
 ];
-// +AP News, +Byline Times, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
+// +AP News, +Arstechnica, +Byline Times, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
 const scienceResearch = ['science', 'astrobio', ...prehistory];
@@ -140,18 +142,21 @@ const sportsInterested = [ 'PSG', 'Paris', 'Switzerland', 'France', 'Australia',
    'Lausanne', 'Embolo', 'Zakaria', 'Germain', 'Coupe du Monde', 'Champions League Final'];
 // + The Athletic, + The Equal Times
 const technology = ['open-source', 'sattelite', 'bluesky', 'large language model', 'foss', 'generative AI',
-  '3D Printing', 'AI could assist', 'LLMs', "Spacecraft", "crypto reserve", "Pixelfed", 'rocket', 
+  '3D Printing', 'AI could assist', 'LLMs', "Spacecraft", "crypto reserve", "Pixelfed", 'rocket',
+  "metadata", "robot",
 ];
-// +AP, Arstechnica, +Conversation, PublicEye +404
-const war = ['missile attack', 'military aid', "peace", "guerre"];
-// +AP, +Kiev Independent, RFI EU
+// +AP, +Arstechnica, +Conversation, +PublicEye +404
+const war = ['missile attack', 'military aid', "peace", "guerre", "missile"];
+// +AP, +Arstechnica, +Kiev Independent, RFI EU
 
 
 
 
 // mixedLists
-const business = ['merger', 'business', 'market value'];
-// -Axios, -Economist
+const business = ['merger', 'business', 'market value', "stock", "growth", "product", "bank",
+  "market",
+];
+// -Axios, -Economist, -Huffington, -Kyiv, -Motherjones, -Politico, -Semafor
 const israelPalestine = ['gaza', 'palestine', 'Nethanyahu']; 
 // +The intercept
 const ukraineRussia = ['ukraine', 'russia', 'gulag', 'putin'];
