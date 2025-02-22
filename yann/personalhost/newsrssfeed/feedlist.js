@@ -10,8 +10,15 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
-    exclusionWords: ['|', ...tList.singlePerson,],
+    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture,],
     off: false,
+  },
+ {
+    name: 'Orient XXI',
+    url: 'https://orientxxi.info/?page=backend&lang=fr',
+    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements,
+      ...tList.humanRights, 
+    ],
   },
   
 
@@ -23,14 +30,14 @@ module.exports = [
     url: 'https://bylinetimes.com/feed/',
     inclusionWords: [...tList.activism, 'lobbying', 'corperate', ...tList.cybersecurity,
       ...tList.ukraineRussia, ...tList.disability, "cashed in", ...tList.medicine,
-      
+      ...tList.geopolitics,
        ],
   },
   {
     name: 'The Equal Times',
     url: 'https://www.equaltimes.org/spip.php?page=backend&lang=fr',
     inclusionWords: [...tList.environment, ...tList.sportsInterested, ...tList.important, ...tList.socialism,
-      ...tList.medicine, ...tList.independenceMovements, 
+      ...tList.medicine, ...tList.independenceMovements, ...tList.geopolitics, 
     ],
   },
   {
@@ -45,8 +52,14 @@ module.exports = [
     inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
-    exclusionWods: [...tList.nonInformativeTitle, "war latest",],
+    exclusionWods: [...tList.nonInformativeTitle, "war latest", ...tList.business,],
     urlBlacklist: ['video'], 
+  },
+  {
+    name: 'Open Democracy',
+    url: 'https://www.opendemocracy.net/en/feed/',
+    inclusionWords: [...tList.europe, ...tList.politics, ...tList.environment, ...tList.independenceMovements],
+    exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture],
   },
   { // Only Europe
     name: 'Politico',
@@ -56,7 +69,7 @@ module.exports = [
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
       'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
-      'zz',
+      'zz', ...tList.business, 
     ],
     minCharsTitle: 23,
   },
@@ -103,7 +116,7 @@ module.exports = [
       'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
-      'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how',
+      'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how', ...tList.culture,
       ...tList.weather, 'steel', 'reality check', 'mortgage rate',
       'documentary', 'director', 'top risk', 'bremmer', "2024", "you're", 
       ...tList.clickbait, ...tList.singlePerson, "denies effort", "transgender", 
@@ -161,7 +174,7 @@ module.exports = [
     name: 'Motherjones',
     url: 'https://feeds.feedburner.com/motherjones/main',
     inclusionWords: [...tList.activism, ...tList.important, ...tList.disability, ...tList.politics],
-    exclusionWords: [...tList.nonInformativeTitle],
+    exclusionWords: [...tList.nonInformativeTitle, ...tList.business,],
     minCharsTitle: 15,
   },
   {
@@ -242,7 +255,8 @@ module.exports = [
     name: 'Arstechnica',
     url: 'https://feeds.arstechnica.com/arstechnica/index',
     inclusionWords: [...tList.technology, ...tList.prehistory, ...tList.environment, 'illegal crypto mine',
-      'yellowstone', 'antitrust', ...tList.cybersecurity, ...tList.history, ...tList.commons, 
+      'yellowstone', 'antitrust', ...tList.cybersecurity, ...tList.history, ...tList.commons,
+      ...tList.medicine, ...tList.war,
     ],
     exclusionWords: [...tList.uninterestedSports,],
   },
@@ -308,7 +322,7 @@ module.exports = [
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
     exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers,
-      ...tList.uninterestedPeople,
+      ...tList.uninterestedPeople, ...tList.business,
     ],
   },
   {
@@ -337,7 +351,7 @@ module.exports = [
       'Emirati', 'Sudan', "Turkey", "Carbon Emissions", "China",
       "Pyongyang", "Guatemala",
     ],
-    exclusionWords: [...tList.culture],
+    exclusionWords: [...tList.culture, ...tList.business,],
   },
   {
     name: 'Survival International',
@@ -387,19 +401,8 @@ module.exports = [
 
 
 
- {
-    name: 'Orient XXI',
-    url: 'https://orientxxi.info/?page=backend&lang=fr',
-    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements,
-      ...tList.humanRights, 
-    ],
-  },
-  {
-    name: 'Open Democracy',
-    url: 'https://www.opendemocracy.net/en/feed/',
-    inclusionWords: [...tList.europe, ...tList.politics, ...tList.environment, ...tList.independenceMovements],
-    exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture],
-  },
+
+
   {
     name: 'Propublica',
     url: 'https://feeds.propublica.org/propublica/main',
