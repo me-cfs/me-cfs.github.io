@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia is tipped for a 'refinancing frenzy'. Be aware of the forgotten costs (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/the-forgotten-costs-in-australias-refinancing-frenzy/t4vbob2rr</link>
+      <author>SBS News</author>
+      <guid>00000195-1ba9-d3de-ab9d-5ffd72050000</guid>
+      <pubDate>Sat, 22 Feb 2025 04:00:18 +0000</pubDate>
+    </item>
+    <item>
       <title> EU preparing military aid package for Kyiv worth $20.9 billion, Bloomberg reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/eu-preparing-military-aid-package-for-kyiv-worth-20-9-billion-bloomberg-reports</link>
       <author>Kyiv Indpendent</author>
@@ -261,6 +268,13 @@
       <author>Bellingcat</author>
       <guid>https://www.bellingcat.com/?p=47893</guid>
       <pubDate>Fri, 21 Feb 2025 15:40:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scientists Describe Rare Syndrome Following Covid Vaccinations (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/19/health/covid-post-vaccination-syndrome.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/19/health/covid-post-vaccination-syndrome.html</guid>
+      <pubDate>Fri, 21 Feb 2025 15:08:29 +0000</pubDate>
     </item>
     <item>
       <title>Trump commands HHS to terminate advisory committee on Long COVID  (ME/LC News)</title>
@@ -1419,20 +1433,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-ready-to-negotiate-customs-union-with-uk-michel-barnier-brexit-deal-agreement/</guid>
       <pubDate>Wed, 19 Feb 2025 21:38:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump calls Zelensky a "dictator" in latest smear (Axios)</title>
-      <link>https://www.axios.com/2025/02/19/trump-zelensky-dictator-ukraine-russia-war</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/19/trump-zelensky-dictator-ukraine-russia-war</guid>
-      <pubDate>Wed, 19 Feb 2025 21:18:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>These Soldiers Risked Their Lives Serving in Afghanistan. Now They Plead With Trump to Let Their Sister Into the U.S. (Propublica)</title>
-      <link>https://www.propublica.org/article/trump-refugee-executive-order-afghan-allies</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/trump-refugee-executive-order-afghan-allies</guid>
-      <pubDate>Wed, 19 Feb 2025 16:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
