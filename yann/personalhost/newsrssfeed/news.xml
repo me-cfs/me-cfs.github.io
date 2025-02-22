@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine : voyage de presse en zone de guerre (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20250222-ukraine-voyage-de-presse-en-zone-de-guerre</link>
+      <author>RFI</author>
+      <guid>9ac2bc5c-f03e-11ef-b70c-005056a97652</guid>
+      <pubDate>Sat, 22 Feb 2025 06:00:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Australia is tipped for a 'refinancing frenzy'. Be aware of the forgotten costs (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/the-forgotten-costs-in-australias-refinancing-frenzy/t4vbob2rr</link>
       <author>SBS News</author>
@@ -1425,14 +1432,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/oil-prices-near-one-week-high-amid-russia-supply-disruptions-sanctions-uncertainty</guid>
       <pubDate>Wed, 19 Feb 2025 23:39:46 +0200</pubDate>
-    </item>
-    <item>
-      <title>
-						EU ready to negotiate customs union with UK, says Michel Barnier					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-ready-to-negotiate-customs-union-with-uk-michel-barnier-brexit-deal-agreement/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-ready-to-negotiate-customs-union-with-uk-michel-barnier-brexit-deal-agreement/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:38:36 -0000</pubDate>
     </item>
   </channel>
 </rss>
