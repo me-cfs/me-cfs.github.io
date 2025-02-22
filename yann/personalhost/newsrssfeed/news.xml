@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le narcotrafiquant Mohamed Amra, en fuite après son évasion en mai, arrêté en Roumanie (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250222-france-le-narcotrafiquant-mohamed-amra-en-fuite-apr%C3%A8s-son-%C3%A9vasion-en-mai-arr%C3%AAt%C3%A9-en-roumanie</link>
+      <author>RFI</author>
+      <guid>6edca052-f139-11ef-8181-005056bf762b</guid>
+      <pubDate>Sat, 22 Feb 2025 16:37:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Une motion pour le remboursement des contraceptifs hormonaux à usage médical déposée au Parlement (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/une-motion-pour-le-remboursement-des-contraceptifs-hormonaux-a-usage-medical-deposee-au-parlement-28797249.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -275,6 +282,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/91-of-ukrainian-oppose-peace-talks-without-ukraines-participation-poll-shows</guid>
       <pubDate>Fri, 21 Feb 2025 23:34:26 +0200</pubDate>
+    </item>
+    <item>
+      <title>Robot with 1,000 muscles twitches like human while dangling from ceiling (Arstechnica)</title>
+      <link>https://arstechnica.com/gadgets/2025/02/dangling-twitching-human-robot-with-synthetic-muscles-makes-its-debut/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/gadgets/2025/02/dangling-twitching-human-robot-with-synthetic-muscles-makes-its-debut/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:17:50 +0000</pubDate>
     </item>
     <item>
       <title>Stabbing at Berlin's Holocaust memorial leaves man injured days before watershed election (SBS News)</title>
@@ -1412,20 +1426,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/attacks-128</guid>
       <pubDate>Thu, 20 Feb 2025 09:58:33 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sortie du charbon: en Allemagne, les défis d'une région en pleine mutation (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250220-sortie-du-charbon-en-allemagne-les-d%C3%A9fis-d-une-r%C3%A9gion-en-pleine-mutation</link>
-      <author>RFI</author>
-      <guid>d2fc5c94-edf6-11ef-b71d-005056a97652</guid>
-      <pubDate>Thu, 20 Feb 2025 06:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fatal drug overdoses are falling — but not everywhere (Axios)</title>
-      <link>https://www.axios.com/2025/02/20/drug-overdoses-death-rate-map</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/20/drug-overdoses-death-rate-map</guid>
-      <pubDate>Thu, 20 Feb 2025 05:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
