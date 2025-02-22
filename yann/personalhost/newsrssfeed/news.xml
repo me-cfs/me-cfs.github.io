@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: la percée de l'AfD inquiète à Dortmund (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250222-allemagne-la-perc%C3%A9e-de-l-afd-inqui%C3%A8te-%C3%A0-dortmund</link>
+      <author>RFI</author>
+      <guid>bcb19356-f142-11ef-9c59-005056bf762b</guid>
+      <pubDate>Sat, 22 Feb 2025 23:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>L'hiver est particulièrement doux cette année en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/hiver-doux-en-suisse-temperatures-elevees-et-tendance-a-la-hausse-28800391.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28800391</guid>
+      <pubDate>Sat, 22 Feb 2025 22:54:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Pope Francis critical after "respiratory crisis," Vatican says (Axios)</title>
       <link>https://www.axios.com/2025/02/19/pope-francis-has-double-pneumonia-vatican-says</link>
       <author>Axios</author>
@@ -1412,20 +1426,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/us-news/2025/feb/20/trump-usaid-mpox</guid>
       <pubDate>Thu, 20 Feb 2025 10:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doctors and Medical Schools Are Changing Treatments and Training to Respond to the Warming Climate (Inside Climate News)</title>
-      <link>https://insideclimatenews.org/news/20022025/doctors-medical-schools-changing-treatments-warming-climate/</link>
-      <author>Inside Climate News</author>
-      <guid>https://insideclimatenews.org/?p=91581</guid>
-      <pubDate>Thu, 20 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Texas Banned Abortion. Then Sepsis Rates Soared. (Propublica)</title>
-      <link>https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis</guid>
-      <pubDate>Thu, 20 Feb 2025 05:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
