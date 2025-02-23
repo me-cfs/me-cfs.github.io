@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian missile attack in Kryvyi Rih kills 1, injures 5  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-missile-attack-in-kryvyi-rih-kills-1-injures-5</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-missile-attack-in-kryvyi-rih-kills-1-injures-5</guid>
+      <pubDate>Sun, 23 Feb 2025 07:47:11 +0200</pubDate>
+    </item>
+    <item>
       <title>Ukraine, les doctrines militaires bouleversées par la guerre des drones (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250223-ukraine-les-doctrines-militaires-boulevers%C3%A9es-par-la-guerre-des-drones</link>
       <author>RFI</author>
@@ -1419,13 +1426,6 @@
       <link>https://www.axios.com/2025/02/20/trump-dei-mcondalds-meta-doj</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/20/trump-dei-mcondalds-meta-doj</guid>
-      <pubDate>Thu, 20 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s vow to preserve Medicaid collides with House GOP plan for tax cuts (The Hill)</title>
-      <link>https://thehill.com/homenews/house/5154286-trump-medicaid-cuts-gop-plan/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5154286</guid>
       <pubDate>Thu, 20 Feb 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
