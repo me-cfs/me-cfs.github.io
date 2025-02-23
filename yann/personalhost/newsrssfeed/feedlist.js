@@ -10,15 +10,15 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
-    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture,],
+    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of",],
     off: false,
   },
  {
     name: 'Orient XXI',
     url: 'https://orientxxi.info/?page=backend&lang=fr',
-    inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements,
-      ...tList.humanRights, 
-    ],
+    // inclusionWords: [...tList.disability, ...tList.location, ...tList.important, ...tList.environment, ...tList.independenceMovements,
+    //  ...tList.humanRights, 
+    // ],
   },
   
 
@@ -52,7 +52,7 @@ module.exports = [
     inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
-    exclusionWods: [...tList.nonInformativeTitle, "war latest", ...tList.business,],
+    exclusionWods: [...tList.nonInformativeTitle, "war latest", ...tList.business, "The Week Ahead",],
     urlBlacklist: ['video'], 
   },
   {
@@ -69,9 +69,10 @@ module.exports = [
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
       'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
-      'zz', ...tList.business, 
+      'zz', ...tList.business, "not happen",
     ],
-    minCharsTitle: 23,
+    minCharsTitle: 25,
+    blacklist: ['newsletter'],
   },
   {
     name: 'Public Eye',
@@ -92,7 +93,8 @@ module.exports = [
       'peaceful transition', 'EU presidency', 'medicine', 'Greenland', 
       'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
       "Italie", "Autriche", ...tList.important, ...tList.war, "Croatie", 
-      "Allemagne", 'Baltique', "Serbie", "Espagne", 
+      "Allemagne", 'Baltique', "Serbie", "Espagne", "Portugal", "Norvège", 
+      "Pologne", 
     ],
   },
   { // headlines
@@ -155,7 +157,7 @@ module.exports = [
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...tList.environment, ...tList.scienceResearch],
-    exlcusionWords: [...tList.nonInformativeTitle,]
+    exlcusionWords: [...tList.nonInformativeTite, "Impact",],
   },
   {
     name: 'The Intercept',
@@ -237,18 +239,18 @@ module.exports = [
  {
     name: 'AP News',
     url: 'https://feedx.net/rss/ap.xml',
-    inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
+    /* inclusionWords: [...tList.disability, ...tList.scienceResearch, ...tList.medicine, ...tList.humanRights,
       'France coast', 'anti-US', 'Montenegro', 'left note', '116', 'lawyers ask judge', 'looking at europe',
       ...tList.rightWing, ...tList.war, ...tList.environment, 'mastermind', ...tList.dataJournalism, 
-      ...tList.technology, "Yemen", "Cuba", 
-    ],
+      ...tList.technology, "Yemen", "Cuba", "google", "Delhi",
+    ], */
   },
   {
     name: 'Amnesty International',
     url: 'https://www.amnesty.org/en/rss/',
     inclusionWords: [...tList.important, ...tList.location, ...tList.disability, ...tList.cybersecurity,
       'native', 'Myannmar', ...tList.prison, 'Angola', ...tList.humanRights, ...tList.environment,
-      "DRC", "USA", 
+      "DRC", "USA", "Myanmar",
     ],
   },
   {
@@ -322,7 +324,7 @@ module.exports = [
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
     exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers,
-      ...tList.uninterestedPeople, ...tList.business,
+      ...tList.uninterestedPeople, ...tList.business, "Somalia", "Vatican", 
     ],
   },
   {
@@ -330,8 +332,9 @@ module.exports = [
     url: 'https://www.hrw.org/rss',
     inclusionWords: [...tList.disability, ...tList.location, ...tList.ukraineRussia,
       ...tList.cybersecurity, ...tList.important, "Georgia", ...tList.humanRights,
-      "Cameroon", "Thailand", "Lebanon", "Nigeria", 'Canada', "Gaza", 
+      "Cameroon", "Thailand", "Lebanon", "Nigeria", 'Canada', "Gaza", "Rwanda",
     ],
+    exclusionWords: ["Agenda for New Government"],
   },
   {
     name: 'Jacobin',
@@ -362,7 +365,7 @@ module.exports = [
     url: 'https://www.404media.co/rss/',
     inclusionWords: [...tList.commons, ...tList.humanRights,
       ...tList.activism, "spy", ...tList.technology,
-      "trans", 
+      "trans", "bigotry", 
     ],
   },
   
