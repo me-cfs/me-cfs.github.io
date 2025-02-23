@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Zelenskyy offers to resign in exchange for peace, NATO					 (Politico)</title>
+      <link>https://www.politico.eu/article/volodymyr-zelenskyy-offer-resign-exchange-ukraine-nato-membership/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/volodymyr-zelenskyy-offer-resign-exchange-ukraine-nato-membership/</guid>
+      <pubDate>Sun, 23 Feb 2025 21:53:07 -0000</pubDate>
+    </item>
+    <item>
       <title> US envoy suggests Ukraine-Russia peace deal is close  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/us-envoy-suggests-ukraine-russia-peace-deal-is-close</link>
       <author>Kyiv Indpendent</author>
@@ -1421,14 +1429,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/20/irs-layoffs-trump-doge</guid>
       <pubDate>Thu, 20 Feb 2025 18:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron says Russia ‘globalized’ Ukraine war after being asked if conflict will turn into WW3					 (Politico)</title>
-      <link>https://www.politico.eu/article/emmanuel-macron-war-in-ukraine-russia/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/emmanuel-macron-war-in-ukraine-russia/</guid>
-      <pubDate>Thu, 20 Feb 2025 18:35:35 -0000</pubDate>
     </item>
   </channel>
 </rss>
