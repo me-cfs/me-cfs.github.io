@@ -157,7 +157,7 @@ module.exports = [
     name: 'Inside Climate News',
     url: 'https://insideclimatenews.org/feed/',
     inclusionWords: [...tList.environment, ...tList.scienceResearch],
-    exclusionWords: [...tList.nonInformativeTite, "Impact",],
+    exclusionWords: [...tList.nonInformativeTitle, "Impact",],
   },
   {
     name: 'The Intercept',
