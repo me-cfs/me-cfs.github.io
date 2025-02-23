@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>David Hayles obituary (Guardian)</title>
+      <link>https://www.theguardian.com/artanddesign/2025/feb/23/david-hayles-obituary</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/artanddesign/2025/feb/23/david-hayles-obituary</guid>
+      <pubDate>Sun, 23 Feb 2025 17:25:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Élections en Allemagne: les conservateurs de la CDU-CSU en tête, percée historique de l'extrême droite (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250223-%C3%A9lections-en-allemagne-les-conservateurs-de-la-cdu-csu-en-t%C3%AAte-perc%C3%A9e-historique-de-l-extr%C3%AAme-droite</link>
       <author>RFI</author>
@@ -1422,13 +1429,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/business/2025/feb/20/anglo-american-writes-down-diamond-de-beers-29bn</guid>
       <pubDate>Thu, 20 Feb 2025 14:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Social media use by children rife ahead of under-16s ban (BBC)</title>
-      <link>https://www.bbc.com/news/articles/clyz65p1k45o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/clyz65p1k45o#0</guid>
-      <pubDate>Thu, 20 Feb 2025 14:31:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
