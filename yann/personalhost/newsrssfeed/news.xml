@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Taiwan: Amnesty calls for robust protection of human rights in the digital age at RightsCon2025 (Amnesty International)</title>
+      <link>https://www.amnesty.org/en/latest/news/2025/02/taiwan-must-robustly-protect-digital-rights/</link>
+      <author>Amnesty International</author>
+      <guid>https://www.amnesty.org/en/?p=223230</guid>
+      <pubDate>Sun, 23 Feb 2025 21:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>France: visite en terrain conquis pour le président du RN Jordan Bardella au Salon de l'agriculture (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250223-france-visite-en-terrain-conquis-pour-le-pr%C3%A9sident-du-rn-jordan-bardella-au-salon-de-l-agriculture</link>
       <author>RFI</author>
       <guid>e3aae13c-f21f-11ef-ad65-005056a97652</guid>
       <pubDate>Sun, 23 Feb 2025 20:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les condamnés romands n'ont pas tous le même accès au bracelet électronique (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/les-condamnes-romands-n-ont-pas-tous-le-meme-acces-au-bracelet-electronique-28800857.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28800857</guid>
+      <pubDate>Sun, 23 Feb 2025 20:30:13 GMT</pubDate>
     </item>
     <item>
       <title>Musk and DOGE underwater with some voters in recent polling (Axios)</title>
@@ -172,6 +186,13 @@
       <author>RTS</author>
       <guid>28800603</guid>
       <pubDate>Sun, 23 Feb 2025 11:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSNBC Cancels Joy Reid’s Show in Major Shake-Up (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/23/business/msnbc-joy-reid.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/23/business/msnbc-joy-reid.html</guid>
+      <pubDate>Sun, 23 Feb 2025 11:09:19 +0000</pubDate>
     </item>
     <item>
       <title>Cuts draining federal government of technical expertise (Axios)</title>
@@ -1409,27 +1430,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/prime-minister-should-be-ashamed-after-he-fails-to-provide-evidence-for-latest-fit-for-work-attack/</guid>
       <pubDate>Thu, 20 Feb 2025 17:17:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>La Suisse reconnaît un "crime contre l'humanité" avec le placement forcé d’enfants yéniches et manouches (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-admet-un-crime-contre-l-humanite-envers-les-yeniches-et-manouches-28797707.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28797707</guid>
-      <pubDate>Thu, 20 Feb 2025 17:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mitch McConnell, 83, won't seek reelection in 2026 (Axios)</title>
-      <link>https://www.axios.com/2025/02/20/mitch-mcconnell-reelection-senate-retire</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/20/mitch-mcconnell-reelection-senate-retire</guid>
-      <pubDate>Thu, 20 Feb 2025 17:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Years of evidence exposes minister’s claims in parliament that DWP is not to blame for deaths (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/years-of-evidence-exposes-ministers-claims-in-parliament-that-dwp-is-not-to-blame-for-deaths/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/years-of-evidence-exposes-ministers-claims-in-parliament-that-dwp-is-not-to-blame-for-deaths/</guid>
-      <pubDate>Thu, 20 Feb 2025 17:02:20 -0000</pubDate>
     </item>
   </channel>
 </rss>
