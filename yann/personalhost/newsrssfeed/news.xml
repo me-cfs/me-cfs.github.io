@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						German election 2025: Conservatives favorite to win while far right eye historic result					 (Politico)</title>
+      <link>https://www.politico.eu/article/germany-federal-election-2025-live-friedrich-merz-alice-weidel-olaf-scholz-cdu-spd-afd/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/germany-federal-election-2025-live-friedrich-merz-alice-weidel-olaf-scholz-cdu-spd-afd/</guid>
+      <pubDate>Sun, 23 Feb 2025 07:08:39 -0000</pubDate>
+    </item>
+    <item>
       <title>Législatives en Allemagne: les électeurs appelés aux urnes après une campagne mouvementée (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250223-l%C3%A9gislatives-allemagne-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-apr%C3%A8s-une-campagne-mouvement%C3%A9e</link>
       <author>RFI</author>
@@ -17,6 +25,14 @@
       <author>SBS News</author>
       <guid>00000195-316b-d277-a3bf-f97b4e5a0000</guid>
       <pubDate>Sun, 23 Feb 2025 06:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Trump’s Ukraine plan is ‘close to surrender,’ warns ex-adviser John Bolton					 (Politico)</title>
+      <link>https://www.politico.eu/article/donald-trump-john-bolton-warning-politics-nato-ukraine-europe-un-peace-force/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/donald-trump-john-bolton-warning-politics-nato-ukraine-europe-un-peace-force/</guid>
+      <pubDate>Sun, 23 Feb 2025 06:23:39 -0000</pubDate>
     </item>
     <item>
       <title> Russian missile attack in Kryvyi Rih kills 1, injures 5  (Kyiv Indpendent)</title>
@@ -1413,20 +1429,6 @@
       <author>RTS</author>
       <guid>28797324</guid>
       <pubDate>Thu, 20 Feb 2025 11:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The US-Russia dogfight to sell India fighter jets (Economist)</title>
-      <link>https://www.economist.com/asia/2025/02/20/the-us-russia-dogfight-to-sell-india-fighter-jets</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/asia/2025/02/20/the-us-russia-dogfight-to-sell-india-fighter-jets</guid>
-      <pubDate>Thu, 20 Feb 2025 11:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Despite Trump tariffs, CEO confidence rises to highest level in years (Axios)</title>
-      <link>https://www.axios.com/2025/02/20/trump-tariffs-ceo-confidence</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/20/trump-tariffs-ceo-confidence</guid>
-      <pubDate>Thu, 20 Feb 2025 11:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
