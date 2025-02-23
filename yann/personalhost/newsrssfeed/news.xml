@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Merz declares victory in German election					 (Politico)</title>
+      <link>https://www.politico.eu/article/german-election-results-2025-friedrich-merz-cdu-conservative-party-win-exit-poll/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/german-election-results-2025-friedrich-merz-cdu-conservative-party-win-exit-poll/</guid>
+      <pubDate>Sun, 23 Feb 2025 19:46:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Des élus fédéraux songent à durcir le cadre légal entourant l’aide au suicide (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/aide-au-suicide-en-suisse-vers-un-durcissement-du-cadre-legal-28801092.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28801092</guid>
+      <pubDate>Sun, 23 Feb 2025 19:37:56 GMT</pubDate>
+    </item>
+    <item>
       <title> Ukraine war latest: Zelensky willing to step down in exchange for peace; Russia launches largest drone attack since start of full-scale invasion  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/ukraine-war-latest-zelensky-willing-to-step-down-in-exchange-for-peace-russia-launches-largest-drone-attack-since-start-of-full-scale-invasion</link>
       <author>Kyiv Indpendent</author>
@@ -24,6 +39,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/23/trump-military-firings-charles-brown</guid>
       <pubDate>Sun, 23 Feb 2025 18:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Officials Remind Federal Employees That Elon Musk Is Not Their Boss (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/02/trump-officials-remind-federal-employees-that-elon-musk-is-not-their-boss/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1117957</guid>
+      <pubDate>Sun, 23 Feb 2025 17:34:27 +0000</pubDate>
     </item>
     <item>
       <title>David Hayles obituary (Guardian)</title>
@@ -1408,27 +1430,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/campaigners-call-for-action-to-address-shortage-of-wheelchair-accessible-taxis/</guid>
       <pubDate>Thu, 20 Feb 2025 16:32:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>Government must set up independent panel to probe DWP deaths, says disabled researcher (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/government-must-set-up-independent-panel-to-probe-dwp-deaths-says-disabled-researcher/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/government-must-set-up-independent-panel-to-probe-dwp-deaths-says-disabled-researcher/</guid>
-      <pubDate>Thu, 20 Feb 2025 16:17:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>Russia: Year After Navalny’s Death, Supporters Targeted (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/02/20/russia-year-after-navalnys-death-supporters-targeted</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/02/20/russia-year-after-navalnys-death-supporters-targeted</guid>
-      <pubDate>Thu, 20 Feb 2025 10:56:16 -0500</pubDate>
-    </item>
-    <item>
-      <title>Germany’s Far-Right Comeback (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/20/opinion/germany-elections-afd.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/20/opinion/germany-elections-afd.html</guid>
-      <pubDate>Thu, 20 Feb 2025 15:55:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
