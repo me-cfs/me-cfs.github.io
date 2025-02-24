@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Thomas Friedman on Trump’s Desire to Be President for Life (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/20/opinion/trump-putin-ukraine-europe.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/20/opinion/trump-putin-ukraine-europe.html</guid>
+      <pubDate>Mon, 24 Feb 2025 15:26:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Qui est Mohamed Amra, fugitif le plus recherché de France, arrêté en Roumanie? (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250224-qui-est-mohamed-amra-fugitif-le-plus-recherch%C3%A9-de-france-arr%C3%AAt%C3%A9-en-roumanie</link>
       <author>RFI</author>
@@ -1414,13 +1421,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/space/2025/02/rocket-report-spacex-lands-in-the-bahamas-ula-tests-modified-booster/</guid>
       <pubDate>Fri, 21 Feb 2025 12:00:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenyan tea exporters fear Sudan blowback over RSF meeting (Semafor)</title>
-      <link>https://www.semafor.com/article/02/21/2025/kenyan-tea-exporters-fear-sudan-blowback-over-rsf-meeting</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/02/21/2025/kenyan-tea-exporters-fear-sudan-blowback-over-rsf-meeting</guid>
-      <pubDate>Fri, 21 Feb 2025 11:39:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
