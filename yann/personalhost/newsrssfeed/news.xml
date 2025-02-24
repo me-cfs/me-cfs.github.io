@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La France crée une commission d’évaluation de son aide publique au développement (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250224-la-france-cr%C3%A9e-une-commission-d-%C3%A9valuation-de-son-aide-publique-au-d%C3%A9veloppement</link>
+      <author>RFI</author>
+      <guid>7f4ecffc-f254-11ef-ae1a-005056bf762b</guid>
+      <pubDate>Mon, 24 Feb 2025 03:57:43 GMT</pubDate>
+    </item>
+    <item>
       <title>The murder and legacy of the world’s first openly gay imam – podcast (Guardian)</title>
       <link>https://www.theguardian.com/news/audio/2025/feb/24/the-and-legacy-of-the-worlds-first-openly-gay-imam-podcast</link>
       <author>Guardian</author>
@@ -1421,13 +1428,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/20/hamas-returns-hostage-bodies-ceasefire-deal</guid>
       <pubDate>Fri, 21 Feb 2025 00:02:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: le destin tumultueux des jeunes étudiants africains contraints à l'exil en France (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250220-ukraine-le-destin-tumultueux-des-jeunes-%C3%A9tudiants-africains-contraints-%C3%A0-l-exil</link>
-      <author>RFI</author>
-      <guid>253a75bc-efc4-11ef-ace1-005056bf762b</guid>
-      <pubDate>Thu, 20 Feb 2025 23:33:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
