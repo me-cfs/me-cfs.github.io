@@ -10,7 +10,8 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
-    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,],
+    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,
+      ...tList.nonInformativeTitle, ...tList.uninterestedGeneral,],
     off: false,
   },
  {
@@ -32,6 +33,7 @@ module.exports = [
       ...tList.ukraineRussia, ...tList.disability, "cashed in", ...tList.medicine,
       ...tList.geopolitics,
        ],
+    exclusionWords: [...tList.nonInformativeTitle,],
   },
   {
     name: 'The Equal Times',
@@ -215,7 +217,7 @@ module.exports = [
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
     inclusionWords: [...tList.activism, ...tList.geopolitics, ...tList.politics,],
-    exclusionWords: [...tList.clickbait],
+    exclusionWords: [...tList.clickbait, ...tList.nonInformativeTitle,],
   },
   {
     name: 'SBS News',
