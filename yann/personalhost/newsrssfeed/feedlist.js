@@ -10,7 +10,7 @@ module.exports = [
     // Guardian Africa
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
-    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of",],
+    exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,],
     off: false,
   },
  {
@@ -165,12 +165,6 @@ module.exports = [
     inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
       'paywall', 'Nigeria', ...tList.rightWing, "Porn", ...tList.cybersecurity, 
     ],
-  },
-  {
-    name: 'KFF Health News',
-    url: 'https://kffhealthnews.org/feed/',
-    inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
-    exclusionWords: [...tList.spanish],
   },
   {
     name: 'Motherjones',
