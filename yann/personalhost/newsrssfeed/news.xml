@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Supreme Court schedules arguments in case where Trump administration is defending ACA (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5161978-supreme-court-trump-administration-aca-preventive-care-mandate-obamacare-biden-kennedy-rfk-jr-hhs/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5161978</guid>
+      <pubDate>Mon, 24 Feb 2025 22:30:07 +0000</pubDate>
+    </item>
+    <item>
       <title>France: au procès des geôliers présumés de l'EI, l'ex-otage Nicolas Hénin livre son témoignage (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250224-france-au-proc%C3%A8s-des-ge%C3%B4liers-pr%C3%A9sum%C3%A9s-de-l-ei-l-ex-otage-nicolas-h%C3%A9nin-livre-son-t%C3%A9moignage</link>
       <author>RFI</author>
@@ -505,6 +512,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/trudeau-presses-trump-on-ukraine-peace-deal-ahead-of-kyiv-summit</guid>
       <pubDate>Mon, 24 Feb 2025 02:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>The tumultuous history of the Sydney Opera House (BBC)</title>
+      <link>https://www.bbc.co.uk/culture/article/20250221-the-tumultuous-history-of-the-sydney-opera-house</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.co.uk/culture/article/20250221-the-tumultuous-history-of-the-sydney-opera-house#0</guid>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Australians invade London’s right-wing ARC conference, and the anti-Trump dam is breaking (Crikey)</title>
@@ -1408,20 +1422,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-brussels-green-deal-reporting-rules-u-turn-double-materiality/</guid>
       <pubDate>Fri, 21 Feb 2025 17:25:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>What E.R. Doctors Wish You’d Avoid (New York Times)</title>
-      <link>https://www.nytimes.com/2025/02/21/well/er-doctors-tips.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/02/21/well/er-doctors-tips.html</guid>
-      <pubDate>Fri, 21 Feb 2025 17:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyrgyzstan: Address Death Threats Against Imprisoned Journalist (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/02/21/kyrgyzstan-address-death-threats-against-imprisoned-journalist</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/02/21/kyrgyzstan-address-death-threats-against-imprisoned-journalist</guid>
-      <pubDate>Fri, 21 Feb 2025 11:52:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
