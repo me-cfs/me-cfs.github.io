@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Germany’s Merz vows ‘independence’ from Trump’s America, warning NATO may soon be dead					 (Politico)</title>
+      <link>https://www.politico.eu/article/friedrich-merz-germany-election-united-states-donald-trump-nato/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/friedrich-merz-germany-election-united-states-donald-trump-nato/</guid>
+      <pubDate>Mon, 24 Feb 2025 04:46:37 -0000</pubDate>
+    </item>
+    <item>
       <title>La France crée une commission d’évaluation de son aide publique au développement (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250224-la-france-cr%C3%A9e-une-commission-d-%C3%A9valuation-de-son-aide-publique-au-d%C3%A9veloppement</link>
       <author>RFI</author>
@@ -174,6 +182,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/ap-italy-us-india-flight-diverted_n_67bb6481e4b0249e5d5af512</guid>
       <pubDate>Sun, 23 Feb 2025 18:46:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>LGBTIQ+ Australians fear Meta 'bowing the knee' to Trump will lead to a wave of hate speech (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/metas-new-community-guidelines-and-lgbtiq-safety/43rwr762w</link>
+      <author>SBS News</author>
+      <guid>00000195-1b59-d3de-ab9d-5f5d13e80000</guid>
+      <pubDate>Sun, 23 Feb 2025 18:37:23 +0000</pubDate>
     </item>
     <item>
       <title>Trump's military firings leave some Democrats reeling (Axios)</title>
@@ -1414,20 +1429,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/uks-lammy-sees-no-russian-willingness-for-peace-at-g20-meeting</guid>
       <pubDate>Fri, 21 Feb 2025 02:34:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Bureau of Land Management Trims Environmental Review Before $20 Million Oil and Gas Lease Sale (Inside Climate News)</title>
-      <link>https://insideclimatenews.org/news/20022025/blm-trims-environmental-review-before-oil-gas-lease/</link>
-      <author>Inside Climate News</author>
-      <guid>https://insideclimatenews.org/?p=91619</guid>
-      <pubDate>Fri, 21 Feb 2025 00:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israel says Hamas returned "anonymous" body instead of Shiri Bibas in "violation" of deal (Axios)</title>
-      <link>https://www.axios.com/2025/02/20/hamas-returns-hostage-bodies-ceasefire-deal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/20/hamas-returns-hostage-bodies-ceasefire-deal</guid>
-      <pubDate>Fri, 21 Feb 2025 00:02:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
