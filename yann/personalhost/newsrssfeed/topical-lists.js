@@ -36,9 +36,9 @@ const us = ['Anchorage', ...usPolitics];
 //exclusionLists
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', "won't believe", 'truth about',
-  "fury",
+  "fury", "formidable"
 ];
-// -BBCaus -Crikey, -Hill (Healthcare), -Politico EU
+// -Axios, -BBCaus -Crikey, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment', "télévision",
   "photo", "grammy", 
 ];
@@ -50,16 +50,18 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
     'bored', 'of faith', 'santa claus', 'holiday cheer', 'operation santa', 'dans les pas des soldat', "here's the",
     'hollywood legend', 'always look on the bright side', 'light show', 'what I got', 'good riddance', 'goes full',
     'à ne pas manquer', "there is no such thing", "love-fest", "loom into", "weird monent", "teetering on edge",
-    "man in the", "here come", "hushed up", "ronance", "as a", "Knives are out", "Oldest and youngest", 'cry',
+    "man in the", "here come", "hushed up", "ronance", "as a", "Knives are out", "Oldest and youngest", 'cry', "ghost",
+    "more to come", "Uh Oh", "rêves et défis", 
 ];
 // -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI, -RTS, -SBS
-const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation'];
-// -BBC Aus, -CrimethInc, -Economist, -Fivethirtyeight, -Open Democracy, -RTS
+const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation', "listen", "video", "journalists talk",];
+// -BBC Aus, -CrimethInc, -Economist, -Fivethirtyeight, -Guardian Afr, -KFF Health, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
-    'these', "let's try something", 'to watch', 'inside', "things to watch", "takeaway", 'meet the',
+    'these', "let's try something", 'to watch', 'inside', "things to watch", "takeaway", 'meet the', "5 big moment", 
+    "the truth about", "might have missed", "may have missed", "here's how", "What", "what it means",
 ];
-// -Axios. -Economist, -Grist, -Hill Healthcare. -Huffpost (World), 
+// -Axios. -Byline Times, -Crikey, -Economist, -Grist, -Guardian Afr, -Hill Healthcare. -Huffpost (World), 
 // -Inside Climate News, -Kyiv, -Motherjones, -NYT Most Viewed, -OpenDemocracy, -Politico, -RTS, -SBS, Vox
 const spanish = [
   'noticias', 'artículo', 'contenido', 'actualidad', 'español',
@@ -72,9 +74,9 @@ const spanish = [
 const triggers = ['gender dysphoria', 'Yuppie Flu'];
 // -Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
-    'fashion brand', 'traffic jam', 'noël', 'Mega Millions', 'nativity', 'marries', 
+    'fashion brand', 'traffic jam', 'noël', 'Mega Millions', 'nativity', 'marries', "Eurovision", "Lunar New Year", "Weather", 
 ];
-// -Axios, -BBC (Australia), -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS
+// -Axios, -BBC (Australia), -Guardian Afr, -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS, -SBS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson', "Kate Middleton", "Bob Dylan",];
 // -Axios, -Huffpost, -NYT
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts',
