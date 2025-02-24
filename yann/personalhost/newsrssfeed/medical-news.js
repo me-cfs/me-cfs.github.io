@@ -21,4 +21,10 @@ module.exports = [
     cutoffDate: new Date('2024-12-11')
     // titles dont seem super descriptive
   },
+  {
+    name: 'KFF Health News',
+    url: 'https://kffhealthnews.org/feed/',
+    inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
+    exclusionWords: [...tList.spanish, ...tList.nonArticle],
+  },
 ];
