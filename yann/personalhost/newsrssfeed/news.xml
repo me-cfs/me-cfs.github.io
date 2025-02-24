@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>[Éditions spéciales] Trois ans de guerre en Ukraine, «trois ans de résistance» salue Volodymyr Zelensky: RFI en édition spéciale (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250224-trois-ans-de-guerre-en-ukraine-r%C3%A9sistance-volodymyr-zelensky-rfi-editions-sp%C3%A9ciales</link>
+      <author>RFI</author>
+      <guid>c26cdba2-f278-11ef-a3d9-005056bf762b</guid>
+      <pubDate>Mon, 24 Feb 2025 07:26:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Allemagne: arrivée en tête des législatives, la CDU-CSU doit maintenant former une coalition pour gouverner (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250224-allemagne-l%C3%A9gislatives-cdu-csu-quete-allies-gouverner-merz</link>
       <author>RFI</author>
       <guid>27996fb8-f279-11ef-948b-005056bf762b</guid>
       <pubDate>Mon, 24 Feb 2025 07:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toujours pas d'accord sur le tarif d'une heure de psychothérapie (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/tarif-des-psychotherapies-desaccord-persistant-entre-assureurs-et-praticiens-28800986.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28800986</guid>
+      <pubDate>Mon, 24 Feb 2025 07:18:55 GMT</pubDate>
     </item>
     <item>
       <title>France: un ancien chirurgien jugé pour viols et agressions sexuelles sur 300 enfants (RFI)</title>
@@ -1299,6 +1313,13 @@
       <pubDate>Fri, 21 Feb 2025 09:34:32 +0000</pubDate>
     </item>
     <item>
+      <title>Neighbours cancelled again, two years after revival (BBC)</title>
+      <link>https://www.bbc.com/news/articles/c8710r5v0p7o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/c8710r5v0p7o#0</guid>
+      <pubDate>Fri, 21 Feb 2025 09:24:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Misinformation Doctors Start a Misinformation Journal to Spread Misinformation (Science Based Medicine)</title>
       <link>https://sciencebasedmedicine.org/misinformation-doctors-start-a-misinformation-journal-to-spread-misinformation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=misinformation-doctors-start-a-misinformation-journal-to-spread-misinformation</link>
       <author>Science Based Medicine</author>
@@ -1407,28 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/europe-green-targets-2030-enviornmental-policy-eea-deal-carbon/</guid>
       <pubDate>Fri, 21 Feb 2025 02:48:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump orders database tracking federal police misconduct to close (Axios)</title>
-      <link>https://www.axios.com/2025/02/21/database-federal-police-misconduct-trump-deletes</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/21/database-federal-police-misconduct-trump-deletes</guid>
-      <pubDate>Fri, 21 Feb 2025 02:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump says Australia has been 'very, very good to us', amid tariff concerns (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/donald-trump-briefly-praises-australia/4f10bs1jl</link>
-      <author>SBS News</author>
-      <guid>00000195-25eb-d3de-ab9d-6fff5dc00000</guid>
-      <pubDate>Fri, 21 Feb 2025 02:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukrainian hopes fading as Trump and Putin embrace					 (Politico)</title>
-      <link>https://www.politico.eu/article/ukrainian-hopes-fading-as-trump-and-putin-embrace/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ukrainian-hopes-fading-as-trump-and-putin-embrace/</guid>
-      <pubDate>Fri, 21 Feb 2025 02:33:41 -0000</pubDate>
     </item>
   </channel>
 </rss>
