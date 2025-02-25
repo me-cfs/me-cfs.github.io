@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Americans voted for Trump, but don't support his agenda (Fivethirtyeight)</title>
+      <link>https://abcnews.go.com/538/americans-voted-trump-support-agenda/story?id=119136603</link>
+      <author>Fivethirtyeight</author>
+      <guid>https://abcnews.go.com/538/americans-voted-trump-support-agenda/story?id=119136603</guid>
+      <pubDate>Tue, 25 Feb 2025 20:46:46 -0000</pubDate>
+    </item>
+    <item>
       <title> Taurus missiles, stronger Europe — what can Ukraine hope for after German elections  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/taurus-missiles-stronger-europe-what-can-ukraine-hope-for-after-german-elections</link>
       <author>Kyiv Indpendent</author>
@@ -1421,13 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-federal-election-2025-live-friedrich-merz-alice-weidel-olaf-scholz-cdu-spd-afd/</guid>
       <pubDate>Sun, 23 Feb 2025 07:08:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>Législatives en Allemagne: les électeurs appelés aux urnes après une campagne mouvementée (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250223-l%C3%A9gislatives-allemagne-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-apr%C3%A8s-une-campagne-mouvement%C3%A9e</link>
-      <author>RFI</author>
-      <guid>24215caa-f1ad-11ef-8b44-005056bf762b</guid>
-      <pubDate>Sun, 23 Feb 2025 07:00:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
