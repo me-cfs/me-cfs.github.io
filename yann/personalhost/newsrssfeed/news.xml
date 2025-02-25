@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>ProPublica Updates Its Database of Museums’ and Universities’ Compliance With Federal Repatriation Law (Propublica)</title>
+      <link>https://www.propublica.org/article/native-american-remains-returned-repatriation-nagpra</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/native-american-remains-returned-repatriation-nagpra</guid>
+      <pubDate>Tue, 25 Feb 2025 06:00:00 -0500</pubDate>
+    </item>
+    <item>
       <title>France: les producteurs de farines d'insectes ont du plomb dans l'aile (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250225-france-farines-d-insectes-porducteurs-plomb-dans-l-aile-ynsect-agronutris</link>
       <author>RFI</author>
@@ -1419,13 +1426,6 @@
       <author>RTS</author>
       <guid>28796258</guid>
       <pubDate>Sat, 22 Feb 2025 14:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le ticket Pfister-Ritter au centre des discussions lors de l'assemblée des délégués du Centre  (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/centre-pfister-et-ritter-candidats-au-conseil-federal-presentent-leurs-visions-28799830.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28799830</guid>
-      <pubDate>Sat, 22 Feb 2025 13:55:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
