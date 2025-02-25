@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Chloé Ridel, députée européenne et porte-parole du Parti socialiste (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/mardi-politique/20250225-chlo%C3%A9-ridel-d%C3%A9put%C3%A9e-europ%C3%A9enne-et-porte-parole-du-parti-socialiste</link>
+      <author>RFI</author>
+      <guid>fcfc88bc-f2aa-11ef-b2c8-005056bf762b</guid>
+      <pubDate>Tue, 25 Feb 2025 17:44:56 GMT</pubDate>
+    </item>
+    <item>
       <title> Poland pledges $210 million in new military aid for Ukraine  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/poland-pledges-210-million-in-new-military-aid-for-ukraine-defense-minister-says</link>
       <author>Kyiv Indpendent</author>
@@ -1422,13 +1429,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/22/opinion/trump-king-third-term.html</guid>
       <pubDate>Sat, 22 Feb 2025 19:35:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vatican Says Pope Francis Is In Critical Condition (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/vatican-pope-critical-condition_n_67ba16b4e4b075fafcec6ed1</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/vatican-pope-critical-condition_n_67ba16b4e4b075fafcec6ed1</guid>
-      <pubDate>Sat, 22 Feb 2025 19:32:04 -0000</pubDate>
     </item>
   </channel>
 </rss>
