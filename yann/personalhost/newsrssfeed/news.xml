@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						UK hikes defense spending to 2.5 percent by cutting aid					 (Politico)</title>
+      <link>https://www.politico.eu/article/uk-pm-keir-starmer-defense-spending-2-5-percent-cutting-aid/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/uk-pm-keir-starmer-defense-spending-2-5-percent-cutting-aid/</guid>
+      <pubDate>Tue, 25 Feb 2025 15:10:09 -0000</pubDate>
+    </item>
+    <item>
       <title>Kremlin contradicts Trump's claim on peacekeeping forces in Ukraine (Axios)</title>
       <link>https://www.axios.com/2025/02/25/russia-trump-europe-peacekeeping-ukraine</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/25/russia-trump-europe-peacekeeping-ukraine</guid>
       <pubDate>Tue, 25 Feb 2025 13:17:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Macron leads the charge to bring Trump back from the brink (Economist)</title>
+      <link>https://www.economist.com/podcasts/2025/02/25/macron-leads-the-charge-to-bring-trump-back-from-the-brink</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/podcasts/2025/02/25/macron-leads-the-charge-to-bring-trump-back-from-the-brink</guid>
+      <pubDate>Tue, 25 Feb 2025 13:06:45 GMT</pubDate>
     </item>
     <item>
       <title>Palestinians Struggle To Restart Their Lives In The Ruins Of Gaza (Huffington Post)</title>
@@ -1415,20 +1430,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/02/22/amid-turmoil-a-fearful-germany-goes-to-the-polls</guid>
       <pubDate>Sat, 22 Feb 2025 17:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title> Trump announces next round of Ukraine peace talks in Riyadh on Feb. 25  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/trump-announces-next-round-of-ukraine-peace-talks-in-riyadh-on-feb-25</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/trump-announces-next-round-of-ukraine-peace-talks-in-riyadh-on-feb-25</guid>
-      <pubDate>Sat, 22 Feb 2025 19:18:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Companies like McDonald's and Meta are changing DEI in the Trump era (Axios)</title>
-      <link>https://www.axios.com/2025/02/20/trump-dei-mcondalds-meta-doj</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/20/trump-dei-mcondalds-meta-doj</guid>
-      <pubDate>Sat, 22 Feb 2025 17:15:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
