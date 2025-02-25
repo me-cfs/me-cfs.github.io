@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The magic and madness of the Coupe de France - a competition structured to encourage upsets (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6156080/2025/02/25/coupe-de-france/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6156080/2025/02/25/coupe-de-france/</guid>
+      <pubDate>Tue, 25 Feb 2025 05:13:23 GMT</pubDate>
+    </item>
+    <item>
       <title>En Ukraine, soigner les blessures invisibles de la guerre chez les enfants (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250225-ukraine-soigner-s-blessures-invisibles-de-la-guerre-chez-les-enfants-voice-children</link>
       <author>RFI</author>
@@ -1401,26 +1408,19 @@
       <pubDate>Sat, 22 Feb 2025 05:34:57 +0200</pubDate>
     </item>
     <item>
+      <title>Supreme Court delays Trump's firing of agency head (Axios)</title>
+      <link>https://www.axios.com/2025/02/17/trump-firing-power-supreme-court-watchdog-dellinger</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/17/trump-firing-power-supreme-court-watchdog-dellinger</guid>
+      <pubDate>Sat, 22 Feb 2025 02:29:08 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						China says it backs new US and Russian ‘consensus’ on Ukraine war					 (Politico)</title>
       <link>https://www.politico.eu/article/china-wang-yi-backs-us-and-russias-new-consensus-on-ukraine-war/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/china-wang-yi-backs-us-and-russias-new-consensus-on-ukraine-war/</guid>
       <pubDate>Sat, 22 Feb 2025 02:03:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump ousts top U.S. general Charles "CQ" Brown (Axios)</title>
-      <link>https://www.axios.com/2025/02/22/trump-fires-general-charles-cq-brown</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/22/trump-fires-general-charles-cq-brown</guid>
-      <pubDate>Sat, 22 Feb 2025 01:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title> Austria offers to host Ukraine peace negotiations, ambassador says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/austria-offers-to-host-ukraine-peace-negotiations-official-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/austria-offers-to-host-ukraine-peace-negotiations-official-says</guid>
-      <pubDate>Sat, 22 Feb 2025 03:27:52 +0200</pubDate>
     </item>
   </channel>
 </rss>
