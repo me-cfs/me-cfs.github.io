@@ -5,12 +5,33 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump says Zelensky to visit White House Friday to sign minerals deal (Axios)</title>
+      <link>https://www.axios.com/2025/02/25/ukraine-minerals-deal-signed-zelensky-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/25/ukraine-minerals-deal-signed-zelensky-trump</guid>
+      <pubDate>Tue, 25 Feb 2025 21:23:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>La France a mis en place des «restrictions d’accès» contre des «dignitaires» algériens (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250225-la-france-a-mis-en-place-des-restrictions-d-acc%C3%A8s-contre-des-dignitaires-alg%C3%A9riens</link>
+      <author>RFI</author>
+      <guid>f93f5b5a-f3b8-11ef-82a1-005056a97652</guid>
+      <pubDate>Tue, 25 Feb 2025 21:17:25 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Ukraine and US agree to minerals deal, reports say					 (Politico)</title>
       <link>https://www.politico.eu/article/ukraine-us-minerals-deal-volodymyr-zelenskyy-donald-trump/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ukraine-us-minerals-deal-volodymyr-zelenskyy-donald-trump/</guid>
       <pubDate>Tue, 25 Feb 2025 21:08:40 -0000</pubDate>
+    </item>
+    <item>
+      <title> Macron wins no security guarantees from Trump on peacekeepers plan, FT reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/macron-wins-no-security-guarantees-from-trump-on-peacekeepers-plan-ft-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/macron-wins-no-security-guarantees-from-trump-on-peacekeepers-plan-ft-reports</guid>
+      <pubDate>Tue, 25 Feb 2025 23:08:37 +0200</pubDate>
     </item>
     <item>
       <title>Americans voted for Trump, but don't support his agenda (Fivethirtyeight)</title>
@@ -1406,28 +1427,6 @@
       <author>ME/LC News</author>
       <guid>https://med-mastodon.com/@s4me/114052578082343044</guid>
       <pubDate>Sun, 23 Feb 2025 09:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title> Starmer urges Trump to put Ukraine at center of peace negotiations  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/starmer-urges-trump-to-put-ukraine-at-center-of-peace-negotiations</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/starmer-urges-trump-to-put-ukraine-at-center-of-peace-negotiations</guid>
-      <pubDate>Sun, 23 Feb 2025 11:04:24 +0200</pubDate>
-    </item>
-    <item>
-      <title>
-						France still looking to block EU-Mercosur trade deal, Macron says					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-block-eu-mercosur-trade-deal-emmanuel-macron/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-block-eu-mercosur-trade-deal-emmanuel-macron/</guid>
-      <pubDate>Sun, 23 Feb 2025 08:30:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>La Suisse pourrait envoyer 200 soldats en Ukraine en cas de trêve, selon Thomas Süssli (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-prete-a-envoyer-200-soldats-en-ukraine-pour-une-mission-de-paix-28800504.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28800504</guid>
-      <pubDate>Sun, 23 Feb 2025 07:33:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
