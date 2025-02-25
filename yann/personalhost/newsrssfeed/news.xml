@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En Ukraine, soigner les blessures invisibles de la guerre chez les enfants (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250225-ukraine-soigner-s-blessures-invisibles-de-la-guerre-chez-les-enfants-voice-children</link>
+      <author>RFI</author>
+      <guid>74121e2a-f298-11ef-9c9f-005056bf762b</guid>
+      <pubDate>Tue, 25 Feb 2025 05:07:57 GMT</pubDate>
+    </item>
+    <item>
       <title>‘Dark ads’ challenge truth and our democracy (Crikey)</title>
       <link>https://www.crikey.com.au/2025/02/25/dark-ads-2025-australian-election/</link>
       <author>Crikey</author>
@@ -1414,13 +1421,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/austria-offers-to-host-ukraine-peace-negotiations-official-says</guid>
       <pubDate>Sat, 22 Feb 2025 03:27:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>Supreme Court delays Trump's firing of agency head (Axios)</title>
-      <link>https://www.axios.com/2025/02/17/trump-firing-power-supreme-court-watchdog-dellinger</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/17/trump-firing-power-supreme-court-watchdog-dellinger</guid>
-      <pubDate>Sat, 22 Feb 2025 00:50:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
