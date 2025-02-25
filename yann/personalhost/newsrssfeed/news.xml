@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: la possible interdiction du voile dans le sport inquiète les sportives (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250225-france-la-possible-interdiction-du-voile-dans-le-sport-inqui%C3%A8te-les-sportives</link>
+      <author>RFI</author>
+      <guid>23f409d8-f38f-11ef-baae-005056a97652</guid>
+      <pubDate>Tue, 25 Feb 2025 23:08:06 GMT</pubDate>
+    </item>
+    <item>
       <title>UK suspends aid to Rwanda over alleged support for DRC rebels (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/feb/25/uk-suspends-aid-to-rwanda-over-alleged-support-for-drc-rebels</link>
       <author>Guardian</author>
@@ -172,6 +179,13 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/20/opinion/germany-elections-afd.html</guid>
       <pubDate>Tue, 25 Feb 2025 18:21:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The spread of mariachi tells a very American story (Economist)</title>
+      <link>https://www.economist.com/united-states/2025/02/25/the-spread-of-mariachi-tells-a-very-american-story</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/united-states/2025/02/25/the-spread-of-mariachi-tells-a-very-american-story</guid>
+      <pubDate>Tue, 25 Feb 2025 18:07:39 GMT</pubDate>
     </item>
     <item>
       <title>71 percent of Trump voters oppose Medicaid cuts: Poll (The Hill)</title>
@@ -1413,20 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/23/trump-ukraine-russia-pressure</guid>
       <pubDate>Sun, 23 Feb 2025 13:12:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘We’re healing this common body we call a nation’: the plays assessing Kenya’s present by retelling its past (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/feb/23/the-plays-assessing-kenya-present-retelling-its-past</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/feb/23/the-plays-assessing-kenya-present-retelling-its-past</guid>
-      <pubDate>Sun, 23 Feb 2025 13:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mexico deploys 10,000 troops to the US border (Economist)</title>
-      <link>https://www.economist.com/the-americas/2025/02/23/mexico-deploys-10000-troops-to-the-us-border</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/the-americas/2025/02/23/mexico-deploys-10000-troops-to-the-us-border</guid>
-      <pubDate>Sun, 23 Feb 2025 12:57:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
