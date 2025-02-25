@@ -91,6 +91,7 @@ module.exports = [
   {
     name: '#ThereForME',
     url: 'https://www.thereforme.uk/feed',
+    exclusionWords: ["Campaign Update",],
     cutoffDate: new Date('2024-01-26'),
   },
   
