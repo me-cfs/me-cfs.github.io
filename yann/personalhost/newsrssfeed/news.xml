@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Single-fiber computer could one day track your health (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/02/fiber-computer-woven-into-clothing-can-monitor-health/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/02/fiber-computer-woven-into-clothing-can-monitor-health/</guid>
+      <pubDate>Wed, 26 Feb 2025 21:15:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Qatar Airways deal to buy stake in Virgin Australia given green light (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/qatar-airways-deal-to-buy-stake-in-virgin-australia-given-green-light/a0c3fifpt</link>
       <author>SBS News</author>
@@ -1433,13 +1440,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/russia-largest-drone-attack-ukraine-war-anniversary/</guid>
       <pubDate>Mon, 24 Feb 2025 18:36:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>A guide to dodging Trump’s tariffs (Economist)</title>
-      <link>https://www.economist.com/business/2025/02/24/a-guide-to-dodging-trumps-tariffs</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/business/2025/02/24/a-guide-to-dodging-trumps-tariffs</guid>
-      <pubDate>Mon, 24 Feb 2025 17:54:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
