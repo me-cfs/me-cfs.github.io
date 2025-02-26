@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Flock Threatens Open Source Developer Mapping Its Surveillance Cameras (404 Media)</title>
+      <link>https://www.404media.co/flock-threatens-open-source-developer-mapping-its-surveillance-cameras/</link>
+      <author>404 Media</author>
+      <guid>67bf5219260224000154fd93</guid>
+      <pubDate>Wed, 26 Feb 2025 18:00:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump: Federal employees who didn't respond to Musk email are on firing "bubble" (Axios)</title>
       <link>https://www.axios.com/2025/02/26/trump-federal-employees-elon-musk-email</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/26/trump-federal-employees-elon-musk-email</guid>
       <pubDate>Wed, 26 Feb 2025 17:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOGE Gains Access to Confidential Records on Housing Discrimination, Medical Details — Even Domestic Violence (Propublica)</title>
+      <link>https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence</guid>
+      <pubDate>Wed, 26 Feb 2025 12:30:00 -0500</pubDate>
     </item>
     <item>
       <title>
@@ -1426,20 +1440,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/spain-to-provide-ukraine-with-new-military-aid-package-worth-over-1-billion-in-2025</guid>
       <pubDate>Mon, 24 Feb 2025 15:07:29 +0200</pubDate>
-    </item>
-    <item>
-      <title>France: le consulat général de Russie à Marseille visé par des jets de bouteilles suivis de détonations (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250224-france-consulat-russie-%C3%A0-marseille-vis%C3%A9-par-des-jets-de-bouteilles-suivis-de-d%C3%A9tonations</link>
-      <author>RFI</author>
-      <guid>c2b7f91e-f2ac-11ef-a317-005056bf762b</guid>
-      <pubDate>Mon, 24 Feb 2025 13:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>M23 militia’s advance in eastern DRC has killed 7,000 since January, UN told (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/feb/24/m23-militias-advance-in-eastern-drc-has-killed-7000-since-january-un-told</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/feb/24/m23-militias-advance-in-eastern-drc-has-killed-7000-since-january-un-told</guid>
-      <pubDate>Mon, 24 Feb 2025 12:55:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
