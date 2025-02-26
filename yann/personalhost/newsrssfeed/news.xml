@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>EU: Catastrophic changes proposed to key sustainability laws would erode human rights and environmental protections (Amnesty International)</title>
+      <link>https://www.amnesty.org/en/latest/news/2025/02/eu-proposal-sustainability-laws-weakening-human-rights-environmental-protections/</link>
+      <author>Amnesty International</author>
+      <guid>https://www.amnesty.org/en/?p=223318</guid>
+      <pubDate>Wed, 26 Feb 2025 18:42:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Flock Threatens Open Source Developer Mapping Its Surveillance Cameras (404 Media)</title>
       <link>https://www.404media.co/flock-threatens-open-source-developer-mapping-its-surveillance-cameras/</link>
       <author>404 Media</author>
@@ -74,6 +81,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/26/trump-doge-rif-government-worker-layoffs</guid>
       <pubDate>Wed, 26 Feb 2025 16:42:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>In James Bond, Amazon gains a thrilling new asset (Economist)</title>
+      <link>https://www.economist.com/culture/2025/02/26/in-james-bond-amazon-gains-a-thrilling-new-asset</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/culture/2025/02/26/in-james-bond-amazon-gains-a-thrilling-new-asset</guid>
+      <pubDate>Wed, 26 Feb 2025 16:28:18 GMT</pubDate>
     </item>
     <item>
       <title>Eli Lilly to spend up to $27 billion in new domestic plants amid Trump tariff threat (The Hill)</title>
@@ -1426,20 +1440,6 @@
       <author>RFI</author>
       <guid>63f62214-f2bd-11ef-a7b9-005056a97652</guid>
       <pubDate>Mon, 24 Feb 2025 14:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Big Tech data center buildouts have led to $5.4 billion in public health costs (Arstechnica)</title>
-      <link>https://arstechnica.com/health/2025/02/big-tech-data-center-buildouts-have-led-to-5-4-billion-in-public-health-costs/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/health/2025/02/big-tech-data-center-buildouts-have-led-to-5-4-billion-in-public-health-costs/</guid>
-      <pubDate>Mon, 24 Feb 2025 14:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope's 10th night in hospital "went well," Vatican says (Axios)</title>
-      <link>https://www.axios.com/2025/02/24/pope-francis-hospital-critical-message</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/24/pope-francis-hospital-critical-message</guid>
-      <pubDate>Mon, 24 Feb 2025 14:01:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
