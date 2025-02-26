@@ -5,12 +5,33 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Texas city reports first death in measles outbreak (Axios)</title>
+      <link>https://www.axios.com/2025/02/26/texas-measles-outbreak-first-death</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/26/texas-measles-outbreak-first-death</guid>
+      <pubDate>Wed, 26 Feb 2025 15:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viola Amherd défend sa communication sur les démissions des chefs de l'armée et du SRC (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/viola-amherd-explique-les-demissions-a-l-armee-et-au-renseignement-28804390.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28804390</guid>
+      <pubDate>Wed, 26 Feb 2025 15:26:12 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Merz dashes to Paris for surprise talks with Macron as security fears weigh on EU					 (Politico)</title>
       <link>https://www.politico.eu/article/friedrich-merz-paris-emmanuel-macron-security-fears-europe/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/friedrich-merz-paris-emmanuel-macron-security-fears-europe/</guid>
       <pubDate>Wed, 26 Feb 2025 15:10:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>Long-time advocate of SLS rocket says it’s time to find an “off-ramp” (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/</guid>
+      <pubDate>Wed, 26 Feb 2025 14:52:48 +0000</pubDate>
     </item>
     <item>
       <title>Israel Imports Gaza Abuses into the West Bank (Human Rights Watch)</title>
@@ -1418,27 +1439,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/24/dan-bongino-fbi-deputy-director-trump</guid>
       <pubDate>Mon, 24 Feb 2025 11:48:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>The transatlantic relationship is crumbling, says an ex-head of NATO (Economist)</title>
-      <link>https://www.economist.com/by-invitation/2025/02/24/the-transatlantic-relationship-is-crumbling-says-an-ex-head-of-nato</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/by-invitation/2025/02/24/the-transatlantic-relationship-is-crumbling-says-an-ex-head-of-nato</guid>
-      <pubDate>Mon, 24 Feb 2025 11:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOGE is the Theranos of Cost-Cutting (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/doge-is-the-theranos-of-cost-cutting</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/doge-is-the-theranos-of-cost-cutting</guid>
-      <pubDate>Mon, 24 Feb 2025 11:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: au procès de l'attaque de la basilique de Nice, l'accusé reconnaît les faits (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250224-france-proc%C3%A8s-attaque-basilique-de-nice-l-accus%C3%A9-reconna%C3%AEt-les-faits</link>
-      <author>RFI</author>
-      <guid>2cc3ee4c-f29b-11ef-9936-005056bf762b</guid>
-      <pubDate>Mon, 24 Feb 2025 11:04:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
