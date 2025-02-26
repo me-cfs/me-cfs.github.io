@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump issues executive order reinforcing hospital price transparency rule from first term (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5165809-trump-executive-order-hospital-pricing/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5165809</guid>
+      <pubDate>Wed, 26 Feb 2025 21:50:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Single-fiber computer could one day track your health (Arstechnica)</title>
       <link>https://arstechnica.com/science/2025/02/fiber-computer-woven-into-clothing-can-monitor-health/</link>
       <author>Arstechnica</author>
@@ -39,6 +46,13 @@
       <author>Economist</author>
       <guid>https://www.economist.com/leaders/2025/02/26/crispr-technologies-hold-enormous-promise-for-farming-and-medicine</guid>
       <pubDate>Wed, 26 Feb 2025 20:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michelle Trachtenberg, ‘Gossip Girl’ and ‘Buffy’ Actress, Dies at 39 (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/26/arts/television/michelle-trachtenberg-dead.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/26/arts/television/michelle-trachtenberg-dead.html</guid>
+      <pubDate>Wed, 26 Feb 2025 20:10:37 +0000</pubDate>
     </item>
     <item>
       <title>Montana Renews Accused Cancer Doctor’s License Despite Criminal, Civil Inquiries (Propublica)</title>
@@ -1425,21 +1439,6 @@
       <author>RFI</author>
       <guid>4435fcf0-f2dc-11ef-876e-005056a97652</guid>
       <pubDate>Mon, 24 Feb 2025 18:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. votes against UN resolution condemning Russia for Ukraine invasion (Axios)</title>
-      <link>https://www.axios.com/2025/02/24/ukraine-russia-un-resolution-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/24/ukraine-russia-un-resolution-trump</guid>
-      <pubDate>Mon, 24 Feb 2025 18:45:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Russia unleashes biggest drone attack of Ukraine war on eve of anniversary					 (Politico)</title>
-      <link>https://www.politico.eu/article/russia-largest-drone-attack-ukraine-war-anniversary/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/russia-largest-drone-attack-ukraine-war-anniversary/</guid>
-      <pubDate>Mon, 24 Feb 2025 18:36:27 -0000</pubDate>
     </item>
   </channel>
 </rss>
