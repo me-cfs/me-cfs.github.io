@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Thomas Bach: "Ça me ferait très plaisir" que la Suisse organise les JO 2038 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/jo-2038-en-suisse-thomas-bach-espere-une-candidature-soutenue-par-le-peuple-28804524.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28804524</guid>
+      <pubDate>Wed, 26 Feb 2025 19:23:13 GMT</pubDate>
+    </item>
+    <item>
       <title>L'OFSP va renoncer à certaines de ses tâches dès l'année prochaine en raison de mesures d'économies (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/economies-a-l-ofsp-quelles-taches-seront-supprimees-des-2024-28804479.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1433,13 +1440,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/02/20/opinion/trump-putin-ukraine-europe.html</guid>
       <pubDate>Mon, 24 Feb 2025 15:26:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un jeu de l'oie en braille, un renard virtuel à l'hôpital et des champignons fonctionnels (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/innovations-suisses-du-braille-ludique-au-renard-virtuel-en-pediatrie-28794614.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28794614</guid>
-      <pubDate>Mon, 24 Feb 2025 15:25:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
