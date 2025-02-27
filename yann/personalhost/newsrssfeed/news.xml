@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Autriche: trois partis annoncent un gouvernement pro-européen et sans l'extrême droite (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250227-autriche-trois-partis-annoncent-un-gouvernement-pro-europ%C3%A9en-et-sans-l-extr%C3%AAme-droite</link>
+      <author>RFI</author>
+      <guid>bc3a413c-f504-11ef-a25c-005056bf762b</guid>
+      <pubDate>Thu, 27 Feb 2025 12:47:37 GMT</pubDate>
+    </item>
+    <item>
       <title>‘Blind Rearmanent Won’t Counter the Threats from Putin and Trump’ (Byline Times)</title>
       <link>https://bylinetimes.com/2025/02/27/blind-rearmanent-wont-counter-the-threats-from-putin-and-trump/</link>
       <author>Byline Times</author>
       <guid>https://bylinetimes.com/?p=243636</guid>
       <pubDate>Thu, 27 Feb 2025 12:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Moon’s next robotic visitor is lining up for landing this weekend (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/02/the-moons-next-robotic-visitor-is-lining-up-for-landing-this-weekend/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/02/the-moons-next-robotic-visitor-is-lining-up-for-landing-this-weekend/</guid>
+      <pubDate>Thu, 27 Feb 2025 12:00:23 +0000</pubDate>
     </item>
     <item>
       <title>Pope Beats Back Speculation Of Imminent Death As He Continues Pneumonia Recovery (Huffington Post)</title>
@@ -1421,20 +1435,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/native-american-remains-returned-repatriation-nagpra</guid>
       <pubDate>Tue, 25 Feb 2025 06:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>France: au procès Le Scouarnec, l’ordre des médecins pointé du doigt (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250225-proc%C3%A8s-le-scouarnec-l-ordre-des-m%C3%A9decins-point%C3%A9-du-doigt</link>
-      <author>RFI</author>
-      <guid>64449bc6-f365-11ef-bc2e-005056a97652</guid>
-      <pubDate>Tue, 25 Feb 2025 10:48:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: les producteurs de farines d'insectes ont du plomb dans l'aile (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250225-france-farines-d-insectes-porducteurs-plomb-dans-l-aile-ynsect-agronutris</link>
-      <author>RFI</author>
-      <guid>17530242-f358-11ef-987c-005056a97652</guid>
-      <pubDate>Tue, 25 Feb 2025 10:34:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
