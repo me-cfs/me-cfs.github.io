@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>That was then, this is now: The Washington Post on Trump, freedom and ‘values’ (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/02/27/the-washington-post-jeff-bezos-donald-trump-freedom-values/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1195997</guid>
+      <pubDate>Thu, 27 Feb 2025 01:23:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Mike Johnson eyes solo approach to avoid government shutdown (Axios)</title>
       <link>https://www.axios.com/2025/02/27/mike-johnson-government-shutdown-trump</link>
       <author>Axios</author>
@@ -1434,13 +1441,6 @@
       <author>RFI</author>
       <guid>1f6846cc-f2cc-11ef-a23c-005056bf762b</guid>
       <pubDate>Mon, 24 Feb 2025 23:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. votes against UN resolution condemning Russia for Ukraine invasion (Axios)</title>
-      <link>https://www.axios.com/2025/02/24/ukraine-russia-un-resolution-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/02/24/ukraine-russia-un-resolution-trump</guid>
-      <pubDate>Mon, 24 Feb 2025 22:58:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
