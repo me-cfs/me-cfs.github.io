@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>This week’s covers (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/02/27/this-weeks-covers</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/dhrk7dp0jupt4u5mfb60ll1uviv0c5m9</guid>
+      <pubDate>Thu, 27 Feb 2025 13:42:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Autriche: trois partis annoncent un gouvernement pro-européen et sans l'extrême droite (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250227-autriche-trois-partis-annoncent-un-gouvernement-pro-europ%C3%A9en-et-sans-l-extr%C3%AAme-droite</link>
       <author>RFI</author>
@@ -1428,13 +1435,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/commission-pushes-eus-2040-climate-target-law-into-spring/</guid>
       <pubDate>Tue, 25 Feb 2025 11:01:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>ProPublica Updates Its Database of Museums’ and Universities’ Compliance With Federal Repatriation Law (Propublica)</title>
-      <link>https://www.propublica.org/article/native-american-remains-returned-repatriation-nagpra</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/native-american-remains-returned-repatriation-nagpra</guid>
-      <pubDate>Tue, 25 Feb 2025 06:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
