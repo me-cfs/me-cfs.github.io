@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>A new era of Made in America drug manufacturing (Axios)</title>
+      <link>https://www.axios.com/2025/02/27/eli-lilly-drug-manufacturing-trump-america</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/02/27/eli-lilly-drug-manufacturing-trump-america</guid>
+      <pubDate>Thu, 27 Feb 2025 10:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Republicans Once Wanted Government out of Health Care. Trump Voters See It Differently. (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/republican-trump-voters-health-care-government-role/</link>
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1986042</guid>
       <pubDate>Thu, 27 Feb 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Cambridge Analytica Used Data to Exploit Gun Owners’ Private Lives (Propublica)</title>
+      <link>http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy</link>
+      <author>Propublica</author>
+      <guid>http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy</guid>
+      <pubDate>Thu, 27 Feb 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
       <title>Exporting natural gas raises your power bills. Trump is doing it anyway. (Grist)</title>
@@ -1424,22 +1438,6 @@
       <author>Science Based Medicine</author>
       <guid>https://sciencebasedmedicine.org/?p=105713</guid>
       <pubDate>Tue, 25 Feb 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron gets platitudes but nothing concrete from Trump					 (Politico)</title>
-      <link>https://www.politico.eu/article/emmanuel-macron-donald-trump-meeting-ukraine-russia-vladimir-putin-volodymyr-zelenskyy/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/emmanuel-macron-donald-trump-meeting-ukraine-russia-vladimir-putin-volodymyr-zelenskyy/</guid>
-      <pubDate>Tue, 25 Feb 2025 08:28:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Green diplomacy faces first big test since Trump’s return at Rome nature summit					 (Politico)</title>
-      <link>https://www.politico.eu/article/green-diplomacy-biodiversity-conservation-big-test-donald-trump-rome-nature-summit/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/green-diplomacy-biodiversity-conservation-big-test-donald-trump-rome-nature-summit/</guid>
-      <pubDate>Tue, 25 Feb 2025 08:13:17 -0000</pubDate>
     </item>
   </channel>
 </rss>
