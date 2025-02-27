@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La population suisse invitée à compter chaque emballage en plastique jeté (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-population-suisse-invitee-a-compter-chaque-emballage-en-plastique-jete-28804877.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28804877</guid>
+      <pubDate>Thu, 27 Feb 2025 02:34:02 GMT</pubDate>
+    </item>
+    <item>
       <title>That was then, this is now: The Washington Post on Trump, freedom and ‘values’ (Crikey)</title>
       <link>https://www.crikey.com.au/2025/02/27/the-washington-post-jeff-bezos-donald-trump-freedom-values/</link>
       <author>Crikey</author>
@@ -1434,13 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/24/trump-ap-access-lawsuit-white-house-filing</guid>
       <pubDate>Mon, 24 Feb 2025 23:04:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>En France, la recherche de nouvelles variétés de pommes pour diminuer les pesticides (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250224-en-france-la-recherche-de-nouvelles-vari%C3%A9t%C3%A9s-de-pommes-pour-diminuer-les-pesticides</link>
-      <author>RFI</author>
-      <guid>1f6846cc-f2cc-11ef-a23c-005056bf762b</guid>
-      <pubDate>Mon, 24 Feb 2025 23:04:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
