@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Former Gov. Andrew Cuomo announces NYC mayor bid (Axios)</title>
+      <link>https://www.axios.com/2025/03/01/andrew-cuomo-new-york-city-mayor-race</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/01/andrew-cuomo-new-york-city-mayor-race</guid>
+      <pubDate>Sat, 01 Mar 2025 17:54:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Where college-educated Americans are moving (Axios)</title>
       <link>https://www.axios.com/2025/02/24/where-college-educated-americans-are-moving</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/24/where-college-educated-americans-are-moving</guid>
       <pubDate>Sat, 01 Mar 2025 17:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Administration Makes a New Push to Speed Up Deportations (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/03/trump-administration-expedited-removal/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1119122</guid>
+      <pubDate>Sat, 01 Mar 2025 17:11:05 +0000</pubDate>
     </item>
     <item>
       <title>Trump's deep obsession: Winning the Nobel Peace Prize (Axios)</title>
@@ -1406,22 +1420,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/02/27/supreme-court-pauses-trump-foreign-aid-order</guid>
       <pubDate>Thu, 27 Feb 2025 04:19:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Donald Trump might have made a bad mineral deal with Ukraine					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-bad-mineral-deal-ukraine-volodymyr-zelenskyy/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-bad-mineral-deal-ukraine-volodymyr-zelenskyy/</guid>
-      <pubDate>Thu, 27 Feb 2025 04:17:46 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Internal backlash saved EU green finance rules from extinction					 (Politico)</title>
-      <link>https://www.politico.eu/article/internal-backlash-eu-green-finance-rules-european-commission/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/internal-backlash-eu-green-finance-rules-european-commission/</guid>
-      <pubDate>Thu, 27 Feb 2025 04:02:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
