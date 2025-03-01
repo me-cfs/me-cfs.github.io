@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/zelensky-malmene-la-maison-blanche</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22940</guid>
+      <pubDate>03/02/2025 00:10</pubDate>
+    </item>
+    <item>
+      <title>Some Things I’ve Read Recently… (ME/LC News)</title>
+      <link>https://virology.ws/2025/03/01/trial-by-error-some-things-ive-read-recently/</link>
+      <author>ME/LC News</author>
+      <guid>https://virology.ws/2025/03/01/trial-by-error-some-things-ive-read-recently/</guid>
+      <pubDate>Sat, 01 Mar 2025 22:50:05 -0000</pubDate>
+    </item>
+    <item>
       <title>Western leaders must seize the moment to make Europe safe (Economist)</title>
       <link>https://www.economist.com/leaders/2025/03/01/western-leaders-must-seize-the-moment-to-make-europe-safe</link>
       <author>Economist</author>
@@ -639,6 +653,13 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=659576</guid>
       <pubDate>Fri, 28 Feb 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colbert Has Little Sympathy for Trump Voters With Buyers’ Remorse (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/28/arts/television/stephen-colbert-trump-voters-remorse.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/28/arts/television/stephen-colbert-trump-voters-remorse.html</guid>
+      <pubDate>Fri, 28 Feb 2025 08:27:54 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to the Resistance UCSF Doctors (Science Based Medicine)</title>
@@ -1398,27 +1419,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/commentisfree/2025/feb/27/britain-defend-itself-us-military</guid>
       <pubDate>Thu, 27 Feb 2025 08:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lebanon: New government must prioritize critical need for human rights protections (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/02/lebanon-new-government-must-prioritize-critical-need-for-human-rights-protections/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=223363</guid>
-      <pubDate>Thu, 27 Feb 2025 07:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le départ du directeur du SRC fragilise une institution déjà sous très forte pression  (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/crise-au-src-le-depart-du-directeur-fragilise-le-renseignement-suisse-28805003.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28805003</guid>
-      <pubDate>Thu, 27 Feb 2025 07:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title> 8 killed, 18 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-131</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-131</guid>
-      <pubDate>Thu, 27 Feb 2025 09:40:59 +0200</pubDate>
     </item>
   </channel>
 </rss>
