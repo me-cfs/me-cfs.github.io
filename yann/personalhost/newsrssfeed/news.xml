@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le pilote automatique est autorisé depuis samedi, mais aucun véhicule autonome n'a été homologué (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/le-pilote-automatique-est-autorise-depuis-samedi-mais-aucun-vehicule-autonome-n-a-ete-homologue-28807546.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28807546</guid>
+      <pubDate>Sat, 01 Mar 2025 13:51:46 GMT</pubDate>
+    </item>
+    <item>
       <title>Le nombre de centenaires ne cesse d'augmenter en Suisse romande, Genève en tête (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/centenaires-en-suisse-hausse-record-geneve-en-tete-en-suisse-romande-28805550.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1417,13 +1424,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/keir-starmer-uk-prime-minister-vladimir-putin-ukraine-dc-white-house/</guid>
       <pubDate>Wed, 26 Feb 2025 23:09:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>En Italie, des «agriculteurs gardiens» pour sauver la biodiversité (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250226-en-italie-des-agriculteurs-gardiens-pour-sauver-la-biodiversit%C3%A9</link>
-      <author>RFI</author>
-      <guid>fc40b652-f46f-11ef-809d-005056a97652</guid>
-      <pubDate>Wed, 26 Feb 2025 23:01:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
