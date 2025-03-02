@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En dix ans, le nombre de réductions mammaires a augmenté de 40% en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/sante/2025/article/reduction-mammaire-en-suisse-hausse-de-40-en-10-ans-causes-et-enjeux-28803288.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28803288</guid>
+      <pubDate>Sun, 02 Mar 2025 06:32:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Bariolage multi-environnement (BME), le nouveau treillis des armées françaises (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250302-bariolage-multi-environnement-bme-le-nouveau-treillis-des-arm%C3%A9es-fran%C3%A7aises</link>
       <author>RFI</author>
@@ -1414,13 +1421,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1986042</guid>
       <pubDate>Thu, 27 Feb 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Cambridge Analytica Used Data to Exploit Gun Owners’ Private Lives (Propublica)</title>
-      <link>http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy</link>
-      <author>Propublica</author>
-      <guid>http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy</guid>
-      <pubDate>Thu, 27 Feb 2025 05:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
