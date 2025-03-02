@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Bariolage multi-environnement (BME), le nouveau treillis des armées françaises (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250302-bariolage-multi-environnement-bme-le-nouveau-treillis-des-arm%C3%A9es-fran%C3%A7aises</link>
+      <author>RFI</author>
+      <guid>85eeffda-f727-11ef-ac26-005056bf762b</guid>
+      <pubDate>Sun, 02 Mar 2025 06:08:30 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Europe’s new industrial hope: Don’t just pick losers, create winners					 (Politico)</title>
       <link>https://www.politico.eu/article/europe-new-industrial-hope-dont-just-pick-losers-create-winners/</link>
@@ -1414,13 +1421,6 @@
       <author>Propublica</author>
       <guid>http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy</guid>
       <pubDate>Thu, 27 Feb 2025 05:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump has begun a mafia-like struggle for global power (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/02/27/donald-trump-has-begun-a-mafia-like-struggle-for-global-power</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/02/27/donald-trump-has-begun-a-mafia-like-struggle-for-global-power</guid>
-      <pubDate>Thu, 27 Feb 2025 09:35:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
