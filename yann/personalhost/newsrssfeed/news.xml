@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: la salle du Congrès de Versailles ouverte exceptionnellement au grand public (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250302-france-la-salle-du-congr%C3%A8s-de-versailles-ouverte-exceptionnellement-au-grand-public</link>
+      <author>RFI</author>
+      <guid>e779b9d4-f740-11ef-adc5-005056a97652</guid>
+      <pubDate>Sun, 02 Mar 2025 09:02:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Israel Says It Is Blocking All Aid, Supplies From Entering Gaza (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israel-stopping-aid-supplies-entering-gaza-ceasefire-extension-proposal_n_67c40cf5e4b0b296772132c2</link>
       <author>Huffington Post</author>
@@ -1415,13 +1422,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/st-louis-police-missouri-gop-control-tishaura-jones-civil-war</guid>
       <pubDate>Thu, 27 Feb 2025 06:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Perhaps the Biggest Winner in Germany’s Election: Nuclear Power (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/02/germany-election-afd-conservatives-far-right-klaus-wiener-cdu-nuclear-powerthe-biggest-winner-in-germanys-election-may-be-nuclear-power/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1118522</guid>
-      <pubDate>Thu, 27 Feb 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
