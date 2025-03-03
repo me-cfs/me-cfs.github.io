@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Gene Hackman, Hollywood’s Consummate Everyman, Dies at 95 (New York Times)</title>
+      <link>https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html</guid>
+      <pubDate>Mon, 03 Mar 2025 15:00:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Face à Trump, certains pays nordiques lancent un mouvement de boycott des produits américains (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250303-face-%C3%A0-trump-certains-pays-nordiques-lancent-un-mouvement-de-boycott-des-produits-am%C3%A9ricains</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ukraine-tries-to-tame-its-farm-exports-eastern-eu-neighbors-not-buying-it/</guid>
       <pubDate>Fri, 28 Feb 2025 02:32:38 -0000</pubDate>
-    </item>
-    <item>
-      <title> Turkish imports of Russian oil drop nearly fourfold after new sanctions  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/turkish-imports-of-russian-oil-drop-nearly-fourfold-amid-sanctions</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/turkish-imports-of-russian-oil-drop-nearly-fourfold-amid-sanctions</guid>
-      <pubDate>Fri, 28 Feb 2025 04:30:13 +0200</pubDate>
     </item>
   </channel>
 </rss>
