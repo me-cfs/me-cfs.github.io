@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: l'Europe tente de reprendre la main sur les négociations voulues par Trump (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250303-guerre-en-ukraine-l-europe-tente-de-reprendre-la-main-sur-les-n%C3%A9gociations-voulues-par-trump</link>
+      <author>RFI</author>
+      <guid>6e6073c4-f7ec-11ef-ad97-005056a97652</guid>
+      <pubDate>Mon, 03 Mar 2025 06:05:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Emmanuel Macron, à l'initiative sur l'Ukraine mais dont l'engagement est contesté en France (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250303-emmanuel-macron-%C3%A0-l-initiative-sur-l-ukraine-mais-dont-l-engagement-est-contest%C3%A9-en-france</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/live-with-nate-silver</guid>
       <pubDate>Thu, 27 Feb 2025 17:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: la visite de Friedrich Merz en France est «un signe de réchauffement» entre les deux pays (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20250227-allemagne-la-visite-de-friedrich-merz-en-france-est-un-signe-de-r%C3%A9chauffement-entre-les-deux-pays</link>
-      <author>RFI</author>
-      <guid>454f1e24-f51f-11ef-bf90-005056a97652</guid>
-      <pubDate>Thu, 27 Feb 2025 17:46:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
