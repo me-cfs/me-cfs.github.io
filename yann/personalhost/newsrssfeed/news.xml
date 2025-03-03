@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Publicité pour le tabac, 13e rente AVS et succession de Viola Amherd au menu des Chambres fédérales (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28809591.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28809591</guid>
+      <pubDate>Mon, 03 Mar 2025 15:33:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Gene Hackman, Hollywood’s Consummate Everyman, Dies at 95 (New York Times)</title>
       <link>https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html</link>
       <author>New York Times</author>
@@ -1424,14 +1431,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/pharmaceutical-industry-tariffs-donald-trump-trade-medicines-drugs-supply-chains/</guid>
       <pubDate>Fri, 28 Feb 2025 03:02:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Czech farmers lead fresh EU border protests over Ukraine, LatAm trade deals					 (Politico)</title>
-      <link>https://www.politico.eu/article/ukraine-tries-to-tame-its-farm-exports-eastern-eu-neighbors-not-buying-it/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ukraine-tries-to-tame-its-farm-exports-eastern-eu-neighbors-not-buying-it/</guid>
-      <pubDate>Fri, 28 Feb 2025 02:32:38 -0000</pubDate>
     </item>
   </channel>
 </rss>
