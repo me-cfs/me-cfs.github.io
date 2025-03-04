@@ -5,11 +5,39 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>State Department unfreezes $95 million in aid for the Lebanese army (Axios)</title>
+      <link>https://www.axios.com/2025/03/04/lebanon-state-department-unfreezes-aid</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/04/lebanon-state-department-unfreezes-aid</guid>
+      <pubDate>Tue, 04 Mar 2025 14:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment la pandémie de Covid-19 continue de mobiliser les tribunaux (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-justice-suisse-toujours-aux-prises-avec-des-litiges-lies-au-covid-19-28809574.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28809574</guid>
+      <pubDate>Tue, 04 Mar 2025 14:42:09 GMT</pubDate>
+    </item>
+    <item>
       <title> US suspends Ukraine military aid to pressure Zelensky into talks, Trump adviser says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/us-suspends-ukraine-military-aid-to-pressure-zelensky-into-talks-trump-adviser-says</link>
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/us-suspends-ukraine-military-aid-to-pressure-zelensky-into-talks-trump-adviser-says</guid>
       <pubDate>Tue, 04 Mar 2025 16:35:55 +0200</pubDate>
+    </item>
+    <item>
+      <title>The lesson from Trump’s Ukrainian weapons freeze (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/03/04/the-lesson-from-trumps-ukrainian-weapons-embargo</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/leaders/2025/03/04/the-lesson-from-trumps-ukrainian-weapons-embargo</guid>
+      <pubDate>Tue, 04 Mar 2025 14:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s NIH Pick Made a Big Mistake on Covid (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/03/jay-battacharya-national-institutes-of-health-covid-great-barrington-trump/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1119231</guid>
+      <pubDate>Tue, 04 Mar 2025 14:30:47 +0000</pubDate>
     </item>
     <item>
       <title>Mexico Will Impose Retaliatory Tariffs On U.S. Goods (Huffington Post)</title>
@@ -1402,34 +1430,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/pope-francis-resting-health-recovery-setback-coughing-fit_n_67c2d6b7e4b049364f457ce0</guid>
       <pubDate>Sat, 01 Mar 2025 10:29:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>La nouvelle conseillère municipale bernoise Melanie Mettler quitte le Conseil national (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/melanie-mettler-quitte-le-conseil-national-pour-l-executif-bernois-28807567.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28807567</guid>
-      <pubDate>Sat, 01 Mar 2025 10:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Athens Confidential (Economist)</title>
-      <link>https://www.economist.com/twi-athens-confidential</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/twi-athens-confidential</guid>
-      <pubDate>Sat, 01 Mar 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: polémique autour du financement d'ONG en pleines négociations pour former une coalition (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250301-allemagne-pol%C3%A9mique-autour-du-financement-d-ong-en-pleines-n%C3%A9gociations-pour-former-une-coalition</link>
-      <author>RFI</author>
-      <guid>6d756cd2-f664-11ef-b06f-005056bf762b</guid>
-      <pubDate>Sat, 01 Mar 2025 08:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title> 5 killed, 25 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/5-killed-20-injured-in-russian-attacks-against-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/5-killed-20-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
-      <pubDate>Sat, 01 Mar 2025 10:09:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
