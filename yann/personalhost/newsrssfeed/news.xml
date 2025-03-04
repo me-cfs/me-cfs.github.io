@@ -5,11 +5,39 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les auditions des candidats du Centre au Conseil fédéral ont débuté sous la Coupole (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/conseil-federal-auditions-des-candidats-du-centre-debutent-a-berne-28811026.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28811026</guid>
+      <pubDate>Tue, 04 Mar 2025 15:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. shuts Americans out of health decisions despite vow for transparency (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/03/rfk-jr-shuts-americans-out-of-health-decisions-despite-vow-for-transparency/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/03/rfk-jr-shuts-americans-out-of-health-decisions-despite-vow-for-transparency/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title> US continues intelligence sharing with Ukraine despite military aid freeze, CNN reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/us-continues-sharing-intelligence-with-ukraine-despite-trumps-aid-freeze-media-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/us-continues-sharing-intelligence-with-ukraine-despite-trumps-aid-freeze-media-reports</guid>
+      <pubDate>Tue, 04 Mar 2025 17:18:12 +0200</pubDate>
+    </item>
+    <item>
       <title>State Department unfreezes $95 million in aid for the Lebanese army (Axios)</title>
       <link>https://www.axios.com/2025/03/04/lebanon-state-department-unfreezes-aid</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/04/lebanon-state-department-unfreezes-aid</guid>
       <pubDate>Tue, 04 Mar 2025 14:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Climate change is harming the health of Americans, and they know it (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/03/climate-change-is-harming-the-health-of-americans-and-they-know-it/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/03/climate-change-is-harming-the-health-of-americans-and-they-know-it/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:54:29 +0000</pubDate>
     </item>
     <item>
       <title>Comment la pandémie de Covid-19 continue de mobiliser les tribunaux (RTS)</title>
@@ -1402,34 +1430,6 @@
       <author>RFI</author>
       <guid>bb4bbaaa-f68d-11ef-bce9-005056a97652</guid>
       <pubDate>Sat, 01 Mar 2025 12:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAGA world erupts over Andrew Tate release, Epstein stunt (Axios)</title>
-      <link>https://www.axios.com/2025/03/01/trump-maga-epstein-files-andrew-tate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/01/trump-maga-epstein-files-andrew-tate</guid>
-      <pubDate>Sat, 01 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk In Your Computers: An Interview With Nathan Tankus (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/musk-in-your-computers-an-interview</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/musk-in-your-computers-an-interview</guid>
-      <pubDate>Sat, 01 Mar 2025 11:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Climate Change Could Throw a Wrench in Trump’s Greenland Pipe Dream (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/climate-change-disruption-trump-greenland-fossil-fuels-development-risks-insurance/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1118852</guid>
-      <pubDate>Sat, 01 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pope Resting After Alarming Setback To His Recovery From Double Pneumonia (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/pope-francis-resting-health-recovery-setback-coughing-fit_n_67c2d6b7e4b049364f457ce0</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/pope-francis-resting-health-recovery-setback-coughing-fit_n_67c2d6b7e4b049364f457ce0</guid>
-      <pubDate>Sat, 01 Mar 2025 10:29:32 -0000</pubDate>
     </item>
   </channel>
 </rss>
