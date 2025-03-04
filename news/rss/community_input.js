@@ -25,7 +25,7 @@ module.exports = [
     url: 'https://thesicktimes.org/feed/', 
     name: 'The Sick Times', 
     cutoffDate: new Date('2024-05-01'),
-    exclusionWords: ["National Covid-19 trends", "Research updates", "Still Here"]
+    exclusionWords: ["National Covid-19 trends", "Research update", "Still Here"]
   },
   { 
     url: 'https://politepol.com/fd/yNgKhc4c7HHu.xml', 
