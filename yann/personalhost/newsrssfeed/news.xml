@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian missile attack on hotel in Kryvyi Rih kills 2, injures 7  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-missile-attack-on-hotel-in-kryvyi-rih-kills-2-injures-7</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-missile-attack-on-hotel-in-kryvyi-rih-kills-2-injures-7</guid>
+      <pubDate>Wed, 05 Mar 2025 23:43:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>Israel Again Blocks Gaza Aid, Further Risking Lives (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/05/israel-again-blocks-gaza-aid-further-risking-lives</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/05/israel-again-blocks-gaza-aid-further-risking-lives</guid>
+      <pubDate>Wed, 05 Mar 2025 16:22:33 -0500</pubDate>
+    </item>
+    <item>
       <title>The dangerous tension in Europe’s response to Trump (Economist)</title>
       <link>https://www.economist.com/europe/2025/03/05/the-dangerous-tension-in-europes-response-to-trump</link>
       <author>Economist</author>
@@ -1411,21 +1425,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/vatican-pope-francis-health_n_67c5f00ae4b060a78674cb59</guid>
       <pubDate>Mon, 03 Mar 2025 19:21:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump’s ‘indecency’ endangers transatlantic alliance: French PM					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-pm-francois-bayrou-us-donald-trump-indecency-endangers-transatlantic-alliance-macron/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-pm-francois-bayrou-us-donald-trump-indecency-endangers-transatlantic-alliance-macron/</guid>
-      <pubDate>Mon, 03 Mar 2025 19:21:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>Hegseth Orders Pentagon to Stop Offensive Cyberoperations Against Russia (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/02/us/politics/hegseth-cyber-russia-trump-putin.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/02/us/politics/hegseth-cyber-russia-trump-putin.html</guid>
-      <pubDate>Mon, 03 Mar 2025 19:10:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
