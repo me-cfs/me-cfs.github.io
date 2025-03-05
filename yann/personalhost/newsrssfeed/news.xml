@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump turns Canadian politics upside down (Axios)</title>
+      <link>https://www.axios.com/2025/03/05/trump-tariffs-canada-liberal-party</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/05/trump-tariffs-canada-liberal-party</guid>
+      <pubDate>Wed, 05 Mar 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title> Russian attacks across Ukraine kill 2, injure 7 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-across-ukraine-kill-2-injure-7-over-past-day</link>
       <author>Kyiv Indpendent</author>
@@ -326,6 +333,13 @@
       <link>https://www.economist.com/business/2025/03/04/how-trumps-tariffs-will-crush-american-carmakers</link>
       <author>Economist</author>
       <guid>https://www.economist.com/business/2025/03/04/how-trumps-tariffs-will-crush-american-carmakers</guid>
+      <pubDate>Tue, 04 Mar 2025 20:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Trump’s tariffs could crush American carmakers (Economist)</title>
+      <link>https://www.economist.com/business/2025/03/04/how-trumps-tariffs-could-crush-american-carmakers</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/business/2025/03/04/how-trumps-tariffs-could-crush-american-carmakers</guid>
       <pubDate>Tue, 04 Mar 2025 20:34:49 GMT</pubDate>
     </item>
     <item>
@@ -1416,20 +1430,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1196280</guid>
       <pubDate>Mon, 03 Mar 2025 00:35:44 +0000</pubDate>
-    </item>
-    <item>
-      <title> Canada imposes new sanctions against Russia  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/canada-imposes-new-sanctions-against-russia-2</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/canada-imposes-new-sanctions-against-russia-2</guid>
-      <pubDate>Mon, 03 Mar 2025 02:18:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>The Coalition and Labor are dancing around China as an election issue (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/03/03/chinese-warships-2025-federal-election-chinese-australian-voters/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1196278</guid>
-      <pubDate>Mon, 03 Mar 2025 00:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
