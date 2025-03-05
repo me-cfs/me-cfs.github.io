@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Belgique: Bruxelles toujours plus en proie à la guerre des gangs sur fond de trafic de drogue (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250305-belgique-bruxelles-toujours-plus-en-proie-%C3%A0-la-guerre-des-gangs-sur-fond-de-trafic-de-drogue</link>
+      <author>RFI</author>
+      <guid>7896b000-f9a5-11ef-94f3-005056bf762b</guid>
+      <pubDate>Wed, 05 Mar 2025 11:40:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Donald Trump’s Washington reaches a new partisan peak (Economist)</title>
       <link>https://www.economist.com/united-states/2025/03/05/donald-trumps-washington-reaches-a-new-partisan-peak</link>
       <author>Economist</author>
@@ -1418,13 +1425,6 @@
       <author>RFI</author>
       <guid>6e6073c4-f7ec-11ef-ad97-005056a97652</guid>
       <pubDate>Mon, 03 Mar 2025 06:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emmanuel Macron, à l'initiative sur l'Ukraine mais dont l'engagement est contesté en France (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250303-emmanuel-macron-%C3%A0-l-initiative-sur-l-ukraine-mais-dont-l-engagement-est-contest%C3%A9-en-france</link>
-      <author>RFI</author>
-      <guid>430a4ae6-f7b6-11ef-b008-005056bf762b</guid>
-      <pubDate>Mon, 03 Mar 2025 05:25:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
