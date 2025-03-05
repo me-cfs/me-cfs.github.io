@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Podcast: The Tesla Protests Come for Cybertruck Owners (404 Media)</title>
+      <link>https://www.404media.co/podcast-the-tesla-protests-come-for-cybertruck-owners/</link>
+      <author>404 Media</author>
+      <guid>67c7a14363d89000012532a0</guid>
+      <pubDate>Wed, 05 Mar 2025 14:22:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Lutnick hints at only limited tariff relief for Canada, Mexico (Axios)</title>
       <link>https://www.axios.com/2025/03/05/trump-tariffs-canada-mexico-trade-war</link>
       <author>Axios</author>
@@ -52,6 +59,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/news/2025/mar/05/trinidad-and-tobago-carnival-celebrates-african-roots</guid>
       <pubDate>Wed, 05 Mar 2025 12:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>America is Trapped in a Burning Tesla (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/america-is-trapped-in-a-burning-tesla</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/america-is-trapped-in-a-burning-tesla</guid>
+      <pubDate>Wed, 05 Mar 2025 12:11:24 GMT</pubDate>
     </item>
     <item>
       <title>The fact that humans can only survive on Earth doesn’t bother Trump – and I know why | George Monbiot (Guardian)</title>
@@ -1410,21 +1424,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1119034</guid>
       <pubDate>Mon, 03 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Austria swears in new government, ending five-month political crisis					 (Politico)</title>
-      <link>https://www.politico.eu/article/austria-swears-new-government-ending-five-month-political-crisis-christian-stocker-alexander-van-der-bellen/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/austria-swears-new-government-ending-five-month-political-crisis-christian-stocker-alexander-van-der-bellen/</guid>
-      <pubDate>Mon, 03 Mar 2025 10:47:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr. move to kill public comment roils providers (Axios)</title>
-      <link>https://www.axios.com/2025/03/03/rfk-transparency-rule-elimination-fallout</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/03/rfk-transparency-rule-elimination-fallout</guid>
-      <pubDate>Mon, 03 Mar 2025 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
