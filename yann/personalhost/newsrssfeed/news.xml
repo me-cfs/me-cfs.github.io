@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: à quoi sert le Zéro Artificialisation Nette (ZAN) ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/questions-d-environnement/20250306-france-%C3%A0-quoi-sert-le-z%C3%A9ro-artificialisation-nette-zan</link>
+      <author>RFI</author>
+      <guid>d5fa2e26-fa67-11ef-ba52-005056a97652</guid>
+      <pubDate>Thu, 06 Mar 2025 10:15:39 GMT</pubDate>
+    </item>
+    <item>
       <title>The Trump economy faces a number of early potholes (Axios)</title>
       <link>https://www.axios.com/2025/03/06/economy-trade-tariffs-growth</link>
       <author>Axios</author>
@@ -26,11 +33,25 @@
       <pubDate>Thu, 06 Mar 2025 05:00:00 -0500</pubDate>
     </item>
     <item>
+      <title>Exclusive: Gaetz could be next Florida attorney general (Axios)</title>
+      <link>https://www.axios.com/2025/03/06/matt-gaetz-florida-attorney-general</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/06/matt-gaetz-florida-attorney-general</guid>
+      <pubDate>Thu, 06 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Grève de la faim des médecins à diplôme étranger en France (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250306-gr%C3%A8ve-de-la-faim-des-m%C3%A9decins-%C3%A0-dipl%C3%B4me-%C3%A9tranger-en-france</link>
       <author>RFI</author>
       <guid>36a48770-fa64-11ef-a475-005056bf762b</guid>
       <pubDate>Thu, 06 Mar 2025 09:59:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unmasking Maskov: How Bellingcat Found a Man Outfitting Russian Neo-Nazis (Bellingcat)</title>
+      <link>https://www.bellingcat.com/news/2025/03/06/unmasking-maskov-how-bellingcat-found-a-man-outfitting-russian-neo-nazis/</link>
+      <author>Bellingcat</author>
+      <guid>https://www.bellingcat.com/?p=48058</guid>
+      <pubDate>Thu, 06 Mar 2025 09:58:28 +0000</pubDate>
     </item>
     <item>
       <title>Forget about your carbon footprint. Try ‘climatemaxxing.’ (Grist)</title>
@@ -970,6 +991,13 @@
       <pubDate>Tue, 04 Mar 2025 22:22:59 +0000</pubDate>
     </item>
     <item>
+      <title>Trade war erupts as Trump hits Canada, Mexico and China with tariffs (Axios)</title>
+      <link>https://www.axios.com/2025/03/04/canada-us-tariffs-trump-trudeau</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/04/canada-us-tariffs-trump-trudeau</guid>
+      <pubDate>Tue, 04 Mar 2025 22:04:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Zelensky Offers Terms to Stop Fighting, Assuring U.S. That Ukraine Wants Peace (New York Times)</title>
       <link>https://www.nytimes.com/2025/03/04/world/europe/ukraine-us-trump-military-support.html</link>
       <author>New York Times</author>
@@ -1401,34 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ursula-von-der-leyen-proposes-new-150b-common-defense-fund-military-spending/</guid>
       <pubDate>Tue, 04 Mar 2025 09:38:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Stuck at the bottom of a well (ME/LC News)</title>
-      <link>https://www.thereforme.uk/p/stuck-at-the-bottom-of-a-well</link>
-      <author>ME/LC News</author>
-      <guid>https://www.thereforme.uk/p/stuck-at-the-bottom-of-a-well</guid>
-      <pubDate>Tue, 04 Mar 2025 09:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Some Democrats are plotting to disrupt Trump's speech to Congress (Axios)</title>
-      <link>https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan</guid>
-      <pubDate>Tue, 04 Mar 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: mort de Jean-Louis Debré, ancien président de l'Assemblée nationale et du Conseil constitutionnel (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250304-france-mort-de-jean-louis-debr%C3%A9-ancien-pr%C3%A9sident-de-l-assembl%C3%A9e-nationale-et-du-conseil-constitutionnel</link>
-      <author>RFI</author>
-      <guid>4bb0adc8-f8d0-11ef-ad2f-005056a97652</guid>
-      <pubDate>Tue, 04 Mar 2025 08:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr.: Vaccines Not Only Protect Individual Children From Measles, But Also Contribute To Community Immunity (Science Based Medicine)</title>
-      <link>https://sciencebasedmedicine.org/welcome-to-the-resistance-rfk-jr/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=welcome-to-the-resistance-rfk-jr</link>
-      <author>Science Based Medicine</author>
-      <guid>https://sciencebasedmedicine.org/?p=106135</guid>
-      <pubDate>Tue, 04 Mar 2025 08:09:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
