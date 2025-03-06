@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Senate Democrats to introduce PBM changes, health provisions dropped from December spending bill (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5180391-senate-dems-introduce-pbm-reform/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5180391</guid>
+      <pubDate>Thu, 06 Mar 2025 18:29:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Nurse used benefit assessment info to launch campaign of harassment that left disabled neighbour suicidal (Disability News Service)</title>
       <link>https://www.disabilitynewsservice.com/nurse-used-benefit-assessment-info-to-launch-campaign-of-harassment-that-left-disabled-neighbour-suicidal/</link>
       <author>Disability News Service</author>
@@ -1373,6 +1380,13 @@
       <pubDate>Tue, 04 Mar 2025 17:23:56 +0000</pubDate>
     </item>
     <item>
+      <title>Le PLR votera pour les candidats officiels du Centre au Conseil fédéral, l'UDC n'a pas encore décidé (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/conseil-federal-auditions-des-candidats-du-centre-debutent-a-berne-28811026.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28811026</guid>
+      <pubDate>Tue, 04 Mar 2025 17:22:00 GMT</pubDate>
+    </item>
+    <item>
       <title> US military aid freeze to Ukraine temporary, linked to Zelensky-Trump clash  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/us-military-aid-freeze-to-ukraine-is-temporary-linked-to-trump-zelensky-exchange-speaker-johnson-says</link>
       <author>Kyiv Indpendent</author>
@@ -1413,20 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan</guid>
       <pubDate>Tue, 04 Mar 2025 16:33:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>JD Vance Ignites Outrage in UK With ‘Random Country’ Comment (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/04/us/politics/jd-vance-uk-random-country.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/04/us/politics/jd-vance-uk-random-country.html</guid>
-      <pubDate>Tue, 04 Mar 2025 16:31:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>DOGE moves to cancel NOAA leases at critical forecasting centers (Axios)</title>
-      <link>https://www.axios.com/2025/03/03/doge-noaa-weather-building-leases-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/03/doge-noaa-weather-building-leases-trump</guid>
-      <pubDate>Tue, 04 Mar 2025 16:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
