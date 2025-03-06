@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Drones: une alliance turco-italienne pour équiper l’Europe (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250306-drones-une-alliance-turco-italienne-pour-%C3%A9quiper-l-europe</link>
+      <author>RFI</author>
+      <guid>f7c1d7e6-fab9-11ef-971b-005056bf762b</guid>
+      <pubDate>Thu, 06 Mar 2025 19:25:26 GMT</pubDate>
+    </item>
+    <item>
       <title>France: au procès Le Scouarnec, une première victime de viol témoigne (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250306-france-au-proc%C3%A8s-le-scouarnec-une-premi%C3%A8re-victime-de-viol-t%C3%A9moigne</link>
       <author>RFI</author>
@@ -1418,13 +1425,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1196318</guid>
       <pubDate>Wed, 05 Mar 2025 00:45:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Trump’s trade war could impact U.S. electricity prices — and state climate plans (Grist)</title>
-      <link>https://grist.org/energy/trump-tariffs-canada-trade-war-electricity-prices-utility-bills-climate-plans/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=659826</guid>
-      <pubDate>Wed, 05 Mar 2025 00:27:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
