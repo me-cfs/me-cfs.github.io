@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>AI models are evolving along "freaks and geeks" lines (Axios)</title>
+      <link>https://www.axios.com/2025/03/07/ai-freaks-geeks-gpt-45-qwen-sesame</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/07/ai-freaks-geeks-gpt-45-qwen-sesame</guid>
+      <pubDate>Fri, 07 Mar 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Biden had a plan to keep America’s EV chargers in good working order. Trump pulled the plug. (Grist)</title>
       <link>https://grist.org/transportation/broken-ev-charger-electric-vehicles-nevi-repair-biden-trump/</link>
       <author>Grist</author>
@@ -1420,13 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/05/allergy-season-longer-climate-change</guid>
       <pubDate>Wed, 05 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How DOGE’s Cuts to the IRS Threaten to Cost More Than DOGE Will Ever Save (Propublica)</title>
-      <link>https://www.propublica.org/article/how-doge-irs-cuts-will-cost-more-than-savings-trump-musk-deficit</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/how-doge-irs-cuts-will-cost-more-than-savings-trump-musk-deficit</guid>
-      <pubDate>Wed, 05 Mar 2025 06:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
