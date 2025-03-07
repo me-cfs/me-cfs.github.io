@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russia launches missile attack targeting critical infrastructure in various regions of Ukraine  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russia-missile-attack</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russia-missile-attack</guid>
+      <pubDate>Fri, 07 Mar 2025 06:40:53 +0200</pubDate>
+    </item>
+    <item>
       <title>Judge orders Trump admin to pay millions in frozen foreign aid to USAID partners by Monday (Axios)</title>
       <link>https://www.axios.com/2025/03/07/trump-usaid-funding-freeze-payments-judge-order</link>
       <author>Axios</author>
@@ -547,6 +554,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/republican-lawmakers-increase-calls-gay-marriage-scotus-ruling/story?id=119395181</guid>
       <pubDate>Thu, 06 Mar 2025 14:05:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Le Conseil national veut prolonger le moratoire sur les OGM jusqu'en 2030 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28809591.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28809591</guid>
+      <pubDate>Thu, 06 Mar 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Politics (Economist the World this Week)</title>
@@ -1413,20 +1427,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/most-french-support-continued-assistance-to-ukraine-sending-peacekeepers-media-reports</guid>
       <pubDate>Wed, 05 Mar 2025 11:57:48 +0200</pubDate>
-    </item>
-    <item>
-      <title>Slim margins, climate disasters, and Trump’s funding freeze: Life or death for many US farms (Grist)</title>
-      <link>https://grist.org/food-and-agriculture/trump-funding-freeze-usda-us-farms/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=659796</guid>
-      <pubDate>Wed, 05 Mar 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump turns Canadian politics upside down (Axios)</title>
-      <link>https://www.axios.com/2025/03/05/trump-tariffs-canada-liberal-party</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/05/trump-tariffs-canada-liberal-party</guid>
-      <pubDate>Wed, 05 Mar 2025 09:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
