@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How a Trump effort to cut environmental red tape could backfire (Grist)</title>
+      <link>https://grist.org/regulation/trump-white-house-council-environmental-quality-nepa-permitting/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=659935</guid>
+      <pubDate>Fri, 07 Mar 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>AI models are evolving along "freaks and geeks" lines (Axios)</title>
       <link>https://www.axios.com/2025/03/07/ai-freaks-geeks-gpt-45-qwen-sesame</link>
       <author>Axios</author>
@@ -1420,13 +1427,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/united-states/2025/03/05/donald-trumps-washington-reaches-a-new-partisan-peak</guid>
       <pubDate>Wed, 05 Mar 2025 11:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allergy season is getting longer. Blame climate change (Axios)</title>
-      <link>https://www.axios.com/2025/03/05/allergy-season-longer-climate-change</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/05/allergy-season-longer-climate-change</guid>
-      <pubDate>Wed, 05 Mar 2025 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
