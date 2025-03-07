@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Israel/Lebanon: Hezbollah Attacks Endangered Civilians  (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/07/israel/lebanon-hezbollah-attacks-endangered-civilians</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/07/israel/lebanon-hezbollah-attacks-endangered-civilians</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 -0500</pubDate>
+    </item>
+    <item>
       <title> Russia launches missile attack targeting critical infrastructure in various regions of Ukraine  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russia-missile-attack</link>
       <author>Kyiv Indpendent</author>
@@ -1420,13 +1427,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/missouri-pregnancy-resource-centers-anti-abortion-tax-credit-bill</guid>
       <pubDate>Wed, 05 Mar 2025 05:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title> Most French support assistance to Ukraine, sending peacekeepers, poll shows  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/most-french-support-continued-assistance-to-ukraine-sending-peacekeepers-media-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/most-french-support-continued-assistance-to-ukraine-sending-peacekeepers-media-reports</guid>
-      <pubDate>Wed, 05 Mar 2025 11:57:48 +0200</pubDate>
     </item>
   </channel>
 </rss>
