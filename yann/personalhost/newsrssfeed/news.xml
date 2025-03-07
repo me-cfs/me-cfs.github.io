@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Cyclone Alfred leaves thousands in eastern Australia without power ahead of rare landfall (Axios)</title>
+      <link>https://www.axios.com/2025/03/07/cyclone-alfred-australia-brisbane-queensland-nsw</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/07/cyclone-alfred-australia-brisbane-queensland-nsw</guid>
+      <pubDate>Fri, 07 Mar 2025 07:15:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Israel/Lebanon: Hezbollah Attacks Endangered Civilians  (Human Rights Watch)</title>
       <link>https://www.hrw.org/news/2025/03/07/israel/lebanon-hezbollah-attacks-endangered-civilians</link>
       <author>Human Rights Watch</author>
@@ -110,6 +117,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-france-russia-europe-defense-crisis-spending/</guid>
       <pubDate>Fri, 07 Mar 2025 01:16:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump signs order to create strategic bitcoin reserve (Axios)</title>
+      <link>https://www.axios.com/2025/03/07/trump-crypto-reserve-bitcoin</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/07/trump-crypto-reserve-bitcoin</guid>
+      <pubDate>Fri, 07 Mar 2025 01:02:53 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1413,20 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/05/turing-award-reinforcement-learning-artificial-intelligence</guid>
       <pubDate>Wed, 05 Mar 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CDC Firings Undermine Public Health Work Far Beyond Washington (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/cdc-firings-public-health-state-local-disease-response-lab-safety/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=1994245</guid>
-      <pubDate>Wed, 05 Mar 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Missouri Bill Would Let Residents Donate to Anti-Abortion Centers Instead of Paying Any Taxes (Propublica)</title>
-      <link>https://www.propublica.org/article/missouri-pregnancy-resource-centers-anti-abortion-tax-credit-bill</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/missouri-pregnancy-resource-centers-anti-abortion-tax-credit-bill</guid>
-      <pubDate>Wed, 05 Mar 2025 05:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
