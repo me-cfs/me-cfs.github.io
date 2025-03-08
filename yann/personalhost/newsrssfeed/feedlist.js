@@ -11,7 +11,7 @@ module.exports = [
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
     exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,
-      ...tList.nonInformativeTitle, ...tList.uninterestedGeneral,],
+      ...tList.nonInformativeTitle, ...tList.uninterestedGeneral, "The Long Wave",],
     off: false,
   },
  {
@@ -54,7 +54,9 @@ module.exports = [
     inclusionWords: ['300', 'Ukraine, despite', 'over past day', ...tList.rightWing, ...tList.war, 
       ...tList.geopolitics, "Denmark", "EU provides", "Russsian Elite",
     ],
-    exclusionWods: [...tList.nonInformativeTitle, "war latest", ...tList.business, "The Week Ahead",],
+    exclusionWods: [...tList.nonInformativeTitle, "war latest", ...tList.business, "The Week Ahead",
+      "Border Reports",
+    ],
     urlBlacklist: ['video'], 
   },
   {
@@ -71,7 +73,7 @@ module.exports = [
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
       'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
-      'zz', ...tList.business, "not happen",
+      'zz', ...tList.business, "not happen", "shuns", "our obsession", "falling out",
     ],
     minCharsTitle: 25,
     blacklist: ['newsletter'],
@@ -96,15 +98,16 @@ module.exports = [
       'Italian', 'Poland', ...tList.politics, 'China', ...tList.environment, 
       "Italie", "Autriche", ...tList.important, ...tList.war, "Croatie", 
       "Allemagne", 'Baltique', "Serbie", "Espagne", "Portugal", "Norvège", 
-      "Pologne", 
+      "Pologne", "Londres", "Lituanie", "Russe",
     ],
+    exclusionWords: ["Éditions Spéciales"],
   },
   { // headlines
     name: 'RTS',
     url: 'https://www.rts.ch/info/suisse?format=rss/news',
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, 'pour vous?', ...tList.nonArticle, 'insomnie', ...tList.culture,
-      ...tList.fluffyTitle, ...tList.nonInformativeTitle, ...tList.singlePerson, "emplois",
+      ...tList.fluffyTitle, ...tList.nonInformativeTitle, ...tList.singlePerson, "emplois", "et des", "et les", 
     ],
   },
 
@@ -125,7 +128,7 @@ module.exports = [
       'documentary', 'director', 'top risk', 'bremmer', "2024", "you're", 
       ...tList.clickbait, ...tList.singlePerson, "denies effort", "transgender", 
     ],
-    minCharsTitle: 20,
+    minCharsTitle: 23,
   },
   {
     name: 'Fivethirtyeight',
@@ -204,7 +207,7 @@ module.exports = [
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, ...tList.singlePerson, ...tList.fluffyTitle,
       'Australia Debut', ...tList.nonArticle, ...tList.uninterestedSports, ...tList.clickbait,
-      
+      "Inglis", "England", "Blues",
     ],
   },
   {
@@ -217,7 +220,7 @@ module.exports = [
     name: 'Crikey',
     url: 'https://www.crikey.com.au/feed/',
     inclusionWords: [...tList.activism, ...tList.geopolitics, ...tList.politics,],
-    exclusionWords: [...tList.clickbait, ...tList.nonInformativeTitle,],
+    exclusionWords: [...tList.clickbait, ...tList.nonInformativeTitle, "Crikey Readers",],
   },
   {
     name: 'SBS News',
@@ -226,7 +229,7 @@ module.exports = [
       //'',
     ],
     exclusionWords: [...tList.fluffyTitle, 'Australia Day', ...tList.nonInformativeTitle,
-      ...tList.uninterestedSports, 
+      ...tList.uninterestedSports, "flooding",
     ],
   },
 
@@ -248,6 +251,7 @@ module.exports = [
       'native', 'Myannmar', ...tList.prison, 'Angola', ...tList.humanRights, ...tList.environment,
       "DRC", "USA", "Myanmar",
     ],
+    exclusionWords: ["gender-based violence",],
   },
   {
     name: 'Arstechnica',
@@ -256,7 +260,7 @@ module.exports = [
       'yellowstone', 'antitrust', ...tList.cybersecurity, ...tList.history, ...tList.commons,
       ...tList.medicine, ...tList.war,
     ],
-    exclusionWords: [...tList.uninterestedSports,],
+    exclusionWords: [...tList.uninterestedSports, "review",],
   },
   {
     name: 'The Athletic Football',
@@ -294,7 +298,8 @@ module.exports = [
     url: 'https://openrss.org/www.economist.com',
     fallbackUrls: ['https://feedx.net/rss/economist.xml'],
     exclusionWords: ['in brief', ...tList.nonArticle, ...tList.uninterestedSports, 'culture', ...tList.business,
-       'obituary', ...tList.fluffyTitle, 'fact-checking', ...tList.nonInformativeTitle, "expensive", 
+       'obituary', ...tList.fluffyTitle, 'fact-checking', ...tList.nonInformativeTitle, "expensive", "messy",
+      
     ],
     off: false,
     urlExclusionWords: ['business', 'finance'],
