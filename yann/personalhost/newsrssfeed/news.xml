@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Italie: le gouvernement condamné à indemniser des migrants érythréens (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250308-italie-le-gouvernement-condamn%C3%A9-%C3%A0-indemniser-des-migrants-%C3%A9rythr%C3%A9ens</link>
+      <author>RFI</author>
+      <guid>8d8f8bdc-fbf1-11ef-a8ff-005056bf762b</guid>
+      <pubDate>Sat, 08 Mar 2025 07:49:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Des vitrines froides au centre-ville, une hausse alarmante des féminicides et du chocolat sans cacao (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/feminicides-en-suisse-8-femmes-tuees-en-8-semaines-un-debut-d-annee-alarmant-28814374.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1414,13 +1421,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-turnaround-public-spending-financial-markets-euro-friedrich-merz/</guid>
       <pubDate>Thu, 06 Mar 2025 05:58:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>Malgré les sanctions, des machines suisses fabriquent des armes en Russie (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/machines-suisses-dans-l-armement-russe-sanctions-contournees-revele-une-enquete-de-srf-28812547.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28812547</guid>
-      <pubDate>Thu, 06 Mar 2025 05:57:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
