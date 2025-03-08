@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La croisade de Donald Trump contre les contrôleurs aériens inquiète le secteur, même en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/controleurs-aeriens-licencies-par-trump-inquietudes-jusqu-a-geneve-28815701.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28815701</guid>
+      <pubDate>Sat, 08 Mar 2025 19:48:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les officiers de l'armée suisse veulent une direction politique et militaire forte (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/officiers-suisses-appel-a-une-direction-forte-face-aux-defis-securitaires-28815716.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28815716</guid>
+      <pubDate>Sat, 08 Mar 2025 19:45:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Bitcoin Strategic Reserve overshadows Digital Asset Summit (Axios)</title>
       <link>https://www.axios.com/2025/03/08/bitcoin-strategic-reserve-overshadows-digital-asset-summit</link>
       <author>Axios</author>
@@ -222,6 +236,13 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/03/opinion/trump-wall-street-biden-big-business.html</guid>
       <pubDate>Fri, 07 Mar 2025 23:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Is an Angry Little Boy on a Great White Horse (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/06/opinion/trump-speech-approval.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/06/opinion/trump-speech-approval.html</guid>
+      <pubDate>Fri, 07 Mar 2025 22:38:24 +0000</pubDate>
     </item>
     <item>
       <title>Trump’s “Speak English” Order Explained—in Spanish (Motherjones)</title>
@@ -1346,6 +1367,13 @@
       <pubDate>Thu, 06 Mar 2025 13:57:53 GMT</pubDate>
     </item>
     <item>
+      <title>The tech bros selling drugs by drone (Economist)</title>
+      <link>https://www.economist.com/international/2025/03/06/the-tech-bros-selling-drugs-by-drone</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/international/2025/03/06/the-tech-bros-selling-drugs-by-drone</guid>
+      <pubDate>Thu, 06 Mar 2025 13:57:53 GMT</pubDate>
+    </item>
+    <item>
       <title>WWE co-founder Linda McMahon confirmed as secretary of education (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/wwe-founder-linda-mcmahon-confirmed-secretary-education/story?id=119406018</link>
       <author>Fivethirtyeight</author>
@@ -1393,34 +1421,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/trump-is-planning-the-biggest-heist</guid>
       <pubDate>Thu, 06 Mar 2025 12:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dissuasion nucléaire: les propos d'Emmanuel Macron braquent les autorités russes (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250306-dissuasion-nucl%C3%A9aire-les-propos-d-emmanuel-macron-braquent-les-autorit%C3%A9s-russes</link>
-      <author>RFI</author>
-      <guid>886d3d9e-fa7e-11ef-a788-005056bf762b</guid>
-      <pubDate>Thu, 06 Mar 2025 12:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Les CFF ont transporté 1,4 million de voyageurs chaque jour en 2024 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/cff-record-de-1-4-million-de-voyageurs-par-jour-en-2024-bilan-positif-28813323.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28813323</guid>
-      <pubDate>Thu, 06 Mar 2025 12:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump firings hit speed bumps but are not slowing down (Axios)</title>
-      <link>https://www.axios.com/2025/03/06/trump-firings-irs-opm-usda</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/06/trump-firings-irs-opm-usda</guid>
-      <pubDate>Thu, 06 Mar 2025 12:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secretive D.C. Influence Project Appears to Be Running a Group House for Right-Wing Lawmakers (Propublica)</title>
-      <link>https://www.propublica.org/article/roommates-steve-berger-mike-johnson-andy-ogles-right-wing-influence-townhouse</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/roommates-steve-berger-mike-johnson-andy-ogles-right-wing-influence-townhouse</guid>
-      <pubDate>Thu, 06 Mar 2025 07:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
