@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Athol Fugard obituary (Guardian)</title>
+      <link>https://www.theguardian.com/stage/2025/mar/09/athol-fugard-obituary</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/stage/2025/mar/09/athol-fugard-obituary</guid>
+      <pubDate>Sun, 09 Mar 2025 17:22:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Journalist quits role after comparing French actions in Algeria to Nazi massacre (Guardian)</title>
       <link>https://www.theguardian.com/world/2025/mar/09/jean-michel-aphatie-quits-after-comparing-french-algeria-to-nazi-massacre</link>
       <author>Guardian</author>
@@ -1417,13 +1424,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/cautious-welcome-for-arts-council-england-report-that-shows-striking-increase-in-disabled-leaders/</guid>
       <pubDate>Thu, 06 Mar 2025 16:58:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump tariffs, policies fray U.S. relationship with allies (Axios)</title>
-      <link>https://www.axios.com/2025/03/06/trump-tariffs-china-canada-policies</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/06/trump-tariffs-china-canada-policies</guid>
-      <pubDate>Thu, 06 Mar 2025 16:58:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
