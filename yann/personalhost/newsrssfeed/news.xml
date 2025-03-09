@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Doctors are still burned out five years after COVID exposed systemic failures (Axios)</title>
+      <link>https://www.axios.com/2025/03/09/covid-doctor-stress-burn-out</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/09/covid-doctor-stress-burn-out</guid>
+      <pubDate>Sun, 09 Mar 2025 11:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La France va mobiliser près de 200 millions d'euros pour aider militairement l'Ukraine (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250309-la-france-va-mobiliser-pr%C3%A8s-de-200-millions-d-euros-pour-aider-militairement-l-ukraine</link>
+      <author>RFI</author>
+      <guid>83d83fe0-fcd1-11ef-8860-005056a97652</guid>
+      <pubDate>Sun, 09 Mar 2025 11:00:12 GMT</pubDate>
+    </item>
+    <item>
       <title>News in Brief for the week of March 2nd (ME/LC News)</title>
       <link>https://www.s4me.info/threads/news-in-brief-march-2025.43011/#post-592734</link>
       <author>ME/LC News</author>
@@ -1408,20 +1422,6 @@
       <author>RTS</author>
       <guid>28809591</guid>
       <pubDate>Thu, 06 Mar 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Politics (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/03/06/politics</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/m4psnv2fm4q3accsnegbcindhan8vl2c</guid>
-      <pubDate>Thu, 06 Mar 2025 13:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/03/06/business</link>
-      <author>Economist the World this Week</author>
-      <guid>/content/9eff71vqfdgf10htgs1ofab8ifr9bkq9</guid>
-      <pubDate>Thu, 06 Mar 2025 13:57:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
