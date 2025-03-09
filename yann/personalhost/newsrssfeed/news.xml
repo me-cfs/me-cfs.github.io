@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Swisscom enregistre plus de 200 millions de cyberattaques par mois (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/cyberattaques-swisscom-cible-de-77-tentatives-par-seconde-28816156.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28816156</guid>
+      <pubDate>Sun, 09 Mar 2025 13:41:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump's economic shock therapy (Axios)</title>
       <link>https://www.axios.com/2025/03/09/trump-economic-shock-inflation-recession-markets</link>
       <author>Axios</author>
@@ -1415,13 +1422,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/trump-directs-administration-pause-military-aid-ukraine/story?id=119410134</guid>
       <pubDate>Thu, 06 Mar 2025 15:05:02 -0000</pubDate>
-    </item>
-    <item>
-      <title>La France partage du renseignement militaire avec l'Ukraine, annonce le ministre des Armées (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250306-la-france-partage-du-renseignement-militaire-avec-l-ukraine-annonce-le-ministre-des-arm%C3%A9es</link>
-      <author>RFI</author>
-      <guid>31e19f4e-fa9a-11ef-bc0d-005056bf762b</guid>
-      <pubDate>Thu, 06 Mar 2025 14:58:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
