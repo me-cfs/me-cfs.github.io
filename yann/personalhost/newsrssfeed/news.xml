@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Connecticut Lawmakers Seek Overhaul of Towing Laws (Propublica)</title>
+      <link>https://www.propublica.org/article/connecticut-lawmakers-seek-overhaul-of-towing-laws</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/connecticut-lawmakers-seek-overhaul-of-towing-laws</guid>
+      <pubDate>Mon, 10 Mar 2025 17:45:00 -0400</pubDate>
+    </item>
+    <item>
       <title>Enseignement supérieur: la France attire de moins en moins les étudiants internationaux (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250310-enseignement-sup%C3%A9rieur-la-france-attire-de-moins-en-moins-les-%C3%A9tudiants-internationaux</link>
       <author>RFI</author>
@@ -1415,13 +1422,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/amcham-russia-to-urge-us-to-ease-sanctions-on-aviation-banking-investments</guid>
       <pubDate>Fri, 07 Mar 2025 15:49:01 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trump says he sent a letter to Iran's leader proposing nuclear deal (Axios)</title>
-      <link>https://www.axios.com/2025/03/07/trump-iran-nuclear-deal-letter</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/07/trump-iran-nuclear-deal-letter</guid>
-      <pubDate>Fri, 07 Mar 2025 13:03:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
