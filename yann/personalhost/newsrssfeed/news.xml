@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Tesla Protests Spread Nationwide (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/03/tesla-protests-spread-nationwide/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1120257</guid>
+      <pubDate>Mon, 10 Mar 2025 16:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Supreme Court will hear challenge to Colorado conversion therapy ban (Axios)</title>
+      <link>https://www.axios.com/2025/03/10/supreme-court-conversion-therapy-challenge</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/10/supreme-court-conversion-therapy-challenge</guid>
+      <pubDate>Mon, 10 Mar 2025 16:18:00 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						France to use interest from frozen Russian assets to finance arms for Ukraine					 (Politico)</title>
       <link>https://www.politico.eu/article/france-to-use-interest-from-russian-assets-to-finance-arms-for-ukraine/</link>
@@ -1407,20 +1421,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/07/ai-freaks-geeks-gpt-45-qwen-sesame</guid>
       <pubDate>Fri, 07 Mar 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biden had a plan to keep America’s EV chargers in good working order. Trump pulled the plug. (Grist)</title>
-      <link>https://grist.org/transportation/broken-ev-charger-electric-vehicles-nevi-repair-biden-trump/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=659939</guid>
-      <pubDate>Fri, 07 Mar 2025 09:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pris en tenaille entre Donald Trump et Vladimir Poutine, les 27 activent l’Europe de la défense (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250307-pris-en-tenaille-entre-donald-trump-et-vladimir-poutine-les-27-activent-l-europe-de-la-d%C3%A9fense</link>
-      <author>RFI</author>
-      <guid>e5ddccda-fac1-11ef-b23d-005056bf762b</guid>
-      <pubDate>Fri, 07 Mar 2025 08:49:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
