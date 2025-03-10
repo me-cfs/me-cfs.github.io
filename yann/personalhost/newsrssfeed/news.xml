@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> &amp;#x27;We&amp;#x27;re ready&amp;#x27; — Ukraine heads into US peace talks with everything at stake  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/were-ready-ukraine-heads-into-us-talks-with-everything-at-stake</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/were-ready-ukraine-heads-into-us-talks-with-everything-at-stake</guid>
+      <pubDate>Mon, 10 Mar 2025 21:46:16 +0200</pubDate>
+    </item>
+    <item>
+      <title>Torturé et violé après son renvoi, un requérant d’asile tamoul demande réparation à la Confédération (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/requerant-d-asile-tamoul-torture-apres-son-renvoi-il-attaque-la-suisse-28817725.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28817725</guid>
+      <pubDate>Mon, 10 Mar 2025 19:38:01 GMT</pubDate>
+    </item>
+    <item>
       <title>U.S.-Israel tensions over Hamas meetings simmer ahead of Gaza talks (Axios)</title>
       <link>https://www.axios.com/2025/03/10/us-hamas-talks-gaza-hostage-ceasefire-deal</link>
       <author>Axios</author>
@@ -174,6 +188,13 @@
       <author>RTS</author>
       <guid>28816964</guid>
       <pubDate>Mon, 10 Mar 2025 10:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Paranoid Style in MAGA Policy (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-paranoid-style-in-maga-policy</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-paranoid-style-in-maga-policy</guid>
+      <pubDate>Mon, 10 Mar 2025 10:30:52 GMT</pubDate>
     </item>
     <item>
       <title>L'influenceur français Julien Tanti condamné pour «pratiques commerciales trompeuses» (RFI)</title>
@@ -1401,27 +1422,6 @@
       <author>RFI</author>
       <guid>a3c28454-fb42-11ef-9438-005056a97652</guid>
       <pubDate>Fri, 07 Mar 2025 11:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump Allies Are Deploying This “Book-Banning Pastor” to Local School Districts (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/trump-john-amanchukwu-book-banning-pastor-turning-point-usa-tour-school-district-board-meetings/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1119915</guid>
-      <pubDate>Fri, 07 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Boy With A Loaded Shotgun Boarded A Plane In Australia But Was Tackled By A Former Boxer (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/australia-boy-with-shotgun-tackled-by-ex-boxer_n_67cac0a9e4b0a4ad9ebc366b</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/australia-boy-with-shotgun-tackled-by-ex-boxer_n_67cac0a9e4b0a4ad9ebc366b</guid>
-      <pubDate>Fri, 07 Mar 2025 10:46:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Israel objected to secret U.S.-Hamas talks in tense call (Axios)</title>
-      <link>https://www.axios.com/2025/03/07/hamas-talks-trump-netanyahu-hostage-deal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/07/hamas-talks-trump-netanyahu-hostage-deal</guid>
-      <pubDate>Fri, 07 Mar 2025 10:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
