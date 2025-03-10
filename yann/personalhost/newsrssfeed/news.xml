@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Suicide d'une collégienne harcelée en France: au procès de l'enseignante, l'institution en question (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250310-suicide-d-une-coll%C3%A9gienne-harcel%C3%A9e-en-france-au-proc%C3%A8s-de-l-enseignante-l-institution-en-question</link>
+      <author>RFI</author>
+      <guid>c41249c4-fdf9-11ef-983a-005056a97652</guid>
+      <pubDate>Mon, 10 Mar 2025 22:36:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Connecticut Lawmakers Seek Overhaul of Towing Laws (Propublica)</title>
       <link>https://www.propublica.org/article/connecticut-lawmakers-seek-overhaul-of-towing-laws</link>
       <author>Propublica</author>
@@ -1274,6 +1281,13 @@
       <pubDate>Fri, 07 Mar 2025 17:55:54 +0000</pubDate>
     </item>
     <item>
+      <title>Trump says he sent a letter to Iran's leader proposing nuclear deal (Axios)</title>
+      <link>https://www.axios.com/2025/03/07/trump-iran-nuclear-deal-letter</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/07/trump-iran-nuclear-deal-letter</guid>
+      <pubDate>Fri, 07 Mar 2025 17:44:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Sudan launches case against UAE at the International Court of Justice  (Semafor)</title>
       <link>https://www.semafor.com/article/03/07/2025/sudan-launches-case-against-uae-at-the-international-court-of-justice</link>
       <author>Semafor</author>
@@ -1407,21 +1421,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/france-unexploded-bomb_n_67caf336e4b001cf57887fc4</guid>
       <pubDate>Fri, 07 Mar 2025 14:09:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EPP calls for fast-track vote on omnibus simplification bill next week					 (Politico)</title>
-      <link>https://www.politico.eu/article/epp-calls-for-fast-track-vote-on-omnibus-simplification-bill-next-week/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/epp-calls-for-fast-track-vote-on-omnibus-simplification-bill-next-week/</guid>
-      <pubDate>Fri, 07 Mar 2025 14:09:09 -0000</pubDate>
-    </item>
-    <item>
-      <title> US Chamber of Commerce in Russia readies proposals on sanctions relief  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/amcham-russia-to-urge-us-to-ease-sanctions-on-aviation-banking-investments</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/amcham-russia-to-urge-us-to-ease-sanctions-on-aviation-banking-investments</guid>
-      <pubDate>Fri, 07 Mar 2025 15:49:01 +0200</pubDate>
     </item>
   </channel>
 </rss>
