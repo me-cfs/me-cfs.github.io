@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Contestation en Serbie: des étudiants délogés du siège de la télévision nationale par la police (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250311-contestation-en-serbie-des-%C3%A9tudiants-d%C3%A9log%C3%A9s-du-si%C3%A8ge-de-la-t%C3%A9l%C3%A9vision-nationale-par-la-police</link>
+      <author>RFI</author>
+      <guid>26139c72-fe6d-11ef-9c53-005056bf1351</guid>
+      <pubDate>Tue, 11 Mar 2025 16:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Le groupe UDC majoritairement favorable à Markus Ritter pour succéder à Viola Amherd (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28818020.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28818020</guid>
+      <pubDate>Tue, 11 Mar 2025 15:59:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Décès à 83 ans de l'architecte suisse Vincent Mangeat (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/l-architecte-suisse-vincent-mangeat-s-eteint-a-83-ans-son-heritage-28818657.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1414,20 +1428,6 @@
       <author>RFI</author>
       <guid>1cb3a16a-fc31-11ef-8fd4-005056a97652</guid>
       <pubDate>Sat, 08 Mar 2025 15:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump's Taiwan mystery (Axios)</title>
-      <link>https://www.axios.com/2025/03/08/trump-taiwan-china-invasion-ukraine</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/08/trump-taiwan-china-invasion-ukraine</guid>
-      <pubDate>Sat, 08 Mar 2025 15:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stephen Miller's army outside the White House (Axios)</title>
-      <link>https://www.axios.com/2025/03/08/stephen-miller-dei-outside-trump-white-house</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/08/stephen-miller-dei-outside-trump-white-house</guid>
-      <pubDate>Sat, 08 Mar 2025 14:47:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
