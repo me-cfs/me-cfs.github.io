@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Jour de vote au Groenland, le pays des rêves de Trump qui préfère l'indépendance (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250311-jour-de-vote-au-groenland-le-pays-des-r%C3%AAves-de-trump-qui-pr%C3%A9f%C3%A8re-l-ind%C3%A9pendance</link>
+      <author>RFI</author>
+      <guid>18833a5a-fe0d-11ef-9bad-005056a97652</guid>
+      <pubDate>Tue, 11 Mar 2025 08:27:51 GMT</pubDate>
+    </item>
+    <item>
       <title> 1 killed, 17 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/1-killed-17-injured-in-russian-attacks-against-ukraine-over-past-day</link>
       <author>Kyiv Indpendent</author>
@@ -737,6 +744,13 @@
       <pubDate>Sun, 09 Mar 2025 21:40:23 GMT</pubDate>
     </item>
     <item>
+      <title>Rubio and Trump Officials Clash With Elon Musk in an Explosive Meeting (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/07/us/politics/trump-musk-doge-power.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/07/us/politics/trump-musk-doge-power.html</guid>
+      <pubDate>Sun, 09 Mar 2025 21:37:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Air Force fighter jets intercept 2 aircraft that violated airspace near Mar-A-Lago (Axios)</title>
       <link>https://www.axios.com/2025/03/09/trump-mar-a-lago-airspace-f-16-fighter-jets</link>
       <author>Axios</author>
@@ -1413,20 +1427,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cwyj34d9w3xo#0</guid>
       <pubDate>Fri, 07 Mar 2025 21:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Review: Mickey 17’s dark comedic antics make for a wild cinematic ride (Arstechnica)</title>
-      <link>https://arstechnica.com/culture/2025/03/review-mickey-17s-dark-comedic-antics-make-for-a-wild-cinematic-ride/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/culture/2025/03/review-mickey-17s-dark-comedic-antics-make-for-a-wild-cinematic-ride/</guid>
-      <pubDate>Fri, 07 Mar 2025 20:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azerbaijan’s Imprisoned Women Journalists (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/03/07/azerbaijans-imprisoned-women-journalists</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/03/07/azerbaijans-imprisoned-women-journalists</guid>
-      <pubDate>Fri, 07 Mar 2025 15:37:21 -0500</pubDate>
     </item>
   </channel>
 </rss>
