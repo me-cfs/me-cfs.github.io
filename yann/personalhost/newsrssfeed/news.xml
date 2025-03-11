@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Oil tanker collides with cargo ship in North Sea					 (Politico)</title>
+      <link>https://www.politico.eu/article/oil-tanker-collides-with-cargo-ship-in-north-sea/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/oil-tanker-collides-with-cargo-ship-in-north-sea/</guid>
+      <pubDate>Tue, 11 Mar 2025 02:16:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump envoy plans meeting with Putin in Moscow after U.S.-Ukriane summit in Saudi Arabia (Axios)</title>
+      <link>https://www.axios.com/2025/03/11/trump-envoy-putin-russia-meeting-plans-us-ukraine-summit</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/11/trump-envoy-putin-russia-meeting-plans-us-ukraine-summit</guid>
+      <pubDate>Tue, 11 Mar 2025 01:03:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Johnson and Jeffries hold the line ahead of government shutdown vote (Axios)</title>
       <link>https://www.axios.com/2025/03/11/mike-johnson-hakeem-jeffries-government-shutdown</link>
       <author>Axios</author>
@@ -249,6 +264,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/10/supreme-court-conversion-therapy-challenge</guid>
       <pubDate>Mon, 10 Mar 2025 16:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>There Is a Liberal Answer to Elon Musk (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/09/opinion/musk-trump-doge-abundance-agenda.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/09/opinion/musk-trump-doge-abundance-agenda.html</guid>
+      <pubDate>Mon, 10 Mar 2025 16:17:30 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1266,6 +1288,13 @@
       <pubDate>Fri, 07 Mar 2025 21:28:29 GMT</pubDate>
     </item>
     <item>
+      <title>Day centre a refuge for the homeless  during ex-Cyclone Alfred  (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cwyj34d9w3xo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cwyj34d9w3xo#0</guid>
+      <pubDate>Fri, 07 Mar 2025 21:22:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Review: Mickey 17’s dark comedic antics make for a wild cinematic ride (Arstechnica)</title>
       <link>https://arstechnica.com/culture/2025/03/review-mickey-17s-dark-comedic-antics-make-for-a-wild-cinematic-ride/</link>
       <author>Arstechnica</author>
@@ -1391,34 +1420,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/03/07/2025/sudan-launches-case-against-uae-at-the-international-court-of-justice</guid>
       <pubDate>Fri, 07 Mar 2025 17:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fed's Powell: 'No hurry' to cut rates amid Trump volatility (Axios)</title>
-      <link>https://www.axios.com/2025/03/07/powell-trump-rates</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/07/powell-trump-rates</guid>
-      <pubDate>Fri, 07 Mar 2025 17:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. Housing Agency Considers Launching Crypto Experiment (Propublica)</title>
-      <link>https://www.propublica.org/article/hud-considers-crypto-blockchain-stablecoin-housing-urban-development</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/hud-considers-crypto-blockchain-stablecoin-housing-urban-development</guid>
-      <pubDate>Fri, 07 Mar 2025 12:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>À Londres, la zone à ultra-faibles émissions «ULEZ» améliore la qualité de l’air (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250307-%C3%A0-londres-la-zone-%C3%A0-ultra-faibles-%C3%A9missions-ulez-am%C3%A9liore-la-qualit%C3%A9-de-l-air</link>
-      <author>RFI</author>
-      <guid>c11703ea-fb6a-11ef-9a31-005056bf762b</guid>
-      <pubDate>Fri, 07 Mar 2025 17:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>À la Une: en Serbie, la contestation n'en finit pas de s'étendre (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250307-%C3%A0-la-une-en-serbie-la-contestation-n-en-finit-pas-de-s-%C3%A9tendre</link>
-      <author>RFI</author>
-      <guid>84e859fa-fb74-11ef-ab80-005056bf762b</guid>
-      <pubDate>Fri, 07 Mar 2025 17:03:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
