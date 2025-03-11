@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le semi-confinement du Covid a entraîné un mini-babyboom en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/mini-babyboom-en-suisse-le-covid-booste-les-naissances-chez-les-trentenaires-28818513.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28818513</guid>
+      <pubDate>Tue, 11 Mar 2025 14:27:33 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						North Sea oil tanker fire still raging as US probes causes					 (Politico)</title>
       <link>https://www.politico.eu/article/north-sea-oil-tanker-fire-still-raging-us-probes-causes/</link>
@@ -69,6 +76,13 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/03/11/2025/new-ai-agent-unveiled-in-the-latest-win-for-china-in-the-global-tech-race</guid>
       <pubDate>Tue, 11 Mar 2025 10:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Economic Excuse Industry is Booming (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-economic-excuse-industry-is-booming</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-economic-excuse-industry-is-booming</guid>
+      <pubDate>Tue, 11 Mar 2025 10:31:03 GMT</pubDate>
     </item>
     <item>
       <title>How Eric Adams Has Backed a Secretive NYPD Unit Ridden With Abuses (Propublica)</title>
@@ -1415,20 +1429,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/08/opinion/trump-egg-prices-economy.html</guid>
       <pubDate>Sat, 08 Mar 2025 12:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's open door to white South Africans buys into conspiracy theory (Axios)</title>
-      <link>https://www.axios.com/2025/03/08/trump-south-africa-white-farmers-conspiracy-musk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/08/trump-south-africa-white-farmers-conspiracy-musk</guid>
-      <pubDate>Sat, 08 Mar 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tariffs! Tariffs! Tariffs! In Conversation With Mary Lovely (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/tariffs-tariffs-tariffs-in-conversation</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/tariffs-tariffs-tariffs-in-conversation</guid>
-      <pubDate>Sat, 08 Mar 2025 11:31:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
