@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump admin launches new app with "self-deport" reporting feature (Axios)</title>
+      <link>https://www.axios.com/2025/03/11/dhs-new-app-self-deport-feature-immigrants</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/11/dhs-new-app-self-deport-feature-immigrants</guid>
+      <pubDate>Tue, 11 Mar 2025 16:52:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Majority Of Earth's Population Breathes Dirty Air, Report Says (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/bc-climate-air-pollution_n_67d05720e4b0af3478f30970</link>
       <author>Huffington Post</author>
@@ -95,6 +102,13 @@
       <author>RFI</author>
       <guid>c9a2fa42-fe7a-11ef-8c76-005056bf1351</guid>
       <pubDate>Tue, 11 Mar 2025 13:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Promised Americans Booming Wealth. Now He’s Changing His Tune. (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/10/us/politics/trump-tariffs-fox-news-recession.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/10/us/politics/trump-tariffs-fox-news-recession.html</guid>
+      <pubDate>Tue, 11 Mar 2025 13:32:33 +0000</pubDate>
     </item>
     <item>
       <title>Sierra Leone’s immigration chief fired after footage showed him with fugitive drug lord (Guardian)</title>
@@ -1414,20 +1428,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/mar/08/international-womens-day-observed</guid>
       <pubDate>Sat, 08 Mar 2025 17:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Des milliers de personnes défilent en Suisse pour la Journée internationale des droits des femmes (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/journee-des-droits-des-femmes-mobilisation-et-revendications-en-suisse-28815408.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28815408</guid>
-      <pubDate>Sat, 08 Mar 2025 17:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iranian leader says he won't accept demands by "bully countries" after Trump claim (Axios)</title>
-      <link>https://www.axios.com/2025/03/08/iran-ali-khamenei-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/08/iran-ali-khamenei-trump</guid>
-      <pubDate>Sat, 08 Mar 2025 16:17:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
