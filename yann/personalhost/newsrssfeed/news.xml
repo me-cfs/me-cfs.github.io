@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>DR Congo: Rwanda-Backed M23 Target Journalists, Activists (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/12/dr-congo-rwanda-backed-m23-target-journalists-activists</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/12/dr-congo-rwanda-backed-m23-target-journalists-activists</guid>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>
 						EU readies ‘sledgehammer’ against Trump tariffs					 (Politico)</title>
       <link>https://www.politico.eu/article/eu-tariffs-donald-trump-diplomat-eu-war-defending-nation-bloc/</link>
@@ -63,6 +70,13 @@
       <author>RFI</author>
       <guid>beb7e902-fed0-11ef-b4c0-005056bf1351</guid>
       <pubDate>Wed, 12 Mar 2025 00:17:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kentucky's cantankerous lawmakers create headaches for Trump (Axios)</title>
+      <link>https://www.axios.com/2025/03/12/trump-kentucky-massie-paul-mcconnell</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/12/trump-kentucky-massie-paul-mcconnell</guid>
+      <pubDate>Wed, 12 Mar 2025 00:14:47 +0000</pubDate>
     </item>
     <item>
       <title> (Chapatte Dessins)</title>
@@ -1422,20 +1436,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/poland-is-ready-to-seek-starlink-alternatives-if-musk-proves-unreliable/</guid>
       <pubDate>Sun, 09 Mar 2025 16:34:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Le Magic Pass séduit toujours plus et accueillera 17 nouvelles stations l'an prochain (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/magic-pass-17-nouvelles-stations-et-hausse-des-ventes-pour-2024-2025-28816353.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28816353</guid>
-      <pubDate>Sun, 09 Mar 2025 16:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Athol Fugard, South African political dissident playwright, dies aged 92 (Guardian)</title>
-      <link>https://www.theguardian.com/stage/2025/mar/09/athol-fugard-south-african-political-dissident-playwright-dies-aged-92</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/stage/2025/mar/09/athol-fugard-south-african-political-dissident-playwright-dies-aged-92</guid>
-      <pubDate>Sun, 09 Mar 2025 16:13:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
