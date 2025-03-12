@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Dans les médias publics hongrois, un récit pro-russe (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250312-dans-les-m%C3%A9dias-publics-hongrois-un-r%C3%A9cit-pro-russe</link>
+      <author>RFI</author>
+      <guid>e96f106a-ff54-11ef-b014-005056bf1351</guid>
+      <pubDate>Wed, 12 Mar 2025 17:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>USA: Arrest and Detention of Mahmoud Khalil Is Chilling Attack on Human Rights  (Amnesty International)</title>
+      <link>https://www.amnesty.org/en/latest/news/2025/03/usa-arrest-and-detention-of-mahmoud-khalil-is-chilling-attack-on-human-rights/</link>
+      <author>Amnesty International</author>
+      <guid>https://www.amnesty.org/en/?p=224004</guid>
+      <pubDate>Wed, 12 Mar 2025 17:05:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran calls Trump's offer to negotiate a new nuclear deal "a deception" (Axios)</title>
+      <link>https://www.axios.com/2025/03/12/trump-khamenei-iran-nuclear-negotiations</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/12/trump-khamenei-iran-nuclear-negotiations</guid>
+      <pubDate>Wed, 12 Mar 2025 17:01:09 +0000</pubDate>
+    </item>
+    <item>
       <title> Ukraine struggles to hold on in Kursk Oblast as Russia strikes back before peace talks  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/ukraine-struggles-to-stay-in-kursk-oblast-until-negotiations-during-russias-new-push</link>
       <author>Kyiv Indpendent</author>
@@ -1411,27 +1432,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/eu-prepares-for-possible-hungarian-veto-on-russia-sanctions-extension-media-reports</guid>
       <pubDate>Mon, 10 Mar 2025 12:02:11 +0200</pubDate>
-    </item>
-    <item>
-      <title>As Europe Criminalizes Environmental Protest, Some Activists Turn to Sabotage (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/climate-activists-europe-england-environmental-protest-laws-criminalization-pipeline-fossil-fuel-industry-vandalism-sabotag/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1120227</guid>
-      <pubDate>Mon, 10 Mar 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>What a Wrongful Death Lawsuit Reveals About America’s Largest Oxygen Provider (Propublica)</title>
-      <link>https://www.propublica.org/article/lincare-wrongful-death-lawsuit-sleep-apnea-oxygen</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/lincare-wrongful-death-lawsuit-sleep-apnea-oxygen</guid>
-      <pubDate>Mon, 10 Mar 2025 06:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Indonesia: Trans woman’s prison sentence for ‘insulting’ Jesus must be quashed  (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/03/indonesia-trans-womans-prison-sentence-for-insulting-jesus-must-be-quashed/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=223811</guid>
-      <pubDate>Mon, 10 Mar 2025 09:43:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
