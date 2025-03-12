@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 14 killed, 29 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-132</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-132</guid>
+      <pubDate>Wed, 12 Mar 2025 09:12:09 +0200</pubDate>
+    </item>
+    <item>
       <title>Paris Saint-Germain, at long last, are appointment viewing - thanks to Luis Enrique (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6196329/2025/03/12/paris-saint-germain-luis-enrique-liverpool/</link>
       <author>The Athletic Football</author>
@@ -300,6 +307,13 @@
       <author>Economist</author>
       <guid>https://www.economist.com/asia/2025/03/11/the-global-importance-of-rodrigo-dutertes-arrest</guid>
       <pubDate>Tue, 11 Mar 2025 17:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Merle Oberon, Hollywood’s First South Asian Star (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/09/arts/merle-oberon-south-asian-hollywood-star.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/09/arts/merle-oberon-south-asian-hollywood-star.html</guid>
+      <pubDate>Tue, 11 Mar 2025 16:55:32 +0000</pubDate>
     </item>
     <item>
       <title>Trump admin launches new app with "self-deport" reporting feature (Axios)</title>
@@ -1421,20 +1435,6 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22950</guid>
       <pubDate>03/09/2025 19:00</pubDate>
-    </item>
-    <item>
-      <title>Roumanie: la candidature du pro-russe Calin Georgescu à la présidentielle rejetée (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250309-roumanie-la-candidature-du-pro-russe-calin-georgescu-%C3%A0-la-pr%C3%A9sidentielle-rejet%C3%A9e</link>
-      <author>RFI</author>
-      <guid>099d2194-fd14-11ef-b63d-005056a97652</guid>
-      <pubDate>Sun, 09 Mar 2025 18:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Populist vs. the Billionaire: Bannon, Musk and the Battle Within MAGA (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/09/us/politics/stephen-bannon-elon-musk-maga.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/09/us/politics/stephen-bannon-elon-musk-maga.html</guid>
-      <pubDate>Sun, 09 Mar 2025 18:04:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
