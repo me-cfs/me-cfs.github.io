@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Espagne: le secteur de la sidérurgie fragilisé par les droits de douane américains (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250312-espagne-le-secteur-de-la-sid%C3%A9rurgie-fragilis%C3%A9-par-les-droits-de-douane-am%C3%A9ricains</link>
+      <author>RFI</author>
+      <guid>beb7e902-fed0-11ef-b4c0-005056bf1351</guid>
+      <pubDate>Wed, 12 Mar 2025 00:17:22 GMT</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/tesla-pris-pour-cible</link>
       <author>Chapatte Dessins</author>
@@ -207,6 +214,13 @@
       <pubDate>Tue, 11 Mar 2025 16:52:03 -0000</pubDate>
     </item>
     <item>
+      <title>Southwest Airlines ends free checked bags policy (Axios)</title>
+      <link>https://www.axios.com/2025/03/11/southwest-airlines-charging-for-bags</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/11/southwest-airlines-charging-for-bags</guid>
+      <pubDate>Tue, 11 Mar 2025 16:51:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Le colonialisme au cœur du contentieux entre l'Espagne et le Mexique (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250311-le-colonialisme-au-c%C5%93ur-du-contentieux-entre-l-espagne-et-le-mexique</link>
       <author>RFI</author>
@@ -318,6 +332,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/mar/11/sierra-leone-immigration-chief-fired-footage-drug-lord</guid>
       <pubDate>Tue, 11 Mar 2025 12:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kennedy Links Measles Outbreak to Poor Diet and Health, Citing Fringe Theories (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/10/health/measles-texas-kennedy-fox.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/10/health/measles-texas-kennedy-fox.html</guid>
+      <pubDate>Tue, 11 Mar 2025 12:25:08 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -672,6 +693,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/uk-to-host-virtual-summit-on-ukraine-on-march-15-as-peacekeeping-plans-advance</guid>
       <pubDate>Mon, 10 Mar 2025 23:34:56 +0200</pubDate>
+    </item>
+    <item>
+      <title>Covid’s Deadliest Effect Took Five Years to Appear (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/10/opinion/covid-public-health-privatization.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/10/opinion/covid-public-health-privatization.html</guid>
+      <pubDate>Mon, 10 Mar 2025 21:22:41 +0000</pubDate>
     </item>
     <item>
       <title>How DOGE is driving America’s public-health guardians mad (Economist)</title>
@@ -1405,34 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/09/trump-economic-shock-inflation-recession-markets</guid>
       <pubDate>Sun, 09 Mar 2025 13:37:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>2 Days Of Clashes And Revenge Killings In Syria Leave More Than 1,000 People Dead (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/syria-clashes-revenge-killings_n_67cd8171e4b0186c337375af</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/syria-clashes-revenge-killings_n_67cd8171e4b0186c337375af</guid>
-      <pubDate>Sun, 09 Mar 2025 13:23:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>The pandemic upended politics — twice (Axios)</title>
-      <link>https://www.axios.com/2025/03/09/covid-five-years-trump-young-voters</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/09/covid-five-years-trump-young-voters</guid>
-      <pubDate>Sun, 09 Mar 2025 13:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Clean Little Secret of Social Security (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/the-clean-little-secret-of-social</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/the-clean-little-secret-of-social</guid>
-      <pubDate>Sun, 09 Mar 2025 13:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘We’re losing our environmental history’: The future of government information under Trump (Grist)</title>
-      <link>https://grist.org/politics/were-losing-our-environmental-history-the-future-of-government-information-under-trump/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=659975</guid>
-      <pubDate>Sun, 09 Mar 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
