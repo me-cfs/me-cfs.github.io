@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Fête fédérale de gymnastique de Lausanne cherche encore des bénévoles (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/lausanne-2025-la-fete-federale-de-gymnastique-cherche-5000-benevoles-28819942.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28819942</guid>
+      <pubDate>Wed, 12 Mar 2025 15:16:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Massive Layoffs at the Department of Education Erode Its Civil Rights Division (Propublica)</title>
       <link>https://www.propublica.org/article/education-department-civil-rights-division-eroded-by-massive-layoffs</link>
       <author>Propublica</author>
@@ -124,6 +131,13 @@
       <author>Byline Times</author>
       <guid>https://bylinetimes.com/?p=244092</guid>
       <pubDate>Wed, 12 Mar 2025 10:35:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Mind is a Terrible Thing to Lose (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/a-mind-is-a-terrible-thing-to-lose</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/a-mind-is-a-terrible-thing-to-lose</guid>
+      <pubDate>Wed, 12 Mar 2025 10:30:53 GMT</pubDate>
     </item>
     <item>
       <title>Intelligence artificielle: Meta poursuivi en France pour violation des droits d'auteur (RFI)</title>
@@ -1417,21 +1431,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=660005</guid>
       <pubDate>Mon, 10 Mar 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump and Putin gang up on European centrists in Romania’s election crisis					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-vladimir-putin-gang-up-on-eu-mainstream-romanian-election-crisis/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-vladimir-putin-gang-up-on-eu-mainstream-romanian-election-crisis/</guid>
-      <pubDate>Mon, 10 Mar 2025 08:37:58 -0000</pubDate>
-    </item>
-    <item>
-      <title> 6 killed, 22 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/0-killed-0-injured-in-russian-attacks-against-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/0-killed-0-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
-      <pubDate>Mon, 10 Mar 2025 09:29:53 +0200</pubDate>
     </item>
   </channel>
 </rss>
