@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Intelligence artificielle: Meta poursuivi en France pour violation des droits d'auteur (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250312-intelligence-artificielle-meta-poursuivi-en-france-pour-violation-des-droits-d-auteur</link>
+      <author>RFI</author>
+      <guid>dbf95232-ff28-11ef-bd7b-005056a97652</guid>
+      <pubDate>Wed, 12 Mar 2025 10:15:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump, Musk fuel fears of Social Security cuts with 'fraud' talk (The Hill)</title>
       <link>https://thehill.com/homenews/administration/5189448-trump-musk-social-security-fraud/</link>
       <author>The Hill</author>
@@ -1428,13 +1435,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/political-cartoons-donald-trump-vladimir-putin-justin-trudeau-tariffs/</guid>
       <pubDate>Sun, 09 Mar 2025 23:31:49 -0000</pubDate>
-    </item>
-    <item>
-      <title>Canada's Liberal Party elects Mark Carney as new leader to replace Trudeau as prime minster (Axios)</title>
-      <link>https://www.axios.com/2025/03/09/canada-liberal-party-leader-election-mark-carney-trudeau</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/09/canada-liberal-party-leader-election-mark-carney-trudeau</guid>
-      <pubDate>Sun, 09 Mar 2025 22:39:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
