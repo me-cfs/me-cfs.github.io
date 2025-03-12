@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Greenland election results: Center-right opposition wins amid Trump saber-rattling					 (Politico)</title>
+      <link>https://www.politico.eu/article/greenland-boosts-center-right-and-pro-independence-parties-in-crucial-election/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/greenland-boosts-center-right-and-pro-independence-parties-in-crucial-election/</guid>
+      <pubDate>Wed, 12 Mar 2025 10:47:27 -0000</pubDate>
+    </item>
+    <item>
       <title>Intelligence artificielle: Meta poursuivi en France pour violation des droits d'auteur (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250312-intelligence-artificielle-meta-poursuivi-en-france-pour-violation-des-droits-d-auteur</link>
       <author>RFI</author>
@@ -1394,6 +1402,13 @@
       <pubDate>Mon, 10 Mar 2025 02:55:06 -0000</pubDate>
     </item>
     <item>
+      <title>Canada's Carney vows to stand up to Trump after winning race to replace Trudeau as PM (Axios)</title>
+      <link>https://www.axios.com/2025/03/09/canada-liberal-party-leader-election-mark-carney-trudeau</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/09/canada-liberal-party-leader-election-mark-carney-trudeau</guid>
+      <pubDate>Mon, 10 Mar 2025 01:49:37 +0000</pubDate>
+    </item>
+    <item>
       <title>The WA election couldn’t have gone worse for the state’s Liberal Party (Crikey)</title>
       <link>https://www.crikey.com.au/2025/03/10/wa-election-liberal-party-disaster/</link>
       <author>Crikey</author>
@@ -1420,21 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/10/trump-ukraine-intelligence-sharing-russia-war</guid>
       <pubDate>Mon, 10 Mar 2025 00:29:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tough man Trump is finding it hard to make tough decisions. Now a recession looms (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/03/10/donald-trump-flip-flop-tariffs-recession/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1197485</guid>
-      <pubDate>Mon, 10 Mar 2025 00:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						World’s cartoonists on this week’s events					 (Politico)</title>
-      <link>https://www.politico.eu/article/political-cartoons-donald-trump-vladimir-putin-justin-trudeau-tariffs/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/political-cartoons-donald-trump-vladimir-putin-justin-trudeau-tariffs/</guid>
-      <pubDate>Sun, 09 Mar 2025 23:31:49 -0000</pubDate>
     </item>
   </channel>
 </rss>
