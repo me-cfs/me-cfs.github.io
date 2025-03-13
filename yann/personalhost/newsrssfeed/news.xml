@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Génocide d’Anfal: le deuil impossible des Kurdes irakiens (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/grand-reportage/20250313-g%C3%A9nocide-d-anfal-le-deuil-impossible-des-kurdes-irakiens</link>
+      <author>RFI</author>
+      <guid>0608556c-fe90-11ef-a5fd-005056a97652</guid>
+      <pubDate>Thu, 13 Mar 2025 11:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Non, la frontière suisse n'est pas une passoire", affirme Pascal Lüthi, directeur de l'Office fédéral de la douane  (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/non-la-frontiere-suisse-n-est-pas-une-passoire-affirme-pascal-luthi-directeur-de-l-office-federal-de-la-douane-28820794.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28820794</guid>
+      <pubDate>Thu, 13 Mar 2025 10:56:56 GMT</pubDate>
+    </item>
+    <item>
+      <title> Rheinmetall prepared to supply arms for possible Ukraine peacekeeping mission  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/rheinmetall-prepared-to-supply-arms-for-possible-ukraine-peacekeeping-mission</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/rheinmetall-prepared-to-supply-arms-for-possible-ukraine-peacekeeping-mission</guid>
+      <pubDate>Thu, 13 Mar 2025 12:52:17 +0200</pubDate>
+    </item>
+    <item>
       <title>
 						Belgian police conduct raids as new corruption scandal rocks EU Parliament					 (Politico)</title>
       <link>https://www.politico.eu/article/belgian-police-raid-huawei-lobbyists-as-new-scandal-rocks-eu-parliament/</link>
@@ -829,6 +850,14 @@
     </item>
     <item>
       <title>
+						Ireland’s leader seeks to survive a brush with Trump					 (Politico)</title>
+      <link>https://www.politico.eu/article/ireland-white-house-us-visit-patrick-day-donald-trump-taoiseach-micheal-martin-pm-gaza-ukraine-feud/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ireland-white-house-us-visit-patrick-day-donald-trump-taoiseach-micheal-martin-pm-gaza-ukraine-feud/</guid>
+      <pubDate>Wed, 12 Mar 2025 02:36:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>
 						Musk blames Ukrainians for cyberattack on X. Experts aren’t convinced.					 (Politico)</title>
       <link>https://www.politico.eu/article/elon-musk-claim-ukraine-linked-cyberattack-x-draws-criticism/</link>
       <author>Politico</author>
@@ -1403,37 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/10/twitter-down-tesla-stock-musk</guid>
       <pubDate>Tue, 11 Mar 2025 05:28:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Former Philippine Leader Duterte Arrested On An International Criminal Court Warrant (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/philippines-duterte-arrested_n_67cfadfbe4b07cd1ea33957f</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/philippines-duterte-arrested_n_67cfadfbe4b07cd1ea33957f</guid>
-      <pubDate>Tue, 11 Mar 2025 04:48:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The EU ban on combustion car engines is in trouble					 (Politico)</title>
-      <link>https://www.politico.eu/article/why-eu-combustion-car-ban-is-in-trouble-greenhouse-gas-climate-change/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/why-eu-combustion-car-ban-is-in-trouble-greenhouse-gas-climate-change/</guid>
-      <pubDate>Tue, 11 Mar 2025 04:48:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Germany’s Greens make Merz sweat over massive spending plan					 (Politico)</title>
-      <link>https://www.politico.eu/article/germany-green-party-friedrich-merz-spending-plan-military-spd/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/germany-green-party-friedrich-merz-spending-plan-military-spd/</guid>
-      <pubDate>Tue, 11 Mar 2025 04:33:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Welfare vs. warfare: France’s political parties divided over cash for defense 					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-russia-defense-welfare-vs-warfare-political-parties-divided/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-russia-defense-welfare-vs-warfare-political-parties-divided/</guid>
-      <pubDate>Tue, 11 Mar 2025 04:18:51 -0000</pubDate>
     </item>
   </channel>
 </rss>
