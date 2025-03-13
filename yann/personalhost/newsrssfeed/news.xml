@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: «Trump a déjà dealé avec Poutine, tout ce à quoi on assiste est du cirque», selon Guillaume Ancel (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250313-ukraine-trump-d%C3%A9j%C3%A0-deal%C3%A9-avec-poutine-tout-ce-%C3%A0-quoi-on-assiste-est-du-cirque-selon-guillaume-ancel</link>
+      <author>RFI</author>
+      <guid>38406cb4-fff2-11ef-b5c8-005056bf1351</guid>
+      <pubDate>Thu, 13 Mar 2025 10:23:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Axios interview: Chris Lehane on OpenAI's policy strategy for new Trump era (Axios)</title>
       <link>https://www.axios.com/2025/03/13/openai-chris-lehane-trump-policy</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <link>https://www.bbc.com/news/videos/cm2nxvppmjpo</link>
       <author>BBC</author>
       <guid>https://www.bbc.com/news/videos/cm2nxvppmjpo#2</guid>
+      <pubDate>Thu, 13 Mar 2025 09:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wombat row: See how you go with a baby crocodile - Australian PM (BBC)</title>
+      <link>https://www.bbc.com/news/videos/cm2nxvppmjpo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/videos/cm2nxvppmjpo#0</guid>
       <pubDate>Thu, 13 Mar 2025 09:21:49 GMT</pubDate>
     </item>
     <item>
@@ -1419,21 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/11/philippines-icc-rodrigo-duterte-arrested-drugs-war</guid>
       <pubDate>Tue, 11 Mar 2025 03:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU and Korea seal digital trade deal					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-and-korea-seal-digital-trade-deal/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-and-korea-seal-digital-trade-deal/</guid>
-      <pubDate>Tue, 11 Mar 2025 03:48:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump vows to "lead the charge" to unseat GOP Rep. Thomas Massie (Axios)</title>
-      <link>https://www.axios.com/2025/03/11/trump-thomas-massie-primary-government-shutdown</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/11/trump-thomas-massie-primary-government-shutdown</guid>
-      <pubDate>Tue, 11 Mar 2025 03:34:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
