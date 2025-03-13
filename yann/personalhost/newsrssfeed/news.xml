@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: dans l'attente d'une réponse de Moscou, «la charge de la continuation de la guerre portée sur le Kremlin» (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250313-ukraine-dans-l-attente-d-une-r%C3%A9ponse-de-moscou-la-charge-de-la-continuation-de-la-guerre-port%C3%A9e-sur-le-kremlin</link>
+      <author>RFI</author>
+      <guid>4cc1f154-ffce-11ef-84db-005056a97652</guid>
+      <pubDate>Thu, 13 Mar 2025 06:16:27 GMT</pubDate>
+    </item>
+    <item>
       <title>US Influencer May Be Banned From Australia After Taking Wombat Cub From Mother (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/american-influencer-australia-taking-wombat-cub-mother_n_67d2361ae4b09f3dcf3972f8</link>
       <author>Huffington Post</author>
@@ -1430,13 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/10/trump-ditches-biden-era-aca-flexibilities</guid>
       <pubDate>Mon, 10 Mar 2025 22:22:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Connecticut Lawmakers Seek Overhaul of Towing Laws (Propublica)</title>
-      <link>https://www.propublica.org/article/connecticut-lawmakers-seek-overhaul-of-towing-laws</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/connecticut-lawmakers-seek-overhaul-of-towing-laws</guid>
-      <pubDate>Mon, 10 Mar 2025 17:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
