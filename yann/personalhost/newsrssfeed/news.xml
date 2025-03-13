@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Hungary seeks removal of Russian oligarch Fridman from EU sanctions list, FT reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/hungary-seeks-removal-of-russian-oligarch-fridman-from-eu-sanctions-list-ft-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/hungary-seeks-removal-of-russian-oligarch-fridman-from-eu-sanctions-list-ft-reports</guid>
+      <pubDate>Thu, 13 Mar 2025 21:39:02 +0200</pubDate>
+    </item>
+    <item>
       <title>France: l'exécutif fait le point avec les parlementaires sur l'Ukraine et la défense européenne (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250313-france-l-ex%C3%A9cutif-fait-le-point-avec-les-parlementaires-sur-l-ukraine-et-la-d%C3%A9fense-europ%C3%A9enne</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-lays-out-state-aid-push-to-stoke-green-investments/</guid>
       <pubDate>Tue, 11 Mar 2025 17:58:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Disney enters its robot era (Axios)</title>
-      <link>https://www.axios.com/2025/03/11/disney-enters-its-robot-era</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/11/disney-enters-its-robot-era</guid>
-      <pubDate>Tue, 11 Mar 2025 17:54:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
