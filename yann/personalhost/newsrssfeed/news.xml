@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's envoy arrives in Moscow for Ukraine-Russia ceasefire talks with Putin (Axios)</title>
+      <link>https://www.axios.com/2025/03/13/trump-ukraine-russia-putin-ceasefire-proposal</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/13/trump-ukraine-russia-putin-ceasefire-proposal</guid>
+      <pubDate>Thu, 13 Mar 2025 11:44:23 +0000</pubDate>
+    </item>
+    <item>
       <title> Finland announces $217 million military aid package for Ukraine  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/finland-announces-over-200-million-military-aid-package-for-ukraine</link>
       <author>Kyiv Indpendent</author>
@@ -1425,13 +1432,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/1-killed-17-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
       <pubDate>Tue, 11 Mar 2025 10:09:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>France: la classe politique divisée sur la mise en place d'une «économie de guerre» évoquée par Macron (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250311-france-la-classe-politique-divis%C3%A9e-sur-la-mise-en-place-d-une-%C3%A9conomie-de-guerre-%C3%A9voqu%C3%A9e-par-macron</link>
-      <author>RFI</author>
-      <guid>7299e418-fe3e-11ef-b7e2-005056bf1351</guid>
-      <pubDate>Tue, 11 Mar 2025 06:39:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
