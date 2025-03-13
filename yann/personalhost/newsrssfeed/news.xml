@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU justice chief goes to Washington as trade tensions heat up					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-justice-chief-to-travel-to-washington-amid-tariffs-escalation/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-justice-chief-to-travel-to-washington-amid-tariffs-escalation/</guid>
+      <pubDate>Thu, 13 Mar 2025 09:24:17 -0000</pubDate>
+    </item>
+    <item>
       <title>Migrant traffic in the deadly Darién Gap falls to pandemic levels (Axios)</title>
       <link>https://www.axios.com/2025/03/13/migrant-traffic-darien-gap-falls-pandemic-levels</link>
       <author>Axios</author>
@@ -31,6 +39,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?p=1997170&amp;post_type=article&amp;preview_id=1997170</guid>
       <pubDate>Thu, 13 Mar 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Washington Blues: A Government Town Faces a Gloomy Future (Propublica)</title>
+      <link>https://www.propublica.org/article/washington-dc-trump-musk-federal-government-cutbacks-gloomy-future</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/washington-dc-trump-musk-federal-government-cutbacks-gloomy-future</guid>
+      <pubDate>Thu, 13 Mar 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Pitch Wildlife and Environmental investigations to Bellingcat (Bellingcat)</title>
@@ -417,6 +432,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/ukraine-struggles-to-stay-in-kursk-oblast-until-negotiations-during-russias-new-push</guid>
       <pubDate>Wed, 12 Mar 2025 18:49:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Faut-il étendre la dissuasion nucléaire française ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250312-faut-il-%C3%A9tendre-la-dissuasion-nucl%C3%A9aire-fran%C3%A7aise</link>
+      <author>RFI</author>
+      <guid>9f8c50e2-ff5f-11ef-ba8b-005056a97652</guid>
+      <pubDate>Wed, 12 Mar 2025 16:32:42 GMT</pubDate>
     </item>
     <item>
       <title>Nouvelle avancée russe à Koursk: «Les Ukrainiens ne peuvent pas tenir dans cette région» (RFI)</title>
@@ -1414,29 +1436,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/uk-pitch-donald-trump-tech-pact-us-politics-trade-policies-tariffs-watern-democracy/</guid>
       <pubDate>Tue, 11 Mar 2025 03:18:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump says Ukraine doesn’t hold any cards — he’s the one snatching them					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-ukraine-war-russia-military-aid-intelligence-gaps-defense/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-ukraine-war-russia-military-aid-intelligence-gaps-defense/</guid>
-      <pubDate>Tue, 11 Mar 2025 03:03:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Oil tanker collides with cargo ship in North Sea					 (Politico)</title>
-      <link>https://www.politico.eu/article/oil-tanker-collides-with-cargo-ship-in-north-sea/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/oil-tanker-collides-with-cargo-ship-in-north-sea/</guid>
-      <pubDate>Tue, 11 Mar 2025 02:16:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump promises more arrests after pro-Palestinian activist detained by ICE (Axios)</title>
-      <link>https://www.axios.com/2025/03/10/trump-mahmoud-khalil-arrest-deportation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/10/trump-mahmoud-khalil-arrest-deportation</guid>
-      <pubDate>Tue, 11 Mar 2025 01:22:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
