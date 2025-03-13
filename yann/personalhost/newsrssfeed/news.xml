@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>California Borrows $3.4 Billion for Medicaid Overrun as Congress Eyes Steep Cuts (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/california-medi-cal-medicaid-budget-shortfall-loan-general-fund-costs/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2000481</guid>
+      <pubDate>Thu, 13 Mar 2025 20:10:24 +0000</pubDate>
+    </item>
+    <item>
       <title> Hungary seeks removal of Russian oligarch Fridman from EU sanctions list, FT reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/hungary-seeks-removal-of-russian-oligarch-fridman-from-eu-sanctions-list-ft-reports</link>
       <author>Kyiv Indpendent</author>
@@ -402,6 +409,13 @@
       <author>RFI</author>
       <guid>38406cb4-fff2-11ef-b5c8-005056bf1351</guid>
       <pubDate>Thu, 13 Mar 2025 10:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>America’s bullied allies need to toughen up (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/03/13/americas-bullied-allies-need-to-toughen-up</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/leaders/2025/03/13/americas-bullied-allies-need-to-toughen-up</guid>
+      <pubDate>Thu, 13 Mar 2025 10:16:29 GMT</pubDate>
     </item>
     <item>
       <title>CEOs push for patience with Trump (Axios)</title>
@@ -1417,21 +1431,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/europe-migration-crackdown-far-right-deportations/</guid>
       <pubDate>Tue, 11 Mar 2025 18:13:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>U.S. says Ukraine agreed to proposal for 30-day ceasefire with Russia (Axios)</title>
-      <link>https://www.axios.com/2025/03/11/ukraine-russia-ceasefire-30-days</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/11/ukraine-russia-ceasefire-30-days</guid>
-      <pubDate>Tue, 11 Mar 2025 18:13:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU lays out state aid push to stoke green investments					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-lays-out-state-aid-push-to-stoke-green-investments/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-lays-out-state-aid-push-to-stoke-green-investments/</guid>
-      <pubDate>Tue, 11 Mar 2025 17:58:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
