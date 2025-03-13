@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: les négociations sur la trêve avec la Russie s'annoncent serrées (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250313-guerre-en-ukraine-les-n%C3%A9gociations-sur-la-tr%C3%AAve-avec-la-russie-s-annoncent-serr%C3%A9es</link>
+      <author>RFI</author>
+      <guid>042b925c-0004-11f0-90f9-005056bf1351</guid>
+      <pubDate>Thu, 13 Mar 2025 12:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>This week’s cover (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/03/13/this-weeks-cover</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/cq858gs7egajdu0b26de3sue91c8ohkj</guid>
+      <pubDate>Thu, 13 Mar 2025 12:30:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Polish president urges U.S. to move nukes to Poland (Axios)</title>
       <link>https://www.axios.com/2025/03/13/poland-nuclear-weapons-trump-duda-nato-russia</link>
       <author>Axios</author>
@@ -81,6 +95,13 @@
       <link>https://www.axios.com/2025/03/13/openai-chris-lehane-trump-policy</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/13/openai-chris-lehane-trump-policy</guid>
+      <pubDate>Thu, 13 Mar 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wildlife and Conservation Scientists Are Next in Line for Trump’s Chopping Block (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/03/fish-wildlife-us-geological-survey-scientists-conservation-trump-doge-firings-force-reductions/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1120700</guid>
       <pubDate>Thu, 13 Mar 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -476,6 +497,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/12/medicare-innovation-center-cancels-projects</guid>
       <pubDate>Wed, 12 Mar 2025 17:22:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>DOGE comes to England’s health service (Economist)</title>
+      <link>https://www.economist.com/britain/2025/03/12/doge-comes-to-englands-health-service</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/britain/2025/03/12/doge-comes-to-englands-health-service</guid>
+      <pubDate>Wed, 12 Mar 2025 17:20:38 GMT</pubDate>
     </item>
     <item>
       <title>Google’s Gemma 3 is an open source, single-GPU AI with a 128K context window (Arstechnica)</title>
@@ -1404,34 +1432,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=1997700</guid>
       <pubDate>Tue, 11 Mar 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>He Was Convicted Based on Allegedly Fabricated Bite Mark Analysis. Louisiana Wants to Execute Him Anyway. (Propublica)</title>
-      <link>https://www.propublica.org/article/louisiana-jimmie-duncan-bite-mark-analysis-death-row-junk-science</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/louisiana-jimmie-duncan-bite-mark-analysis-death-row-junk-science</guid>
-      <pubDate>Tue, 11 Mar 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title> US has not discussed Russia sanctions relief with EU, Rubio says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/us-has-not-discussed-russia-sanctions-relief-with-eu-rubio-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/us-has-not-discussed-russia-sanctions-relief-with-eu-rubio-says</guid>
-      <pubDate>Tue, 11 Mar 2025 10:48:38 +0200</pubDate>
-    </item>
-    <item>
-      <title>In Trump’s new purge of climate language, even ‘resilience’ isn’t safe (Grist)</title>
-      <link>https://grist.org/language/trump-delete-climate-change-words-resilience-order/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=660099</guid>
-      <pubDate>Tue, 11 Mar 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aus-Eng 150th anniversary Test will be day-night match (BBC)</title>
-      <link>https://www.bbc.com/sport/cricket/articles/c337m7lldy2o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/sport/cricket/articles/c337m7lldy2o#0</guid>
-      <pubDate>Tue, 11 Mar 2025 08:35:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
