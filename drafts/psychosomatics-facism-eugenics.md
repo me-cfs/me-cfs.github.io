@@ -74,7 +74,7 @@ This was not completely new, the previous Greek social elite and ruling class of
 bio-psychology [was used] with a view to ensure as much control as possible [over those deemed “deviant”] […]  eugenics discourse established a patriarchal, biomedical, liberal eugenic order.
 (Tzanaki 2022)
 
-In the sense that psychiatric traits (caused by unchangeable genetics) are the core basis of every facet of suffering and oppression, psychoabsolutism, a radical form of psychosomatics and psychological determinism, paired with eugenics, was central to the fascistoid world view.
+In the sense that psychiatric traits (seen as caused by unchangeable genetics) are the core basis of every facet of suffering and oppression, psychoabsolutism, a radical form of psychosomatics and psychological determinism, paired with eugenics, was central to the fascistoid world view.
 
 > Metaxas’s regime managed to perform what gives the impression of a kind of magic trick: by using psychiatric technocracy on profound economic inequality, it elaborated an authoritarian, patriarchal, biomedical discourse on psychic normality. Therefore, injustice, poverty, and even industrial labour accidents, emerged in the dominant discourse as the result of a person’s mental illness. Moreover, parallel to the leading biomedical discourse, the political rhetoric of the time sought to stigmatise communist men and women, accusing them of perversity and abnormality.
 (Tzanaki 2022)
