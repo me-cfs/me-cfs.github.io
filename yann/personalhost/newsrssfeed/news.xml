@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Wyden, Sanders blocked from attempt to pass standalone health package (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5196027-wyden-sanders-health-package-pbm-blocked/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5196027</guid>
+      <pubDate>Fri, 14 Mar 2025 21:44:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Ten Senate Democrats cave to avert government shutdown (Axios)</title>
       <link>https://www.axios.com/2025/03/14/senate-democrats-vote-with-republicans-avoid-government-shutdown</link>
       <author>Axios</author>
@@ -194,6 +201,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/chinese-state-oil-firms-cut-russian-crude-purchases-over-us-sanctions-fears-reuters-reports</guid>
       <pubDate>Fri, 14 Mar 2025 15:24:43 +0200</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump’s unwillingness to heed allies’ advice is foreign-policy folly, writes Gary Bass (Economist)</title>
+      <link>https://www.economist.com/by-invitation/2025/03/14/donald-trumps-unwillingness-to-heed-allies-advice-is-foreign-policy-folly-writes-gary-bass</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/by-invitation/2025/03/14/donald-trumps-unwillingness-to-heed-allies-advice-is-foreign-policy-folly-writes-gary-bass</guid>
+      <pubDate>Fri, 14 Mar 2025 13:19:26 GMT</pubDate>
     </item>
     <item>
       <title>Le Conseil fédéral veut un internet à haut débit pour l'ensemble de la Suisse (RTS)</title>
@@ -1413,20 +1427,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/international/2025/03/12/europe-thinks-the-unthinkable-on-a-nuclear-bomb</guid>
       <pubDate>Wed, 12 Mar 2025 19:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google’s new robot AI can fold delicate origami, close zipper bags without damage (Arstechnica)</title>
-      <link>https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/</guid>
-      <pubDate>Wed, 12 Mar 2025 19:38:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Martin Pfister: "Je veux être conseiller fédéral dès le premier jour et être capable de prendre des décisions" (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/martin-pfister-elu-au-conseil-federal-vise-le-departement-de-la-defense-28820264.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28820264</guid>
-      <pubDate>Wed, 12 Mar 2025 19:27:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
