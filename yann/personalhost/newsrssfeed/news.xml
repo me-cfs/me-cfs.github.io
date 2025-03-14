@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Cérémonie de remise des 13ᵉ Trophées des Français de l'étranger à Paris (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20250314-c%C3%A9r%C3%A9monie-de-remise-des-13%E1%B5%89-troph%C3%A9es-des-fran%C3%A7ais-de-l-%C3%A9tranger-%C3%A0-paris</link>
+      <author>RFI</author>
+      <guid>376965b4-009e-11f0-aab4-005056a97652</guid>
+      <pubDate>Fri, 14 Mar 2025 23:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meet Joanne: The 16-year-old on track to become Australia's first female Formula 1 driver (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/the-teenager-on-track-to-become-australias-first-female-f1-driver/e868y3cvx</link>
+      <author>SBS News</author>
+      <guid>00000195-8842-d0c6-a59f-be636b060000</guid>
+      <pubDate>Fri, 14 Mar 2025 22:44:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Wyden, Sanders blocked from attempt to pass standalone health package (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5196027-wyden-sanders-health-package-pbm-blocked/</link>
       <author>The Hill</author>
@@ -166,6 +180,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/us-news/2025/mar/14/sudan-rejects-us-request-discuss-taking-palestinians-donald-trump-gaza-plan</guid>
       <pubDate>Fri, 14 Mar 2025 14:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>At 100 “The Great Gatsby” is as urgent as ever, old sport (Economist)</title>
+      <link>https://www.economist.com/culture/2025/03/14/at-100-the-great-gatsby-is-as-urgent-as-ever-old-sport</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/culture/2025/03/14/at-100-the-great-gatsby-is-as-urgent-as-ever-old-sport</guid>
+      <pubDate>Fri, 14 Mar 2025 14:20:54 GMT</pubDate>
     </item>
     <item>
       <title>Trump asks Putin to spare "surrounded" Ukrainian troops amid ceasefire push (Axios)</title>
@@ -1406,27 +1427,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/local/denver/2025/03/12/mass-shootings-1-in-15-cu-boulder-study-jama</guid>
       <pubDate>Wed, 12 Mar 2025 20:02:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>In Memoriam: Mark Klein, AT&amp;T Whistleblower Who Revealed NSA Mass Spying (Electronic Frontiers Foundation)</title>
-      <link>https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying</link>
-      <author>Electronic Frontiers Foundation</author>
-      <guid>110530 at https://www.eff.org</guid>
-      <pubDate>Wed, 12 Mar 2025 20:01:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guatemala: Amnesty International condemns the return to prison of journalist Jose Rubén Zamora (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/03/guatemala-amnesty-international-condemns-the-return-to-prison-of-journalist-jose-ruben-zamora/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=223877</guid>
-      <pubDate>Wed, 12 Mar 2025 19:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>World responds to Trump tariff frenzy (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/03/13/donald-trump-tariffs-eu-canada-peter-dutton-policies-aukus/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1197977</guid>
-      <pubDate>Wed, 12 Mar 2025 19:56:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
