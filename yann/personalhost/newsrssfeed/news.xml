@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>'For holding a wombat, thousands threatened my life' (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cm2d1x4ykvgo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cm2d1x4ykvgo#0</guid>
+      <pubDate>Fri, 14 Mar 2025 20:58:40 GMT</pubDate>
+    </item>
+    <item>
       <title>FAA closes helicopter route near D.C. airport after fatal crash (Axios)</title>
       <link>https://www.axios.com/2025/03/14/faa-dc-airport-closure</link>
       <author>Axios</author>
@@ -1421,13 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/romania-lashes-out-russia-calin-georgescu-election-ban-furor-intensifies/</guid>
       <pubDate>Wed, 12 Mar 2025 19:06:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>A Great Unraveling Is Underway (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/11/opinion/trump-economy-tariffs.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/11/opinion/trump-economy-tariffs.html</guid>
-      <pubDate>Wed, 12 Mar 2025 17:43:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
