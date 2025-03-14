@@ -68,7 +68,7 @@ Importantly, psychosomatic theories were central to the rationalisation of infer
 > while Metaxas’s regime did not implement forced eugenic sterilisation, it introduced a new concept into politics, one which attributed all social ills to psychic disease as well as to political, sexual and gender identity.
 (Tzanaki 2022)
 
-This was not completely new, the previous Greek social elite and ruling class often presented medical illness as the cause of all social problems, from diseases to poverty. (Kouroutzas et Tzanaki). What was new, was the scale and centrality of these ideas within their political theories, and their use to rationalise oppression carried out by Metaxus’ fascistoid regime. 
+This was not completely new, the previous Greek social elite and ruling class often presented mental illness as the cause of all social problems, from diseases to poverty. (Kouroutzas et Tzanaki). What was new, was the scale and centrality of these ideas within their political theories, and their use to rationalise oppression carried out by Metaxus’ fascistoid regime. 
 
 >  Moreover, the state now emerged as a ‘new’ endeavour, as a network of interrelationships based not on economic interest and family bonds but on individuals’ capacities, according to their moral, psychic, sexual, gender and social heredity. As a result, the ‘new’ state propagated its role as neutral and objective, above and beyond political parties, social classes, and political benefits. […] 
 bio-psychology [was used] with a view to ensure as much control as possible [over those deemed “deviant”] […]  eugenics discourse established a patriarchal, biomedical, liberal eugenic order.
