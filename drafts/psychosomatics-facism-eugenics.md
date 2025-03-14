@@ -28,7 +28,7 @@ She founded the American Society of Psychosomatics in 1942 and was the first edi
 
 Franz Alexander, sometimes called the father of psychosomatics, had similar beliefs. He viewed organic illness through psychoanalysis, forming a theory of “organ specificity”, where specific psychological stressors evoke specific organic damage to different organs. This was based on studying, among others, peptic ulcers and rheumatoid arthritis (we now know peptic ulcers are caused by bacterial infection).
 
-Although the prime of Dunbar and Alexander's career neared it's end, the popularity of the theories they put forward did not immediately wane post-world war 2
+Although the prime of Dunbar and Alexander's career ended after World War II, the popularity of the theories they put forward did not immediately wane.
 > [post WW2] general practitioners would be receptive to teaching and applying psychosomatic medicine to the many veterans and to patients with "functional disorders" admitted to general hospitals. Although the courses were well attended and full of promise, the impediments to implementation led to disappointing results.
 
 ([The Evolution of Psychosomatic Medicine](http://turkpsikiyatri.org/arsiv/History_of_Psychosomatic_Medicine_Blumenfeld.pdf))Blumenfeld
@@ -37,7 +37,7 @@ Eventually in the 1950s, the first edition of the DSM (sometimes referred to as 
 
 The takeaway from all this that is relevant to the next section, is that 20th century psychosomatics has pseudoscientific roots, and that it seeks not just to explain a few select illnesses as mind-body, but large swaths, and if allowed, the entirety of medicine. Echos of this can be seen in the 1980s for example where Cognitive-behavioural therapy was increasingly thought to improve breast cancer outcomes. 
 
-## Psychosomatics, Eugenice, and Facism
+## Psychosomatics, Eugenics, and Facism
 The eugenics movement was strongly based on genetic determinism, to the point that they saw both biological realities and sociopsychological realities as being caused by genetic factors. They framed criminality, poverty, illness, “deviant states” (queerness), as being caused by hereditary factors.
 
 Many chronic illnesses didn’t fit well into that paradigm. How could someone born perfectly healthy all of the sudden develop a vague and persistent state of disease, especially if that disease doesn’t follow obvious hereditary patterns. The psychosomatic movement offered a simplistic (and therefore “elegant”) solution to the disconnect between many chronic illnesses and eugenic theories. 
