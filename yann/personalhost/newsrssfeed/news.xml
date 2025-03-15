@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Parcours de Julien Balanqueux, Prix du public des 13è Trophées des Français de l'étranger (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20250315-parcours-de-julien-balanqueux-prix-du-public-des-13%C3%A8-troph%C3%A9es-des-fran%C3%A7ais-de-l-%C3%A9tranger</link>
+      <author>RFI</author>
+      <guid>343c2a28-00aa-11f0-8566-005056a97652</guid>
+      <pubDate>Sat, 15 Mar 2025 23:06:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Italie: vaste rassemblement citoyen à Rome pour défendre l’Europe (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250315-italie-vaste-rassemblement-citoyen-%C3%A0-rome-pour-d%C3%A9fendre-l-europe</link>
+      <author>RFI</author>
+      <guid>e80b48e4-01f0-11f0-bd65-005056a97652</guid>
+      <pubDate>Sat, 15 Mar 2025 23:04:59 GMT</pubDate>
+    </item>
+    <item>
       <title> ‘Painful for Russia:’ What new U.S. sanctions on Russian energy mean for Moscow  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/painful-for-russia-what-new-u-s-sanctions-on-russian-energy-mean-for-moscow</link>
       <author>Kyiv Indpendent</author>
@@ -1244,6 +1258,13 @@
       <pubDate>Thu, 13 Mar 2025 14:45:26 GMT</pubDate>
     </item>
     <item>
+      <title>American politics prompt some Chinese to explore historical taboos (Economist)</title>
+      <link>https://www.economist.com/china/2025/03/13/american-politics-prompt-some-chinese-to-explore-historical-taboos</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/china/2025/03/13/american-politics-prompt-some-chinese-to-explore-historical-taboos</guid>
+      <pubDate>Thu, 13 Mar 2025 14:45:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Les accidents de la route ont fait 250 morts l'an dernier en Suisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/accidents-de-la-route-en-suisse-250-morts-en-2024-un-record-depuis-2015-28821076.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1406,27 +1427,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/vladimir-putin-russian-troops-kursk-war-in-ukraine-peace-talks/</guid>
       <pubDate>Thu, 13 Mar 2025 10:32:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Making Sweatshops Great Again (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/making-sweatshops-great-again</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/making-sweatshops-great-again</guid>
-      <pubDate>Thu, 13 Mar 2025 10:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: «Trump a déjà dealé avec Poutine, tout ce à quoi on assiste est du cirque», selon Guillaume Ancel (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250313-ukraine-trump-d%C3%A9j%C3%A0-deal%C3%A9-avec-poutine-tout-ce-%C3%A0-quoi-on-assiste-est-du-cirque-selon-guillaume-ancel</link>
-      <author>RFI</author>
-      <guid>38406cb4-fff2-11ef-b5c8-005056bf1351</guid>
-      <pubDate>Thu, 13 Mar 2025 10:23:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>America’s bullied allies need to toughen up (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/03/13/americas-bullied-allies-need-to-toughen-up</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/03/13/americas-bullied-allies-need-to-toughen-up</guid>
-      <pubDate>Thu, 13 Mar 2025 10:16:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
