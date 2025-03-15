@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Tracking Trump: The trade war, Ukraine and Columbia (Axios)</title>
+      <link>https://www.axios.com/2025/03/15/trump-tariffs-ukraine-ceasefire-khalil</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/15/trump-tariffs-ukraine-ceasefire-khalil</guid>
+      <pubDate>Sat, 15 Mar 2025 00:24:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boehler withdraws nomination as special presidential envoy for hostages affairs (Axios)</title>
+      <link>https://www.axios.com/2025/03/15/adam-boehler-nomination-special-presidential-envoy-hostages</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/15/adam-boehler-nomination-special-presidential-envoy-hostages</guid>
+      <pubDate>Sat, 15 Mar 2025 00:04:33 +0000</pubDate>
+    </item>
+    <item>
       <title>En Serbie, le président Vucic se prépare à la mobilisation du 15 mars contre le pouvoir (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250314-en-serbie-le-pr%C3%A9sident-vucic-se-pr%C3%A9pare-%C3%A0-la-mobilisation-du-15-mars-contre-le-pouvoir</link>
       <author>RFI</author>
@@ -31,6 +45,13 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5196027</guid>
       <pubDate>Fri, 14 Mar 2025 21:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Video: Blood Moon Total Lunar Eclipse (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/13/science/lunar-eclipse-blood-moon.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/13/science/lunar-eclipse-blood-moon.html</guid>
+      <pubDate>Fri, 14 Mar 2025 21:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Ten Senate Democrats cave to avert government shutdown (Axios)</title>
@@ -658,6 +679,13 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/ticket-office-cuts-by-three-rail-firms-are-just-a-test-run-for-fresh-round-of-reductions-campaigners-warn/</guid>
       <pubDate>Thu, 13 Mar 2025 18:05:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>DOGE Makes Its Latest Errors Harder to Find (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/13/us/politics/doge-errors-funding-grants-claims.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/13/us/politics/doge-errors-funding-grants-claims.html</guid>
+      <pubDate>Thu, 13 Mar 2025 18:01:31 +0000</pubDate>
     </item>
     <item>
       <title>Allemagne: débats tendus sur le plan d'investissements du futur chancelier Friedrich Merz (RFI)</title>
@@ -1398,35 +1426,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/tech-policy/2025/03/epa-accused-of-faking-criminal-investigation-to-claw-back-climate-funds/</guid>
       <pubDate>Wed, 12 Mar 2025 21:21:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Walmart clashes with China after asking suppliers to absorb tariffs (Axios)</title>
-      <link>https://www.axios.com/2025/03/12/trump-tariffs-walmart-china</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/12/trump-tariffs-walmart-china</guid>
-      <pubDate>Wed, 12 Mar 2025 21:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cheating Scandal Shocks Ski Jumping, Topples Norway's Lofty Reputation (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/norway-ski-jumping-cheating_n_67d1f44ee4b0668b4e9d5638</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/norway-ski-jumping-cheating_n_67d1f44ee4b0668b4e9d5638</guid>
-      <pubDate>Wed, 12 Mar 2025 21:19:12 -0000</pubDate>
-    </item>
-    <item>
-      <title>Democracy Dies in Dumbness (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/11/opinion/trump-tariffs-recession-ukraine.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/11/opinion/trump-tariffs-recession-ukraine.html</guid>
-      <pubDate>Wed, 12 Mar 2025 20:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Poland’s Tusk wants Turkey to take a leading role in ending Ukraine war					 (Politico)</title>
-      <link>https://www.politico.eu/article/poland-donald-tusk-turkey-ending-war-ukraine-russia-europe/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/poland-donald-tusk-turkey-ending-war-ukraine-russia-europe/</guid>
-      <pubDate>Wed, 12 Mar 2025 20:14:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
