@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/rearmer-la-france</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22957</guid>
+      <pubDate>03/16/2025 17:00</pubDate>
+    </item>
+    <item>
       <title>Trump up, Dems down in new polls (Axios)</title>
       <link>https://www.axios.com/2025/03/16/trump-high-dems-low-new-poll</link>
       <author>Axios</author>
@@ -1313,6 +1320,13 @@
       <pubDate>Thu, 13 Mar 2025 14:53:49 +0000</pubDate>
     </item>
     <item>
+      <title>Senate unveils its bid to curb US investment in China as House waits (Semafor)</title>
+      <link>https://www.semafor.com/article/03/13/2025/senate-unveils-its-bid-to-curb-us-investment-in-china-as-house-waits</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/03/13/2025/senate-unveils-its-bid-to-curb-us-investment-in-china-as-house-waits</guid>
+      <pubDate>Thu, 13 Mar 2025 14:51:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Bhattacharya's nomination as NIH director advances in Senate (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5192529-jay-bhattacharya-nih-director/</link>
       <author>The Hill</author>
@@ -1416,20 +1430,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/china/2025/03/13/american-politics-prompt-some-chinese-to-explore-historical-taboos</guid>
       <pubDate>Thu, 13 Mar 2025 14:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jane Austen’s forgotten inspirations (Economist)</title>
-      <link>https://www.economist.com/culture/2025/03/13/jane-austens-forgotten-inspirations</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/culture/2025/03/13/jane-austens-forgotten-inspirations</guid>
-      <pubDate>Thu, 13 Mar 2025 14:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Les accidents de la route ont fait 250 morts l'an dernier en Suisse (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/accidents-de-la-route-en-suisse-250-morts-en-2024-un-record-depuis-2015-28821076.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28821076</guid>
-      <pubDate>Thu, 13 Mar 2025 14:42:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
