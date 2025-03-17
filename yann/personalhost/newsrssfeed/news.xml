@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les militants du Parti socialiste face aux divisions de leur parti (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250317-les-militants-ps-face-aux-divisions-de-leur-parti</link>
+      <author>RFI</author>
+      <guid>0e3f93ca-0350-11f0-8a9d-005056a97652</guid>
+      <pubDate>Mon, 17 Mar 2025 23:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Judge in Venezuelan deportations case sets DOJ Tuesday deadline to provide more details (Axios)</title>
+      <link>https://www.axios.com/2025/03/17/trump-judge-deportation-venezuelans-el-salvador</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/17/trump-judge-deportation-venezuelans-el-salvador</guid>
+      <pubDate>Mon, 17 Mar 2025 22:58:19 +0000</pubDate>
+    </item>
+    <item>
       <title>Judge convenes 'fact-finding' hearing over Trump deportation flights (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/video/judge-convenes-fact-finding-hearing-trump-deportation-flights-119887852</link>
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/video/judge-convenes-fact-finding-hearing-trump-deportation-flights-119887852</guid>
       <pubDate>Mon, 17 Mar 2025 22:46:28 -0000</pubDate>
+    </item>
+    <item>
+      <title>Federal funding for mRNA vaccine research in jeopardy under RFK Jr. (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/03/federal-funding-for-mrna-vaccine-research-in-jeopardy-under-rfk-jr/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/03/federal-funding-for-mrna-vaccine-research-in-jeopardy-under-rfk-jr/</guid>
+      <pubDate>Mon, 17 Mar 2025 22:42:08 +0000</pubDate>
     </item>
     <item>
       <title>Trump claims Biden's pardons for Jan. 6 committee are 'void.' Legal experts disagree (Fivethirtyeight)</title>
@@ -1402,27 +1423,6 @@
       <author>RFI</author>
       <guid>3460956a-0178-11f0-a880-005056bf1351</guid>
       <pubDate>Sat, 15 Mar 2025 08:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>'For holding a wombat, thousands threatened my life' (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cm2d1x4ykvgo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cm2d1x4ykvgo#0</guid>
-      <pubDate>Sat, 15 Mar 2025 08:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scientifiques, politiques, journalistes: cinq ans après le Covid, retour dans les "coulisses d'une pandémie" (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/covid-19-5-ans-apres-les-coulisses-de-la-pandemie-racontees-par-ses-acteurs-28819930.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28819930</guid>
-      <pubDate>Sat, 15 Mar 2025 07:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Des loyers genevois hors de prix, des scientifiques américains convoités et un nouvel eldorado pour le trafic de drogue (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/geneve-hausse-massive-des-loyers-apres-changement-de-locataire-28821987.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28821987</guid>
-      <pubDate>Sat, 15 Mar 2025 07:12:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
