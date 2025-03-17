@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>‘I was terrified’: refugees who fled DRC to Burundi recall deadly river crossing (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/mar/17/terrified-refugees-fled-drc-burundi-deadly-river-crossing</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/mar/17/terrified-refugees-fled-drc-burundi-deadly-river-crossing</guid>
+      <pubDate>Mon, 17 Mar 2025 05:00:41 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Italy’s release of a warlord puts Meloni’s entanglements with Libya under scrutiny					 (Politico)</title>
       <link>https://www.politico.eu/article/osama-al-masri-njeem-giorgia-meloni-libya-connections/</link>
@@ -186,6 +193,13 @@
       <author>Economist</author>
       <guid>https://www.economist.com/united-states/2025/03/16/america-is-facing-a-beef-deficit</guid>
       <pubDate>Sun, 16 Mar 2025 18:39:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Were Badly Misled About Covid (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html</guid>
+      <pubDate>Sun, 16 Mar 2025 18:03:51 +0000</pubDate>
     </item>
     <item>
       <title> UK proposes Western peacekeeping mission of 10,000 troops in Ukraine  (Kyiv Indpendent)</title>
@@ -444,6 +458,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/15/kyrsten-sinema-filibuster-aoc-jayapal</guid>
       <pubDate>Sat, 15 Mar 2025 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>4 Weird Signs You’re Getting Older (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/14/well/aging-process-getting-older.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/14/well/aging-process-getting-older.html</guid>
+      <pubDate>Sat, 15 Mar 2025 16:47:50 +0000</pubDate>
     </item>
     <item>
       <title>Election Denier Michael Flynn Attended Trump’s Justice Department Speech  (Motherjones)</title>
@@ -1416,27 +1437,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/13/us/politics/doge-errors-funding-grants-claims.html</guid>
       <pubDate>Thu, 13 Mar 2025 18:01:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: débats tendus sur le plan d'investissements du futur chancelier Friedrich Merz (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250313-allemagne-d%C3%A9bats-tendus-sur-le-plan-d-investissements-du-futur-chancelier-friedrich-merz</link>
-      <author>RFI</author>
-      <guid>dc0cf8ca-0034-11f0-82b8-005056a97652</guid>
-      <pubDate>Thu, 13 Mar 2025 17:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title> Russian-occupied Zaporizhzhia nuclear plant part of peace talks, Trump says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russian-occupied-zaporizhzhia-nuclear-plant-part-of-peace-talks-trump-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russian-occupied-zaporizhzhia-nuclear-plant-part-of-peace-talks-trump-says</guid>
-      <pubDate>Thu, 13 Mar 2025 19:51:40 +0200</pubDate>
-    </item>
-    <item>
-      <title>Il y a cinq ans, le Conseil fédéral annonçait le confinement et la Suisse basculait dans l'incertitude (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/covid-19-en-suisse-5-ans-apres-le-confinement-quel-impact-sur-la-societe-28821094.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28821094</guid>
-      <pubDate>Thu, 13 Mar 2025 17:44:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
