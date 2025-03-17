@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: l'inspection de l'établissement Notre-Dame de Bétharram a débuté (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250317-france-l-inspection-de-l-%C3%A9tablissement-notre-dame-de-b%C3%A9tharram-a-d%C3%A9but%C3%A9</link>
+      <author>RFI</author>
+      <guid>91a055c0-036d-11f0-bf18-005056bf1351</guid>
+      <pubDate>Mon, 17 Mar 2025 20:48:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Court hearing on deportations moves ahead despite Justice Department objection (Axios)</title>
       <link>https://www.axios.com/2025/03/17/trump-deportation-flights-venezuelans-judge</link>
       <author>Axios</author>
@@ -90,6 +97,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/canada-mark-carney-donald-trump-trip-abroad-with-implicit-digs/</guid>
       <pubDate>Mon, 17 Mar 2025 17:58:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine’s army escapes from Kursk by the skin of its teeth (Economist)</title>
+      <link>https://www.economist.com/europe/2025/03/17/ukraines-army-escapes-from-kursk-by-the-skin-of-its-teeth</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/europe/2025/03/17/ukraines-army-escapes-from-kursk-by-the-skin-of-its-teeth</guid>
+      <pubDate>Mon, 17 Mar 2025 17:41:53 GMT</pubDate>
     </item>
     <item>
       <title>How many scientific papers are fake? (ME/LC News)</title>
@@ -1414,20 +1428,6 @@
       <author>RFI</author>
       <guid>376965b4-009e-11f0-aab4-005056a97652</guid>
       <pubDate>Fri, 14 Mar 2025 23:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump spikes football at Justice Department (Axios)</title>
-      <link>https://www.axios.com/2025/03/14/trump-justice-department-republicans</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/14/trump-justice-department-republicans</guid>
-      <pubDate>Fri, 14 Mar 2025 22:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet Joanne: The 16-year-old on track to become Australia's first female Formula 1 driver (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/the-teenager-on-track-to-become-australias-first-female-f1-driver/e868y3cvx</link>
-      <author>SBS News</author>
-      <guid>00000195-8842-d0c6-a59f-be636b060000</guid>
-      <pubDate>Fri, 14 Mar 2025 22:44:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
