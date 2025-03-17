@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une dénonciation pénale vise l’élu à l’origine de la demande de suspension du financement de l’UNRWA (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/plainte-penale-contre-un-elu-udc-pour-sa-motion-anti-unrwa-28824980.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28824980</guid>
+      <pubDate>Mon, 17 Mar 2025 18:36:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Judge to hear arguments if Trump Admin. violated a court order with mass deportations (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/video/judge-hear-arguments-trump-admin-violated-court-order-119880930</link>
       <author>Fivethirtyeight</author>
@@ -1420,13 +1427,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/14/us/politics/government-shutdown-spending-bill-schumer-democrats.html</guid>
       <pubDate>Fri, 14 Mar 2025 20:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>FAA closes helicopter route near D.C. airport after fatal crash (Axios)</title>
-      <link>https://www.axios.com/2025/03/14/faa-dc-airport-closure</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/14/faa-dc-airport-closure</guid>
-      <pubDate>Fri, 14 Mar 2025 20:20:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
