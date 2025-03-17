@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Parlement donne plus de pouvoir aux assureurs en matière de remboursement des prestations (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28809591.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28809591</guid>
+      <pubDate>Mon, 17 Mar 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump repeals America’s first-ever tax on greenhouse gases before it goes into effect (Grist)</title>
       <link>https://grist.org/politics/trump-repeals-americas-first-ever-tax-on-greenhouse-gases-before-it-goes-into-effect/</link>
       <author>Grist</author>
@@ -1426,13 +1433,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/huawei-bribery-scandal-anti-corruption-eu-qatargate-ethics/</guid>
       <pubDate>Fri, 14 Mar 2025 04:47:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>Lawyers for Mahmoud Khalil seek immediate release on free speech grounds (Axios)</title>
-      <link>https://www.axios.com/2025/03/14/lawyers-mahmoud-khalil-release-free-speech</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/14/lawyers-mahmoud-khalil-release-free-speech</guid>
-      <pubDate>Fri, 14 Mar 2025 03:54:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
