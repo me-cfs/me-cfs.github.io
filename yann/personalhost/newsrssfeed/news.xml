@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>DOJ remains defiant about Venezuela deportation flights (Axios)</title>
+      <link>https://www.axios.com/2025/03/18/justice-department-venezuelan-migrant-deportations-responses</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/18/justice-department-venezuelan-migrant-deportations-responses</guid>
+      <pubDate>Tue, 18 Mar 2025 17:12:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Schumer defends vote to avert shutdown and his position as Senate Democratic leader (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/schumer-defends-vote-avert-shutdown-position-senate-democratic/story?id=119913097</link>
       <author>Fivethirtyeight</author>
@@ -259,6 +266,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/video/jfk-assassination-files-released-119902406</guid>
       <pubDate>Tue, 18 Mar 2025 10:47:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>The Stages of Trumpist Economic Grief (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-stages-of-trumpist-economic-grief</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-stages-of-trumpist-economic-grief</guid>
+      <pubDate>Tue, 18 Mar 2025 10:30:56 GMT</pubDate>
     </item>
     <item>
       <title>Trump silencing VOA threatens free media in repressive countries, advocates say (Fivethirtyeight)</title>
@@ -1409,20 +1423,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/03/16/2025/chinas-xi-jinping-snubs-european-union-summit-invite</guid>
       <pubDate>Sun, 16 Mar 2025 22:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats Are Furious With Chuck Schumer (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/schumer-trump-budget-senate-dems-aoc/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1121157</guid>
-      <pubDate>Sun, 16 Mar 2025 21:54:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbie: polémique sur l'utilisation présumée de canon à son lors de la manifestation de Belgrade (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250316-serbie-pol%C3%A9mique-sur-l-utilisation-pr%C3%A9sum%C3%A9e-de-canon-%C3%A0-son-lors-de-la-manifestation-de-belgrade</link>
-      <author>RFI</author>
-      <guid>ce21d914-02a6-11f0-8972-005056bf1351</guid>
-      <pubDate>Sun, 16 Mar 2025 21:17:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
