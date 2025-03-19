@@ -54,12 +54,15 @@ const fluffyTitle = ['spirit of', 'the tragedy of', 'just gave us', 'grandma', '
     "more to come", "Uh Oh", "rêves et défis", 
 ];
 // -Axios, -BBC Aus, -Economist, -Fivethirtyeight, -NYT Most Viewed, -Politico EU, -RFI, -RTS, -SBS
-const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation', "listen", "video", "journalists talk",];
+const nonArticle = ['podcast', 'quiz', 'video', 'watch', 'join the conversation', "listen", "video", "journalists talk",
+  "picture",
+];
 // -BBC Aus, -CrimethInc, -Economist, -Fivethirtyeight, -Guardian Afr, -KFF Health, -Open Democracy, -RTS
 const nonInformativeTitle = ['how much', '?', 'pour vous?', 'what to know', 'what we know', 'what you can do to', 'new details in',
     'how it happened', 'know about', 'who is', 'why', 'will the', 'winners and losers', 'the best way', 'understanding',
     'these', "let's try something", 'to watch', 'inside', "things to watch", "takeaway", 'meet the', "5 big moment", 
-    "the truth about", "might have missed", "may have missed", "here's how", "What", "what it means",
+    "the truth about", "might have missed", "may have missed", "here's how", "What", "what it means", "this never happened",
+    
 ];
 // -Axios. -Byline Times, -Crikey, -Economist, -Grist, -Guardian Afr, -Hill Healthcare. -Huffpost (World), 
 // -Inside Climate News, -Kyiv, -Motherjones, -NYT Most Viewed, -OpenDemocracy, -Politico, -RTS, -SBS, Vox
@@ -75,12 +78,13 @@ const triggers = ['gender dysphoria', 'Yuppie Flu'];
 // -Huffington Post
 const uninterestedGeneral = ['bouchon', 'dances', 'Taylor Swift', 'musical', 'Christmas', 'Baby Jesus', 'manger sain', 'un hôtel',
     'fashion brand', 'traffic jam', 'noël', 'Mega Millions', 'nativity', 'marries', "Eurovision", "Lunar New Year", "Weather", 
+    "daylight saving",
 ];
 // -Axios, -BBC (Australia), -Guardian Afr, -Hurfington Post (World Post), -NYT Most Viewed, -Politico EU, -RTS, -SBS
 const uninterestedPeople = ['Taylor Swift', 'Austin Tice', 'Juan Sotos', 'Jake Paul', 'Mike Tyson', "Kate Middleton", "Bob Dylan",];
 // -Axios, -Huffpost, -NYT
 const uninterestedSports = ['boxing', 'USWNT', 'LeBron', 'NBA', 'NFL', 'college football', 'Mets', 'cricket', 'NY Yankees', 'martial arts',
-  'NASCAR', 'Australian Open',
+  'NASCAR', 'Australian Open', "Lakers", 
 ];
 // -Arstechnica, -Axios, -BBC Aus, -Economist, -SBS,
 const weather = ['storm', 'tornado'];
