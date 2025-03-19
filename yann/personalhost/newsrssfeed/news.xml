@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une ancienne dirigeante de Credit Suisse condamnée à 100'000 francs d'amende dans l'affaire du Mozambique (RTS)</title>
+      <link>https://www.rts.ch/info/economie/2025/article/scandale-du-mozambique-ex-dirigeante-de-credit-suisse-condamnee-a-100-000-chf-28827048.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28827048</guid>
+      <pubDate>Wed, 19 Mar 2025 13:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title> German government backs additional $3.3 billion in military aid for Ukraine  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/germany-agrees-on-additional-3-3-billion-in-military-aid-for-ukraine</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/germany-agrees-on-additional-3-3-billion-in-military-aid-for-ukraine</guid>
+      <pubDate>Wed, 19 Mar 2025 15:48:06 +0200</pubDate>
+    </item>
+    <item>
       <title>Des parlementaires américains en visite en Suisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/visite-de-parlementaires-americains-en-suisse-enjeux-et-discussions-28826950.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1412,20 +1426,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/17/chuck-schumer-book-tour-antisemitism-shutdown</guid>
       <pubDate>Mon, 17 Mar 2025 14:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>US strikes 'took out' multiple Houthi leaders: National security adviser Mike Waltz (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/us-strikes-multiple-houthi-leaders-national-security-adviser/story?id=119834459</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/us-strikes-multiple-houthi-leaders-national-security-adviser/story?id=119834459</guid>
-      <pubDate>Mon, 17 Mar 2025 14:26:14 -0000</pubDate>
-    </item>
-    <item>
-      <title>Judge blocks Trump from deporting noncitizens under Alien Enemies Act (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/video/judge-blocks-trump-deporting-noncitizens-alien-enemies-act-119853528</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/video/judge-blocks-trump-deporting-noncitizens-alien-enemies-act-119853528</guid>
-      <pubDate>Mon, 17 Mar 2025 14:11:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
