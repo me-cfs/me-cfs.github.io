@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: Moscou et Kiev annoncent de massives attaques de drones (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250320-guerre-en-ukraine-moscou-et-kiev-annoncent-de-massives-attaques-de-drones</link>
+      <author>RFI</author>
+      <guid>53664f68-0556-11f0-9968-005056a97652</guid>
+      <pubDate>Thu, 20 Mar 2025 07:00:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Détenu en Iran depuis 2022, le Français Olivier Grondeau est libre et de retour en France (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250320-d%C3%A9tenu-en-iran-depuis-2022-le-fran%C3%A7ais-olivier-grondeau-est-libre-et-de-retour-en-france</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/uk-eu-to-discuss-confiscating-russian-assets-ahead-of-ukraine-peace-talks</guid>
       <pubDate>Tue, 18 Mar 2025 08:49:50 +0200</pubDate>
-    </item>
-    <item>
-      <title>Niger: Authorities failing to uphold their commitment to respect human rights since military coup (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/03/niger-human-rights-military-coup/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=223991</guid>
-      <pubDate>Tue, 18 Mar 2025 06:22:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
