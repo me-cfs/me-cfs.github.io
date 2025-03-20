@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La nouvelle Allemagne de Friedrich Merz (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250320-la-nouvelle-allemagne-de-friedrich-merz</link>
+      <author>RFI</author>
+      <guid>5413f7ca-05b1-11f0-94e9-005056a97652</guid>
+      <pubDate>Thu, 20 Mar 2025 17:32:41 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Trump eyes Europe’s biggest nuclear power plant. Problem: It’s occupied by Russia.					 (Politico)</title>
       <link>https://www.politico.eu/article/trump-eyes-europes-biggest-nuclear-power-plant-problem-its-occupied-by-russia/</link>
@@ -1425,13 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ursula-von-der-leyen-ukraine-russia-collective-arms-purchases-by-2030/</guid>
       <pubDate>Tue, 18 Mar 2025 16:51:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Un budget fédéral sous tension entre dettes, excédents et financement de l’AVS (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/finances-federales-incertitudes-sur-l-avs-et-le-budget-malgre-les-excedents-28826023.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28826023</guid>
-      <pubDate>Tue, 18 Mar 2025 16:49:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
