@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Emperor’s New Philosophy (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-emperors-new-philosophy</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-emperors-new-philosophy</guid>
+      <pubDate>Thu, 20 Mar 2025 11:23:29 GMT</pubDate>
+    </item>
+    <item>
       <title>The October Story That Outlined Exactly What the Trump Administration Would Do to the Federal Bureaucracy (Propublica)</title>
       <link>https://www.propublica.org/article/propublica-russell-vought-prophetic-trump-second-term</link>
       <author>Propublica</author>
@@ -1426,13 +1433,6 @@
       <author>RTS</author>
       <guid>28825750</guid>
       <pubDate>Tue, 18 Mar 2025 11:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Even the worst mass extinction had its oases (Arstechnica)</title>
-      <link>https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/</guid>
-      <pubDate>Tue, 18 Mar 2025 11:45:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
