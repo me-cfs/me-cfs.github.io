@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: le futur chancelier Friedrich Merz et la CDU menacent des ONG (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250320-allemagne-le-futur-chancelier-friedrich-merz-et-la-cdu-menacent-des-ong</link>
+      <author>RFI</author>
+      <guid>a363e782-050b-11f0-9dac-005056a97652</guid>
+      <pubDate>Thu, 20 Mar 2025 00:07:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. once again hits new low in World Happiness Report (Axios)</title>
+      <link>https://www.axios.com/2025/03/20/us-new-low-world-happiness-report</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/20/us-new-low-world-happiness-report</guid>
+      <pubDate>Thu, 20 Mar 2025 00:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mike Johnson targets Harris territory to expand his majority (Axios)</title>
+      <link>https://www.axios.com/2025/03/19/mike-johnson-nrcc-target-democrat-districts</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/19/mike-johnson-nrcc-target-democrat-districts</guid>
+      <pubDate>Wed, 19 Mar 2025 23:46:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Trans soldier discusses fighting Trump administration's transgender military ban (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/video/trans-soldier-discusses-fighting-trump-administrations-transgender-military-119962802</link>
       <author>Fivethirtyeight</author>
@@ -38,6 +59,13 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/03/19/erdogan-arrests-the-candidate-who-could-beat-him</guid>
       <pubDate>Wed, 19 Mar 2025 22:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bird flu continues spread as Trump’s pandemic experts are MIA (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/03/bird-flu-continues-spread-as-trumps-pandemic-experts-are-mia/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/03/bird-flu-continues-spread-as-trumps-pandemic-experts-are-mia/</guid>
+      <pubDate>Wed, 19 Mar 2025 22:28:59 +0000</pubDate>
     </item>
     <item>
       <title>Judge denies emergency effort to reinstate US Institute of Peace board (Fivethirtyeight)</title>
@@ -123,6 +151,13 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/dod-mistakenly-removed-jackie-robinson-content-website-amid/story?id=119955477</guid>
       <pubDate>Wed, 19 Mar 2025 19:46:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fed leaves rates unchanged, notes higher uncertainty (Axios)</title>
+      <link>https://www.axios.com/2025/03/19/federal-reserve-interest-rates</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/19/federal-reserve-interest-rates</guid>
+      <pubDate>Wed, 19 Mar 2025 19:25:04 +0000</pubDate>
     </item>
     <item>
       <title>Trump and Musk Are Running a Disinformation Campaign on Social Security (Motherjones)</title>
@@ -1394,41 +1429,6 @@
       <author>RFI</author>
       <guid>0e3f93ca-0350-11f0-8a9d-005056a97652</guid>
       <pubDate>Mon, 17 Mar 2025 23:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Judge in Venezuelan deportations case sets DOJ Tuesday deadline to provide more details (Axios)</title>
-      <link>https://www.axios.com/2025/03/17/trump-judge-deportation-venezuelans-el-salvador</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/17/trump-judge-deportation-venezuelans-el-salvador</guid>
-      <pubDate>Mon, 17 Mar 2025 22:58:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge convenes 'fact-finding' hearing over Trump deportation flights (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/video/judge-convenes-fact-finding-hearing-trump-deportation-flights-119887852</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/video/judge-convenes-fact-finding-hearing-trump-deportation-flights-119887852</guid>
-      <pubDate>Mon, 17 Mar 2025 22:46:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>Federal funding for mRNA vaccine research in jeopardy under RFK Jr. (Arstechnica)</title>
-      <link>https://arstechnica.com/health/2025/03/federal-funding-for-mrna-vaccine-research-in-jeopardy-under-rfk-jr/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/health/2025/03/federal-funding-for-mrna-vaccine-research-in-jeopardy-under-rfk-jr/</guid>
-      <pubDate>Mon, 17 Mar 2025 22:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leaked memo: DOGE plots to cut Social Security phone support (Axios)</title>
-      <link>https://www.axios.com/2025/03/17/social-security-trump-doge</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/17/social-security-trump-doge</guid>
-      <pubDate>Mon, 17 Mar 2025 22:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump claims Biden's pardons for Jan. 6 committee are 'void.' Legal experts disagree (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/trump-claims-bidens-pardons-jan-6-committee-void/story?id=119877843</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/trump-claims-bidens-pardons-jan-6-committee-void/story?id=119877843</guid>
-      <pubDate>Mon, 17 Mar 2025 22:31:28 -0000</pubDate>
     </item>
   </channel>
 </rss>
