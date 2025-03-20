@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Politics (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/03/20/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/rrm57663ou51podien62q4h7r78udag6</guid>
+      <pubDate>Thu, 20 Mar 2025 14:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/03/20/business</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/gpn1k5bd2orr78ofv8hb8vbp8h4n9uo4</guid>
+      <pubDate>Thu, 20 Mar 2025 14:31:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>The weekly cartoon (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/03/20/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>/content/rjc01jekihpsds1j75e5a13hsn9ikohs</guid>
+      <pubDate>Thu, 20 Mar 2025 14:31:29 +0000</pubDate>
+    </item>
+    <item>
       <title>ProPublica Names Wendi C. Thomas as a Distinguished Fellow (Propublica)</title>
       <link>https://www.propublica.org/atpropublica/propublica-names-wendi-c-thomas-as-a-distinguished-fellow</link>
       <author>Propublica</author>
@@ -1411,27 +1432,6 @@
       <author>RFI</author>
       <guid>8a81214a-03fc-11f0-aaf1-005056bf1351</guid>
       <pubDate>Tue, 18 Mar 2025 15:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canada Cuts Gender Equality Minister (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/03/18/canada-cuts-gender-equality-minister</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/03/18/canada-cuts-gender-equality-minister</guid>
-      <pubDate>Tue, 18 Mar 2025 11:00:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Israel’s strikes may be only the start of a new offensive in Gaza (Economist)</title>
-      <link>https://www.economist.com/middle-east-and-africa/2025/03/18/israels-strikes-may-be-only-the-start-of-a-new-offensive-in-gaza</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/middle-east-and-africa/2025/03/18/israels-strikes-may-be-only-the-start-of-a-new-offensive-in-gaza</guid>
-      <pubDate>Tue, 18 Mar 2025 14:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Trump cutting VOA's funding could mean (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/video/trump-cutting-voas-funding-119910708</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/video/trump-cutting-voas-funding-119910708</guid>
-      <pubDate>Tue, 18 Mar 2025 14:31:35 -0000</pubDate>
     </item>
   </channel>
 </rss>
