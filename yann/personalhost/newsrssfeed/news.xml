@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/crise-au-gouvernement-vaudois</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22963</guid>
+      <pubDate>03/22/2025 00:12</pubDate>
+    </item>
+    <item>
       <title>Trump says student loans, special needs programs will be moved to new departments (Fivethirtyeight)</title>
       <link>https://abcnews.go.com/Politics/trump-student-loans-special-programs-moved-new-departments/story?id=120032077</link>
       <author>Fivethirtyeight</author>
@@ -1421,13 +1428,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/dod-mistakenly-removed-jackie-robinson-content-website-amid/story?id=119955477</guid>
       <pubDate>Wed, 19 Mar 2025 19:46:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Fed leaves rates unchanged, notes higher uncertainty (Axios)</title>
-      <link>https://www.axios.com/2025/03/19/federal-reserve-interest-rates</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/19/federal-reserve-interest-rates</guid>
-      <pubDate>Wed, 19 Mar 2025 19:25:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
