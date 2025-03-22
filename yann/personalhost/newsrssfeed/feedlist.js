@@ -63,7 +63,7 @@ module.exports = [
     name: 'Open Democracy',
     url: 'https://www.opendemocracy.net/en/feed/',
     inclusionWords: [...tList.europe, ...tList.politics, ...tList.environment, ...tList.independenceMovements],
-    exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture],
+    exclusionWords: [...tList.nonArticle, ...tList.nonInformativeTitle, ...tList.culture, "OpenDemocracy",],
   },
   { // Only Europe
     name: 'Politico',
@@ -75,7 +75,7 @@ module.exports = [
       'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
       'zz', ...tList.business, "not happen", "shuns", "our obsession", "falling out",
     ],
-    minCharsTitle: 25,
+    minCharsTitle: 28,
     blacklist: ['newsletter'],
   },
   {
@@ -119,12 +119,12 @@ module.exports = [
     off: false,
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance', 'which',
-      'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", 
+      'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", "Ukraine Ceasefire",
       'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
-      'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle,
+      'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle, "Where",
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how', ...tList.culture,
-      ...tList.weather, 'steel', 'reality check', 'mortgage rate',
+      ...tList.weather, 'steel', 'reality check', 'mortgage rate', "antisemitism",
       'documentary', 'director', 'top risk', 'bremmer', "2024", "you're", 
       ...tList.clickbait, ...tList.singlePerson, "denies effort", "transgender", 
     ],
@@ -133,7 +133,7 @@ module.exports = [
   {
     name: 'Fivethirtyeight',
     url: 'https://politepol.com/fd/F5Y3tB1o97oW.xml',
-    off: false,
+    off: true,
     exclusionWords: [...tList.nonArticle, '?', ...tList.fluffyTitle, "How",
       
     ],
@@ -325,7 +325,7 @@ module.exports = [
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
     exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers,
-      ...tList.uninterestedPeople, ...tList.business, "Somalia", "Vatican", 
+      ...tList.uninterestedPeople, ...tList.business, "Somalia", "Vatican", "Pope", "Russian Officials",
     ],
   },
   {
@@ -421,6 +421,7 @@ module.exports = [
       
     ],
     cutoffDate: new Date('2024-12-12'),
+    minCharsTitle: 25,
   },
 ];
 
