@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>George Foreman, Boxing Champion and Grilling Magnate, Dies at 76 (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/21/sports/george-foreman-dead.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/21/sports/george-foreman-dead.html</guid>
+      <pubDate>Sat, 22 Mar 2025 13:01:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elisabeth Baume-Schneider appelle à un financement durable de l'OMS (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-plaide-pour-un-financement-stable-de-l-oms-face-aux-defis-mondiaux-28830055.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28830055</guid>
+      <pubDate>Sat, 22 Mar 2025 12:48:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Electricité, exportations, impôts, justice, salaires: comment de nouveaux accords avec l'Europe changeraient notre quotidien (RTS)</title>
       <link>https://www.rts.ch/info/monde/2025/article/accord-suisse-ue-impacts-concrets-sur-l-electricite-les-exportations-et-les-impots-28786702.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -242,6 +256,13 @@
       <author>SBS News</author>
       <guid>00000195-b690-d3a7-a9f5-f7f4830c0000</guid>
       <pubDate>Fri, 21 Mar 2025 19:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ticket reseller StubHub files for an IPO (Axios)</title>
+      <link>https://www.axios.com/2025/03/21/stubhub-tickets-ipo</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/21/stubhub-tickets-ipo</guid>
+      <pubDate>Fri, 21 Mar 2025 19:33:12 +0000</pubDate>
     </item>
     <item>
       <title>Trump says student loans, special needs programs will be moved to new departments (Fivethirtyeight)</title>
@@ -1374,6 +1395,14 @@
       <pubDate>Thu, 20 Mar 2025 09:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>
+						JD Vance had a point on migration, Denmark’s prime minister warns EU leaders					 (Politico)</title>
+      <link>https://www.politico.eu/article/mette-frederiksen-denmark-jd-vance-migration-asylum-refugees/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/mette-frederiksen-denmark-jd-vance-migration-asylum-refugees/</guid>
+      <pubDate>Thu, 20 Mar 2025 08:34:45 -0000</pubDate>
+    </item>
+    <item>
       <title>France: un salon de l'emploi pour les réfugiés (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250320-france-un-salon-de-l-emploi-pour-les-r%C3%A9fugi%C3%A9s</link>
       <author>RFI</author>
@@ -1393,34 +1422,6 @@
       <author>RTS</author>
       <guid>28827564</guid>
       <pubDate>Thu, 20 Mar 2025 07:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guerre en Ukraine: Moscou et Kiev annoncent de massives attaques de drones (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250320-guerre-en-ukraine-moscou-et-kiev-annoncent-de-massives-attaques-de-drones</link>
-      <author>RFI</author>
-      <guid>53664f68-0556-11f0-9968-005056a97652</guid>
-      <pubDate>Thu, 20 Mar 2025 07:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Détenu en Iran depuis 2022, le Français Olivier Grondeau est libre et de retour en France (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250320-d%C3%A9tenu-en-iran-depuis-2022-le-fran%C3%A7ais-olivier-grondeau-est-libre-et-de-retour-en-france</link>
-      <author>RFI</author>
-      <guid>1a61bc60-0552-11f0-af65-005056bf1351</guid>
-      <pubDate>Thu, 20 Mar 2025 06:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Georgetown University researcher detained by immigration authorities amid Trump crackdown (Axios)</title>
-      <link>https://www.axios.com/2025/03/20/trump-deportation-georgetown-researcher-detained-immigration</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/20/trump-deportation-georgetown-researcher-detained-immigration</guid>
-      <pubDate>Thu, 20 Mar 2025 05:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Women in business held back by mobile data’s cost in developing world – report (Guardian)</title>
-      <link>https://www.theguardian.com/global-development/2025/mar/20/cost-data-developing-world-digital-women-in-business-report-female-entrepreneurs-internet-access</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/global-development/2025/mar/20/cost-data-developing-world-digital-women-in-business-report-female-entrepreneurs-internet-access</guid>
-      <pubDate>Thu, 20 Mar 2025 05:00:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
