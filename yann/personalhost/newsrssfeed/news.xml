@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les personnes avec handicap n’ont jamais été aussi bien représentées au Parlement fédéral (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/handicap-au-parlement-3-deputes-en-fauteuil-roulant-une-premiere-28830387.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28830387</guid>
+      <pubDate>Sat, 22 Mar 2025 20:55:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Des parlementaires s'allient à Berne pour lancer une réflexion sur l'IA (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/debat-national-sur-l-ia-des-parlementaires-s-unissent-pour-encadrer-son-usage-28830204.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1414,13 +1421,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/the-emperors-new-philosophy</guid>
       <pubDate>Thu, 20 Mar 2025 11:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dreams of improving the human race are no longer science fiction (Economist)</title>
-      <link>https://www.economist.com/briefing/2025/03/20/dreams-of-improving-the-human-race-are-no-longer-science-fiction</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/briefing/2025/03/20/dreams-of-improving-the-human-race-are-no-longer-science-fiction</guid>
-      <pubDate>Thu, 20 Mar 2025 11:05:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
