@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Tribunal fédéral condamne deux islamistes de Winterthour à des peines fermes (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/islamistes-de-winterthour-condamnes-prison-ferme-pour-soutien-a-l-ei-28832165.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28832165</guid>
+      <pubDate>Mon, 24 Mar 2025 17:33:41 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Turkey scrambles to stop financial rout					 (Politico)</title>
       <link>https://www.politico.eu/article/turkey-financial-fallout-currency-imamoglu-detention-erdogan-dollar-euro/</link>
@@ -1419,13 +1426,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/21/jobs-labor-market-unemployment</guid>
       <pubDate>Fri, 21 Mar 2025 11:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rocket Report: Falcon 9 may smash reuse record; Relativity roving to Texas? (Arstechnica)</title>
-      <link>https://arstechnica.com/space/2025/03/rocket-report-falcon-9-may-smash-reuse-record-relativity-roving-to-texas/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/space/2025/03/rocket-report-falcon-9-may-smash-reuse-record-relativity-roving-to-texas/</guid>
-      <pubDate>Fri, 21 Mar 2025 11:00:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
