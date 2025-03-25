@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: les autorités sanitaires déconseillent les produits au soja dans la restauration collective (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250325-france-les-autorit%C3%A9s-sanitaires-d%C3%A9conseillent-les-produits-au-soja-dans-la-restauration-collective</link>
+      <author>RFI</author>
+      <guid>7375841e-095b-11f0-9e4f-005056a97652</guid>
+      <pubDate>Tue, 25 Mar 2025 11:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flooding in Queensland and more rain to come (BBC)</title>
+      <link>https://www.bbc.com/weather/videos/cyverp37gqyo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/weather/videos/cyverp37gqyo#2</guid>
+      <pubDate>Tue, 25 Mar 2025 11:34:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>IRS sharing immigrants' data with ICE threatens billions in tax revenue (Axios)</title>
+      <link>https://www.axios.com/2025/03/25/ice-irs-undocumented-immigrants-taxes</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/25/ice-irs-undocumented-immigrants-taxes</guid>
+      <pubDate>Tue, 25 Mar 2025 11:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Espagne : Touche pas à mon olivier, le monde rural andalou en guerre contre l’énergie solaire (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/grand-reportage/20250325-espagne-touche-pas-%C3%A0-mon-olivier-le-monde-rural-andalou-en-guerre-contre-l-%C3%A9nergie-solaire</link>
       <author>RFI</author>
@@ -1405,27 +1426,6 @@
       <author>ME/LC News</author>
       <guid>https://virology.ws/2025/03/22/trial-by-error-a-reprise-of-a-2018-post-on-my-visits-with-alem-matthees/</guid>
       <pubDate>Sat, 22 Mar 2025 06:22:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Columbia Agrees to Trump’s Demands After Federal Funds Are Stripped (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/21/nyregion/columbia-response-trump-demands.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/21/nyregion/columbia-response-trump-demands.html</guid>
-      <pubDate>Sat, 22 Mar 2025 06:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mother of activist imprisoned in Egypt threatens to go back on hunger strike (Guardian)</title>
-      <link>https://www.theguardian.com/politics/2025/mar/22/mother-activist-jailed-egypt-threatens-resume-hunger-strike</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/politics/2025/mar/22/mother-activist-jailed-egypt-threatens-resume-hunger-strike</guid>
-      <pubDate>Sat, 22 Mar 2025 05:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acting Social Security chief now says he won't shut down agency after DOGE ruling (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/acting-social-security-chief-now-shut-agency-after/story?id=120046608</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/acting-social-security-chief-now-shut-agency-after/story?id=120046608</guid>
-      <pubDate>Sat, 22 Mar 2025 04:11:28 -0000</pubDate>
     </item>
   </channel>
 </rss>
