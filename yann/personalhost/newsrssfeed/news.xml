@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Espagne : Touche pas à mon olivier, le monde rural andalou en guerre contre l’énergie solaire (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/grand-reportage/20250325-espagne-touche-pas-%C3%A0-mon-olivier-le-monde-rural-andalou-en-guerre-contre-l-%C3%A9nergie-solaire</link>
+      <author>RFI</author>
+      <guid>8c428da0-0903-11f0-aac3-005056a97652</guid>
+      <pubDate>Tue, 25 Mar 2025 11:00:08 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Danish PM condemns Trump team over imminent Greenland visit					 (Politico)</title>
       <link>https://www.politico.eu/article/donald-trump-greenland-visit-mette-frederiksen-denmark-condemns/</link>
@@ -46,6 +53,13 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/ice-warrantless-arrests-chicago-law</guid>
       <pubDate>Tue, 25 Mar 2025 06:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Oil and Gas Multinationals Seek New Tax Breaks Under Trump (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/03/oil-gas-industry-trump-republican-congress-tax-breaks/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1122652</guid>
+      <pubDate>Tue, 25 Mar 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sepp Blatter et Michel Platini à nouveau acquittés en appel dans une affaire d'escroquerie (RTS)</title>
@@ -1412,20 +1426,6 @@
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/03/21/japan-doubts-myanmar-juntas-election-plans</guid>
       <pubDate>Fri, 21 Mar 2025 22:59:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Japan Doubts Myanmar Junta’s Election Plans (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/03/22/japan-doubts-myanmar-juntas-election-plans</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/03/22/japan-doubts-myanmar-juntas-election-plans</guid>
-      <pubDate>Fri, 21 Mar 2025 22:59:07 -0400</pubDate>
-    </item>
-    <item>
-      <title>Protests Erupt Across Turkey After Erdogan's Top Rival Arrested (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/eu-turkey-protests-erdogan_n_67de0ffce4b0ea299d080f9a</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/eu-turkey-protests-erdogan_n_67de0ffce4b0ea299d080f9a</guid>
-      <pubDate>Sat, 22 Mar 2025 02:15:29 -0000</pubDate>
     </item>
   </channel>
 </rss>
