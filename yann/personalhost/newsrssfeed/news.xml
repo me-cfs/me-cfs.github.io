@@ -5,6 +5,28 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: en tournée en Asie, Jean-Noël Barrot affirme que la menace russe en Europe n'est «pas théorique» (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250325-france-en-tourn%C3%A9e-en-asie-jean-no%C3%ABl-barrot-affirme-que-la-menace-russe-en-europe-n-est-pas-th%C3%A9orique</link>
+      <author>RFI</author>
+      <guid>282603f6-09b7-11f0-acaa-005056bf1351</guid>
+      <pubDate>Tue, 25 Mar 2025 20:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title> Ukraine war latest: Black Sea ceasefire will take effect after some sanctions are lifted, Kremlin claims  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/ukraine-war-latest-66</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/ukraine-war-latest-66</guid>
+      <pubDate>Tue, 25 Mar 2025 22:23:09 +0200</pubDate>
+    </item>
+    <item>
+      <title>
+						‘A serious, serious issue’: Canada’s Carney jabs Trump admin after war plans leak fiasco					 (Politico)</title>
+      <link>https://www.politico.eu/article/serious-issue-canada-mark-carney-jab-donald-trump-admin-after-war-plan-leak-fiasco/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/serious-issue-canada-mark-carney-jab-donald-trump-admin-after-war-plan-leak-fiasco/</guid>
+      <pubDate>Tue, 25 Mar 2025 20:14:52 -0000</pubDate>
+    </item>
+    <item>
       <title>Cuban ‘hopeful’ about Trump administration lowering prescription drug prices (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5213143-cuban-hopes-trump-administration/</link>
       <author>The Hill</author>
@@ -166,6 +188,13 @@
       <author>Bellingcat</author>
       <guid>https://www.bellingcat.com/?p=48152</guid>
       <pubDate>Tue, 25 Mar 2025 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chinese hacking is becoming bigger, better and stealthier (Economist)</title>
+      <link>https://www.economist.com/china/2025/03/25/chinese-hacking-is-becoming-bigger-better-and-stealthier</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/china/2025/03/25/chinese-hacking-is-becoming-bigger-better-and-stealthier</guid>
+      <pubDate>Tue, 25 Mar 2025 12:27:52 GMT</pubDate>
     </item>
     <item>
       <title>Soupçons de financement libyen: l'ex-président français Nicolas Sarkozy et onze prévenus confrontés au réquisitoire (RFI)</title>
@@ -1398,34 +1427,6 @@
       <author>RTS</author>
       <guid>28830387</guid>
       <pubDate>Sat, 22 Mar 2025 20:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Des parlementaires s'allient à Berne pour lancer une réflexion sur l'IA (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/debat-national-sur-l-ia-des-parlementaires-s-unissent-pour-encadrer-son-usage-28830204.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28830204</guid>
-      <pubDate>Sat, 22 Mar 2025 20:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>LBJ tied Latinos, civil rights in "Selma" speech 60 years ago (Axios)</title>
-      <link>https://www.axios.com/2025/03/22/lbj-tied-latinos-civil-rights-in-selma-speech-60-years-ago</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/22/lbj-tied-latinos-civil-rights-in-selma-speech-60-years-ago</guid>
-      <pubDate>Sat, 22 Mar 2025 20:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title> Russia uses propaganda narratives to undermine peace talks, shift blame to Ukraine, ISW says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russia-uses-propaganda-narratives-to-undermine-peace-talks-shift-blame-to-ukraine-isw-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russia-uses-propaganda-narratives-to-undermine-peace-talks-shift-blame-to-ukraine-isw-says</guid>
-      <pubDate>Sat, 22 Mar 2025 21:20:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trump Declares War on “Frivolous” Lawsuits (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/trump-declares-war-on-frivolous-lawsuits/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1122444</guid>
-      <pubDate>Sat, 22 Mar 2025 18:45:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
