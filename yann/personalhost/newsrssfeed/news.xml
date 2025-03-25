@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: des militants du climat sous la menace d'un procès pour activités criminelles (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250325-allemagne-des-militants-du-climat-sous-la-menace-d-un-proc%C3%A8s-pour-activit%C3%A9s-criminelles</link>
+      <author>RFI</author>
+      <guid>7dd72d0c-0903-11f0-a9e3-005056a97652</guid>
+      <pubDate>Tue, 25 Mar 2025 04:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get a Passport or Leave: Russia’s Ultimatum to Ukrainians (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/25/get-passport-or-leave-russias-ultimatum-ukrainians</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/25/get-passport-or-leave-russias-ultimatum-ukrainians</guid>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>Putin Had A 'Beautiful' Portrait Made Of Trump And Gave It To Him (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/ap-eu-putin-trump-portrait_n_67e21a3be4b07be521870acc</link>
       <author>Huffington Post</author>
@@ -96,6 +110,13 @@
       <link>https://www.economist.com/united-states/2025/03/24/a-leak-reveals-team-trumps-carelessness-and-contempt-for-allies</link>
       <author>Economist</author>
       <guid>https://www.economist.com/united-states/2025/03/24/a-leak-reveals-team-trumps-carelessness-and-contempt-for-allies</guid>
+      <pubDate>Mon, 24 Mar 2025 23:32:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>A shambolic leak reveals Team Trump’s contempt for allies (Economist)</title>
+      <link>https://www.economist.com/united-states/2025/03/24/a-shambolic-leak-reveals-team-trumps-contempt-for-allies</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/united-states/2025/03/24/a-shambolic-leak-reveals-team-trumps-contempt-for-allies</guid>
       <pubDate>Mon, 24 Mar 2025 23:32:36 GMT</pubDate>
     </item>
     <item>
@@ -1403,28 +1424,6 @@
       <author>Fivethirtyeight</author>
       <guid>https://abcnews.go.com/Politics/video/trump-signs-executive-order-aiming-end-doe-120034098</guid>
       <pubDate>Fri, 21 Mar 2025 18:22:22 -0000</pubDate>
-    </item>
-    <item>
-      <title>MMA Fighter Conor McGregor Announces Irish Presidential Run After Meeting With Trump (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/conor-mcgregor-presidential-run-immigration_n_67dd8521e4b0ae8ea296e476</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/conor-mcgregor-presidential-run-immigration_n_67dd8521e4b0ae8ea296e476</guid>
-      <pubDate>Fri, 21 Mar 2025 18:12:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe sees opportunity in Trump’s economic chaos					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-can-attract-those-who-seek-alternatives-to-the-u-s-dollar-lagarde-says/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-can-attract-those-who-seek-alternatives-to-the-u-s-dollar-lagarde-says/</guid>
-      <pubDate>Fri, 21 Mar 2025 18:12:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump denies that Musk was going to be briefed on China war plans (Fivethirtyeight)</title>
-      <link>https://abcnews.go.com/Politics/trump-denies-musk-briefed-china-war-plans/story?id=120024341</link>
-      <author>Fivethirtyeight</author>
-      <guid>https://abcnews.go.com/Politics/trump-denies-musk-briefed-china-war-plans/story?id=120024341</guid>
-      <pubDate>Fri, 21 Mar 2025 18:07:22 -0000</pubDate>
     </item>
   </channel>
 </rss>
