@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Debt stress signals growing cracks in household finances (Axios)</title>
+      <link>https://www.axios.com/2025/03/25/consumer-confidence-debt-student-loans</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/25/consumer-confidence-debt-student-loans</guid>
+      <pubDate>Tue, 25 Mar 2025 15:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une initiative populaire s'attaque au lobbying sous la Coupole fédérale (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/initiative-populaire-contre-le-lobbying-au-parlement-federal-enjeux-28832813.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28832813</guid>
+      <pubDate>Tue, 25 Mar 2025 15:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Moves on Greenland Appear to Be Backfiring (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/24/world/europe/trump-greenland-us.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/24/world/europe/trump-greenland-us.html</guid>
+      <pubDate>Tue, 25 Mar 2025 14:39:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump backs national security adviser after Houthi group chat scandal (Axios)</title>
       <link>https://www.axios.com/2025/03/25/trump-signal-houthi-group-chat-defend-waltz</link>
       <author>Axios</author>
@@ -45,6 +66,13 @@
       <author>RTS</author>
       <guid>28832855</guid>
       <pubDate>Tue, 25 Mar 2025 12:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Columbia Student Hunted by ICE Sues to Prevent Deportation (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/24/nyregion/columbia-student-ice-suit-yunseo-chung.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/24/nyregion/columbia-student-ice-suit-yunseo-chung.html</guid>
+      <pubDate>Tue, 25 Mar 2025 12:01:24 +0000</pubDate>
     </item>
     <item>
       <title>Frappé par des coupes, l'Office fédéral de la statistique s’inquiète pour son avenir (RTS)</title>
@@ -1397,34 +1425,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/21/sports/george-foreman-dead.html</guid>
       <pubDate>Sat, 22 Mar 2025 13:01:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elisabeth Baume-Schneider appelle à un financement durable de l'OMS (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-plaide-pour-un-financement-stable-de-l-oms-face-aux-defis-mondiaux-28830055.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28830055</guid>
-      <pubDate>Sat, 22 Mar 2025 12:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Electricité, exportations, impôts, justice, salaires: comment de nouveaux accords avec l'Europe changeraient notre quotidien (RTS)</title>
-      <link>https://www.rts.ch/info/monde/2025/article/accord-suisse-ue-impacts-concrets-sur-l-electricite-les-exportations-et-les-impots-28786702.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28786702</guid>
-      <pubDate>Sat, 22 Mar 2025 12:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>L'Espagne sous pression: augmenter les dépenses militaires sans aliéner les priorités sociales (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250322-l-espagne-sous-pression-augmenter-les-d%C3%A9penses-militaires-sans-ali%C3%A9ner-les-priorit%C3%A9s-sociales</link>
-      <author>RFI</author>
-      <guid>2b19d8f6-0680-11f0-8502-005056bf1351</guid>
-      <pubDate>Sat, 22 Mar 2025 11:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bristol and alcohol (West England Bylines)</title>
-      <link>https://westenglandbylines.co.uk/news/health/__trashed/</link>
-      <author>West England Bylines</author>
-      <guid>https://westenglandbylines.co.uk/news/health/__trashed/</guid>
-      <pubDate>Sat, 22 Mar 2025 10:47:10 -0000</pubDate>
     </item>
   </channel>
 </rss>
