@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Senate confirms Trump's nominee to run NIH (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5213872-jay-bhattacharya-senate-confirmed-nih/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5213872</guid>
+      <pubDate>Tue, 25 Mar 2025 22:41:02 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump’s endless trade threats come at a growing cost (Economist)</title>
       <link>https://www.economist.com/finance-and-economics/2025/03/25/trumps-endless-trade-threats-come-at-a-growing-cost</link>
       <author>Economist</author>
@@ -75,6 +82,13 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1122867</guid>
       <pubDate>Tue, 25 Mar 2025 19:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Europe will have to zip its lip over China’s abuses (Economist)</title>
+      <link>https://www.economist.com/international/2025/03/25/europe-will-have-to-zip-its-lip-over-chinas-abuses</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/international/2025/03/25/europe-will-have-to-zip-its-lip-over-chinas-abuses</guid>
+      <pubDate>Tue, 25 Mar 2025 18:48:20 GMT</pubDate>
     </item>
     <item>
       <title>All the Ways Trump Officials Are Downplaying the “War Plans” Group Chat (Motherjones)</title>
@@ -1411,21 +1425,6 @@
       <author>SBS News</author>
       <guid>00000195-c111-da8a-a5f5-c11fd3cb0000</guid>
       <pubDate>Sun, 23 Mar 2025 06:23:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						A turning point for Turkey’s democracy					 (Politico)</title>
-      <link>https://www.politico.eu/article/turning-point-turkey-democracy-ekrem-imamoglu-arrest-opposition/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/turning-point-turkey-democracy-ekrem-imamoglu-arrest-opposition/</guid>
-      <pubDate>Sun, 23 Mar 2025 05:42:32 -0000</pubDate>
-    </item>
-    <item>
-      <title> China considering joining Ukraine peacekeeping mission, Die Welt reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/china-considering-joining-ukraine-peacekeeping-mission-die-welt-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/china-considering-joining-ukraine-peacekeeping-mission-die-welt-reports</guid>
-      <pubDate>Sun, 23 Mar 2025 06:05:21 +0200</pubDate>
     </item>
   </channel>
 </rss>
