@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russia imports chemicals from fertilizer companies to evade sanctions, Bloomberg reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russia-imports-chemicals-from-fertilizer-companies-to-evade-sanctions-bloomberg-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russia-imports-chemicals-from-fertilizer-companies-to-evade-sanctions-bloomberg-reports</guid>
+      <pubDate>Wed, 26 Mar 2025 23:07:22 +0200</pubDate>
+    </item>
+    <item>
+      <title>Trump administration to end funding for vaccinating children in poor countries (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5216013-trump-administration-gavi-vaccine-fund-elon-musk-doge/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5216013</guid>
+      <pubDate>Wed, 26 Mar 2025 20:54:14 +0000</pubDate>
+    </item>
+    <item>
       <title>A New Tool to Detect Cellular Spying | EFFector 37.3 (Electronic Frontiers Foundation)</title>
       <link>https://www.eff.org/deeplinks/2025/03/new-tool-detect-cellular-spying-effector-373</link>
       <author>Electronic Frontiers Foundation</author>
@@ -39,6 +53,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/uk-news/2025/mar/26/accusations-and-resignations-mark-remarkable-24-hours-at-charity-founded-by-prince-harry</guid>
       <pubDate>Wed, 26 Mar 2025 19:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google makes Android development private, will continue open source releases (Arstechnica)</title>
+      <link>https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/</guid>
+      <pubDate>Wed, 26 Mar 2025 19:20:24 +0000</pubDate>
     </item>
     <item>
       <title>Senate Confirms Trump’s Anti-Abortion Pick to Lead the FDA (Motherjones)</title>
@@ -1400,27 +1421,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/russia-deliberately-stalling-ukraine-talks-to-seize-more-land-strengthen-position-moscow-times-reports</guid>
       <pubDate>Mon, 24 Mar 2025 15:02:02 +0200</pubDate>
-    </item>
-    <item>
-      <title>Trump administration will narrow "tariff day": reports (Axios)</title>
-      <link>https://www.axios.com/2025/03/24/trump-tariff-april-2-sectors</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/24/trump-tariff-april-2-sectors</guid>
-      <pubDate>Mon, 24 Mar 2025 12:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uganda to send troops to South Sudan (Semafor)</title>
-      <link>https://www.semafor.com/article/03/24/2025/uganda-to-send-troops-to-south-sudan</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/03/24/2025/uganda-to-send-troops-to-south-sudan</guid>
-      <pubDate>Mon, 24 Mar 2025 12:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: les négociations en vue d’un gouvernement patinent entre conservateurs et socio-démocrates (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250324-allemagne-les-n%C3%A9gociations-en-vue-d-un-gouvernement-patinent-entre-conservateurs-et-socio-d%C3%A9mocrates</link>
-      <author>RFI</author>
-      <guid>6e2dce2a-08a8-11f0-8ac1-005056a97652</guid>
-      <pubDate>Mon, 24 Mar 2025 12:13:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
