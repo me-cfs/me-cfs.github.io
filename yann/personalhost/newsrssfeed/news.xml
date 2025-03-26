@@ -5,6 +5,34 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's legacy of loose lips hangs over Signal scandal (Axios)</title>
+      <link>https://www.axios.com/2025/03/26/trump-signal-classified-information</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/26/trump-signal-classified-information</guid>
+      <pubDate>Wed, 26 Mar 2025 09:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The economic vibes are getting worse (Axios)</title>
+      <link>https://www.axios.com/2025/03/26/economy-confidence-vibes</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/26/economy-confidence-vibes</guid>
+      <pubDate>Wed, 26 Mar 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Montana Examines Ways To Ease Health Care Workforce Shortages (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/montana-health-worker-shortages-legislature-bills-licenses/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2004656</guid>
+      <pubDate>Wed, 26 Mar 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘I Am Going Through Hell’: Job Loss, Mental Health, and the Fate of Federal Workers (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/federal-workforce-trump-purge-fired-workers-mental-health-anxiety-depression/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2006863</guid>
+      <pubDate>Wed, 26 Mar 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Beneath Greenland’s ice lies a climate solution — and a new geopolitical battleground (Grist)</title>
       <link>https://grist.org/energy/greenland-rare-earths-mining-geopolitics-china-us/</link>
       <author>Grist</author>
@@ -1396,34 +1424,6 @@
       <author>ME/LC News</author>
       <guid>https://med-mastodon.com/@s4me/114213667818570890</guid>
       <pubDate>Sun, 23 Mar 2025 20:37:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>South African ambassador expelled from US welcomed home by supporters (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/mar/23/south-african-ambassador-expelled-from-us-welcomed-home-by-supporters</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/mar/23/south-african-ambassador-expelled-from-us-welcomed-home-by-supporters</guid>
-      <pubDate>Sun, 23 Mar 2025 20:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turkey formally charges Erdoğan rival as Ankara deepens opposition crackdown (Semafor)</title>
-      <link>https://www.semafor.com/article/03/23/2025/turkey-formally-charges-president-recep-tayyip-erdogan-rival-ekrem-imamoglu-</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/03/23/2025/turkey-formally-charges-president-recep-tayyip-erdogan-rival-ekrem-imamoglu-</guid>
-      <pubDate>Sun, 23 Mar 2025 19:38:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ces milliards américains qui mettent sous tutelle la Genève internationale (RTS)</title>
-      <link>https://www.rts.ch/info/regions/geneve/2025/article/geneve-internationale-l-impact-du-gel-des-subventions-americaines-28830663.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28830663</guid>
-      <pubDate>Sun, 23 Mar 2025 19:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>President Erdogan jails his rival, and endangers Turkey’s democracy (Economist)</title>
-      <link>https://www.economist.com/europe/2025/03/23/president-erdogan-jails-his-rival-and-endangers-turkeys-democracy</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/europe/2025/03/23/president-erdogan-jails-his-rival-and-endangers-turkeys-democracy</guid>
-      <pubDate>Sun, 23 Mar 2025 18:56:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
