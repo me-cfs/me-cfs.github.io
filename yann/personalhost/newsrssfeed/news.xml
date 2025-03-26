@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: au procès de Gérard Depardieu, une nouvelle plaignante l'accuse de trois agressions (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250326-france-au-proc%C3%A8s-de-g%C3%A9rard-depardieu-une-nouvelle-plaignante-l-accuse-de-trois-agressions</link>
+      <author>RFI</author>
+      <guid>40642988-0a49-11f0-be64-005056a97652</guid>
+      <pubDate>Wed, 26 Mar 2025 15:49:12 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Russia and US discuss restarting Nord Stream pipeline, Kremlin says					 (Politico)</title>
       <link>https://www.politico.eu/article/russia-united-states-nord-stream-gas-pipelines-sergey-lavrov/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/russia-united-states-nord-stream-gas-pipelines-sergey-lavrov/</guid>
       <pubDate>Wed, 26 Mar 2025 15:48:38 -0000</pubDate>
+    </item>
+    <item>
+      <title>Discredited anti-vaccine advocate will lead CDC study on vaccines and autism (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/</guid>
+      <pubDate>Wed, 26 Mar 2025 15:10:18 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1406,20 +1420,6 @@
       <author>West England Bylines</author>
       <guid>https://westenglandbylines.co.uk/news/education/an-open-letter-to-bridget-phillipson-on-special-educational-needs-and-disabilities-send/</guid>
       <pubDate>Mon, 24 Mar 2025 08:37:24 -0000</pubDate>
-    </item>
-    <item>
-      <title>Environmentalists in Israel and Palestine fight to save cross-border water resources (Grist)</title>
-      <link>https://grist.org/international/environmentalists-in-israel-and-palestine-fight-to-save-cross-border-water-resources/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=661025</guid>
-      <pubDate>Mon, 24 Mar 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title> 4 killed, 13 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/4-killed-13-injured-in-russian-attacks-against-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/4-killed-13-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
-      <pubDate>Mon, 24 Mar 2025 09:43:36 +0200</pubDate>
     </item>
   </channel>
 </rss>
