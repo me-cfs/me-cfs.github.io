@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Georgia: Drop Repressive ‘Foreign Agents’ Bill (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/26/georgia-drop-repressive-foreign-agents-bill</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/26/georgia-drop-repressive-foreign-agents-bill</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:01 -0400</pubDate>
+    </item>
+    <item>
       <title>Wildfires Ravage South Korea, Killing 18 People And Destroying 1,300-Year-Old Temple (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/ap-as-south-korea-wildfires_n_67e36996e4b0ff55ffb9326a</link>
       <author>Huffington Post</author>
@@ -109,6 +116,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/25/amy-klobuchar-signal-leak-axios-whats-next</guid>
       <pubDate>Tue, 25 Mar 2025 21:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tesla chair Robyn Denholm silent on Musk's politics (Axios)</title>
+      <link>https://www.axios.com/2025/03/25/tesla-sales-musk-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/25/tesla-sales-musk-trump</guid>
+      <pubDate>Tue, 25 Mar 2025 21:15:49 +0000</pubDate>
     </item>
     <item>
       <title>NC Republicans unveil legislation much like the state's 2016 "bathroom bill" (Axios)</title>
@@ -1410,20 +1424,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/pope-francis-released-from-hospital/</guid>
       <pubDate>Sun, 23 Mar 2025 14:07:46 -0000</pubDate>
-    </item>
-    <item>
-      <title>Origine du bois: de nombreux magasins ne respectent pas les règles (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/origine-du-bois-75-des-magasins-ne-respectent-pas-l-etiquetage-obligatoire-28828049.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28828049</guid>
-      <pubDate>Sun, 23 Mar 2025 13:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump is a problem for Europe’s most important hard-right leaders (Economist)</title>
-      <link>https://www.economist.com/europe/2025/03/23/trump-is-a-problem-for-europes-most-important-hard-right-leaders</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/europe/2025/03/23/trump-is-a-problem-for-europes-most-important-hard-right-leaders</guid>
-      <pubDate>Sun, 23 Mar 2025 13:40:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
