@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump is the lurking menace in a budget that dares not speak his name (or, you know, admit he’ll hurt exports) (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/03/26/donald-trump-2025-federal-budget-china-economy/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1199646</guid>
+      <pubDate>Tue, 25 Mar 2025 23:50:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Prince Harry resigns ‘in shock’ from African charity he founded in 2006 (Guardian)</title>
       <link>https://www.theguardian.com/uk-news/2025/mar/25/prince-harry-resigns-in-shock-from-african-charity-he-founded-in-2006</link>
       <author>Guardian</author>
@@ -47,11 +54,25 @@
       <pubDate>Tue, 25 Mar 2025 21:43:32 GMT</pubDate>
     </item>
     <item>
+      <title>Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries (Arstechnica)</title>
+      <link>https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/</guid>
+      <pubDate>Tue, 25 Mar 2025 21:36:58 +0000</pubDate>
+    </item>
+    <item>
       <title>👊🔥🇺🇸: Michael Waltz's emoji trio reaction to Yemen strikes goes viral (Axios)</title>
       <link>https://www.axios.com/2025/03/25/american-flag-fist-fire-emoji-waltz-atlantic</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/25/american-flag-fist-fire-emoji-waltz-atlantic</guid>
       <pubDate>Tue, 25 Mar 2025 21:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>NC Republicans unveil legislation much like the state's 2016 "bathroom bill" (Axios)</title>
+      <link>https://www.axios.com/local/raleigh/2025/03/25/north-carolina-republicans-transgender-rights-bathroom-bill</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/raleigh/2025/03/25/north-carolina-republicans-transgender-rights-bathroom-bill</guid>
+      <pubDate>Tue, 25 Mar 2025 21:14:59 +0000</pubDate>
     </item>
     <item>
       <title>Australia redirects foreign aid to Pacific and Southeast Asia after US cuts (SBS News)</title>
@@ -1402,28 +1423,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/23/immigration-detention-overcrowding-trump</guid>
       <pubDate>Sun, 23 Mar 2025 11:44:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump envoy claims Ukraine ‘agreed’ to hold presidential elections					 (Politico)</title>
-      <link>https://www.politico.eu/article/trump-envoy-claims-ukraine-agreed-to-hold-presidential-elections/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/trump-envoy-claims-ukraine-agreed-to-hold-presidential-elections/</guid>
-      <pubDate>Sun, 23 Mar 2025 11:31:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>Dominant Australia seal series win in New Zealand (BBC)</title>
-      <link>https://www.bbc.com/sport/cricket/articles/c62z48w210qo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/sport/cricket/articles/c62z48w210qo#0</guid>
-      <pubDate>Sun, 23 Mar 2025 10:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: des attaques russes sur Kiev font au moins trois morts et une dizaine de blessés (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250323-ukraine-des-attaques-russes-sur-kiev-font-au-moins-trois-morts-et-une-dizaine-de-bless%C3%A9s</link>
-      <author>RFI</author>
-      <guid>e09c04b0-07cf-11f0-a71d-005056a97652</guid>
-      <pubDate>Sun, 23 Mar 2025 10:52:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
