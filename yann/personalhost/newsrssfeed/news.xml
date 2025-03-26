@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Carl Lutz, un héros (encore) méconnu honoré au Palais fédéral (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/carl-lutz-le-diplomate-suisse-qui-sauva-62-000-juifs-honore-a-berne-28834566.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28834566</guid>
+      <pubDate>Wed, 26 Mar 2025 18:00:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Have You Recently Sought Help From the CFPB? ProPublica Wants to Hear From You. (Propublica)</title>
       <link>https://www.propublica.org/getinvolved/cfpb-closure-trump-mortgage-debts-banks-credit-consumer-financial-protection</link>
       <author>Propublica</author>
@@ -1413,13 +1420,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/24/medical-studies-rfk-nih-replication</guid>
       <pubDate>Mon, 24 Mar 2025 09:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In DOGE effort to combat fraud, Social Security's core mission is at stake (Axios)</title>
-      <link>https://www.axios.com/2025/03/24/social-security-doge-fraud-service</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/24/social-security-doge-fraud-service</guid>
-      <pubDate>Mon, 24 Mar 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
