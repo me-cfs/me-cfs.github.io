@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Broadway plays are back (Axios)</title>
+      <link>https://www.axios.com/2025/03/26/broadway-plays-records-george-clooney-denzel-washington</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/26/broadway-plays-records-george-clooney-denzel-washington</guid>
+      <pubDate>Wed, 26 Mar 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> 4 killed, 6 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-attacks-against-ukraine-over-past-day-3</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-attacks-against-ukraine-over-past-day-3</guid>
+      <pubDate>Wed, 26 Mar 2025 10:21:33 +0200</pubDate>
+    </item>
+    <item>
       <title>Renewables expanded globally last year, but not fast enough (Axios)</title>
       <link>https://www.axios.com/2025/03/26/renewables-record-growth-solar-wind-power</link>
       <author>Axios</author>
@@ -1410,22 +1424,6 @@
       <author>RFI</author>
       <guid>cbc6207a-080b-11f0-8c17-005056a97652</guid>
       <pubDate>Sun, 23 Mar 2025 18:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Turkey lurches toward outright autocracy as Erdoğan’s main rival is jailed					 (Politico)</title>
-      <link>https://www.politico.eu/article/turkey-jailed-tayyip-erdogan-mayor-immamoglu-jail-crackdown-nato-democracy/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/turkey-jailed-tayyip-erdogan-mayor-immamoglu-jail-crackdown-nato-democracy/</guid>
-      <pubDate>Sun, 23 Mar 2025 18:34:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Erdoğan seizes geopolitical moment to snuff out democratic opposition					 (Politico)</title>
-      <link>https://www.politico.eu/article/recep-tayyip-erdogan-democracy-turkey-protests-political-rivals/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/recep-tayyip-erdogan-democracy-turkey-protests-political-rivals/</guid>
-      <pubDate>Sun, 23 Mar 2025 18:19:21 -0000</pubDate>
     </item>
   </channel>
 </rss>
