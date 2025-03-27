@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Six reported dead after Egypt tourist submarine sinks in Red Sea – latest updates (Guardian)</title>
+      <link>https://www.theguardian.com/world/live/2025/mar/27/tourist-submarine-sinks-red-sea-egypt-hurghada-latest-news-updates</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/live/2025/mar/27/tourist-submarine-sinks-red-sea-egypt-hurghada-latest-news-updates</guid>
+      <pubDate>Thu, 27 Mar 2025 11:43:59 GMT</pubDate>
+    </item>
+    <item>
       <title>La France affiche pour 2024 un dérapage budgétaire important, mais moins important que prévu (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250327-la-france-affiche-pour-2024-un-d%C3%A9rapage-budg%C3%A9taire-important-mais-moins-important-que-pr%C3%A9vu</link>
       <author>RFI</author>
@@ -854,6 +861,13 @@
       <pubDate>Wed, 26 Mar 2025 03:58:19 +0200</pubDate>
     </item>
     <item>
+      <title>Canada joins other countries in updating travel advisories in response to Trump's policies (Axios)</title>
+      <link>https://www.axios.com/2025/03/25/canada-us-travel-advisory-updated-registration-guidance</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/25/canada-us-travel-advisory-updated-registration-guidance</guid>
+      <pubDate>Wed, 26 Mar 2025 01:14:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Security adviser Mike Waltz takes "full responsibility" for Signal group chat scandal (Axios)</title>
       <link>https://www.axios.com/2025/03/26/signal-group-chat-leak-waltz</link>
       <author>Axios</author>
@@ -1409,20 +1423,6 @@
       <author>Science Based Medicine</author>
       <guid>https://sciencebasedmedicine.org/?p=106911</guid>
       <pubDate>Tue, 25 Mar 2025 07:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title> 1 killed, 110 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-136</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-136</guid>
-      <pubDate>Tue, 25 Mar 2025 09:07:58 +0200</pubDate>
-    </item>
-    <item>
-      <title>Serbie: l'opposition anti-Vučić manifeste devant un bâtiment bombardé par l’Otan devenu un symbole (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250325-serbie-l-opposition-manifeste-devant-un-b%C3%A2timent-bombard%C3%A9-par-l-otan-devenu-un-symbole</link>
-      <author>RFI</author>
-      <guid>133a5cde-0945-11f0-8cf5-005056bf1351</guid>
-      <pubDate>Tue, 25 Mar 2025 06:53:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
