@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Face à la concurrence asiatique, le fabricant français d'instruments à vent Selmer mise sur le haut de gamme (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250327-face-%C3%A0-la-concurrence-asiatique-le-fabricant-fran%C3%A7ais-d-instruments-%C3%A0-vent-selmer-mise-sur-le-haut-de-gamme</link>
+      <author>RFI</author>
+      <guid>da197618-0b44-11f0-a31f-005056bf1351</guid>
+      <pubDate>Thu, 27 Mar 2025 23:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Japan’s ‘Hostage Justice’ Survivors Urge Legal Reforms at Diet (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/03/27/japans-hostage-justice-survivors-urge-legal-reforms-diet</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/03/27/japans-hostage-justice-survivors-urge-legal-reforms-diet</guid>
+      <pubDate>Thu, 27 Mar 2025 19:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Trump assembles task force to crack down on D.C. crime (Axios)</title>
+      <link>https://www.axios.com/local/washington-dc/2025/03/27/trump-dc-task-force-crime-immigration</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/washington-dc/2025/03/27/trump-dc-task-force-crime-immigration</guid>
+      <pubDate>Thu, 27 Mar 2025 22:58:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Albanese faces headwinds ahead of Australian election (BBC)</title>
       <link>https://www.bbc.com/news/articles/c3d883k1rx5o</link>
       <author>BBC</author>
@@ -1401,27 +1422,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5213872</guid>
       <pubDate>Tue, 25 Mar 2025 22:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s endless trade threats come at a growing cost (Economist)</title>
-      <link>https://www.economist.com/finance-and-economics/2025/03/25/trumps-endless-trade-threats-come-at-a-growing-cost</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/finance-and-economics/2025/03/25/trumps-endless-trade-threats-come-at-a-growing-cost</guid>
-      <pubDate>Tue, 25 Mar 2025 21:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump’s tariff pain: the growing evidence (Economist)</title>
-      <link>https://www.economist.com/finance-and-economics/2025/03/25/trumps-tariff-pain-the-growing-evidence</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/finance-and-economics/2025/03/25/trumps-tariff-pain-the-growing-evidence</guid>
-      <pubDate>Tue, 25 Mar 2025 21:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries (Arstechnica)</title>
-      <link>https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/</guid>
-      <pubDate>Tue, 25 Mar 2025 21:36:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
