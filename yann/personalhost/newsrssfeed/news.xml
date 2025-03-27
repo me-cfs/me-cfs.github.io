@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Bolsonaro must stand trial over alleged coup plot, Brazil's top court rules (Axios)</title>
+      <link>https://www.axios.com/2025/03/27/bolsonaro-brazil-coup-attempt-trial-supreme-court</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/27/bolsonaro-brazil-coup-attempt-trial-supreme-court</guid>
+      <pubDate>Thu, 27 Mar 2025 03:08:48 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						NATO to Putin: Attack Poland and our response will be ‘devastating’					 (Politico)</title>
       <link>https://www.politico.eu/article/nato-vladimir-putin-attack-poland-response-devastating/</link>
@@ -126,6 +133,13 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5216013</guid>
       <pubDate>Wed, 26 Mar 2025 20:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Administration Abruptly Cuts Billions From State Health Services (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/26/health/trump-state-health-grants-cuts.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/26/health/trump-state-health-grants-cuts.html</guid>
+      <pubDate>Wed, 26 Mar 2025 20:48:52 +0000</pubDate>
     </item>
     <item>
       <title>A New Tool to Detect Cellular Spying | EFFector 37.3 (Electronic Frontiers Foundation)</title>
@@ -1269,6 +1283,13 @@
       <pubDate>Tue, 25 Mar 2025 03:20:49 +0000</pubDate>
     </item>
     <item>
+      <title>Oscar-Winning Palestinian Director Attacked By Israeli Settlers And Detained By The Army (Huffington Post)</title>
+      <link>https://www.huffpost.com/entry/ap-ml-israel-palestinians-oscars-director_n_67e1af78e4b0c1ff01e890d4</link>
+      <author>Huffington Post</author>
+      <guid>https://www.huffpost.com/entry/ap-ml-israel-palestinians-oscars-director_n_67e1af78e4b0c1ff01e890d4</guid>
+      <pubDate>Tue, 25 Mar 2025 03:09:48 -0000</pubDate>
+    </item>
+    <item>
       <title>
 						EU trade chief flies to Washington again in bid to defuse transatlantic trade fight					 (Politico)</title>
       <link>https://www.politico.eu/article/eu-trade-chief-heads-to-meet-lutnick-greer-to-defuse-steel-aluminum-spat/</link>
@@ -1402,27 +1423,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1122534</guid>
       <pubDate>Mon, 24 Mar 2025 21:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>A visual guide to critical materials and rare earths (Economist)</title>
-      <link>https://www.economist.com/graphic-detail/2025/03/24/a-visual-guide-to-critical-materials-and-rare-earths</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/graphic-detail/2025/03/24/a-visual-guide-to-critical-materials-and-rare-earths</guid>
-      <pubDate>Mon, 24 Mar 2025 21:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump picks new CDC nominee, acting director Susan Monarez (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5211581-trump-picks-new-cdc-nominee-acting-director-susan-monarez/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5211581</guid>
-      <pubDate>Mon, 24 Mar 2025 21:09:26 +0000</pubDate>
-    </item>
-    <item>
-      <title> Ukraine war latest: Amid Russia-US talks in Riyadh, Russia fires missiles at Sumy, injuring 88  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-war-latest-russian-attack-on-sumy-injures-at-least-88-people-including-17-children-amid-us-russia-talks-in-saudi-arabia</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-war-latest-russian-attack-on-sumy-injures-at-least-88-people-including-17-children-amid-us-russia-talks-in-saudi-arabia</guid>
-      <pubDate>Mon, 24 Mar 2025 22:55:56 +0200</pubDate>
     </item>
   </channel>
 </rss>
