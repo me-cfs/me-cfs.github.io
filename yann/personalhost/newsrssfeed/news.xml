@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> EU unveils new sanctions against Belarus in response to presidential elections  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/eu-unveils-new-sanctions-against-belarus-in-response-to-presidential-elections</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/eu-unveils-new-sanctions-against-belarus-in-response-to-presidential-elections</guid>
+      <pubDate>Thu, 27 Mar 2025 23:16:37 +0200</pubDate>
+    </item>
+    <item>
       <title>Signal chat records must be preserved, federal judge tells Trump administration (Axios)</title>
       <link>https://www.axios.com/2025/03/27/signal-chat-case-judge-messages</link>
       <author>Axios</author>
@@ -1415,13 +1422,6 @@
       <author>Economist</author>
       <guid>/content/o5un50hrqscsu6h4clm3q30cibhde1r6</guid>
       <pubDate>Tue, 25 Mar 2025 20:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: au procès de Gérard Depardieu, la plaignante Amélie livre sa version des faits (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250325-france-au-proc%C3%A8s-de-g%C3%A9rard-depardieu-la-plaignante-am%C3%A9lie-livre-sa-version-des-faits</link>
-      <author>RFI</author>
-      <guid>ed65582a-09b6-11f0-9345-005056bf1351</guid>
-      <pubDate>Tue, 25 Mar 2025 20:30:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
