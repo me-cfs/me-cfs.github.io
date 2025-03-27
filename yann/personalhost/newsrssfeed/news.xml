@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Signal chat records must be preserved, federal judge tells Trump administration (Axios)</title>
+      <link>https://www.axios.com/2025/03/27/signal-chat-case-judge-messages</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/27/signal-chat-case-judge-messages</guid>
+      <pubDate>Thu, 27 Mar 2025 20:59:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ambush arrest of Tufts student sparks new concerns about immigration crackdown (Axios)</title>
+      <link>https://www.axios.com/2025/03/27/arrest-tuft-student-rumeysa-ozturk-trump-rubio</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/27/arrest-tuft-student-rumeysa-ozturk-trump-rubio</guid>
+      <pubDate>Thu, 27 Mar 2025 20:59:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Quatre soldats américains portés disparus lors d'exercices en Lituanie (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250327-quatre-soldats-am%C3%A9ricains-port%C3%A9s-disparus-lors-d-exercices-en-lituanie</link>
       <author>RFI</author>
@@ -1408,20 +1422,6 @@
       <author>RFI</author>
       <guid>ed65582a-09b6-11f0-9345-005056bf1351</guid>
       <pubDate>Tue, 25 Mar 2025 20:30:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: en tournée en Asie, Jean-Noël Barrot affirme que la menace russe en Europe n'est «pas théorique» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250325-france-en-tourn%C3%A9e-en-asie-jean-no%C3%ABl-barrot-affirme-que-la-menace-russe-en-europe-n-est-pas-th%C3%A9orique</link>
-      <author>RFI</author>
-      <guid>282603f6-09b7-11f0-acaa-005056bf1351</guid>
-      <pubDate>Tue, 25 Mar 2025 20:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title> Ukraine war latest: Black Sea ceasefire will take effect after some sanctions are lifted, Kremlin claims  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-war-latest-66</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-war-latest-66</guid>
-      <pubDate>Tue, 25 Mar 2025 22:23:09 +0200</pubDate>
     </item>
   </channel>
 </rss>
