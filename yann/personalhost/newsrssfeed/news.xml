@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ces émissions de CO2 qui plombent le bilan carbone "officiel" de la Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/environnement/2025/article/emissions-importees-le-vrai-bilan-carbone-de-la-suisse-devoile-28832821.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28832821</guid>
+      <pubDate>Fri, 28 Mar 2025 05:25:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Droits de douane sur l'automobile: l'Allemagne inquiète pour son économie après l'annonce des États-Unis (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250328-droits-de-douane-sur-l-automobile-l-allemagne-inqui%C3%A8te-pour-son-%C3%A9conomie-apr%C3%A8s-l-annonce-des-%C3%A9tats-unis</link>
       <author>RFI</author>
@@ -1418,13 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/26/signal-group-chat-leak-waltz</guid>
       <pubDate>Wed, 26 Mar 2025 05:33:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump officials sued over Signal chat for alleged federal records laws violations (Axios)</title>
-      <link>https://www.axios.com/2025/03/26/signal-chat-trump-officials-lawsuit-hegseth</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/26/signal-chat-trump-officials-lawsuit-hegseth</guid>
-      <pubDate>Wed, 26 Mar 2025 05:24:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
