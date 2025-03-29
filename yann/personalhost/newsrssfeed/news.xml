@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The gut-check on prebiotic soda (Axios)</title>
+      <link>https://www.axios.com/2025/03/29/poppi-olipop-healthy-soda-warning</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/29/poppi-olipop-healthy-soda-warning</guid>
+      <pubDate>Sat, 29 Mar 2025 09:01:00 +0000</pubDate>
+    </item>
+    <item>
       <title> 4 killed, 36 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/attacks-137</link>
       <author>Kyiv Indpendent</author>
@@ -1418,13 +1425,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/briefing/2025/03/26/an-unrestrained-israel-is-reshaping-the-middle-east</guid>
       <pubDate>Wed, 26 Mar 2025 22:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Macron accuse la Russie de «vouloir la guerre» à la veille d'un nouveau sommet des alliés de l'Ukraine (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250326-macron-accuse-la-russie-de-vouloir-la-guerre-%C3%A0-la-veille-d-un-nouveau-sommet-des-alli%C3%A9s-de-l-ukraine</link>
-      <author>RFI</author>
-      <guid>13d01a9c-0a82-11f0-8555-005056a97652</guid>
-      <pubDate>Wed, 26 Mar 2025 22:12:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
