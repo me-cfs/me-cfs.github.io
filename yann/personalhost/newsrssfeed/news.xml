@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How Hooters Became a Refuge for Young Gay Men (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html</guid>
+      <pubDate>Sat, 29 Mar 2025 00:23:08 +0000</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/proces-depardieu</link>
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22968</guid>
       <pubDate>03/29/2025 00:12</pubDate>
+    </item>
+    <item>
+      <title>Tracking Trump: The Signal message saga continues (Axios)</title>
+      <link>https://www.axios.com/2025/03/28/tracking-trump-signal-chat-atlantic-goldberg</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/28/tracking-trump-signal-chat-atlantic-goldberg</guid>
+      <pubDate>Sat, 29 Mar 2025 00:02:26 +0000</pubDate>
     </item>
     <item>
       <title>Avec «Radio Vladimir», l'écrivain russe Filipp Dzyadko met la lumière sur les opposants à Poutine (RFI)</title>
@@ -31,6 +45,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/28/trump-ozy-media-carlos-watson-commute</guid>
       <pubDate>Fri, 28 Mar 2025 22:55:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why do LLMs make stuff up? New research peers under the hood. (Arstechnica)</title>
+      <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
+      <pubDate>Fri, 28 Mar 2025 22:33:51 +0000</pubDate>
     </item>
     <item>
       <title> With peace talks underway, Ukrainian political veterans align with Trump  (Kyiv Indpendent)</title>
@@ -483,6 +504,13 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/27/us/politics/stefanik-trump-cabinet.html</guid>
       <pubDate>Fri, 28 Mar 2025 01:51:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Top Senate Republican Protests Trump Bid to Withhold Spending (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/27/us/politics/susan-collins-appropriations-trump.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/27/us/politics/susan-collins-appropriations-trump.html</guid>
+      <pubDate>Fri, 28 Mar 2025 01:49:33 +0000</pubDate>
     </item>
     <item>
       <title>Officer spared jail over fatal Tasering of 95-year-old  (BBC)</title>
@@ -1397,34 +1425,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5216013</guid>
       <pubDate>Wed, 26 Mar 2025 20:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Administration Abruptly Cuts Billions From State Health Services (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/26/health/trump-state-health-grants-cuts.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/26/health/trump-state-health-grants-cuts.html</guid>
-      <pubDate>Wed, 26 Mar 2025 20:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>A New Tool to Detect Cellular Spying | EFFector 37.3 (Electronic Frontiers Foundation)</title>
-      <link>https://www.eff.org/deeplinks/2025/03/new-tool-detect-cellular-spying-effector-373</link>
-      <author>Electronic Frontiers Foundation</author>
-      <guid>110563 at https://www.eff.org</guid>
-      <pubDate>Wed, 26 Mar 2025 19:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title> France announces $2 billion military aid package for Ukraine  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/france-announces-2-billion-military-aid-package-for-ukraine</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/france-announces-2-billion-military-aid-package-for-ukraine</guid>
-      <pubDate>Wed, 26 Mar 2025 21:52:26 +0200</pubDate>
-    </item>
-    <item>
-      <title>Estonie: le Parlement donne son feu vert à la limitation du droit de vote des résidents russes (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250326-estonie-le-parlement-donne-son-feu-vert-%C3%A0-la-limitation-du-droit-de-vote-des-r%C3%A9sidents-russes</link>
-      <author>RFI</author>
-      <guid>f2303e42-0a6f-11f0-a219-005056a97652</guid>
-      <pubDate>Wed, 26 Mar 2025 19:40:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
