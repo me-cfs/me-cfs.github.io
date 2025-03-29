@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>FAA looking into plane crash and near miss (Axios)</title>
+      <link>https://www.axios.com/2025/03/29/plane-crash-brooklyn-park-faa-ntsb</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/29/plane-crash-brooklyn-park-faa-ntsb</guid>
+      <pubDate>Sat, 29 Mar 2025 19:41:35 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Zelenskyy says no to any US minerals deal that might risk Ukraine’s EU bid					 (Politico)</title>
       <link>https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-no-us-minerals-deal-eu-bid-kyiv-putin-war-defense-rare-earth/</link>
@@ -1414,13 +1421,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/ukraines-engels-2-strike-destroyed-nearly-100-russian-missiles-general-staff-claims</guid>
       <pubDate>Thu, 27 Mar 2025 10:34:54 +0200</pubDate>
-    </item>
-    <item>
-      <title>France: Bruno Retailleau fustige l'islamisme lors d'un meeting organisé par un lobby pro-israélien (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250327-france-bruno-retailleau-fustige-l-islamisme-lors-d-un-meeting-organis%C3%A9-par-un-lobby-pro-isra%C3%A9lien</link>
-      <author>RFI</author>
-      <guid>1c891074-0ad9-11f0-9762-005056a97652</guid>
-      <pubDate>Thu, 27 Mar 2025 08:00:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
