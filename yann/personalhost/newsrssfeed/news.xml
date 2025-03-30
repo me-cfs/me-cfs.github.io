@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Signalgate raises bipartisan questions, but lawmakers split on answers (Axios)</title>
+      <link>https://www.axios.com/2025/03/30/signal-leak-democrats-republicans-investigation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/30/signal-leak-democrats-republicans-investigation</guid>
+      <pubDate>Sun, 30 Mar 2025 17:16:38 +0000</pubDate>
+    </item>
+    <item>
       <title>France: grève dans l'audiovisuel public contre un rapprochement des entreprises (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250330-france-gr%C3%A8ve-dans-l-audiovisuel-public-contre-un-rapprochement-des-entreprises</link>
       <author>RFI</author>
@@ -1416,13 +1423,6 @@
       <author>RTS</author>
       <guid>28835779</guid>
       <pubDate>Thu, 27 Mar 2025 15:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: le préfet de police demande le report du concert caritatif «Solidarité Congo» prévu le 7 avril à Paris (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250327-france-le-pr%C3%A9fet-de-police-demande-le-report-du-concert-caritatif-solidarit%C3%A9-congo-pr%C3%A9vu-le-7-avril-%C3%A0-paris</link>
-      <author>RFI</author>
-      <guid>57f93efc-0b12-11f0-ad89-005056a97652</guid>
-      <pubDate>Thu, 27 Mar 2025 14:37:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
