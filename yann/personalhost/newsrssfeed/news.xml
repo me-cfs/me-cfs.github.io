@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: grève dans l'audiovisuel public contre un rapprochement des entreprises (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250330-france-gr%C3%A8ve-dans-l-audiovisuel-public-contre-un-rapprochement-des-entreprises</link>
+      <author>RFI</author>
+      <guid>494c5f20-0d82-11f0-88ee-005056a97652</guid>
+      <pubDate>Sun, 30 Mar 2025 16:58:04 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						‘Pissed off’ at Putin, Trump threatens Russian oil tariffs					 (Politico)</title>
       <link>https://www.politico.eu/article/us-donald-trump-russia-vladimir-putin-threat-oil-tariffs/</link>
@@ -1416,13 +1423,6 @@
       <author>RFI</author>
       <guid>57f93efc-0b12-11f0-ad89-005056a97652</guid>
       <pubDate>Thu, 27 Mar 2025 14:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Even Republicans say Trump's Signalgate scandal is serious: poll (Axios)</title>
-      <link>https://www.axios.com/2025/03/27/trump-signal-group-chat-yemen-strike-poll</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/27/trump-signal-group-chat-yemen-strike-poll</guid>
-      <pubDate>Thu, 27 Mar 2025 14:36:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
