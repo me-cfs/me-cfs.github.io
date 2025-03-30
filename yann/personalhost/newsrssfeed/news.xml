@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>News in Brief for the week of March 23rd (ME/LC News)</title>
+      <link>https://www.s4me.info/threads/news-in-brief-march-2025.43011/#post-597543</link>
+      <author>ME/LC News</author>
+      <guid>https://med-mastodon.com/@s4me/114253275039206451</guid>
+      <pubDate>Sun, 30 Mar 2025 20:30:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Teachers warn AI is impacting students' critical thinking (Axios)</title>
       <link>https://www.axios.com/2025/03/30/teachers-ai-students-critical-thinking</link>
       <author>Axios</author>
@@ -82,6 +89,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/30/white-house-press-briefing-seating-chart</guid>
       <pubDate>Sun, 30 Mar 2025 14:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s “Liberation Day” is set to whack America’s economy (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/03/30/trumps-liberation-day-is-set-to-whack-americas-economy</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/03/30/trumps-liberation-day-is-set-to-whack-americas-economy</guid>
+      <pubDate>Sun, 30 Mar 2025 13:56:19 GMT</pubDate>
     </item>
     <item>
       <title>Trump "pissed off" at Putin, threatens new tariffs (Axios)</title>
@@ -1410,20 +1424,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/culture/2025/03/27/how-shonda-rhimes-became-a-billion-dollar-asset-for-streamers</guid>
       <pubDate>Thu, 27 Mar 2025 15:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The prospect of war has turned Europe into a continent of preppers (Economist)</title>
-      <link>https://www.economist.com/europe/2025/03/27/the-prospect-of-war-has-turned-europe-into-a-continent-of-preppers</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/europe/2025/03/27/the-prospect-of-war-has-turned-europe-into-a-continent-of-preppers</guid>
-      <pubDate>Thu, 27 Mar 2025 15:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Six Russian tourists die after submarine sinks off Egypt coast (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/mar/27/people-dead-after-tourist-submarine-sinks-off-egypt-coast-red-sea-reports</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/mar/27/people-dead-after-tourist-submarine-sinks-off-egypt-coast-red-sea-reports</guid>
-      <pubDate>Thu, 27 Mar 2025 15:45:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
