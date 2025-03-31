@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Royaume-Uni: une quarantaine de pays réunis à Londres pour un sommet sur l'immigration illégale (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250331-royaume-uni-une-quarantaine-de-pays-r%C3%A9unis-%C3%A0-londres-pour-un-sommet-sur-l-immigration-ill%C3%A9gale</link>
+      <author>RFI</author>
+      <guid>9d317182-0e29-11f0-bf3a-005056a97652</guid>
+      <pubDate>Mon, 31 Mar 2025 12:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title> Sweden unveils its largest military aid package for Ukraine worth nearly $1.6 billion  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/sweden-unveils-its-largest-military-aid-package-for-ukraine-worth-nearly-1-6-billion</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/sweden-unveils-its-largest-military-aid-package-for-ukraine-worth-nearly-1-6-billion</guid>
+      <pubDate>Mon, 31 Mar 2025 15:20:11 +0300</pubDate>
+    </item>
+    <item>
       <title>
 						Marine Le Pen barred from running for French president					 (Politico)</title>
       <link>https://www.politico.eu/article/france-far-right-national-rally-marine-le-pen-court-verdict-embezzlement-case-guilty/</link>
@@ -1415,20 +1429,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html</guid>
       <pubDate>Thu, 27 Mar 2025 22:41:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Albanese faces headwinds ahead of Australian election (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c3d883k1rx5o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c3d883k1rx5o#0</guid>
-      <pubDate>Thu, 27 Mar 2025 22:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>How will Australia choose its next prime minister?  (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c626e935llwo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c626e935llwo#0</guid>
-      <pubDate>Thu, 27 Mar 2025 21:44:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
