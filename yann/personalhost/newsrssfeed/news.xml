@@ -5,11 +5,33 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Marine Le Pen barred from running for French president					 (Politico)</title>
+      <link>https://www.politico.eu/article/france-far-right-national-rally-marine-le-pen-court-verdict-embezzlement-case-guilty/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/france-far-right-national-rally-marine-le-pen-court-verdict-embezzlement-case-guilty/</guid>
+      <pubDate>Mon, 31 Mar 2025 12:19:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>France: nombreuses réactions politiques après l'annonce de la condamnation de Marine Le Pen (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250331-france-nombreuses-r%C3%A9actions-politiques-apr%C3%A8s-l-annonce-de-la-condamnation-de-marine-le-pen</link>
+      <author>RFI</author>
+      <guid>732b0290-0e24-11f0-b272-005056bf1351</guid>
+      <pubDate>Mon, 31 Mar 2025 12:10:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Trans Day of Visibility celebrations persist despite Trump admin attacks (Axios)</title>
       <link>https://www.axios.com/2025/03/31/trans-day-of-visibility-2025-trump-attacks</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/31/trans-day-of-visibility-2025-trump-attacks</guid>
       <pubDate>Mon, 31 Mar 2025 11:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Myanmar’s junta is exploiting the devastating earthquake (Economist)</title>
+      <link>https://www.economist.com/podcasts/2025/03/31/myanmars-junta-is-exploiting-the-devastating-earthquake</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/podcasts/2025/03/31/myanmars-junta-is-exploiting-the-devastating-earthquake</guid>
+      <pubDate>Mon, 31 Mar 2025 10:40:29 GMT</pubDate>
     </item>
     <item>
       <title>MAGA is Bad for Business (Paul Krugmann)</title>
@@ -59,6 +81,13 @@
       <author>RTS</author>
       <guid>28839180</guid>
       <pubDate>Mon, 31 Mar 2025 09:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr.'s emerging vision for HHS: More centralized power (Axios)</title>
+      <link>https://www.axios.com/2025/03/31/rfk-hhs-centralize-power-restructure-layoffs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/03/31/rfk-hhs-centralize-power-restructure-layoffs</guid>
+      <pubDate>Mon, 31 Mar 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>American progress in peril (Axios)</title>
@@ -1400,34 +1429,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/c626e935llwo#0</guid>
       <pubDate>Thu, 27 Mar 2025 21:44:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. gave Hamas new Gaza ceasefire and hostage -release proposal (Axios)</title>
-      <link>https://www.axios.com/2025/03/27/us-israel-gaza-ceasefire-hamas-proposal</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/27/us-israel-gaza-ceasefire-hamas-proposal</guid>
-      <pubDate>Thu, 27 Mar 2025 21:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Australia to hold federal election on 3 May (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cj02033n18go</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cj02033n18go#0</guid>
-      <pubDate>Thu, 27 Mar 2025 21:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>King Charles III Hospitalized After Experiencing Side Effects From Medical Treatment (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/ap-eu-britain-king-charles-iii_n_67e5bee5e4b0c73888019527</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/ap-eu-britain-king-charles-iii_n_67e5bee5e4b0c73888019527</guid>
-      <pubDate>Thu, 27 Mar 2025 21:34:49 -0000</pubDate>
-    </item>
-    <item>
-      <title> EU unveils new sanctions against Belarus in response to presidential elections  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/eu-unveils-new-sanctions-against-belarus-in-response-to-presidential-elections</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/eu-unveils-new-sanctions-against-belarus-in-response-to-presidential-elections</guid>
-      <pubDate>Thu, 27 Mar 2025 23:16:37 +0200</pubDate>
     </item>
   </channel>
 </rss>
