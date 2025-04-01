@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Peter Dutton: The ex-cop who brought Australia's opposition back from the brink (BBC)</title>
+      <link>https://www.bbc.co.uk/news/world-australia-45254762</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.co.uk/news/world-australia-45254762#0</guid>
+      <pubDate>Tue, 01 Apr 2025 15:43:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOJ seeks death penalty for Luigi Mangione (Axios)</title>
+      <link>https://www.axios.com/2025/04/01/luigi-mangione-death-penalty-doj</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/01/luigi-mangione-death-penalty-doj</guid>
+      <pubDate>Tue, 01 Apr 2025 15:31:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Cory Booker's marathon speech ranks among the Senate's longest (Axios)</title>
       <link>https://www.axios.com/2025/04/01/cory-booker-marathon-speech-senate-records-strom-thurmond</link>
       <author>Axios</author>
@@ -31,6 +45,13 @@
       <author>RFI</author>
       <guid>ecfef7b0-0ef7-11f0-8192-005056bf1351</guid>
       <pubDate>Tue, 01 Apr 2025 14:33:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Win for Repro Rights: Alabama Can’t Charge Activists Helping Patients Get Out of State Abortions (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/alabama-cant-charge-abortion-groups-for-helping-patients-out-of-state-criminal-conspiracy/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1124173</guid>
+      <pubDate>Tue, 01 Apr 2025 14:27:47 +0000</pubDate>
     </item>
     <item>
       <title>Japan Makes High School Education Free – Again (Human Rights Watch)</title>
@@ -1416,27 +1437,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/newsletter/politico-confidential/marmalade-droppers-and-divided-dynasties/</guid>
       <pubDate>Sat, 29 Mar 2025 09:35:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>Europe’s demographic destiny (Economist)</title>
-      <link>https://www.economist.com/podcasts/2025/03/29/europes-demographic-destiny</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/podcasts/2025/03/29/europes-demographic-destiny</guid>
-      <pubDate>Sat, 29 Mar 2025 09:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The gut-check on prebiotic soda (Axios)</title>
-      <link>https://www.axios.com/2025/03/29/poppi-olipop-healthy-soda-warning</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/29/poppi-olipop-healthy-soda-warning</guid>
-      <pubDate>Sat, 29 Mar 2025 09:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title> 4 killed, 36 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-137</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-137</guid>
-      <pubDate>Sat, 29 Mar 2025 09:37:35 +0200</pubDate>
     </item>
   </channel>
 </rss>
