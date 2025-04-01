@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>China launches surprise Taiwan drills (Semafor)</title>
+      <link>https://www.semafor.com/article/04/01/2025/china-launches-surprise-taiwan-drills</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/04/01/2025/china-launches-surprise-taiwan-drills</guid>
+      <pubDate>Tue, 01 Apr 2025 10:50:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Bristol’s transport woes: another election, another debate (West England Bylines)</title>
       <link>https://westenglandbylines.co.uk/news/transport/bristols-transport-woes-another-election-another-debate/</link>
       <author>West England Bylines</author>
@@ -1431,13 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/28/trump-ozy-media-carlos-watson-commute</guid>
       <pubDate>Fri, 28 Mar 2025 22:55:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why do LLMs make stuff up? New research peers under the hood. (Arstechnica)</title>
-      <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
-      <pubDate>Fri, 28 Mar 2025 22:33:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
