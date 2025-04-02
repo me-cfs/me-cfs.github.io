@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Democratic states sue to stop billions in public health funding cuts (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5228763-blue-states-public-health-trump-funding-cuts-hhs-covid-19-pandemic/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5228763</guid>
+      <pubDate>Wed, 02 Apr 2025 21:11:50 +0000</pubDate>
+    </item>
+    <item>
       <title>How Trump’s ‘Liberation Day’ tariffs could kill American innovation (Grist)</title>
       <link>https://grist.org/climate-energy/how-trumps-liberation-day-tariffs-could-kill-american-innovation/</link>
       <author>Grist</author>
@@ -1422,13 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/france-far-right-national-rally-marine-le-pen-court-verdict-embezzlement-case-guilty/</guid>
       <pubDate>Mon, 31 Mar 2025 12:19:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>France: nombreuses réactions politiques après l'annonce de la condamnation de Marine Le Pen (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250331-france-nombreuses-r%C3%A9actions-politiques-apr%C3%A8s-l-annonce-de-la-condamnation-de-marine-le-pen</link>
-      <author>RFI</author>
-      <guid>732b0290-0e24-11f0-b272-005056bf1351</guid>
-      <pubDate>Mon, 31 Mar 2025 12:10:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
