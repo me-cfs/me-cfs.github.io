@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump announces tariffs, the highest import taxes since the 1800s (Axios)</title>
+      <link>https://www.axios.com/2025/04/02/trump-tariffs-april-2-liberation-day</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/02/trump-tariffs-april-2-liberation-day</guid>
+      <pubDate>Wed, 02 Apr 2025 20:34:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump restoring millions in family planning funds (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5228623-trump-restoring-millions-in-family-planning-funds/</link>
       <author>The Hill</author>
@@ -1424,15 +1431,6 @@
       <author>Economist the World this Week</author>
       <guid>239e0538-ed88-4b37-9089-789789772f43</guid>
       <pubDate>Mon, 31 Mar 2025 10:42:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Business
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/03/27/business</link>
-      <author>Economist the World this Week</author>
-      <guid>c8da8d0e-d25e-4c3c-9cc4-0ebeb8efa2a4</guid>
-      <pubDate>Mon, 31 Mar 2025 10:41:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
