@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Valaisan Philipp Matthias Bregy candidat à la présidence du Centre (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/le-valaisan-philipp-matthias-bregy-candidat-a-la-presidence-du-centre-28841565.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28841565</guid>
+      <pubDate>Wed, 02 Apr 2025 01:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dutton has flirted pathetically with Trump. On ‘Liberation Day’, the honeymoon is over. (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/04/02/peter-dutton-donald-trump-liberation-day-tariffs/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1200653</guid>
+      <pubDate>Wed, 02 Apr 2025 01:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>This little piggy: We’re mapping the election’s pork-barrelling (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/04/02/pork-barrelling-funding-promises-federal-election-labor-coalition-map/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1200496</guid>
+      <pubDate>Wed, 02 Apr 2025 01:00:54 +0000</pubDate>
+    </item>
+    <item>
       <title> Bipartisan group of US senators introduce &amp;#x27;hard-hitting&amp;#x27; sanctions against Russia  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/bipartisan-group-of-us-senators-introduce-hard-hitting-sanctions-against-russia</link>
       <author>Kyiv Indpendent</author>
@@ -59,6 +80,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/moscow-wont-accept-us-proposals-on-ukraine-peace-in-current-form-russian-official-claims</guid>
       <pubDate>Wed, 02 Apr 2025 01:01:20 +0300</pubDate>
+    </item>
+    <item>
+      <title>Who might buy TikTok as ban looms (Axios)</title>
+      <link>https://www.axios.com/2025/04/01/tiktok-sale-ban-trump-april-deadline</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/01/tiktok-sale-ban-trump-april-deadline</guid>
+      <pubDate>Tue, 01 Apr 2025 21:16:56 +0000</pubDate>
     </item>
     <item>
       <title>This Is Not About Antisemitism, Palestine, or Columbia. It’s Trump Dismantling the American Dream. (The Intercept)</title>
@@ -1408,35 +1436,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/03/30/zelensky-trump-and-putin-may-all-have-done-a-u-turn-on-elections-in-ukraine</guid>
       <pubDate>Sun, 30 Mar 2025 11:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zelensky, Trump and Putin may all have done U-turns on elections in Ukraine (Economist)</title>
-      <link>https://www.economist.com/europe/2025/03/30/zelensky-trump-and-putin-may-all-have-done-u-turns-on-elections-in-ukraine</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/europe/2025/03/30/zelensky-trump-and-putin-may-all-have-done-u-turns-on-elections-in-ukraine</guid>
-      <pubDate>Sun, 30 Mar 2025 11:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: «pluie» de drones russes sur la ville de Kharkiv, deux morts et trente blessés (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250330-ukraine-pluie-de-drones-russes-sur-la-ville-de-kharkiv-deux-morts-et-trente-bless%C3%A9s</link>
-      <author>RFI</author>
-      <guid>a952b0e4-0d5b-11f0-9e65-005056a97652</guid>
-      <pubDate>Sun, 30 Mar 2025 11:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOGE comes for the data wonks (Economist)</title>
-      <link>https://www.economist.com/united-states/2025/03/30/doge-comes-for-the-data-wonks</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/united-states/2025/03/30/doge-comes-for-the-data-wonks</guid>
-      <pubDate>Sun, 30 Mar 2025 11:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump doesn’t rule out military intervention in Greenland — again					 (Politico)</title>
-      <link>https://www.politico.eu/article/usa-donald-trump-military-intervention-greenland-again-denmark/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/usa-donald-trump-military-intervention-greenland-again-denmark/</guid>
-      <pubDate>Sun, 30 Mar 2025 10:46:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
