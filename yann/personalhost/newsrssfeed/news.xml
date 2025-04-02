@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Will AI Save Medicine (Science Based Medicine)</title>
+      <link>https://sciencebasedmedicine.org/will-ai-save-medicine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=will-ai-save-medicine</link>
+      <author>Science Based Medicine</author>
+      <guid>https://sciencebasedmedicine.org/?p=107296</guid>
+      <pubDate>Wed, 02 Apr 2025 12:07:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump tariffs would hit lower-income Americans hardest (Axios)</title>
       <link>https://www.axios.com/2025/04/02/trump-tariffs-low-income</link>
       <author>Axios</author>
@@ -136,6 +143,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/3-killed-18-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
       <pubDate>Wed, 02 Apr 2025 08:56:52 +0300</pubDate>
+    </item>
+    <item>
+      <title>Susan Crawford Wins Wisconsin Supreme Court Election, Despite Elon Musk’s Millions (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/01/us/politics/wisconsin-supreme-court-crawford-schimel.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/01/us/politics/wisconsin-supreme-court-crawford-schimel.html</guid>
+      <pubDate>Wed, 02 Apr 2025 05:45:41 +0000</pubDate>
     </item>
     <item>
       <title>Almost half of all Australian workers could benefit from minimum wage change (SBS News)</title>
@@ -1423,21 +1437,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/31/trump-tariffs-all-countries</guid>
       <pubDate>Mon, 31 Mar 2025 03:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU exploring weaker 2040 climate goal					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-exploring-weaker-2040-climate-goal-90-greenhouse-gas-cut-wopke-hoekstra/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-exploring-weaker-2040-climate-goal-90-greenhouse-gas-cut-wopke-hoekstra/</guid>
-      <pubDate>Mon, 31 Mar 2025 03:17:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>Chinese spy ship circumnavigating Australia, Anthony Albanese confirms (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/chinese-spy-ship-circumnavigating-australia-prime-minister-confirms/wurmobvyd</link>
-      <author>SBS News</author>
-      <guid>00000195-ea05-d7fe-a995-fa0f3f4a0000</guid>
-      <pubDate>Mon, 31 Mar 2025 02:50:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
