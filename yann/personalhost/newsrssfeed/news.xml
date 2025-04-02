@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 3 killed, 18 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/3-killed-18-injured-in-russian-attacks-against-ukraine-over-past-day</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/3-killed-18-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
+      <pubDate>Wed, 02 Apr 2025 08:56:52 +0300</pubDate>
+    </item>
+    <item>
       <title>Almost half of all Australian workers could benefit from minimum wage change (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/almost-half-of-all-australian-workers-could-benefit-from-minimum-wage-change/oxhuwcpjs</link>
       <author>SBS News</author>
       <guid>00000195-f496-d813-a1f7-ff9668ff0001</guid>
       <pubDate>Wed, 2 Apr 2025 05:41:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Val Kilmer, Film Star Who Played Batman and Jim Morrison, Dies at 65 (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html</guid>
+      <pubDate>Wed, 02 Apr 2025 04:28:34 +0000</pubDate>
     </item>
     <item>
       <title>‘Women give birth on the ground’: Congolese forced to return home find devastation (Guardian)</title>
@@ -115,6 +129,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/02/mike-johnson-anna-paulina-luna-proxy-voting</guid>
       <pubDate>Wed, 02 Apr 2025 00:18:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Booker sets record for longest Senate speech ever with anti-Trump marathon (Axios)</title>
+      <link>https://www.axios.com/2025/04/01/booker-sets-record-for-longest-senate-speech-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/01/booker-sets-record-for-longest-senate-speech-trump</guid>
+      <pubDate>Wed, 02 Apr 2025 00:17:09 +0000</pubDate>
     </item>
     <item>
       <title> (Chapatte Dessins)</title>
@@ -1421,28 +1442,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/30/signal-leak-democrats-republicans-investigation</guid>
       <pubDate>Sun, 30 Mar 2025 17:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: grève dans l'audiovisuel public contre un rapprochement des entreprises (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250330-france-gr%C3%A8ve-dans-l-audiovisuel-public-contre-un-rapprochement-des-entreprises</link>
-      <author>RFI</author>
-      <guid>494c5f20-0d82-11f0-88ee-005056a97652</guid>
-      <pubDate>Sun, 30 Mar 2025 16:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						‘Pissed off’ at Putin, Trump threatens Russian oil tariffs					 (Politico)</title>
-      <link>https://www.politico.eu/article/us-donald-trump-russia-vladimir-putin-threat-oil-tariffs/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/us-donald-trump-russia-vladimir-putin-threat-oil-tariffs/</guid>
-      <pubDate>Sun, 30 Mar 2025 16:10:41 -0000</pubDate>
-    </item>
-    <item>
-      <title>Donors quit Prince Harry’s charity when he left UK, says Sentebale chair (Guardian)</title>
-      <link>https://www.theguardian.com/uk-news/2025/mar/30/donors-quit-prince-harry-charity-left-uk-sentebale-chair</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/uk-news/2025/mar/30/donors-quit-prince-harry-charity-left-uk-sentebale-chair</guid>
-      <pubDate>Sun, 30 Mar 2025 15:48:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
