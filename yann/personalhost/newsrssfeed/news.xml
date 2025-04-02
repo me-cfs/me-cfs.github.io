@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Bipartisan group of US senators introduce &amp;#x27;hard-hitting&amp;#x27; sanctions against Russia  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/bipartisan-group-of-us-senators-introduce-hard-hitting-sanctions-against-russia</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/bipartisan-group-of-us-senators-introduce-hard-hitting-sanctions-against-russia</guid>
+      <pubDate>Wed, 02 Apr 2025 03:32:55 +0300</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/au-tour-de-bardella</link>
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/22970</guid>
       <pubDate>04/02/2025 00:12</pubDate>
+    </item>
+    <item>
+      <title>Putin's envoy to visit Washington for talks on Ukraine (Axios)</title>
+      <link>https://www.axios.com/2025/04/02/russia-dmitriev-visit-white-house-ukraine</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/02/russia-dmitriev-visit-white-house-ukraine</guid>
+      <pubDate>Wed, 02 Apr 2025 00:05:42 +0000</pubDate>
     </item>
     <item>
       <title>Report Condemns Hundreds of Millions of  Unrecovered Covid Sports Loans (Byline Times)</title>
@@ -101,6 +115,13 @@
       <author>SBS News</author>
       <guid>00000195-f2af-d813-a1f7-ffbf04210000</guid>
       <pubDate>Tue, 1 Apr 2025 19:45:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Elon Musk and DOGE staff would face drug testing under House Democrat's bill (Axios)</title>
+      <link>https://www.axios.com/2025/04/01/elon-musk-doge-drug-testing-bill-democrat</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/01/elon-musk-doge-drug-testing-bill-democrat</guid>
+      <pubDate>Tue, 01 Apr 2025 19:13:30 +0000</pubDate>
     </item>
     <item>
       <title>Senate GOP embraces controversial tax cut strategy (Axios)</title>
@@ -735,6 +756,13 @@
       <author>RFI</author>
       <guid>f5b1672c-0e51-11f0-8db9-005056a97652</guid>
       <pubDate>Mon, 31 Mar 2025 18:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Have a Passionate Life (New York Times)</title>
+      <link>https://www.nytimes.com/2025/03/27/opinion/persistence-work-difficulty.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/03/27/opinion/persistence-work-difficulty.html</guid>
+      <pubDate>Mon, 31 Mar 2025 17:30:11 +0000</pubDate>
     </item>
     <item>
       <title>Israel Orders Palestinians In Rafah To Evacuate Gaza's Southernmost City (Huffington Post)</title>
@@ -1409,34 +1437,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/usa-donald-trump-military-intervention-greenland-again-denmark/</guid>
       <pubDate>Sun, 30 Mar 2025 10:46:34 -0000</pubDate>
-    </item>
-    <item>
-      <title>A Balance of Payments Primer, Part II: The Dollar and All That (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/a-balance-of-payments-primer-part-b66</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/a-balance-of-payments-primer-part-b66</guid>
-      <pubDate>Sun, 30 Mar 2025 10:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Khartoum changes hands, heralding a new phase in Sudan’s civil war (Economist)</title>
-      <link>https://www.economist.com/middle-east-and-africa/2025/03/30/khartoum-changes-hands-heralding-a-new-phase-in-sudans-civil-war</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/middle-east-and-africa/2025/03/30/khartoum-changes-hands-heralding-a-new-phase-in-sudans-civil-war</guid>
-      <pubDate>Sun, 30 Mar 2025 09:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serbie: des étudiants se mobilisent contre la «propagande» d'une télévision pro-Vucic (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250330-serbie-des-%C3%A9tudiants-se-mobilisent-contre-la-propagande-d-une-t%C3%A9l%C3%A9vision-pro-vucic</link>
-      <author>RFI</author>
-      <guid>183b8cc6-0d3c-11f0-9ff7-005056a97652</guid>
-      <pubDate>Sun, 30 Mar 2025 08:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huit graphiques pour comprendre les relations économiques entre la Suisse et l'Union européenne (RTS)</title>
-      <link>https://www.rts.ch/info/economie/2025/article/relations-economiques-suisse-ue-8-graphiques-revelateurs-28835320.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28835320</guid>
-      <pubDate>Sun, 30 Mar 2025 07:51:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
