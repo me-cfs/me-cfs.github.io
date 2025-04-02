@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump seriously considering Iran's offer of indirect nuclear talks (Axios)</title>
+      <link>https://www.axios.com/2025/04/02/trump-iran-talks-bomb-threats</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/02/trump-iran-talks-bomb-threats</guid>
+      <pubDate>Wed, 02 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Companies used to tout their climate plans. Under Trump, they’ve gone quiet. (Grist)</title>
+      <link>https://grist.org/business/companies-climate-plans-trump-earnings-greenhushing/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=662084</guid>
+      <pubDate>Wed, 02 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>How the Trump administration is targeting green transportation in blue states (Grist)</title>
       <link>https://grist.org/transportation/trump-duffy-department-of-transportation-congestion-pricing-subway-train-new-york-california-dc/</link>
       <author>Grist</author>
@@ -1427,20 +1441,6 @@
       <author>ME/LC News</author>
       <guid>https://med-mastodon.com/@s4me/114253275039206451</guid>
       <pubDate>Sun, 30 Mar 2025 20:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>“I’m Not Joking”: Trump Again Floats Running for Anti-Constitutional Third Term (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/trump-third-term-constitution-2028/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1123897</guid>
-      <pubDate>Sun, 30 Mar 2025 19:58:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teachers warn AI is impacting students' critical thinking (Axios)</title>
-      <link>https://www.axios.com/2025/03/30/teachers-ai-students-critical-thinking</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/30/teachers-ai-students-critical-thinking</guid>
-      <pubDate>Sun, 30 Mar 2025 19:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
