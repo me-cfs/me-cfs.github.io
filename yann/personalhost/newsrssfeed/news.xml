@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Four killed, 10 injured in Russian missile attack on Kryvyi Rih  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/4-killed-9-injured-in-russian-missile-attack-on-kryvyi-rih</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/4-killed-9-injured-in-russian-missile-attack-on-kryvyi-rih</guid>
+      <pubDate>Wed, 02 Apr 2025 19:13:08 +0300</pubDate>
+    </item>
+    <item>
       <title>Israeli Strikes Kill Dozens In Gaza As Military Vows To Seize 'Large Areas' (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israel-strikes-kill-dozens-gaza-military-expansion_n_67ed4b5be4b0ca349800d216</link>
       <author>Huffington Post</author>
@@ -18,6 +25,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/battle-over-eu-green-rules-shakes-von-der-leyens-fragile-centrist-coalition/</guid>
       <pubDate>Wed, 02 Apr 2025 16:12:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: Schumer proposes security training for Trump officials after Signalgate scandal (Axios)</title>
+      <link>https://www.axios.com/2025/04/02/schumer-proposes-security-trainingtrump-officials-signalgate</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/02/schumer-proposes-security-trainingtrump-officials-signalgate</guid>
+      <pubDate>Wed, 02 Apr 2025 16:06:59 +0000</pubDate>
     </item>
     <item>
       <title>Second buyout offer sent to some federal workers (Axios)</title>
@@ -1422,20 +1436,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?p=2006273&amp;post_type=article&amp;preview_id=2006273</guid>
       <pubDate>Mon, 31 Mar 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>We Detailed Mayor Adams’ Embrace of an Abuse-Ridden NYPD Unit. Now Lawmakers and Advocates Demand Change. (Propublica)</title>
-      <link>https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse</guid>
-      <pubDate>Mon, 31 Mar 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Trump's tariff revenge keeps the world teetering on the edge (Axios)</title>
-      <link>https://www.axios.com/2025/03/31/trump-tariffs-april-2-economy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/31/trump-tariffs-april-2-economy</guid>
-      <pubDate>Mon, 31 Mar 2025 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
