@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre des droits de douane: Londres soulagé... (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250403-guerre-des-droits-de-douane-trump-londres-soulag%C3%A9-sauf-automobiles</link>
+      <author>RFI</author>
+      <guid>ec55f802-1089-11f0-aead-005056a97652</guid>
+      <pubDate>Thu, 03 Apr 2025 12:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title> Denmark unveils new aid for Ukraine worth almost $1 billion  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/denmark-allocates-new-aid-package-to-ukraine-worth-almost-1-billion</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/denmark-allocates-new-aid-package-to-ukraine-worth-almost-1-billion</guid>
+      <pubDate>Thu, 03 Apr 2025 15:41:16 +0300</pubDate>
+    </item>
+    <item>
       <title>World Bank announces multimillion-dollar redress fund after killings and abuse claims at Tanzanian project (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/apr/03/world-bank-multimillion-dollar-redress-killings-and-abuse-claims-tanzania-project-ruaha-national-park</link>
       <author>Guardian</author>
@@ -1413,20 +1427,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf</guid>
       <pubDate>Tue, 01 Apr 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Ces cinq pays dans lesquels aucun Suisse ne réside (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/decouvrez-les-5-pays-ou-aucun-suisse-ne-vit-destinations-insolites-28839575.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28839575</guid>
-      <pubDate>Tue, 01 Apr 2025 08:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yellowstone’s gateway town fears for its future amid Trump funding cuts (Grist)</title>
-      <link>https://grist.org/economics/yellowstone-gateway-town-fears-future-economy-trump-funding-cuts/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=662049</guid>
-      <pubDate>Tue, 01 Apr 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
