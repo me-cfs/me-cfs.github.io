@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The GOP's big voter problem (Axios)</title>
+      <link>https://www.axios.com/2025/04/03/trump-voter-turnout-problem-gop-special-elections</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/03/trump-voter-turnout-problem-gop-special-elections</guid>
+      <pubDate>Thu, 03 Apr 2025 08:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A deadly mosquito-borne illness rises as the US cuts all climate and health funding (Grist)</title>
+      <link>https://grist.org/politics/dengue-climate-change-trump-cuts-nih-funding-mosquito-borne-disease/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=662165</guid>
+      <pubDate>Thu, 03 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>France: que sont devenus les mineurs étrangers non accompagnés expulsés de la Gaité Lyrique? (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250403-france-devenus-mineurs-%C3%A9trangers-non-accompagn%C3%A9s-expuls%C3%A9s-de-la-gait%C3%A9-lyrique</link>
+      <author>RFI</author>
+      <guid>32c5c6ea-1054-11f0-8d64-005056bf1351</guid>
+      <pubDate>Thu, 03 Apr 2025 08:44:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Roland Lescure: les taxes de Trump «sont une déclaration de guerre industrielle au monde entier» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250403-roland-lescure-les-taxes-de-trump-sont-une-d%C3%A9claration-de-guerre-industrielle-au-monde-entier</link>
       <author>RFI</author>
@@ -1410,27 +1431,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5224628</guid>
       <pubDate>Tue, 01 Apr 2025 02:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk visited the CIA to discuss DOGE measures (Axios)</title>
-      <link>https://www.axios.com/2025/04/01/elon-musk-cia-visit-doge</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/01/elon-musk-cia-visit-doge</guid>
-      <pubDate>Tue, 01 Apr 2025 01:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neither major party wants to talk about climate. It might still be a major election issue (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/04/01/2025-election-liberals-labor-wont-talk-about-climate-change/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1200450</guid>
-      <pubDate>Tue, 01 Apr 2025 00:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title> Trump again threatens oil tariffs against Russia if peace deal not reached  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/trump-again-threatens-oil-tariffs-against-russia-if-peace-deal-not-reached</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/trump-again-threatens-oil-tariffs-against-russia-if-peace-deal-not-reached</guid>
-      <pubDate>Tue, 01 Apr 2025 03:48:46 +0300</pubDate>
     </item>
   </channel>
 </rss>
