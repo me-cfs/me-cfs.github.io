@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: début du procès du groupe Bayer-Monsanto face à la famille Grataloup (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250403-france-d%C3%A9but-du-proc%C3%A8s-du-groupe-bayer-monsanto-face-%C3%A0-la-famille-grataloup</link>
+      <author>RFI</author>
+      <guid>772ee908-10d9-11f0-8bcf-005056a97652</guid>
+      <pubDate>Thu, 03 Apr 2025 22:34:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Dans l’enclave russe de Kaliningrad, des Européens décrits comme «ni amis, ni ennemis» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250403-dans-l-enclave-russe-de-kaliningrad-des-europ%C3%A9ens-d%C3%A9crits-comme-ni-amis-ni-ennemis</link>
       <author>RFI</author>
@@ -1428,13 +1435,6 @@
       <author>RFI</author>
       <guid>b6039958-0f1c-11f0-af2d-005056bf1351</guid>
       <pubDate>Tue, 01 Apr 2025 18:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>China debates whether Trump is a revolutionary, or just rude (Economist)</title>
-      <link>https://www.economist.com/international/2025/04/01/china-debates-whether-trump-is-a-revolutionary-or-just-rude</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/international/2025/04/01/china-debates-whether-trump-is-a-revolutionary-or-just-rude</guid>
-      <pubDate>Tue, 01 Apr 2025 18:39:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
