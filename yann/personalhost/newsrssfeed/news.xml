@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Dans l’enclave russe de Kaliningrad, des Européens décrits comme «ni amis, ni ennemis» (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250403-dans-l-enclave-russe-de-kaliningrad-des-europ%C3%A9ens-d%C3%A9crits-comme-ni-amis-ni-ennemis</link>
+      <author>RFI</author>
+      <guid>790e729a-10af-11f0-968d-005056bf1351</guid>
+      <pubDate>Thu, 03 Apr 2025 22:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>France: à la mode parmi les jeunes, le tricot constitue une manière de consommer plus durable (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250403-france-%C3%A0-la-mode-parmi-les-jeunes-le-tricot-constitue-une-mani%C3%A8re-de-consommer-plus-durable</link>
+      <author>RFI</author>
+      <guid>96a261a8-10a1-11f0-adb5-005056bf1351</guid>
+      <pubDate>Thu, 03 Apr 2025 22:14:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Senate confirms Oz as head of CMS along party lines (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5230963-senate-confirms-oz-cms-hhs-kennedy/</link>
       <author>The Hill</author>
@@ -1421,21 +1435,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/international/2025/04/01/china-debates-whether-trump-is-a-revolutionary-or-just-rude</guid>
       <pubDate>Tue, 01 Apr 2025 18:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Le Pen could still become French president after appeal slated for 2026					 (Politico)</title>
-      <link>https://www.politico.eu/article/marine-le-pen-rule-appeal-summer-president-election/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/marine-le-pen-rule-appeal-summer-president-election/</guid>
-      <pubDate>Tue, 01 Apr 2025 18:38:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>Plus de 20 condamnations pour violation de l'embargo suisse sur la Russie et la Biélorussie (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/embargo-suisse-sur-la-russie-21-condamnations-pour-violations-en-deux-ans-28841241.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28841241</guid>
-      <pubDate>Tue, 01 Apr 2025 18:33:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
