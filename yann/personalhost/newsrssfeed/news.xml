@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>'Massive win for our community': More Australians to be able to access subsidised IVF (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/more-inclusive-access-government-accepts-expanded-definition-of-infertility/h29iamayx</link>
+      <author>SBS News</author>
+      <guid>00000195-f9b3-dab1-a39d-fffbad330000</guid>
+      <pubDate>Thu, 3 Apr 2025 07:14:49 +0000</pubDate>
+    </item>
+    <item>
+      <title> 5 killed, 40 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-139</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-139</guid>
+      <pubDate>Thu, 03 Apr 2025 10:12:06 +0300</pubDate>
+    </item>
+    <item>
       <title>Une commission veut assouplir les règles d'exportation de matériel de guerre suisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/exportations-d-armes-suisses-vers-un-assouplissement-des-regles-28842627.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1417,20 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/03/31/trump-visit-saudi-arabia-qatar-uae-foreign-trips</guid>
       <pubDate>Mon, 31 Mar 2025 23:02:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Top Republicans in Congress shrug off Trump's "fanciful" third term musings (Axios)</title>
-      <link>https://www.axios.com/2025/03/31/trump-third-term-republicans-congress-reaction</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/03/31/trump-third-term-republicans-congress-reaction</guid>
-      <pubDate>Mon, 31 Mar 2025 22:19:01 +0000</pubDate>
-    </item>
-    <item>
-      <title> Zelensky, Starmer plan meeting on Ukraine peacekeeping force  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/zelensky-starmer-plan-meeting-on-ukraine-peacekeeping-force</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/zelensky-starmer-plan-meeting-on-ukraine-peacekeeping-force</guid>
-      <pubDate>Tue, 01 Apr 2025 00:40:47 +0300</pubDate>
     </item>
   </channel>
 </rss>
