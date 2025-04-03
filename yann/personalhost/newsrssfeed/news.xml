@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une commission veut assouplir les règles d'exportation de matériel de guerre suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/exportations-d-armes-suisses-vers-un-assouplissement-des-regles-28842627.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28842627</guid>
+      <pubDate>Thu, 03 Apr 2025 06:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>EU, China and Canada warn U.S. of counter-tariffs, as trade war with Trump heats up (Axios)</title>
+      <link>https://www.axios.com/2025/04/03/trump-tariffs-canada-china-eu-trade-war-countermeasures</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/03/trump-tariffs-canada-china-eu-trade-war-countermeasures</guid>
+      <pubDate>Thu, 03 Apr 2025 06:28:45 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Europe slams ‘illegal’ Trump tariffs, vows unified response					 (Politico)</title>
       <link>https://www.politico.eu/article/europe-donald-trump-tariffs-liberation-day-reaction/</link>
@@ -1417,20 +1431,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/zelensky-starmer-plan-meeting-on-ukraine-peacekeeping-force</guid>
       <pubDate>Tue, 01 Apr 2025 00:40:47 +0300</pubDate>
-    </item>
-    <item>
-      <title>Federal Workers Walk Into Chaos Amid Return to Office (New York Times)</title>
-      <link>https://www.nytimes.com/2025/03/31/us/politics/federal-workers-return-to-office.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/03/31/us/politics/federal-workers-return-to-office.html</guid>
-      <pubDate>Mon, 31 Mar 2025 21:35:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>France Cracked Down on Far-Right Corruption—And Team Trump Is Triggered (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1124064</guid>
-      <pubDate>Mon, 31 Mar 2025 21:24:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
