@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>KFF Health News' 'What the Health?': American Health Gets a Pink Slip (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/podcast/what-the-health-391-hhs-workforce-reductions-april-3-2025/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?p=2010311&amp;post_type=podcast&amp;preview_id=2010311</guid>
+      <pubDate>Thu, 03 Apr 2025 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>German Proposal to Strip Citizenship Endangers Human Rights (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/04/03/german-proposal-strip-citizenship-endangers-human-rights</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/04/03/german-proposal-strip-citizenship-endangers-human-rights</guid>
+      <pubDate>Thu, 03 Apr 2025 14:57:00 -0400</pubDate>
+    </item>
+    <item>
       <title>Israeli Strike On A School In Gaza Kills At Least 27 People (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israel-strike-gaza-school_n_67eec941e4b015dd39a18068</link>
       <author>Huffington Post</author>
@@ -317,6 +331,13 @@
       <author>Byline Times</author>
       <guid>https://bylinetimes.com/?p=244881</guid>
       <pubDate>Thu, 03 Apr 2025 09:41:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>How Milei made Argentina deserving of an IMF bail-out (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/04/03/how-milei-has-made-argentina-deserving-of-an-imf-bail-out</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/04/03/how-milei-has-made-argentina-deserving-of-an-imf-bail-out</guid>
+      <pubDate>Thu, 03 Apr 2025 09:31:25 GMT</pubDate>
     </item>
     <item>
       <title>Asian countries riven by war and disaster face some of steepest Trump tariffs (Guardian)</title>
@@ -1417,27 +1438,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=6013</guid>
       <pubDate>Tue, 01 Apr 2025 16:59:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taiwan sees China's military drills as a 'signal' to the US  (Semafor)</title>
-      <link>https://www.semafor.com/article/04/01/2025/china-launches-surprise-taiwan-drills</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/04/01/2025/china-launches-surprise-taiwan-drills</guid>
-      <pubDate>Tue, 01 Apr 2025 16:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration says it erroneously deported man to El Salvador (Axios)</title>
-      <link>https://www.axios.com/2025/04/01/el-salvador-erroneous-deportation-trump-mistake</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/01/el-salvador-erroneous-deportation-trump-mistake</guid>
-      <pubDate>Tue, 01 Apr 2025 16:21:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Oversight Dems request interviews with Signal chat members (Axios)</title>
-      <link>https://www.axios.com/2025/04/01/trump-signal-chat-investigation-house-oversight-dems</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/01/trump-signal-chat-investigation-house-oversight-dems</guid>
-      <pubDate>Tue, 01 Apr 2025 16:16:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
