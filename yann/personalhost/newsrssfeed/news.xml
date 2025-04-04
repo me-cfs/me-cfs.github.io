@@ -5,11 +5,41 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						World trade war looms as China strikes all US imports with 34 percent tariff					 (Politico)</title>
+      <link>https://www.politico.eu/article/global-trade-war-china-us-imports-tariffs/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/global-trade-war-china-us-imports-tariffs/</guid>
+      <pubDate>Fri, 04 Apr 2025 12:18:20 -0000</pubDate>
+    </item>
+    <item>
+      <title>‘Only job I know’: tiny Lesotho’s garment workers reel from Trump’s tariffs (Guardian)</title>
+      <link>https://www.theguardian.com/global-development/2025/apr/04/lesotho-garment-workers-reel-trump-tariffs</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/global-development/2025/apr/04/lesotho-garment-workers-reel-trump-tariffs</guid>
+      <pubDate>Fri, 04 Apr 2025 12:17:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+						UK looks to shore up safety of undersea pipelines amid Russia threat					 (Politico)</title>
+      <link>https://www.politico.eu/article/uk-pipeline-gas-security-russia-baltic-sea-threat-defense/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/uk-pipeline-gas-security-russia-baltic-sea-threat-defense/</guid>
+      <pubDate>Fri, 04 Apr 2025 11:33:20 -0000</pubDate>
+    </item>
+    <item>
       <title> Russian attacks across Ukraine kill 6, injure 46 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-across-ukraine-kill-6-injure-46-over-past-day</link>
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/russian-attacks-across-ukraine-kill-6-injure-46-over-past-day</guid>
       <pubDate>Fri, 04 Apr 2025 14:00:36 +0300</pubDate>
+    </item>
+    <item>
+      <title>Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/</guid>
+      <pubDate>Fri, 04 Apr 2025 11:00:07 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -39,6 +69,13 @@
       <author>RTS</author>
       <guid>28844615</guid>
       <pubDate>Fri, 04 Apr 2025 10:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a Con Man President Is Destroying Confidence (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/how-a-con-man-president-is-destroying</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/how-a-con-man-president-is-destroying</guid>
+      <pubDate>Fri, 04 Apr 2025 10:28:09 GMT</pubDate>
     </item>
     <item>
       <title>Shahin Vallée: «Quand on répond avec force à D. Trump, il est capable d’entendre et de reculer» (RFI)</title>
@@ -1399,41 +1436,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/videos/c787dl8r19ro#0</guid>
       <pubDate>Wed, 02 Apr 2025 05:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title> 3 killed, 18 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/3-killed-18-injured-in-russian-attacks-against-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/3-killed-18-injured-in-russian-attacks-against-ukraine-over-past-day</guid>
-      <pubDate>Wed, 02 Apr 2025 08:56:52 +0300</pubDate>
-    </item>
-    <item>
-      <title>Susan Crawford Wins Wisconsin Supreme Court Election, Despite Elon Musk’s Millions (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/01/us/politics/wisconsin-supreme-court-crawford-schimel.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/01/us/politics/wisconsin-supreme-court-crawford-schimel.html</guid>
-      <pubDate>Wed, 02 Apr 2025 05:45:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dem-backed candidate wins Wisconsin Supreme Court race in rebuke to Trump, Musk (Axios)</title>
-      <link>https://www.axios.com/2025/04/02/wisconsin-supreme-court-race-results</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/02/wisconsin-supreme-court-race-results</guid>
-      <pubDate>Wed, 02 Apr 2025 05:43:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Almost half of all Australian workers could benefit from minimum wage change (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/almost-half-of-all-australian-workers-could-benefit-from-minimum-wage-change/oxhuwcpjs</link>
-      <author>SBS News</author>
-      <guid>00000195-f496-d813-a1f7-ff9668ff0001</guid>
-      <pubDate>Wed, 2 Apr 2025 05:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Val Kilmer, Film Star Who Played Batman and Jim Morrison, Dies at 65 (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html</guid>
-      <pubDate>Wed, 02 Apr 2025 04:28:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
