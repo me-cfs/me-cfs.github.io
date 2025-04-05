@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Musk slams top Trump adviser Navarro as tariffs bite (Axios)</title>
+      <link>https://www.axios.com/2025/04/05/musk-trump-tariffs-navarro-tesla</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/05/musk-trump-tariffs-navarro-tesla</guid>
+      <pubDate>Sat, 05 Apr 2025 14:57:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump touts "economic revolution" as economists warn of recession (Axios)</title>
       <link>https://www.axios.com/2025/04/05/trump-tariffs-stock-market-recession</link>
       <author>Axios</author>
@@ -161,6 +168,13 @@
       <author>RFI</author>
       <guid>3efd8bce-11d9-11f0-9529-005056a97652</guid>
       <pubDate>Sat, 05 Apr 2025 04:48:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Tariffs Will Change Your Life (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/04/opinion/trump-tariff-economics-cost.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/04/opinion/trump-tariff-economics-cost.html</guid>
+      <pubDate>Sat, 05 Apr 2025 00:39:34 +0000</pubDate>
     </item>
     <item>
       <title> (Chapatte Dessins)</title>
@@ -1426,20 +1440,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/europe-sacrifices-citizens-ukraine-far-right-russia-populist/</guid>
       <pubDate>Thu, 03 Apr 2025 01:58:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘A little smaller chart’: The Trump dissonance rolls on (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/04/03/donald-trump-tariff-announcement-farce-menace/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1200850</guid>
-      <pubDate>Thu, 03 Apr 2025 01:44:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>'Not the act of a friend': Australia angry over Trump tariffs (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c705z2e8wxzo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c705z2e8wxzo#0</guid>
-      <pubDate>Thu, 03 Apr 2025 01:21:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
