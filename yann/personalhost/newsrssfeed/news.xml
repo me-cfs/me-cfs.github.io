@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Cette époque pas si lointaine où la Suisse enfermait de force les plus pauvres (RTS)</title>
+      <link>https://www.rts.ch/info/dialogue/2025/article/la-suisse-enfermait-les-pauvres-un-sombre-chapitre-de-l-histoire-sociale-28842482.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28842482</guid>
+      <pubDate>Sat, 05 Apr 2025 18:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taxes douanières imposées par les Etats-Unis: la droite nationaliste suisse temporise (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/droite-nationaliste-suisse-calme-face-aux-taxes-us-mobilisee-contre-l-ue-28845937.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28845937</guid>
+      <pubDate>Sat, 05 Apr 2025 18:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump has exposed America’s world-leading firms to retaliation (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/04/05/trump-has-exposed-americas-world-leading-firms-to-retaliation</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/04/05/trump-has-exposed-americas-world-leading-firms-to-retaliation</guid>
+      <pubDate>Sat, 05 Apr 2025 18:17:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Musk slams top Trump adviser Navarro as tariffs bite (Axios)</title>
       <link>https://www.axios.com/2025/04/05/musk-trump-tariffs-navarro-tesla</link>
       <author>Axios</author>
@@ -1417,29 +1438,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-simplification-green-energy-laws/</guid>
       <pubDate>Thu, 03 Apr 2025 02:43:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU to bundle response to Trump’s tariffs					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-to-bundle-response-to-trumps-auto-and-reciprocal-tariffs/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-to-bundle-response-to-trumps-auto-and-reciprocal-tariffs/</guid>
-      <pubDate>Thu, 03 Apr 2025 02:28:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>'Still a landlord's market': Rental prices at record high in all Australian capital cities (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/still-a-landlords-market-rental-prices-at-record-high-in-all-australian-capital-cities/csjdxdo7x</link>
-      <author>SBS News</author>
-      <guid>00000195-f92d-d7fe-a995-f92f0c650000</guid>
-      <pubDate>Thu, 3 Apr 2025 02:03:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Security in Europe will mean sacrifices for citizens					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-sacrifices-citizens-ukraine-far-right-russia-populist/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-sacrifices-citizens-ukraine-far-right-russia-populist/</guid>
-      <pubDate>Thu, 03 Apr 2025 01:58:29 -0000</pubDate>
     </item>
   </channel>
 </rss>
