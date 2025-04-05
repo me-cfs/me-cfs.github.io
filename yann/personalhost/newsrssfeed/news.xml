@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: les finances du Rassemblement national sont-elles dans le rouge? (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250405-france-les-finances-du-rassemblement-national-sont-elles-dans-le-rouge</link>
+      <author>RFI</author>
+      <guid>3efd8bce-11d9-11f0-9529-005056a97652</guid>
+      <pubDate>Sat, 05 Apr 2025 04:48:40 GMT</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/taxes-insensees</link>
       <author>Chapatte Dessins</author>
@@ -1429,13 +1436,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1200792</guid>
       <pubDate>Wed, 02 Apr 2025 20:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump announces tariffs, the highest import taxes since the 1800s (Axios)</title>
-      <link>https://www.axios.com/2025/04/02/trump-tariffs-april-2-liberation-day</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/02/trump-tariffs-april-2-liberation-day</guid>
-      <pubDate>Wed, 02 Apr 2025 20:34:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
