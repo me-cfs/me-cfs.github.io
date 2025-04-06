@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russia attacked Ukraine with 23 missiles, 109 drones overnight, Air Force reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russia-launches-132-missiles-and-drones-overnight-air-force-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russia-launches-132-missiles-and-drones-overnight-air-force-reports</guid>
+      <pubDate>Sun, 06 Apr 2025 13:50:25 +0300</pubDate>
+    </item>
+    <item>
+      <title>Dans les supermarchés, des produits "frais" passés par la case congélation (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/produits-frais-decongeles-en-supermarche-enquete-et-risques-sanitaires-28842750.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28842750</guid>
+      <pubDate>Sun, 06 Apr 2025 10:41:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Les vélos électriques sont désormais majoritaires dans la ville de Lausanne (RTS)</title>
       <link>https://www.rts.ch/info/regions/vaud/2025/article/les-velos-electriques-sont-desormais-majoritaires-dans-la-ville-de-lausanne-28846242.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1419,20 +1433,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer</guid>
       <pubDate>Thu, 03 Apr 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>The GOP's big voter problem (Axios)</title>
-      <link>https://www.axios.com/2025/04/03/trump-voter-turnout-problem-gop-special-elections</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/03/trump-voter-turnout-problem-gop-special-elections</guid>
-      <pubDate>Thu, 03 Apr 2025 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Trump’s mindless tariffs will cause economic havoc (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/04/03/president-trumps-mindless-tariffs-will-cause-economic-havoc</link>
-      <author>Economist</author>
-      <guid>dd736161-c33a-4caf-b7fe-c1b66b9b5836</guid>
-      <pubDate>Thu, 03 Apr 2025 08:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
