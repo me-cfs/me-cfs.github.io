@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Seulement un quart des vaccins contre le Covid-19 a été utilisé en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/gaspillage-massif-75-des-vaccins-covid-suisses-jetes-ou-donnes-28846181.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28846181</guid>
+      <pubDate>Sun, 06 Apr 2025 07:36:33 GMT</pubDate>
+    </item>
+    <item>
       <title> Explosions heard in Kyiv amid massive Russian missile attack  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/explosions-heard-in-kyiv-amid-massive-aerial-attack</link>
       <author>Kyiv Indpendent</author>
@@ -1425,14 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/03/chatgpt-image-generator-scams-fake-documents</guid>
       <pubDate>Thu, 03 Apr 2025 08:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Turmoil churns below the surface as Rubio meets NATO allies					 (Politico)</title>
-      <link>https://www.politico.eu/article/turmoil-marco-rubio-meet-nato-foreign-ministers/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/turmoil-marco-rubio-meet-nato-foreign-ministers/</guid>
-      <pubDate>Thu, 03 Apr 2025 07:26:54 -0000</pubDate>
     </item>
   </channel>
 </rss>
