@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Explosions heard in Kyiv amid massive Russian missile attack  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/explosions-heard-in-kyiv-amid-massive-aerial-attack</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/explosions-heard-in-kyiv-amid-massive-aerial-attack</guid>
+      <pubDate>Sun, 06 Apr 2025 05:24:18 +0300</pubDate>
+    </item>
+    <item>
       <title>US revokes all visas for South Sudanese over country’s failure to repatriate citizens (Guardian)</title>
       <link>https://www.theguardian.com/us-news/2025/apr/06/us-revokes-all-visas-for-south-sudanese-over-countrys-failure-to-repatriate-citizens</link>
       <author>Guardian</author>
@@ -1426,13 +1433,6 @@
       <author>SBS News</author>
       <guid>00000195-f9b3-dab1-a39d-fffbad330000</guid>
       <pubDate>Thu, 3 Apr 2025 07:14:49 +0000</pubDate>
-    </item>
-    <item>
-      <title> 5 killed, 40 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-139</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-139</guid>
-      <pubDate>Thu, 03 Apr 2025 10:12:06 +0300</pubDate>
     </item>
   </channel>
 </rss>
