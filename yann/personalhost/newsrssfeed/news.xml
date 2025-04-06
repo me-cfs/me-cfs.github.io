@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: des travailleurs sans-papiers demandent justice aux géants du secteur des déchets (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250406-france-des-travailleurs-sans-papiers-demandent-justice-aux-g%C3%A9ants-du-secteur-des-d%C3%A9chets</link>
+      <author>RFI</author>
+      <guid>fd4bd1a4-130e-11f0-84ab-005056a97652</guid>
+      <pubDate>Sun, 06 Apr 2025 22:05:05 GMT</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/day-freedom</link>
       <author>Chapatte Dessins</author>
@@ -1421,13 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/german-leaders-push-tough-response-donald-trump-tariffs-robert-habeck/</guid>
       <pubDate>Thu, 03 Apr 2025 13:29:30 -0000</pubDate>
-    </item>
-    <item>
-      <title> NATO assets may be used for peacekeeping mission in Ukraine, FT reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/nato-assets-may-be-used-for-peacekeeping-mission-in-ukraine-ft-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/nato-assets-may-be-used-for-peacekeeping-mission-in-ukraine-ft-reports</guid>
-      <pubDate>Thu, 03 Apr 2025 16:12:46 +0300</pubDate>
     </item>
   </channel>
 </rss>
