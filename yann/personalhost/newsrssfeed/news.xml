@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian shares take major hit amid fears of a US recession after Trump tariffs (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/australian-shares-take-major-hit-amid-fears-of-a-us-recession-after-trump-tariffs/6n8z14y6l</link>
+      <author>SBS News</author>
+      <guid>00000196-0d75-d792-a1be-6ff74ca50000</guid>
+      <pubDate>Mon, 7 Apr 2025 00:38:36 +0000</pubDate>
+    </item>
+    <item>
       <title>India looks to counter China's growing influence in Sri Lanka (Semafor)</title>
       <link>https://www.semafor.com/article/04/06/2025/india-looks-to-counter-chinas-growing-influence-in-sri-lanka</link>
       <author>Semafor</author>
@@ -202,6 +209,13 @@
       <author>RFI</author>
       <guid>19cd16e0-12dc-11f0-8868-005056bf1351</guid>
       <pubDate>Sun, 06 Apr 2025 11:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Primer on Trade Wars (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/a-primer-on-trade-wars</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/a-primer-on-trade-wars</guid>
+      <pubDate>Sun, 06 Apr 2025 11:46:06 GMT</pubDate>
     </item>
     <item>
       <title>Texas looks set to pass America’s biggest school-voucher scheme (Economist)</title>
@@ -1413,20 +1427,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.co.uk/news/world-australia-61267489#0</guid>
       <pubDate>Thu, 03 Apr 2025 15:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Multiple firings on Trump's National Security Council after Loomer visit (Axios)</title>
-      <link>https://www.axios.com/2025/04/03/trump-laura-loomer-fire-national-security-council</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/03/trump-laura-loomer-fire-national-security-council</guid>
-      <pubDate>Thu, 03 Apr 2025 14:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>American CEOs mum on Trump's universal tariffs (Axios)</title>
-      <link>https://www.axios.com/2025/04/03/ceos-react-trump-tariffs</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/03/ceos-react-trump-tariffs</guid>
-      <pubDate>Thu, 03 Apr 2025 14:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
