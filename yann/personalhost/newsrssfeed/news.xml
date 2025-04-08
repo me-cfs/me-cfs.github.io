@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/effets-de-la-guerre-commerciale</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/22977</guid>
+      <pubDate>04/09/2025 00:12</pubDate>
+    </item>
+    <item>
       <title>Guerre en Ukraine: les forces de Kiev font une incursion dans la région russe de Belgorod (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250408-guerre-en-ukraine-les-forces-de-kiev-font-une-incursion-dans-la-r%C3%A9gion-russe-de-belgorod</link>
       <author>RFI</author>
@@ -1424,13 +1431,6 @@
       <author>404 Media</author>
       <guid>67f024e7c8109800015f9d47</guid>
       <pubDate>Sat, 05 Apr 2025 13:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Closures of EPA’s regional environmental justice offices will hurt rural America (Grist)</title>
-      <link>https://grist.org/justice/closures-of-epas-regional-environmental-justice-offices-will-hurt-rural-america/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=662226</guid>
-      <pubDate>Sat, 05 Apr 2025 13:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
