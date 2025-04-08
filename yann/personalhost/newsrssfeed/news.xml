@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: les forces de Kiev font une incursion dans la région russe de Belgorod (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250408-guerre-en-ukraine-les-forces-de-kiev-font-une-incursion-dans-la-r%C3%A9gion-russe-de-belgorod</link>
+      <author>RFI</author>
+      <guid>62f929ce-14a0-11f0-aa0b-005056bf762b</guid>
+      <pubDate>Tue, 08 Apr 2025 19:22:46 GMT</pubDate>
+    </item>
+    <item>
       <title>At Least 44 Dead After Roof Collapses At Dominican Republic Nightclub (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/dominican-republic-roof-collapse_n_67f560a6e4b046bb946e004a</link>
       <author>Huffington Post</author>
@@ -1424,13 +1431,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=662226</guid>
       <pubDate>Sat, 05 Apr 2025 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's tariffs are a nightmare for companies big and small (Axios)</title>
-      <link>https://www.axios.com/2025/04/05/tariffs-force-companies-prices-layoffs-bankruptcy</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/05/tariffs-force-companies-prices-layoffs-bankruptcy</guid>
-      <pubDate>Sat, 05 Apr 2025 12:46:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
