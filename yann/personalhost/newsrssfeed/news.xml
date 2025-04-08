@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>No, President Trump, the Income Tax Wasn’t A Mistake. But It Was an Accident. (Propublica)</title>
+      <link>https://www.propublica.org/article/history-income-tax-history-16th-amendment-trump-tariffs-great-depression</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/history-income-tax-history-16th-amendment-trump-tariffs-great-depression</guid>
+      <pubDate>Tue, 08 Apr 2025 11:15:00 -0400</pubDate>
+    </item>
+    <item>
       <title>US Border Patrol Called Raid 300 Miles From Border ‘Targeted’. Open Source Evidence Suggests Otherwise (Bellingcat)</title>
       <link>https://www.bellingcat.com/news/2025/04/08/us-border-patrol-called-raid-300-miles-from-border-targeted-open-source-evidence-suggests-otherwise/</link>
       <author>Bellingcat</author>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/05/senate-republicans-vote-budget-resolution-trump-border-tax-cuts</guid>
       <pubDate>Sat, 05 Apr 2025 09:48:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Hooked the Government on Its Products With Freebies. Could Elon Musk’s Starlink Be Doing the Same? (Propublica)</title>
-      <link>https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft</guid>
-      <pubDate>Sat, 05 Apr 2025 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
