@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU opens door to reworking AI rulebook					 (Politico)</title>
+      <link>https://www.politico.eu/article/how-eu-did-full-180-artificial-intelligence-rules/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/how-eu-did-full-180-artificial-intelligence-rules/</guid>
+      <pubDate>Wed, 09 Apr 2025 19:31:38 -0000</pubDate>
+    </item>
+    <item>
       <title>Apple scrambles to get iPhones to U.S. to beat tariffs (Axios)</title>
       <link>https://www.axios.com/2025/04/09/apple-stock-tariffs-china-iphones</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/09/apple-stock-tariffs-china-iphones</guid>
       <pubDate>Wed, 09 Apr 2025 18:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Refuses to Bring Back Those Wrongly Detained in El Salvador. You Could Be Next. (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/abrego-garcia-supreme-court-alien-removal-act/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1125937</guid>
+      <pubDate>Wed, 09 Apr 2025 18:56:46 +0000</pubDate>
     </item>
     <item>
       <title> Ukraine open to buy US military aid package for $50 billion, Zelensky says  (Kyiv Indpendent)</title>
@@ -1420,21 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/07/trump-tariffs-wall-street-dimon-ackman-musk</guid>
       <pubDate>Mon, 07 Apr 2025 13:54:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						French far right floats toppling government in wake of Le Pen verdict					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-far-right-national-rally-toppling-government-marine-le-pen-pm-francois-bayrou-jordan-bardella/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-far-right-national-rally-toppling-government-marine-le-pen-pm-francois-bayrou-jordan-bardella/</guid>
-      <pubDate>Mon, 07 Apr 2025 12:19:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>Defence secretary meets family of Kenyan woman allegedly killed by British soldiers (Guardian)</title>
-      <link>https://www.theguardian.com/uk-news/2025/apr/07/defence-secretary-meets-family-kenyan-woman-allegedly-killed-by-british-soldiers</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/uk-news/2025/apr/07/defence-secretary-meets-family-kenyan-woman-allegedly-killed-by-british-soldiers</guid>
-      <pubDate>Mon, 07 Apr 2025 12:18:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
