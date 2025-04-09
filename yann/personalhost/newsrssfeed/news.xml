@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Germany’s Merz seals coalition deal under pressure to face challenges posed by Trump					 (Politico)</title>
+      <link>https://www.politico.eu/article/germany-friedrich-merz-coalition-deal-under-us-donald-trump-pressure/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/germany-friedrich-merz-coalition-deal-under-us-donald-trump-pressure/</guid>
+      <pubDate>Wed, 09 Apr 2025 10:51:36 -0000</pubDate>
+    </item>
+    <item>
       <title>China hit with 104% tariffs as US trade war escalates  (Semafor)</title>
       <link>https://www.semafor.com/article/04/09/2025/china-hit-with-104-tariffs-as-us-trade-war-escalates</link>
       <author>Semafor</author>
@@ -17,6 +25,13 @@
       <author>Byline Times</author>
       <guid>https://bylinetimes.com/?p=245038</guid>
       <pubDate>Wed, 09 Apr 2025 10:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The EU’s response to Donald Trump’s tariffs could be stinging (Economist)</title>
+      <link>https://www.economist.com/europe/2025/04/09/the-eus-response-to-donald-trumps-tariffs-could-be-stinging</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/europe/2025/04/09/the-eus-response-to-donald-trumps-tariffs-could-be-stinging</guid>
+      <pubDate>Wed, 09 Apr 2025 10:12:25 GMT</pubDate>
     </item>
     <item>
       <title>Le Conseil fédéral en visite à Neuchâtel pour une séance extra-muros (RTS)</title>
@@ -1420,20 +1435,6 @@
       <author>RTS</author>
       <guid>28842304</guid>
       <pubDate>Sun, 06 Apr 2025 19:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Face aux défis du vieillissement, la Suisse doit repenser les soins aux aînés (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/vieillissement-en-suisse-le-defi-des-soins-aux-aines-face-a-la-penurie-28846400.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28846400</guid>
-      <pubDate>Sun, 06 Apr 2025 19:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>To secure exports to Europe, China reconfigures its rail links (Economist)</title>
-      <link>https://www.economist.com/china/2025/04/06/to-secure-exports-to-europe-china-reconfigures-its-rail-links</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/china/2025/04/06/to-secure-exports-to-europe-china-reconfigures-its-rail-links</guid>
-      <pubDate>Sun, 06 Apr 2025 18:41:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
