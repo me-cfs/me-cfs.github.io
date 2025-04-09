@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: le SPD et la CDU présentent un accord de gouvernement (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250409-allemagne-le-spd-et-la-cdu-pr%C3%A9sentent-un-accord-de-gouvernement</link>
+      <author>RFI</author>
+      <guid>f73bbfb8-1557-11f0-b5c2-005056a97652</guid>
+      <pubDate>Wed, 09 Apr 2025 15:48:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Karin Keller-Sutter s'est entretenue par téléphone avec Donald Trump à propos des droits de douane (RTS)</title>
       <link>https://www.rts.ch/info/monde/2025/article/karin-keller-sutter-et-trump-discutent-des-droits-de-douane-par-telephone-28850011.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1426,13 +1433,6 @@
       <author>RFI</author>
       <guid>d9e2bc58-1379-11f0-94f1-005056a97652</guid>
       <pubDate>Mon, 07 Apr 2025 06:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>US defends tariffs on remote island of penguins and seals (BBC)</title>
-      <link>https://www.bbc.com/news/articles/ce84jr5mvnno</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/ce84jr5mvnno#0</guid>
-      <pubDate>Mon, 07 Apr 2025 05:47:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
