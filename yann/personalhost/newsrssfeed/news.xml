@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 1 killed, 34 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-140</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-140</guid>
+      <pubDate>Wed, 09 Apr 2025 09:35:51 +0300</pubDate>
+    </item>
+    <item>
       <title>France: vote définitif à l'Assemblée sur un nouveau durcissement du droit du sol à Mayotte (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250409-france-vote-d%C3%A9finitif-%C3%A0-l-assembl%C3%A9e-sur-un-nouveau-durcissement-du-droit-du-sol-%C3%A0-mayotte</link>
       <author>RFI</author>
@@ -1429,13 +1436,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/06/maga-media-laura-loomer-trump-meeting</guid>
       <pubDate>Sun, 06 Apr 2025 14:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ces cuiseurs à charbon suisses qui ont conquis l'île de Madagascar (RTS)</title>
-      <link>https://www.rts.ch/info/monde/2025/article/cuiseurs-a-charbon-suisses-succes-ecologique-a-madagascar-28841718.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28841718</guid>
-      <pubDate>Sun, 06 Apr 2025 14:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
