@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Revealed: Big tech’s new datacentres will take water from the world’s driest areas (Guardian)</title>
+      <link>https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water</guid>
+      <pubDate>Wed, 09 Apr 2025 11:30:01 GMT</pubDate>
+    </item>
+    <item>
       <title>China launches massive tariff retaliation on U.S. goods (Axios)</title>
       <link>https://www.axios.com/2025/04/09/china-trump-tariffs-retaliate-us-farmers</link>
       <author>Axios</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/06/ackman-trump-tariffs-nuclear-winter</guid>
       <pubDate>Sun, 06 Apr 2025 21:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sharemarket plummets as China responds to Trump tariffs (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/04/07/sharemarket-china-donald-trump-tariffs-federal-election-2025/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1201307</guid>
-      <pubDate>Sun, 06 Apr 2025 21:06:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
