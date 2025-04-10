@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: des contrôles policiers pour évincer de l’espace public les jeunes issus de l’immigration (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250410-france-des-contr%C3%B4les-policiers-pour-%C3%A9vincer-de-l-espace-public-les-jeunes-issus-de-l-immigration</link>
+      <author>RFI</author>
+      <guid>9126b494-15e8-11f0-8d5c-005056a97652</guid>
+      <pubDate>Thu, 10 Apr 2025 09:22:49 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump's tariff whiplash leaves world dazed and confused (Axios)</title>
       <link>https://www.axios.com/2025/04/10/trump-tariffs-pause-grand-strategy</link>
       <author>Axios</author>
@@ -1429,14 +1436,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-global-culture-political-oval-office-us-politics/</guid>
       <pubDate>Tue, 08 Apr 2025 02:26:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump says EU must buy $350B of US energy to get tariff relief					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-says-eu-must-buy-350b-of-us-energy-to-get-tariff-relief/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-says-eu-must-buy-350b-of-us-energy-to-get-tariff-relief/</guid>
-      <pubDate>Tue, 08 Apr 2025 02:20:38 -0000</pubDate>
     </item>
   </channel>
 </rss>
