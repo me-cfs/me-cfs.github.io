@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The 2025 election is our most opaque yet because big tech doesn’t want to be held responsible (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/04/10/2025-election-opaque-big-tech/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1202013</guid>
+      <pubDate>Thu, 10 Apr 2025 02:15:14 +0000</pubDate>
+    </item>
+    <item>
       <title>"Embarrassing and disappointing": House GOP chaos erupts as Johnson pulls budget vote (Axios)</title>
       <link>https://www.axios.com/2025/04/10/mike-johnson-budget-vote-house-republicans-react</link>
       <author>Axios</author>
@@ -1425,13 +1432,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2025/04/de-extinction-company-announces-that-the-dire-wolf-is-back/</guid>
       <pubDate>Mon, 07 Apr 2025 19:35:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump threatens extra 50% tariff on China (Axios)</title>
-      <link>https://www.axios.com/2025/04/07/trump-tariffs-china</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/07/trump-tariffs-china</guid>
-      <pubDate>Mon, 07 Apr 2025 19:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
