@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les naissances multiples suite à une fécondation in vitro ont fortement diminué en 20 ans (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/fecondation-in-vitro-chute-des-naissances-multiples-en-suisse-depuis-20-ans-28851103.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28851103</guid>
+      <pubDate>Thu, 10 Apr 2025 13:45:02 GMT</pubDate>
+    </item>
+    <item>
       <title>China Reaching Out To Other Nations Amid Escalating Trade War With U.S. (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/ap-as-china-trump-tariffs-trade-war_n_67f7c01de4b0eac07502dda9</link>
       <author>Huffington Post</author>
@@ -502,6 +509,13 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1125878</guid>
       <pubDate>Wed, 09 Apr 2025 20:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Gulag Archipelago (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html</guid>
+      <pubDate>Wed, 09 Apr 2025 19:41:14 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1425,20 +1439,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/china-responds-to-trump-threat-of-more-tariffs_n_67f4dcc9e4b042c1f7709843</guid>
       <pubDate>Tue, 08 Apr 2025 09:46:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>Public Health Risks of Urban Wildfire Smoke Prompt Push for More Monitoring (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/fires-los-angeles-toxic-chemicals-air-quality-monitors/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2004761</guid>
-      <pubDate>Tue, 08 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rural Hospitals Question Whether They Can Afford Medicare Advantage Contracts (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/rural-hospitals-private-medicare-advantage-contracts-reimbursements/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2009074</guid>
-      <pubDate>Tue, 08 Apr 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
