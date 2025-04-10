@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian share market rebounds after Donald Trump's tariff pause (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/australian-share-market-trump-tariff-pause/zm2gdx0n7</link>
+      <author>SBS News</author>
+      <guid>00000196-1d83-d7fe-a996-1d8b1ad40002</guid>
+      <pubDate>Thu, 10 Apr 2025 04:06:10 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						George Bush’s French foe flirts with presidential bid					 (Politico)</title>
       <link>https://www.politico.eu/article/dominique-de-villepin-political-comeback/</link>
@@ -1411,6 +1418,13 @@
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>Supreme Court pauses order requiring deported Maryland man be returned to U.S. (Axios)</title>
+      <link>https://www.axios.com/2025/04/07/supreme-court-wrongfully-deported-el-salvador</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/07/supreme-court-wrongfully-deported-el-salvador</guid>
+      <pubDate>Mon, 07 Apr 2025 21:38:43 +0000</pubDate>
+    </item>
+    <item>
       <title>March Madness is doing fine without a Cinderella (Axios)</title>
       <link>https://www.axios.com/2025/04/07/march-madness-doing-fine-without-cinderella</link>
       <author>Axios</author>
@@ -1423,21 +1437,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1201486</guid>
       <pubDate>Mon, 07 Apr 2025 21:09:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Brussels eyes 25 percent levy on various US goods in response to Trump’s metals tariffs					 (Politico)</title>
-      <link>https://www.politico.eu/article/belgium-brussels-donald-trump-tariffs-metals-exports/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/belgium-brussels-donald-trump-tariffs-metals-exports/</guid>
-      <pubDate>Mon, 07 Apr 2025 20:47:35 -0000</pubDate>
-    </item>
-    <item>
-      <title>Supreme Court Temporarily Blocks Order to Return Man Wrongly Deported to El Salvador (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/07/us/politics/supreme-court-wrongly-deported.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/07/us/politics/supreme-court-wrongly-deported.html</guid>
-      <pubDate>Mon, 07 Apr 2025 20:39:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
