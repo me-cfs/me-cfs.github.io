@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Blanchiment d'argent, interdictions d'entrée et menaces en hausse, selon un rapport de fedpol (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/blanchiment-d-argent-et-menaces-en-hausse-le-rapport-alarmant-de-fedpol-28852251.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28852251</guid>
+      <pubDate>Fri, 11 Apr 2025 13:11:38 GMT</pubDate>
+    </item>
+    <item>
       <title>Les trous de l'Emmental sauvés par la poudre de foin (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/l-emmental-aop-autorise-a-utiliser-de-la-poudre-de-foin-pour-ses-trous-28852078.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1426,13 +1433,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1125915</guid>
       <pubDate>Wed, 09 Apr 2025 15:08:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karin Keller-Sutter s'est entretenue par téléphone avec Donald Trump à propos des droits de douane (RTS)</title>
-      <link>https://www.rts.ch/info/monde/2025/article/karin-keller-sutter-et-trump-discutent-des-droits-de-douane-par-telephone-28850011.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28850011</guid>
-      <pubDate>Wed, 09 Apr 2025 14:48:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
