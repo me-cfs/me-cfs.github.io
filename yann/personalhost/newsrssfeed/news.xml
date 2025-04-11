@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Espagne: accord parlementaire sur l’accueil et la répartition des jeunes migrants non accompagnés (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250411-espagne-accord-parlementaire-sur-l-accueil-et-la-r%C3%A9partition-des-jeunes-migrants-non-accompagn%C3%A9s</link>
+      <author>RFI</author>
+      <guid>8c77f322-168d-11f0-a1ed-005056bf762b</guid>
+      <pubDate>Fri, 11 Apr 2025 06:18:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Scoop: Trump envoy Witkoff travels to Russia to meet Putin (Axios)</title>
       <link>https://www.axios.com/2025/04/11/russia-witkoff-putin-meeting-ukraine-trump</link>
       <author>Axios</author>
@@ -1428,13 +1435,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2013273</guid>
       <pubDate>Wed, 09 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump axed a rule designed to spare taxpayers the burden of future flooding (Grist)</title>
-      <link>https://grist.org/extreme-weather/trump-axed-a-rule-designed-to-spare-taxpayers-the-burden-of-future-flooding/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=662461</guid>
-      <pubDate>Wed, 09 Apr 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
