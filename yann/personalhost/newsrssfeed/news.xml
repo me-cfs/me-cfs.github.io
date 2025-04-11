@@ -5,6 +5,34 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Some Rural Hospitals Ditch Medicare Advantage (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/the-week-in-brief-rural-medicare-advantage-pushback/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?p=2014401&amp;post_type=article&amp;preview_id=2014401</guid>
+      <pubDate>Fri, 11 Apr 2025 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schumer mounts TV comeback after party revolt (Axios)</title>
+      <link>https://www.axios.com/2025/04/11/chuck-schumer-cable-tv-news-msnbc-cnn</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/11/chuck-schumer-cable-tv-news-msnbc-cnn</guid>
+      <pubDate>Fri, 11 Apr 2025 18:19:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Burnout hits Senate GOP after furious 2025 workload (Axios)</title>
+      <link>https://www.axios.com/2025/04/11/john-thune-senate-republicans-recess-votes-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/11/john-thune-senate-republicans-recess-votes-trump</guid>
+      <pubDate>Fri, 11 Apr 2025 18:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>NOAA Scientists Are Cleaning Bathrooms and Reconsidering Lab Experiments After Contracts for Basic Services Expire (Propublica)</title>
+      <link>https://www.propublica.org/article/noaa-contracts-seattle-lab</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/noaa-contracts-seattle-lab</guid>
+      <pubDate>Fri, 11 Apr 2025 13:40:00 -0400</pubDate>
+    </item>
+    <item>
       <title>France: l'Élysée toujours pointé du doigt dans le scandale des eaux en bouteille Nestlé (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250411-france-l-%C3%A9lys%C3%A9e-toujours-point%C3%A9-du-doigt-dans-le-scandale-des-eaux-en-bouteille-nestl%C3%A9</link>
       <author>RFI</author>
@@ -125,6 +153,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/apr/11/zimbabwe-starts-compensating-white-farmers-25-years-after-land-seizures</guid>
       <pubDate>Fri, 11 Apr 2025 11:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Third-Worlding of America (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/the-third-worlding-of-america</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/the-third-worlding-of-america</guid>
+      <pubDate>Fri, 11 Apr 2025 11:20:56 GMT</pubDate>
     </item>
     <item>
       <title>Despite tariffs, Trump misses crucial factor to a China trade war (Axios)</title>
@@ -1399,42 +1434,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/leaders/2025/04/09/europe-should-buy-from-ukraines-defence-industry</guid>
       <pubDate>Wed, 09 Apr 2025 20:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>How a Small African Nation Scrambled to Appease Trump on Tariffs (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/04/trump-tariffs-lesotho-state-department-starlink-deportees/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1125878</guid>
-      <pubDate>Wed, 09 Apr 2025 20:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gun Owners Are Preparing for When All Hell Breaks Loose (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/09/us/prepared-citizens-guns.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/09/us/prepared-citizens-guns.html</guid>
-      <pubDate>Wed, 09 Apr 2025 20:07:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Gulag Archipelago (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html</guid>
-      <pubDate>Wed, 09 Apr 2025 19:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU opens door to reworking AI rulebook					 (Politico)</title>
-      <link>https://www.politico.eu/article/how-eu-did-full-180-artificial-intelligence-rules/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/how-eu-did-full-180-artificial-intelligence-rules/</guid>
-      <pubDate>Wed, 09 Apr 2025 19:31:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s tariff pause brings investors relief—but worries remain (Economist)</title>
-      <link>https://www.economist.com/finance-and-economics/2025/04/09/trumps-tariff-pause-brings-investors-relief-but-worries-remain</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/finance-and-economics/2025/04/09/trumps-tariff-pause-brings-investors-relief-but-worries-remain</guid>
-      <pubDate>Wed, 09 Apr 2025 19:31:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
