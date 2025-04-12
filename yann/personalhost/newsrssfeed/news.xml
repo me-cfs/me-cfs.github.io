@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>An Interview With Claudia Sahm (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/an-interview-with-claudia-sahm</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/an-interview-with-claudia-sahm</guid>
+      <pubDate>Sat, 12 Apr 2025 10:31:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Journalists Delve Into Effects of Deep Federal Cuts on Public Health (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/on-air-april-12-2025-federal-public-health-cuts-hhs-immigration/</link>
       <author>KFF Health News</author>
@@ -1261,6 +1268,13 @@
       <pubDate>Thu, 10 Apr 2025 09:22:49 GMT</pubDate>
     </item>
     <item>
+      <title>5 Science-Backed Longevity Hacks That Don’t Cost a Fortune (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/10/well/longevity-low-cost-tips.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/10/well/longevity-low-cost-tips.html</guid>
+      <pubDate>Thu, 10 Apr 2025 09:00:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump's tariff whiplash leaves world dazed and confused (Axios)</title>
       <link>https://www.axios.com/2025/04/10/trump-tariffs-pause-grand-strategy</link>
       <author>Axios</author>
@@ -1418,21 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/britain-lawmaker-obsess-european-court-again/</guid>
       <pubDate>Thu, 10 Apr 2025 02:42:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump claims leaders are ‘kissing my ass’ to make trade deals as tariff onslaught begins					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-tariffs-leaders-are-kissing-my-ass-to-make-trade-deals/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-tariffs-leaders-are-kissing-my-ass-to-make-trade-deals/</guid>
-      <pubDate>Thu, 10 Apr 2025 02:27:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>The 2025 election is our most opaque yet because big tech doesn’t want to be held responsible (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/04/10/2025-election-opaque-big-tech/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1202013</guid>
-      <pubDate>Thu, 10 Apr 2025 02:15:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
