@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: une frappe russe fait plusieurs morts dans la ville de Soumy (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250413-ukraine-une-frappe-russe-fait-plusieurs-morts-dans-la-ville-de-soumy</link>
+      <author>RFI</author>
+      <guid>c1bdaef8-1851-11f0-8be5-005056bf762b</guid>
+      <pubDate>Sun, 13 Apr 2025 10:50:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Britain’s rushed, muddled intervention in the steel industry (Economist)</title>
       <link>https://www.economist.com/britain/2025/04/13/britains-rushed-muddled-intervention-in-the-steel-industry</link>
       <author>Economist</author>
@@ -1424,13 +1431,6 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6269248/2025/04/10/psg-barca-champions-league-delap-tafc/</guid>
       <pubDate>Thu, 10 Apr 2025 10:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>An Algorithm Deemed This Nearly Blind 70-Year-Old Prisoner a “Moderate Risk.” Now He’s No Longer Eligible for Parole. (Propublica)</title>
-      <link>https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/tiger-algorithm-louisiana-parole-calvin-alexander</guid>
-      <pubDate>Thu, 10 Apr 2025 06:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
