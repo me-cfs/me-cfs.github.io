@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						UK suspends some tariffs to help firms cope with Trump’s trade war					 (Politico)</title>
+      <link>https://www.politico.eu/article/britains-starmer-suspends-tariffs-on-89-products-amid-trumps-trade-war/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/britains-starmer-suspends-tariffs-on-89-products-amid-trumps-trade-war/</guid>
+      <pubDate>Sun, 13 Apr 2025 22:08:59 -0000</pubDate>
+    </item>
+    <item>
+      <title>France: sensibiliser les adolescents, une étape clé dans la prévention des mutilations génitales (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250413-france-sensibiliser-les-adolescents-une-%C3%A9tape-cl%C3%A9-dans-la-pr%C3%A9vention-des-mutilations-g%C3%A9nitales</link>
+      <author>RFI</author>
+      <guid>00c1aa48-1873-11f0-8106-005056bf762b</guid>
+      <pubDate>Sun, 13 Apr 2025 22:00:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Labor, Liberal ‘sugar-hits’ roundly slammed (Crikey)</title>
       <link>https://www.crikey.com.au/2025/04/14/2025-federal-election-tax-anthony-albanese-peter-dutton-newspoll/</link>
       <author>Crikey</author>
@@ -1409,24 +1424,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/10/us-russia-prisoner-swap-ksenia-karelina</guid>
       <pubDate>Thu, 10 Apr 2025 13:13:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        The weekly cartoon
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/04/10/the-weekly-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>346c60a6-1d40-4596-b667-1f4cee4da2fe</guid>
-      <pubDate>Thu, 10 Apr 2025 12:53:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Business
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/04/10/business</link>
-      <author>Economist the World this Week</author>
-      <guid>87eb664d-3a57-417a-a70b-c44c28b7617a</guid>
-      <pubDate>Thu, 10 Apr 2025 12:53:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
