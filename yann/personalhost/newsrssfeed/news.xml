@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Poland’s weird presidential debate					 (Politico)</title>
+      <link>https://www.politico.eu/article/poland-weird-presidential-debate-rafal-trzaskowski-karol-nawrocki/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/poland-weird-presidential-debate-rafal-trzaskowski-karol-nawrocki/</guid>
+      <pubDate>Sun, 13 Apr 2025 17:27:06 -0000</pubDate>
+    </item>
+    <item>
       <title>Trump administration's foreign aid cuts threaten to roll back global maternal mortality progress (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5245353-maternal-mortality-rates-trump-foreign-aid-cuts/</link>
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5245353</guid>
       <pubDate>Sun, 13 Apr 2025 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>More than 200 civilians killed as Sudan’s RSF attacks Darfur displacement camps (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/apr/13/sudans-rsf-kills-civilians-in-attacks-on-darfur-refugee-camps</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/apr/13/sudans-rsf-kills-civilians-in-attacks-on-darfur-refugee-camps</guid>
+      <pubDate>Sun, 13 Apr 2025 16:53:48 GMT</pubDate>
     </item>
     <item>
       <title>Bernie Sanders Spoke at Coachella and the Crowd Went Wild (Motherjones)</title>
@@ -1413,20 +1428,6 @@
       <link>https://www.economist.com/leaders/2025/04/10/how-ai-could-help-the-climate</link>
       <author>Economist</author>
       <guid>13a6d347-6e50-4a3b-a2a5-6a0785fda26c</guid>
-      <pubDate>Thu, 10 Apr 2025 12:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>The thing about Europe: it’s the actual land of the free now (Economist)</title>
-      <link>https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now</guid>
-      <pubDate>Thu, 10 Apr 2025 12:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>The philosopher changing free speech in Britain (Economist)</title>
-      <link>https://www.economist.com/britain/2025/04/10/the-philosopher-changing-free-speech-in-britain</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/britain/2025/04/10/the-philosopher-changing-free-speech-in-britain</guid>
       <pubDate>Thu, 10 Apr 2025 12:53:53 GMT</pubDate>
     </item>
   </channel>
