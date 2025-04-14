@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: à un an des municipales, la santé mentale des maires en question (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250414-france-%C3%A0-un-an-des-municipales-la-sant%C3%A9-mentale-des-maires-en-question</link>
+      <author>RFI</author>
+      <guid>2a8804d0-1936-11f0-806f-005056a97652</guid>
+      <pubDate>Mon, 14 Apr 2025 22:00:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Democrats demand action to return man mistakenly deported to El Salvador (Axios)</title>
       <link>https://www.axios.com/2025/04/14/abrego-garcia-el-salvador-democrats</link>
       <author>Axios</author>
@@ -216,6 +223,13 @@
       <author>RTS</author>
       <guid>28854488</guid>
       <pubDate>Mon, 14 Apr 2025 11:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feral “Minecraft Movie” fans spark irritation—and optimism (Economist)</title>
+      <link>https://www.economist.com/culture/2025/04/14/feral-minecraft-movie-fans-spark-irritation-and-optimism</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/culture/2025/04/14/feral-minecraft-movie-fans-spark-irritation-and-optimism</guid>
+      <pubDate>Mon, 14 Apr 2025 11:30:49 GMT</pubDate>
     </item>
     <item>
       <title>The slaughter in Sumy shows how Putin is dragging out the war (Economist)</title>
@@ -1409,21 +1423,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=662631</guid>
       <pubDate>Fri, 11 Apr 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						France could recognize a Palestinian state in June, says Macron					 (Politico)</title>
-      <link>https://www.politico.eu/article/france-could-recognise-palestinian-state-june-emmanuel-macron/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/france-could-recognise-palestinian-state-june-emmanuel-macron/</guid>
-      <pubDate>Fri, 11 Apr 2025 08:36:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>US still freezing South Sudanese visas after deportation row (Semafor)</title>
-      <link>https://www.semafor.com/article/04/11/2025/us-still-freezing-south-sudanese-visas</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/04/11/2025/us-still-freezing-south-sudanese-visas</guid>
-      <pubDate>Fri, 11 Apr 2025 08:28:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
