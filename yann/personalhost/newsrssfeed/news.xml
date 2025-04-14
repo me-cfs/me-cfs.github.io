@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: plusieurs ministres visés par une plainte après une vague de suicides à l'hôpital public (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250414-france-plusieurs-ministres-vis%C3%A9s-par-une-plainte-apr%C3%A8s-une-vague-de-suicides-%C3%A0-l-h%C3%B4pital-public</link>
+      <author>RFI</author>
+      <guid>a2e88676-1944-11f0-aa71-005056a97652</guid>
+      <pubDate>Mon, 14 Apr 2025 16:38:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump blames Zelensky again: "Millions dead because of 3 people" (Axios)</title>
       <link>https://www.axios.com/2025/04/14/trump-blames-zelensky-russia-ukraine-war-ceasefire</link>
       <author>Axios</author>
@@ -1419,14 +1426,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-tariff-policy-change-trade-war/</guid>
       <pubDate>Fri, 11 Apr 2025 02:12:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump tells countries to ax talks on shipping carbon tax, or else					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-scrap-maritime-decarbonization-talks/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-scrap-maritime-decarbonization-talks/</guid>
-      <pubDate>Fri, 11 Apr 2025 01:57:27 -0000</pubDate>
     </item>
   </channel>
 </rss>
