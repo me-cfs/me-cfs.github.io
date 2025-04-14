@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: la population sous le choc après la frappe russe à Soumy (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250414-ukraine-la-population-sous-le-choc-apr%C3%A8s-la-frappe-russe-%C3%A0-soumy</link>
+      <author>RFI</author>
+      <guid>86771108-18f7-11f0-a2b7-005056bf762b</guid>
+      <pubDate>Mon, 14 Apr 2025 07:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title> Merz signals Ukraine could use Taurus missiles to target Crimea, Kerch Bridge  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/merz-signals-ukraine-could-use-taurus-missiles-to-target-crimea-kerch-bridge</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/merz-signals-ukraine-could-use-taurus-missiles-to-target-crimea-kerch-bridge</guid>
+      <pubDate>Mon, 14 Apr 2025 09:52:04 +0300</pubDate>
+    </item>
+    <item>
       <title>Vladimir Kara-Murza (opposant russe): «Il n'y aura pas de paix tant que Poutine sera au pouvoir» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250414-vladimir-kara-murza-opposant-russe-il-n-y-aura-pas-de-paix-tant-que-poutine-sera-au-pouvoir</link>
       <author>RFI</author>
@@ -1416,20 +1430,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/10/michael-bennet-colorado-governor-2026-election</guid>
       <pubDate>Thu, 10 Apr 2025 18:30:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Top Senate Dems propose emergency Social Security payment boost (Axios)</title>
-      <link>https://www.axios.com/2025/04/10/chuck-schumer-elizabeth-warren-senate-democrats-social-security</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/10/chuck-schumer-elizabeth-warren-senate-democrats-social-security</guid>
-      <pubDate>Thu, 10 Apr 2025 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Fetterman: GLP-1 Drugs Saved My Health. More Americans Need Access. (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/08/opinion/glp1-ozempic-mounjaro-trump.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/08/opinion/glp1-ozempic-mounjaro-trump.html</guid>
-      <pubDate>Thu, 10 Apr 2025 18:26:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
