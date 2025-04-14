@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Spotlight shifts to Medicaid, a make-or-break issue for Trump (The Hill)</title>
+      <link>https://thehill.com/homenews/house/5245534-medicaid-division-republicans-budget/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5245534</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump pharma tariff threat raises specter of shortages, price hikes (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5245652-trump-tariffs-pharma-drug-shortages-trade-war-hhs-kennedy/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5245652</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title> Lithuania summons Russian diplomat over deadly missile strike on Sumy  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/lithuania-summons-russian-diplomat-over-deadly-missile-strike-on-sumy</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/lithuania-summons-russian-diplomat-over-deadly-missile-strike-on-sumy</guid>
+      <pubDate>Mon, 14 Apr 2025 12:56:09 +0300</pubDate>
+    </item>
+    <item>
       <title>China's Xi Jinping Warns There Are 'No Winners' In A Tariff War (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/xi-jinping-says-no-winners-in-tariff-war_n_67fccc55e4b082d62284181c</link>
       <author>Huffington Post</author>
@@ -17,6 +38,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/14/immigrants-workers-fear-ice-economy</guid>
       <pubDate>Mon, 14 Apr 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s DOJ Has Frozen Police Reform Work. Advocates Fear More Abuse in Departments Across the Country. (Propublica)</title>
+      <link>https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis</guid>
+      <pubDate>Mon, 14 Apr 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Two British tourists drown near Great Barrier Reef (BBC)</title>
@@ -1401,35 +1429,6 @@
       <author>SBS News</author>
       <guid>00000196-1ea6-d813-a1f7-dfb62f9f0000</guid>
       <pubDate>Thu, 10 Apr 2025 20:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>N.C. Lawmakers Move to Stop Votes From Being Discarded Based on Postelection Rule Changes (Propublica)</title>
-      <link>https://www.propublica.org/article/north-carolina-supreme-court-election-discarded-votes-legislation</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/north-carolina-supreme-court-election-discarded-votes-legislation</guid>
-      <pubDate>Thu, 10 Apr 2025 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Plane full of House members evacuated after minor collision (Axios)</title>
-      <link>https://www.axios.com/2025/04/10/plane-house-members-evacuated-collision-dca</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/10/plane-house-members-evacuated-collision-dca</guid>
-      <pubDate>Thu, 10 Apr 2025 19:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Romanian presidential hopeful under fire after admitting role in village flooding					 (Politico)</title>
-      <link>https://www.politico.eu/article/romanian-presidential-hopeful-under-fire-after-admitting-role-in-village-flooding/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/romanian-presidential-hopeful-under-fire-after-admitting-role-in-village-flooding/</guid>
-      <pubDate>Thu, 10 Apr 2025 19:21:01 -0000</pubDate>
-    </item>
-    <item>
-      <title>KFF Health News' 'What the Health?': The Dismantling of HHS (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/podcast/what-the-health-392-hhs-dismantling-layoffs-funding-cuts-trump-rfk-april-10-2025/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=2013769&amp;post_type=podcast&amp;preview_id=2013769</guid>
-      <pubDate>Thu, 10 Apr 2025 19:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
