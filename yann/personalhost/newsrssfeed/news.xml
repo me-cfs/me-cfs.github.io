@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>America's shadow economy shrinks due to deportation fears (Axios)</title>
+      <link>https://www.axios.com/2025/04/14/immigrants-workers-fear-ice-economy</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/14/immigrants-workers-fear-ice-economy</guid>
+      <pubDate>Mon, 14 Apr 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Two British tourists drown near Great Barrier Reef (BBC)</title>
       <link>https://www.bbc.com/news/articles/cp347wqj5z1o</link>
       <author>BBC</author>
@@ -1423,13 +1430,6 @@
       <author>RFI</author>
       <guid>cf072952-161e-11f0-a0a9-005056bf762b</guid>
       <pubDate>Thu, 10 Apr 2025 18:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: NRSC privately blasts GOP senators on lackluster fundraising (Axios)</title>
-      <link>https://www.axios.com/2025/04/10/nrsc-senate-republicans-fundraising</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/10/nrsc-senate-republicans-fundraising</guid>
-      <pubDate>Thu, 10 Apr 2025 18:41:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
