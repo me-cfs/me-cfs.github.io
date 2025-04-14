@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's hardline stance (Axios)</title>
+      <link>https://www.axios.com/2025/04/14/trump-lutnick-navarro-tariffs-trade-war</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/14/trump-lutnick-navarro-tariffs-trade-war</guid>
+      <pubDate>Mon, 14 Apr 2025 10:29:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Spotlight shifts to Medicaid, a make-or-break issue for Trump (The Hill)</title>
       <link>https://thehill.com/homenews/house/5245534-medicaid-division-republicans-budget/</link>
       <author>The Hill</author>
@@ -16,6 +23,13 @@
       <link>https://thehill.com/policy/healthcare/5245652-trump-tariffs-pharma-drug-shortages-trade-war-hhs-kennedy/</link>
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5245652</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump Wants to Save the Coal Industry. He’s Too Late. (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/donald-trump-wants-to-save-the-coal-industry-hes-too-late/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1126471</guid>
       <pubDate>Mon, 14 Apr 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1415,20 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/nato-ukraine-allies-hold-talks-to-secure-a-non-existent-peace/</guid>
       <pubDate>Thu, 10 Apr 2025 20:30:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>L'heure est à la mutinerie au sein du Parti pirate, au bord de l'implosion (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/parti-pirate-suisse-en-crise-mutinerie-et-appel-a-scission-28851362.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28851362</guid>
-      <pubDate>Thu, 10 Apr 2025 20:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Australia could benefit from a US-China trade war (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/how-australia-could-benefit-from-a-us-china-trade-war/ke7ub7mzj</link>
-      <author>SBS News</author>
-      <guid>00000196-1ea6-d813-a1f7-dfb62f9f0000</guid>
-      <pubDate>Thu, 10 Apr 2025 20:00:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
