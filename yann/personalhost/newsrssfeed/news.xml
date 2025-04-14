@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Allemagne: Friedrich Merz ouvert à la livraison de missiles Taurus à l'Ukraine (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250414-allemagne-friedrich-merz-ouvert-%C3%A0-la-livraison-de-missiles-taurus-%C3%A0-l-ukraine</link>
+      <author>RFI</author>
+      <guid>9b42679e-192a-11f0-90e0-005056bf762b</guid>
+      <pubDate>Mon, 14 Apr 2025 12:44:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Zelenskyy Says JD Vance Is ‘Somehow Justifying’ Putin’s War In Ukraine (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/volodymyr-zelenskyy-calls-out-vance_n_67fcd5a9e4b0b88ef3cc54e4</link>
       <author>Huffington Post</author>
@@ -1001,6 +1008,13 @@
       <pubDate>Fri, 11 Apr 2025 13:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Trump elimina la oficina que establece los niveles de pobreza vinculados a servicios para 80 millones de personas (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/trump-elimina-la-oficina-que-establece-los-niveles-de-pobreza-vinculados-a-servicios-para-80-millones-de-personas/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2015816</guid>
+      <pubDate>Fri, 11 Apr 2025 12:55:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Les trous de l'Emmental sauvés par la poudre de foin (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/l-emmental-aop-autorise-a-utiliser-de-la-poudre-de-foin-pour-ses-trous-28852078.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1414,20 +1428,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/10/hudson-river-new-york-new-jersey-helicopter-crash</guid>
       <pubDate>Thu, 10 Apr 2025 22:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: les habitants de Soumy désemparés face aux incessantes frappes russes sur les écoles et les hôpitaux (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250410-ukraine-les-habitants-de-soumy-d%C3%A9sempar%C3%A9s-face-aux-incessantes-frappes-russes-sur-les-%C3%A9coles-et-les-h%C3%B4pitaux</link>
-      <author>RFI</author>
-      <guid>96859f9e-1648-11f0-a0f7-005056a97652</guid>
-      <pubDate>Thu, 10 Apr 2025 22:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA plans to phase out animal testing requirements (Axios)</title>
-      <link>https://www.axios.com/2025/04/10/fda-animal-testing-drug-trials</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/10/fda-animal-testing-drug-trials</guid>
-      <pubDate>Thu, 10 Apr 2025 22:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
