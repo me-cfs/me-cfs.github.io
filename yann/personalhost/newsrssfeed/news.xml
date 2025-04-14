@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Alexis Kohler, secrétaire général de l'Élysée, assiste cette semaine à sa dernière réunion de cabinet (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250414-france-alexis-kohler-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-%C3%A9lys%C3%A9e-assiste-cette-semaine-%C3%A0-sa-derni%C3%A8re-r%C3%A9union-de-cabinet</link>
+      <author>RFI</author>
+      <guid>665fdd7c-18f3-11f0-bda6-005056bf762b</guid>
+      <pubDate>Mon, 14 Apr 2025 05:53:33 GMT</pubDate>
+    </item>
+    <item>
       <title> Russia&amp;#x27;s attack on Sumy &amp;#x27;terrible,&amp;#x27; military aid should never have been &amp;#x27;allowed,&amp;#x27; Trump says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russias-attack-on-sumy-terrible-military-aid-should-never-have-been-allowed-trump-says</link>
       <author>Kyiv Indpendent</author>
@@ -32,6 +39,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/14/trump-chip-tariffs-china</guid>
       <pubDate>Mon, 14 Apr 2025 03:24:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>'Pretty diabolical' - What Australians think of the housing crisis this election (BBC)</title>
+      <link>https://www.bbc.com/news/videos/cgm8wmnr3x4o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/videos/cgm8wmnr3x4o#2</guid>
+      <pubDate>Mon, 14 Apr 2025 03:22:36 GMT</pubDate>
     </item>
     <item>
       <title>
@@ -1416,20 +1430,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1126301</guid>
       <pubDate>Thu, 10 Apr 2025 18:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump refocuses trade war on China, but global upheaval remains (Semafor)</title>
-      <link>https://www.semafor.com/article/04/10/2025/markets-surge-after-trump-backs-down-on-liberation-day-tariffs</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/04/10/2025/markets-surge-after-trump-backs-down-on-liberation-day-tariffs</guid>
-      <pubDate>Thu, 10 Apr 2025 18:00:48 +0000</pubDate>
-    </item>
-    <item>
-      <title> Russian missile attack kills 1, injures 6 in Dnipro  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/1-killed-6-injured-in-russias-missile-attack-on-dnipro</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/1-killed-6-injured-in-russias-missile-attack-on-dnipro</guid>
-      <pubDate>Thu, 10 Apr 2025 20:56:16 +0300</pubDate>
     </item>
   </channel>
 </rss>
