@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: plusieurs prisons visées par des incendies de véhicules et des tirs d'armes automatiques (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250415-france-plusieurs-prisons-vis%C3%A9es-par-des-incendies-de-v%C3%A9hicules-et-des-tirs-d-armes-automatiques</link>
+      <author>RFI</author>
+      <guid>d8bd5b06-19d4-11f0-b955-005056a97652</guid>
+      <pubDate>Tue, 15 Apr 2025 09:14:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Deportation Fears Add to Mental Health Problems Confronting Colorado Resort Town Workers (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/colorado-ski-resort-mountain-town-latino-hispanic-workers-deportation-nicaraguan/</link>
       <author>KFF Health News</author>
@@ -1418,13 +1425,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/09/opinion/trump-deportations-gulag-prison.html</guid>
       <pubDate>Fri, 11 Apr 2025 17:17:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: l'Élysée toujours pointé du doigt dans le scandale des eaux en bouteille Nestlé (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250411-france-l-%C3%A9lys%C3%A9e-toujours-point%C3%A9-du-doigt-dans-le-scandale-des-eaux-en-bouteille-nestl%C3%A9</link>
-      <author>RFI</author>
-      <guid>bcb7f90a-16e8-11f0-9230-005056a97652</guid>
-      <pubDate>Fri, 11 Apr 2025 17:11:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
