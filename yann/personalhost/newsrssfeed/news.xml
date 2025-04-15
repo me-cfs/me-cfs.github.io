@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Finances publiques en France: François Bayrou appelle à «une prise de conscience» des citoyens (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250415-finances-publiques-en-france-fran%C3%A7ois-bayrou-appelle-%C3%A0-une-prise-de-conscience-des-citoyens</link>
+      <author>RFI</author>
+      <guid>ae3bad6c-19dc-11f0-aa25-005056a97652</guid>
+      <pubDate>Tue, 15 Apr 2025 10:28:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>L'OFS prévoit une Suisse à 10,5 millions d'habitants en 2055 (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-comptera-10-5-millions-d-habitants-en-2055-selon-l-ofs-28855502.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28855502</guid>
+      <pubDate>Tue, 15 Apr 2025 10:22:39 GMT</pubDate>
+    </item>
+    <item>
       <title>Dix décès dans des avalanches cet hiver en Suisse, un bilan en baisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/avalanches-en-suisse-10-deces-cet-hiver-un-bilan-en-baisse-28855403.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1411,20 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/11/john-thune-senate-republicans-recess-votes-trump</guid>
       <pubDate>Fri, 11 Apr 2025 18:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>China raises tariffs on US goods to 125% as trade war intensifies (Semafor)</title>
-      <link>https://www.semafor.com/article/04/11/2025/china-raises-tariffs-on-us-goods-to-125-as-trade-war-intensifies</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/04/11/2025/china-raises-tariffs-on-us-goods-to-125-as-trade-war-intensifies</guid>
-      <pubDate>Fri, 11 Apr 2025 18:01:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Electric vehicles also cause air pollution (Economist)</title>
-      <link>https://www.economist.com/science-and-technology/2025/04/11/electric-vehicles-also-cause-air-pollution</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/science-and-technology/2025/04/11/electric-vehicles-also-cause-air-pollution</guid>
-      <pubDate>Fri, 11 Apr 2025 17:50:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
