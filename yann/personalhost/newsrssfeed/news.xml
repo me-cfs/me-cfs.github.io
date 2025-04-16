@@ -5,6 +5,29 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						ECB expected to lower interest rates amid mounting recession fears					 (Politico)</title>
+      <link>https://www.politico.eu/article/ecb-lower-interest-rate-recession-fear/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ecb-lower-interest-rate-recession-fear/</guid>
+      <pubDate>Wed, 16 Apr 2025 10:49:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						Trump’s anti-EU rhetoric haunts Albanian election					 (Politico)</title>
+      <link>https://www.politico.eu/article/donald-trump-eu-accession-albania-election-edi-rama/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/donald-trump-eu-accession-albania-election-edi-rama/</guid>
+      <pubDate>Wed, 16 Apr 2025 10:34:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>China beats GDP forecasts but tariffs loom large (Semafor)</title>
+      <link>https://www.semafor.com/article/04/16/2025/china-beats-gdp-forecasts</link>
+      <author>Semafor</author>
+      <guid>https://www.semafor.com/article/04/16/2025/china-beats-gdp-forecasts</guid>
+      <pubDate>Wed, 16 Apr 2025 10:29:16 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump’s tariff tantrums boost case for new financial architecture in Africa (Open Democracy)</title>
       <link>https://www.opendemocracy.net/en/5050/trumps-tariff-tantrums-boost-case-for-new-financial-architecture-in-africa/</link>
       <author>Open Democracy</author>
@@ -1405,27 +1428,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/13/us/politics/josh-shapiro-arson-attack-pennsylvania.html</guid>
       <pubDate>Mon, 14 Apr 2025 00:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump DOJ says federal courts have "no authority" in case of mistakenly deported man (Axios)</title>
-      <link>https://www.axios.com/2025/04/13/trump-maryland-man-deported-el-salvador</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/13/trump-maryland-man-deported-el-salvador</guid>
-      <pubDate>Mon, 14 Apr 2025 00:08:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: l'ONG Médecins du monde attaque l'État en justice pour son obstruction aux «salles de shoot» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250413-france-l-ong-m%C3%A9decins-du-monde-attaque-l-%C3%A9tat-en-justice-pour-son-obstruction-aux-salles-de-shoot</link>
-      <author>RFI</author>
-      <guid>571da500-18b8-11f0-b6b0-005056a97652</guid>
-      <pubDate>Sun, 13 Apr 2025 23:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title> EU foreign ministers to discuss security guarantees for Ukraine, new sanctions against Russia, media reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/eu-foreign-ministers-to-discuss-security-guarantees-for-ukraine-new-sanctions-against-russia-media-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/eu-foreign-ministers-to-discuss-security-guarantees-for-ukraine-new-sanctions-against-russia-media-reports</guid>
-      <pubDate>Mon, 14 Apr 2025 02:37:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
