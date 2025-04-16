@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Croix-Rouge a développé une application pour aider les réfugiés à leur arrivée en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/application-croix-rouge-guide-pratique-pour-refugies-arrivant-en-suisse-28853657.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28853657</guid>
+      <pubDate>Wed, 16 Apr 2025 05:35:32 GMT</pubDate>
+    </item>
+    <item>
       <title>France: Marseille veut devenir une terre d’asile scientifique pour les chercheurs américains censurés par Trump (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250416-france-marseille-veut-devenir-une-terre-d-asile-scientifique-pour-les-chercheurs-am%C3%A9ricains-censur%C3%A9s-par-trump</link>
       <author>RFI</author>
@@ -1421,13 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/poland-weird-presidential-debate-rafal-trzaskowski-karol-nawrocki/</guid>
       <pubDate>Sun, 13 Apr 2025 17:27:06 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration's foreign aid cuts threaten to roll back global maternal mortality progress (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5245353-maternal-mortality-rates-trump-foreign-aid-cuts/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5245353</guid>
-      <pubDate>Sun, 13 Apr 2025 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
