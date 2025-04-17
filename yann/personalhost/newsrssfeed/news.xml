@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Making excuses for Putin					 (Politico)</title>
+      <link>https://www.politico.eu/article/war-in-ukraine-sumy-strike-russia-vladimir-putin-donald-trump/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/war-in-ukraine-sumy-strike-russia-vladimir-putin-donald-trump/</guid>
+      <pubDate>Thu, 17 Apr 2025 00:49:16 -0000</pubDate>
+    </item>
+    <item>
       <title>Democrat Norcross in intensive care, faces 'extended recovery' (The Hill)</title>
       <link>https://thehill.com/homenews/house/5252833-norcross-hospitalization-recovery-news/</link>
       <author>The Hill</author>
@@ -1427,13 +1435,6 @@
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/04/14/lebanon-journalists-activist-summoned-investigations</guid>
       <pubDate>Mon, 14 Apr 2025 14:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Trump again threatens to send Americans to prisons in El Salvador (Axios)</title>
-      <link>https://www.axios.com/2025/04/14/trump-americans-el-salvador-prison-bukele</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/14/trump-americans-el-salvador-prison-bukele</guid>
-      <pubDate>Mon, 14 Apr 2025 17:56:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
