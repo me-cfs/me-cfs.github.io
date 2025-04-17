@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> EU fails to agree on sanctions on Russian LNG, Reuters reports  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/eu-fails-to-agree-on-santions-on-russian-lng-reuters-reports</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/eu-fails-to-agree-on-santions-on-russian-lng-reuters-reports</guid>
+      <pubDate>Thu, 17 Apr 2025 08:52:02 +0300</pubDate>
+    </item>
+    <item>
       <title> UK to support Germany sending Taurus missiles to Ukraine, Telegraph reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/uk-to-support-germany-sending-taurus-missiles-to-ukraine</link>
       <author>Kyiv Indpendent</author>
@@ -158,6 +165,20 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/16/harvard-irs-tax-exempt-trump</guid>
       <pubDate>Wed, 16 Apr 2025 22:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's still looking for answers about assassination attempts (Axios)</title>
+      <link>https://www.axios.com/2025/04/16/trumps-assassination-secret-service-questions</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/16/trumps-assassination-secret-service-questions</guid>
+      <pubDate>Wed, 16 Apr 2025 22:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chris Krebs resigns from SentinelOne to fight Justice Department probe (Axios)</title>
+      <link>https://www.axios.com/2025/04/16/trump-chris-krebs-sentinelone-doj-investigation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/16/trump-chris-krebs-sentinelone-doj-investigation</guid>
+      <pubDate>Wed, 16 Apr 2025 21:37:20 +0000</pubDate>
     </item>
     <item>
       <title>Scoop: Another House Democrat seeks to go to El Salvador (Axios)</title>
@@ -1420,27 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/14/harvard-reject-trump-funding-deal-billions</guid>
       <pubDate>Tue, 15 Apr 2025 00:27:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lighthizer expects Japan to link tariffs, steel deal (Semafor)</title>
-      <link>https://www.semafor.com/article/04/14/2025/lighthizer-japan-trade-deal-tariffs-nippon</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/04/14/2025/lighthizer-japan-trade-deal-tariffs-nippon</guid>
-      <pubDate>Tue, 15 Apr 2025 00:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Columbia Activist Arrested by ICE at His Appointment for Citizenship (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html</guid>
-      <pubDate>Tue, 15 Apr 2025 00:10:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Columbia activist detained during citizenship appointment (Axios)</title>
-      <link>https://www.axios.com/2025/04/14/columbia-activist-detained-citizenship-appointment</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/14/columbia-activist-detained-citizenship-appointment</guid>
-      <pubDate>Mon, 14 Apr 2025 23:57:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
