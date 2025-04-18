@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian ballistic missile attack on Kharkiv kills 1, injures 54  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-ballistic-missile-attack-on-kharkiv-kills-1-injures-54</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-ballistic-missile-attack-on-kharkiv-kills-1-injures-54</guid>
+      <pubDate>Fri, 18 Apr 2025 07:12:43 +0300</pubDate>
+    </item>
+    <item>
       <title>‘They were chanting as they killed people in their homes’: survivors describe attack on Sudan’s Zamzam camp (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/apr/18/survivors-attack-sudan-zamzam-camp-rapid-support-forces-paramilitaries</link>
       <author>Guardian</author>
@@ -181,6 +188,13 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/17/business/economy/trump-jerome-powell-fed.html</guid>
       <pubDate>Thu, 17 Apr 2025 18:44:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virginia flag banned in Texas district over exposed breast (Axios)</title>
+      <link>https://www.axios.com/local/richmond/2025/04/17/texas-school-district-virginia-flag-ban-nudity</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/richmond/2025/04/17/texas-school-district-virginia-flag-ban-nudity</guid>
+      <pubDate>Thu, 17 Apr 2025 18:33:02 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1426,20 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/15/trump-corporate-tax-cut</guid>
       <pubDate>Tue, 15 Apr 2025 19:22:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge temporarily halts Trump admin move to end Biden-era migration program (Axios)</title>
-      <link>https://www.axios.com/2025/04/15/trump-cuba-haiti-nicaragua-venezuela-legal-status-judge</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/15/trump-cuba-haiti-nicaragua-venezuela-legal-status-judge</guid>
-      <pubDate>Tue, 15 Apr 2025 19:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Binyamin Netanyahu’s other war (Economist)</title>
-      <link>https://www.economist.com/middle-east-and-africa/2025/04/15/binyamin-netanyahus-other-war</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/middle-east-and-africa/2025/04/15/binyamin-netanyahus-other-war</guid>
-      <pubDate>Tue, 15 Apr 2025 18:55:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
