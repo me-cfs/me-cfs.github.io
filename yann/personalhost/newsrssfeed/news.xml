@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>U.S. slashing military presence in Syria (Axios)</title>
+      <link>https://www.axios.com/2025/04/18/us-troops-syria-isis</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/18/us-troops-syria-isis</guid>
+      <pubDate>Fri, 18 Apr 2025 21:48:17 +0000</pubDate>
+    </item>
+    <item>
       <title> Trump admin considers recognizing Russian control of Crimea as part of peace deal, Bloomberg reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/trump-administration-considers-recognizing-russian-control-of-crimea-as-part-of-peace-deal-bloomberg-reports</link>
       <author>Kyiv Indpendent</author>
@@ -24,6 +31,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/18/kilmar-abrego-garcia-van-hollen-meeting-el-salvador-conference</guid>
       <pubDate>Fri, 18 Apr 2025 21:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>I.R.S. Head Is Ousted in Treasury Leader Bessent’s Struggle With Musk (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/18/us/politics/irs-scott-bessent-elon-musk.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/18/us/politics/irs-scott-bessent-elon-musk.html</guid>
+      <pubDate>Fri, 18 Apr 2025 20:55:28 +0000</pubDate>
     </item>
     <item>
       <title>Trump ranted to aides about washing his hands of Russia-Ukraine (Axios)</title>
@@ -1422,20 +1436,6 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/why-trump-will-lose-his-trade-war</guid>
       <pubDate>Wed, 16 Apr 2025 10:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump’s tariff tantrums boost case for new financial architecture in Africa (Open Democracy)</title>
-      <link>https://www.opendemocracy.net/en/5050/trumps-tariff-tantrums-boost-case-for-new-financial-architecture-in-africa/</link>
-      <author>Open Democracy</author>
-      <guid>https://www.opendemocracy.net/en/5050/trumps-tariff-tantrums-boost-case-for-new-financial-architecture-in-africa/</guid>
-      <pubDate>Wed, 16 Apr 2025 10:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Is Spending Billions on Border Security. Some Residents Living There Lack Basic Resources. (Propublica)</title>
-      <link>https://www.propublica.org/article/trump-border-security-spending-texas-arizona</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/trump-border-security-spending-texas-arizona</guid>
-      <pubDate>Wed, 16 Apr 2025 06:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
