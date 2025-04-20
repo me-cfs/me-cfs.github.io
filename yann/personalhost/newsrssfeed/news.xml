@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Ukraine calls for 30-day ban on long-range drone and missile strikes  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/ukraine-calls-for-30-day-ban-on-long-range-drone-and-missile-strikes</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/ukraine-calls-for-30-day-ban-on-long-range-drone-and-missile-strikes</guid>
+      <pubDate>Sun, 20 Apr 2025 21:34:50 +0300</pubDate>
+    </item>
+    <item>
+      <title>Trump Nixing Conservation Rule in Favor of Drilling and Mining on Federal Lands (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/trump-conservation-rule-balance-drilling-mining-development-federal-land-protections/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1127596</guid>
+      <pubDate>Sun, 20 Apr 2025 18:26:11 +0000</pubDate>
+    </item>
+    <item>
       <title>La faiblesse du réseau mobile en cas d'intempéries interpelle après les coupures en Valais (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/intemperies-en-valais-le-reseau-mobile-vulnerable-inquiete-les-autorites-28859709.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28859709</guid>
       <pubDate>Sun, 20 Apr 2025 17:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Asked You to Share Protest Photos. Wow, You Delivered. (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/protest-photos-audience-april-19-50501/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1127870</guid>
+      <pubDate>Sun, 20 Apr 2025 17:21:19 +0000</pubDate>
     </item>
     <item>
       <title>China’s trade war playbook is coming into focus (Semafor)</title>
@@ -95,6 +116,13 @@
       <author>Paul Krugmann</author>
       <guid>https://paulkrugman.substack.com/p/copy-a-primer-on-financial-crises</guid>
       <pubDate>Sun, 20 Apr 2025 10:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Botanical stardom: 15 most-followed plant spots (Axios)</title>
+      <link>https://www.axios.com/2025/04/20/botanical-gardens-instagram</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/20/botanical-gardens-instagram</guid>
+      <pubDate>Sun, 20 Apr 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La belle saison est de retour: préparez vos motos, vélos ou trottinettes (RTS)</title>
@@ -1402,34 +1430,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/16/harvard-irs-tax-exempt-trump</guid>
       <pubDate>Wed, 16 Apr 2025 22:07:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's still looking for answers about assassination attempts (Axios)</title>
-      <link>https://www.axios.com/2025/04/16/trumps-assassination-secret-service-questions</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/16/trumps-assassination-secret-service-questions</guid>
-      <pubDate>Wed, 16 Apr 2025 22:05:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chris Krebs resigns from SentinelOne to fight Justice Department probe (Axios)</title>
-      <link>https://www.axios.com/2025/04/16/trump-chris-krebs-sentinelone-doj-investigation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/16/trump-chris-krebs-sentinelone-doj-investigation</guid>
-      <pubDate>Wed, 16 Apr 2025 21:37:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Another House Democrat seeks to go to El Salvador (Axios)</title>
-      <link>https://www.axios.com/2025/04/16/house-democrats-el-salvador-deportation-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/16/house-democrats-el-salvador-deportation-trump</guid>
-      <pubDate>Wed, 16 Apr 2025 21:17:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serbie: nomination d'un nouveau gouvernement, dirigé par Djuro Macut, un proche du président (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250416-serbie-nomination-d-un-nouveau-gouvernement-dirig%C3%A9-par-djuro-macut-un-proche-du-pr%C3%A9sident</link>
-      <author>RFI</author>
-      <guid>67e8cb2a-1b02-11f0-a4ea-005056bf762b</guid>
-      <pubDate>Wed, 16 Apr 2025 21:13:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
