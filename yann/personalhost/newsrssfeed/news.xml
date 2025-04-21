@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Four House Democrats travel to El Salvador despite GOP refusal to authorize a trip (Axios)</title>
+      <link>https://www.axios.com/2025/04/21/democrats-el-salvador-trump-cecot-abrego-garcia</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/21/democrats-el-salvador-trump-cecot-abrego-garcia</guid>
+      <pubDate>Mon, 21 Apr 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>World leaders express "profound sadness" over pope's death (Axios)</title>
       <link>https://www.axios.com/2025/04/21/pope-francis-death-tributes-world-leaders</link>
       <author>Axios</author>
@@ -32,6 +39,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?p=2017736&amp;post_type=article&amp;preview_id=2017736</guid>
       <pubDate>Mon, 21 Apr 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Laid Off Nearly All the Federal Workers Who Investigate Firefighter Deaths (Propublica)</title>
+      <link>https://www.propublica.org/article/trump-cuts-firefighter-deaths</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/trump-cuts-firefighter-deaths</guid>
+      <pubDate>Mon, 21 Apr 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>
@@ -1414,20 +1428,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2016404</guid>
       <pubDate>Thu, 17 Apr 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wisconsin’s Name-Change Law Raises Safety Risks for Transgender People (Propublica)</title>
-      <link>https://www.propublica.org/article/wisconsin-law-transgender-name-changes</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/wisconsin-law-transgender-name-changes</guid>
-      <pubDate>Thu, 17 Apr 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MAGA-friendly outlets reshape White House press briefings (Axios)</title>
-      <link>https://www.axios.com/2025/04/17/trump-maga-friendly-white-house-press-corps</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/17/trump-maga-friendly-white-house-press-corps</guid>
-      <pubDate>Thu, 17 Apr 2025 08:55:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
