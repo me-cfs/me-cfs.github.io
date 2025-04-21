@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Sensitive docs mistakenly made available to agency's entire staff during Biden, Trump admins (Axios)</title>
+      <link>https://www.axios.com/2025/04/21/trump-biden-sensitive-documents-white-house-gsa</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/21/trump-biden-sensitive-documents-white-house-gsa</guid>
+      <pubDate>Mon, 21 Apr 2025 01:48:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Hegseth Said to Have Shared Attack Details in Second Signal Chat (New York Times)</title>
       <link>https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html</link>
       <author>New York Times</author>
@@ -1422,13 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/thousands-of-north-sea-workers-are-going-to-lose-their-jobs-no-one-has-told-them/</guid>
       <pubDate>Thu, 17 Apr 2025 02:14:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>Astronomers Detect a Signature of Life on a Distant Planet (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html</guid>
-      <pubDate>Thu, 17 Apr 2025 01:58:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
