@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harvard sues Trump administration over funding freeze (Axios)</title>
+      <link>https://www.axios.com/2025/04/21/harvard-sues-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/21/harvard-sues-trump</guid>
+      <pubDate>Mon, 21 Apr 2025 21:30:47 +0000</pubDate>
+    </item>
+    <item>
       <title>Pope Francis picked 80% of cardinals who'll elect his successor (Axios)</title>
       <link>https://www.axios.com/2025/04/21/pope-francis-named-college-cardinals-successor</link>
       <author>Axios</author>
@@ -1419,13 +1426,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/trump-assassionation-plot-nikita-casap-terrorgram-wisconsin-frontline</guid>
       <pubDate>Thu, 17 Apr 2025 11:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Visite de Marco Rubio à Paris: «On attend une position de fermeté» sur la guerre en Ukraine (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20250417-visite-de-marco-rubio-%C3%A0-paris-on-attend-une-position-de-fermet%C3%A9-sur-la-guerre-en-ukraine</link>
-      <author>RFI</author>
-      <guid>ef11afae-1b93-11f0-8a9a-005056bf762b</guid>
-      <pubDate>Thu, 17 Apr 2025 15:19:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
