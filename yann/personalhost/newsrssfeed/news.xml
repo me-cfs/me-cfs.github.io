@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Emmanuel Macron annonce une aide de trois milliards d'euros pour la «refondation» de Mayotte (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250421-france-emmanuel-macron-annonce-une-aide-de-trois-milliards-d-euros-pour-la-refondation-de-mayotte</link>
+      <author>RFI</author>
+      <guid>3e9f46f0-1ed0-11f0-911a-005056bf762b</guid>
+      <pubDate>Mon, 21 Apr 2025 16:55:37 GMT</pubDate>
+    </item>
+    <item>
       <title>The U.S. economy's stagflation shift creates a tricky tightrope for the Fed (Axios)</title>
       <link>https://www.axios.com/2025/04/21/trump-tariffs-stagflation-inflation-recession</link>
       <author>Axios</author>
@@ -1419,13 +1426,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/1843/2025/04/17/how-to-survive-a-purge-the-secret-diary-of-a-doj-staffer</guid>
       <pubDate>Thu, 17 Apr 2025 12:58:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: le gouvernement présente des mesures pour renouer le dialogue entre les agriculteurs et l'OFB (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250417-france-le-gouvernement-pr%C3%A9sente-des-mesures-pour-renouer-le-dialogue-entre-les-agriculteurs-et-l-ofb</link>
-      <author>RFI</author>
-      <guid>77e3379a-1b7a-11f0-a2f6-005056bf762b</guid>
-      <pubDate>Thu, 17 Apr 2025 12:43:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
