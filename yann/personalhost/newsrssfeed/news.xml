@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Drunk man walks into climate change, burns the bottoms of his feet off (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/04/drunk-man-walks-into-climate-change-burns-the-bottoms-of-his-feet-off/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/04/drunk-man-walks-into-climate-change-burns-the-bottoms-of-his-feet-off/</guid>
+      <pubDate>Tue, 22 Apr 2025 22:25:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Elon Musk says he'll take step back from DOGE (Axios)</title>
       <link>https://www.axios.com/2025/04/22/elon-musk-doge-tesla-earnings-call</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>Economist</author>
       <guid>https://www.economist.com/united-states/2025/04/22/marco-rubio-maga-and-the-state-departments-new-look</guid>
       <pubDate>Tue, 22 Apr 2025 20:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk's Tesla admits "political sentiment" may hurt the company (Axios)</title>
+      <link>https://www.axios.com/2025/04/22/tesla-musk-earnings-call-tsla-stock</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/22/tesla-musk-earnings-call-tsla-stock</guid>
+      <pubDate>Tue, 22 Apr 2025 20:50:33 +0000</pubDate>
     </item>
     <item>
       <title> Rubio, Witkoff decline to attend Ukraine peace talks in London  (Kyiv Indpendent)</title>
@@ -1412,20 +1426,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5255650</guid>
       <pubDate>Fri, 18 Apr 2025 14:24:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>De plus en plus de psychotropes en rupture de stock en France (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250418-de-plus-en-plus-de-psychotropes-en-rupture-de-stock-en-france</link>
-      <author>RFI</author>
-      <guid>92f910d8-1c4f-11f0-88cc-005056a97652</guid>
-      <pubDate>Fri, 18 Apr 2025 13:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astronomers Detect a Possible Signature of Life on a Distant Planet (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html</guid>
-      <pubDate>Fri, 18 Apr 2025 13:34:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
