@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Ukraine ready to negotiate with Russia — if it agrees to ceasefire first					 (Politico)</title>
+      <link>https://www.politico.eu/article/zelenskyy-full-ceasefire-first-and-then-well-talk/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/zelenskyy-full-ceasefire-first-and-then-well-talk/</guid>
+      <pubDate>Tue, 22 Apr 2025 19:46:44 -0000</pubDate>
+    </item>
+    <item>
       <title>Earthjustice President Describes a “Fundamentally Different” Era of Hostility Toward Environmentalists (Propublica)</title>
       <link>https://www.propublica.org/article/earthjustice-abigail-dillen-q-a</link>
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/earthjustice-abigail-dillen-q-a</guid>
       <pubDate>Tue, 22 Apr 2025 15:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>India and Pakistan could come to blows over Kashmir (Economist)</title>
+      <link>https://www.economist.com/asia/2025/04/22/india-and-pakistan-could-come-to-blows-over-kashmir</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/asia/2025/04/22/india-and-pakistan-could-come-to-blows-over-kashmir</guid>
+      <pubDate>Tue, 22 Apr 2025 18:57:20 GMT</pubDate>
     </item>
     <item>
       <title>America won’t be able to bully the world into buying more gas (Economist)</title>
@@ -1412,20 +1427,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/</guid>
       <pubDate>Fri, 18 Apr 2025 11:00:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why You Should Fear a Trumpified Fed (Paul Krugmann)</title>
-      <link>https://paulkrugman.substack.com/p/why-you-should-fear-a-trumpified</link>
-      <author>Paul Krugmann</author>
-      <guid>https://paulkrugman.substack.com/p/why-you-should-fear-a-trumpified</guid>
-      <pubDate>Fri, 18 Apr 2025 10:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Putin tests Trump's patience by slow-walking ceasefire talks (Axios)</title>
-      <link>https://www.axios.com/2025/04/18/russia-us-ceasefire-proposal-putin-response</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/18/russia-us-ceasefire-proposal-putin-response</guid>
-      <pubDate>Fri, 18 Apr 2025 10:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
