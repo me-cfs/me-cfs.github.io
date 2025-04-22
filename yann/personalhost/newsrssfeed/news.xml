@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Switzerland joins EU sanctions against Russian state media  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/switzerland-joins-eu-sanctions-against-russian-state-media</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/switzerland-joins-eu-sanctions-against-russian-state-media</guid>
+      <pubDate>Wed, 23 Apr 2025 02:43:55 +0300</pubDate>
+    </item>
+    <item>
       <title>France: «Hungry for Justice in Palestine», une grève de la faim pour Gaza (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250422-france-hungry-for-justice-in-palestine-une-gr%C3%A8ve-de-la-faim-pour-gaza</link>
       <author>RFI</author>
@@ -52,6 +59,13 @@
       <author>RFI</author>
       <guid>8a609ff2-1f85-11f0-87ad-005056a97652</guid>
       <pubDate>Tue, 22 Apr 2025 22:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sarah Palin loses defamation retrial against NYT (Axios)</title>
+      <link>https://www.axios.com/2025/04/22/sarah-palin-loses-defamation-retrial-against-nyt</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/22/sarah-palin-loses-defamation-retrial-against-nyt</guid>
+      <pubDate>Tue, 22 Apr 2025 21:13:04 +0000</pubDate>
     </item>
     <item>
       <title>Marco Rubio, MAGA and the State Department’s new look (Economist)</title>
@@ -1412,20 +1426,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5255871</guid>
       <pubDate>Fri, 18 Apr 2025 18:01:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump swears-in Mehmet Oz as CMS administrator (The Hill)</title>
-      <link>https://thehill.com/homenews/5255977-trump-swears-in-mehmet-oz-as-cms-administrator/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5255977</guid>
-      <pubDate>Fri, 18 Apr 2025 17:42:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Lab leak” marketing page replaces federal hub for COVID resources (Arstechnica)</title>
-      <link>https://arstechnica.com/health/2025/04/covid-gov-now-redirects-to-site-promoting-unproven-lab-leak/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/health/2025/04/covid-gov-now-redirects-to-site-promoting-unproven-lab-leak/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:33:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
