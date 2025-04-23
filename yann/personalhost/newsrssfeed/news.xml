@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Keller-Sutter et Parmelin à Washington avec le dossier des taxes douanières sous le bras (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/keller-sutter-et-parmelin-a-washington-pour-negocier-les-taxes-douanieres-28862297.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28862297</guid>
+      <pubDate>Wed, 23 Apr 2025 17:07:46 GMT</pubDate>
+    </item>
+    <item>
       <title>États-Unis: Trump attaque Zelensky, lui reproche de tenir des «propos incendiaires» sur la Crimée (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250423-%C3%A9tats-unis-trump-attaque-zelensky-lui-reproche-de-tenir-des-propos-incendiaires-sur-la-crim%C3%A9e</link>
       <author>RFI</author>
@@ -102,6 +109,13 @@
       <author>RTS</author>
       <guid>28861615</guid>
       <pubDate>Wed, 23 Apr 2025 13:49:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Trump Exploits Working Class Pain (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/trump-tariffs-coal-rural-america/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1128376</guid>
+      <pubDate>Wed, 23 Apr 2025 13:42:17 +0000</pubDate>
     </item>
     <item>
       <title>Labor Department Official Warns That Staff Who Speak With Journalists Face “Serious Legal Consequences” (Propublica)</title>
@@ -1406,20 +1420,6 @@
       <author>RFI</author>
       <guid>2442cf94-1db7-11f0-870c-005056a97652</guid>
       <pubDate>Sun, 20 Apr 2025 11:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Budget français: le Premier ministre François Bayrou à nouveau la tête dans l’entonnoir (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20250420-budget-fran%C3%A7ais-le-premier-ministre-fran%C3%A7ois-bayrou-%C3%A0-nouveau-la-t%C3%AAte-dans-l-entonnoir</link>
-      <author>RFI</author>
-      <guid>e028c032-1c37-11f0-a359-005056bf762b</guid>
-      <pubDate>Sun, 20 Apr 2025 10:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>La mise en service du numéro d'urgence 142 pour les violences domestiques repoussée à mai 2026 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/numero-d-urgence-142-pour-violences-domestiques-lancement-reporte-a-2026-28859513.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28859513</guid>
-      <pubDate>Sun, 20 Apr 2025 10:39:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
