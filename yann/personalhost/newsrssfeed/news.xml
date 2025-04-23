@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>OpenAI's o3: reviewers are ecstatic but performance is erratic (Axios)</title>
+      <link>https://www.axios.com/2025/04/23/ai-jagged-frontier-o3</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/23/ai-jagged-frontier-o3</guid>
+      <pubDate>Wed, 23 Apr 2025 08:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crimée: à Kertch, le poids de la guerre et le doute sur la paix (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250423-crim%C3%A9e-%C3%A0-kertch-le-poids-de-la-guerre-et-le-doute-sur-la-paix</link>
+      <author>RFI</author>
+      <guid>c8b34524-1f9f-11f0-85bb-005056a97652</guid>
+      <pubDate>Wed, 23 Apr 2025 08:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Please, yell at kids! Five lessons I’ve learned about good parenting from around the world (Guardian)</title>
+      <link>https://www.theguardian.com/wellness/2025/apr/23/parenting-tips-around-the-world</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/wellness/2025/apr/23/parenting-tips-around-the-world</guid>
+      <pubDate>Wed, 23 Apr 2025 08:00:13 GMT</pubDate>
+    </item>
+    <item>
       <title> 4 killed, 88 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/attacks-146</link>
       <author>Kyiv Indpendent</author>
@@ -1405,27 +1426,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/17/us/politics/lisa-murkowski-trump.html</guid>
       <pubDate>Sat, 19 Apr 2025 00:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noem to Ban Harvard International Students if Trump’s Demands Not Met (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/04/noem-trump-harvard-international-students-ban/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1127627</guid>
-      <pubDate>Sat, 19 Apr 2025 00:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge Rules Against Trump Administration on Passport Changes (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/18/us/trump-passport-changes-transgender.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/18/us/trump-passport-changes-transgender.html</guid>
-      <pubDate>Fri, 18 Apr 2025 23:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Former Biden U.S. attorney to run for Albuquerque mayor (Axios)</title>
-      <link>https://www.axios.com/2025/04/18/former-biden-us-attorney-albuquerque-mayor</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/18/former-biden-us-attorney-albuquerque-mayor</guid>
-      <pubDate>Fri, 18 Apr 2025 23:19:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
