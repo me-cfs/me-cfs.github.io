@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia: Parties Address Human Rights Issues (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/04/23/australia-parties-address-human-rights-issues</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/04/23/australia-parties-address-human-rights-issues</guid>
+      <pubDate>Wed, 23 Apr 2025 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Australia 2025 Election Questionnaire (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/04/23/australia-2025-election-questionnaire</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/04/23/australia-2025-election-questionnaire</guid>
+      <pubDate>Wed, 23 Apr 2025 11:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>Les demandes d'asile baissent, mais les cantons restent inquiets (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/baisse-des-demandes-d-asile-en-suisse-les-cantons-restent-sous-pression-28861099.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28861099</guid>
       <pubDate>Wed, 23 Apr 2025 14:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Parental Rights Movement Has a Big Day at the Supreme Court (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/the-parental-rights-movement-has-a-big-day-at-the-supreme-court/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1128441</guid>
+      <pubDate>Wed, 23 Apr 2025 14:40:45 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -104,6 +125,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/marco-rubio-steve-witkoff-russia-donald-trump-pull-out-of-ukraine-talks-amid-crimea-split/</guid>
       <pubDate>Wed, 23 Apr 2025 10:36:33 -0000</pubDate>
+    </item>
+    <item>
+      <title>Cronyism, Capitulation and Utter Chaos (Paul Krugmann)</title>
+      <link>https://paulkrugman.substack.com/p/cronyism-capitulation-and-chaos</link>
+      <author>Paul Krugmann</author>
+      <guid>https://paulkrugman.substack.com/p/cronyism-capitulation-and-chaos</guid>
+      <pubDate>Wed, 23 Apr 2025 10:30:41 GMT</pubDate>
     </item>
     <item>
       <title>Les touristes suisses boudent les Etats-Unis, surtout les jeunes (RTS)</title>
@@ -1392,35 +1420,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/ukrainian-diplomat-urges-merz-to-deliver-taurus-missiles-to-kyiv-lead-europe-in-ending-russias-war</guid>
       <pubDate>Sun, 20 Apr 2025 03:57:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>
-						World’s cartoonists on this week’s events					 (Politico)</title>
-      <link>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-152/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-152/</guid>
-      <pubDate>Sun, 20 Apr 2025 00:53:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Tunisian court hands prison sentences of up to 66 years in mass trial of regime opponents (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/apr/20/tunisia-court-prison-sentences-kais-saied</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/apr/20/tunisia-court-prison-sentences-kais-saied</guid>
-      <pubDate>Sun, 20 Apr 2025 00:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: Marine Tondelier conserve sa veste de secrétaire nationale des Écologistes (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250419-france-marine-tondelier-conserve-sa-veste-de-secr%C3%A9taire-nationale-des-%C3%A9cologistes</link>
-      <author>RFI</author>
-      <guid>43f944e0-1d6b-11f0-a296-005056bf762b</guid>
-      <pubDate>Sat, 19 Apr 2025 22:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Priscillia Routier Trillard, lauréate Coup de coeur des 13e Trophées des expatriés français (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20250419-priscillia-routier-trillard-laur%C3%A9ate-coup-de-coeur-des-13e-troph%C3%A9es-des-expatri%C3%A9s-fran%C3%A7ais</link>
-      <author>RFI</author>
-      <guid>226adaae-1b91-11f0-a894-005056a97652</guid>
-      <pubDate>Sat, 19 Apr 2025 22:04:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
