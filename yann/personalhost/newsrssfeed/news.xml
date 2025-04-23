@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: au procès de Joël Le Scouarnec, le sentiment de culpabilité des parents de victimes (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250423-france-au-proc%C3%A8s-de-jo%C3%ABl-le-scouarnec-le-sentiment-de-culpabilit%C3%A9-des-parents-de-victimes</link>
+      <author>RFI</author>
+      <guid>2e78c8d0-2080-11f0-9425-005056a97652</guid>
+      <pubDate>Wed, 23 Apr 2025 20:43:46 GMT</pubDate>
+    </item>
+    <item>
       <title>US birth rates near record low as Trump, Musk talk baby boom (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5263801-us-birth-rates-near-record-low-as-trump-musk-talk-baby-boom/</link>
       <author>The Hill</author>
@@ -1418,13 +1425,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1127869</guid>
       <pubDate>Sun, 20 Apr 2025 18:57:25 +0000</pubDate>
-    </item>
-    <item>
-      <title> Ukraine calls for 30-day ban on long-range drone and missile strikes  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-calls-for-30-day-ban-on-long-range-drone-and-missile-strikes</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-calls-for-30-day-ban-on-long-range-drone-and-missile-strikes</guid>
-      <pubDate>Sun, 20 Apr 2025 21:34:50 +0300</pubDate>
     </item>
   </channel>
 </rss>
