@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Senate Dems brace for leadership fight after Durbin retirement (Axios)</title>
+      <link>https://www.axios.com/2025/04/23/senate-democrats-durbin-whip-klobuchar-schatz</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/23/senate-democrats-durbin-whip-klobuchar-schatz</guid>
+      <pubDate>Wed, 23 Apr 2025 23:29:37 +0000</pubDate>
+    </item>
+    <item>
       <title>France: après l'affaire Bétharram, les langues se délient dans les établissements privés catholiques (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250423-france-apr%C3%A8s-l-affaire-b%C3%A9tharram-les-langues-se-d%C3%A9lient-dans-les-%C3%A9tablissements-priv%C3%A9s-catholiques</link>
       <author>RFI</author>
@@ -1415,14 +1422,6 @@
       <author>RTS</author>
       <guid>28858174</guid>
       <pubDate>Mon, 21 Apr 2025 05:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						POLITICO at 10: The EU fights for its independence					 (Politico)</title>
-      <link>https://www.politico.eu/article/10-years-european-union-independence-ursula-von-der-leyen/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/10-years-european-union-independence-ursula-von-der-leyen/</guid>
-      <pubDate>Mon, 21 Apr 2025 03:52:51 -0000</pubDate>
     </item>
   </channel>
 </rss>
