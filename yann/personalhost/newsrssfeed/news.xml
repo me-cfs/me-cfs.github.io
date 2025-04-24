@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Viols sur mineures: la France condamnée par la CEDH pour avoir failli à protéger des victimes (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250424-viols-sur-mineures-la-france-condamn%C3%A9e-par-la-cedh-pour-avoir-failli-%C3%A0-prot%C3%A9ger-des-victimes</link>
+      <author>RFI</author>
+      <guid>e6c3ed20-2152-11f0-afd1-005056a97652</guid>
+      <pubDate>Thu, 24 Apr 2025 22:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>An ancient battle has driven a wetland species almost to extinction (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/04/an-ancient-battle-has-driven-a-wetland-species-almost-to-extinction/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/04/an-ancient-battle-has-driven-a-wetland-species-almost-to-extinction/</guid>
+      <pubDate>Thu, 24 Apr 2025 21:55:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Regroupement familial: en Autriche, des réfugiés plongés dans l'angoisse et l'incertitude (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250424-regroupement-familial-en-autriche-des-r%C3%A9fugi%C3%A9s-plong%C3%A9s-dans-l-angoisse-et-l-incertitude</link>
+      <author>RFI</author>
+      <guid>81cd2dce-2156-11f0-8de0-005056a97652</guid>
+      <pubDate>Thu, 24 Apr 2025 21:54:16 GMT</pubDate>
+    </item>
+    <item>
       <title> Ukraine will have to make compromises to reach peace deal, Polish leader says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/only-the-us-can-stop-putin-polish-president-duda-says-calls-for-peace-with-compromises</link>
       <author>Kyiv Indpendent</author>
@@ -24,6 +45,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/inside-a-kyiv-apartment-building-hit-by-russian-missile-strike</guid>
       <pubDate>Thu, 24 Apr 2025 23:16:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>New Android spyware is targeting Russian military personnel on the front lines (Arstechnica)</title>
+      <link>https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/</guid>
+      <pubDate>Thu, 24 Apr 2025 20:02:40 +0000</pubDate>
     </item>
     <item>
       <title>Oversight Democrat questions how CDC can provide public records without staffers (The Hill)</title>
@@ -1407,35 +1435,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/culture/2025/apr/22/actors-guild-of-nigeria-calls-for-better-regulation-after-death-of-two-actors</guid>
       <pubDate>Tue, 22 Apr 2025 16:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>This surgeon fuses people’s skulls to their spines to treat a rare complication of myalgic encephalomyelitis (ME/LC News)</title>
-      <link>https://thesicktimes.org/2025/04/22/this-surgeon-fuses-peoples-skulls-to-their-spines-to-treat-a-rare-complication-of-myalgic-encephalomyelitis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=this-surgeon-fuses-peoples-skulls-to-their-spines-to-treat-a-rare-complication-of-myalgic-encephalomyelitis</link>
-      <author>ME/LC News</author>
-      <guid>https://thesicktimes.org/?p=6306</guid>
-      <pubDate>Tue, 22 Apr 2025 15:43:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Francis, the First Latin American Pope, Dies at 88 (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/21/world/europe/pope-francis-dead.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/21/world/europe/pope-francis-dead.html</guid>
-      <pubDate>Tue, 22 Apr 2025 15:17:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU regulators probe SkinnyTok trend on TikTok					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-regulators-looking-into-skinnytok-trend-tiktok/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-regulators-looking-into-skinnytok-trend-tiktok/</guid>
-      <pubDate>Tue, 22 Apr 2025 14:49:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump fires at the Fed. America’s economy is collateral damage (Economist)</title>
-      <link>https://www.economist.com/finance-and-economics/2025/04/22/trump-fires-at-the-fed-americas-economy-is-collateral-damage</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/finance-and-economics/2025/04/22/trump-fires-at-the-fed-americas-economy-is-collateral-damage</guid>
-      <pubDate>Tue, 22 Apr 2025 13:30:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
