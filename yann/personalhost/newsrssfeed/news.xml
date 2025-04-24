@@ -5,6 +5,40 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump to Putin: "Vladimir, STOP!" (Axios)</title>
+      <link>https://www.axios.com/2025/04/24/trump-putin-stop-attack-kiev</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/24/trump-putin-stop-attack-kiev</guid>
+      <pubDate>Thu, 24 Apr 2025 13:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+        The weekly cartoon
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/04/24/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>74a69727-1a47-456f-bc70-08981ddd1809</guid>
+      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+        Business
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/04/24/business</link>
+      <author>Economist the World this Week</author>
+      <guid>03f60c40-4b08-40e0-a20f-d6c3a73673dc</guid>
+      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+        Politics
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/04/24/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>a2c154c4-d1b8-4d80-b6c6-893b5b843750</guid>
+      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
+    </item>
+    <item>
       <title>France: l'agence sanitaire alerte sur les effets néfastes des pesticides pour les jeunes enfants (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250424-france-l-agence-sanitaire-alerte-sur-les-effets-n%C3%A9fastes-des-pesticides-pour-les-jeunes-enfants</link>
       <author>RFI</author>
@@ -1402,34 +1436,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/21/us/harvard-lawsuit-trump-administration.html</guid>
       <pubDate>Tue, 22 Apr 2025 00:37:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Aides Solicit Ideas to Raise Birthrate, From Baby Bonuses to Fertility Planning (New York Times)</title>
-      <link>https://www.nytimes.com/2025/04/21/us/politics/trump-birthrate-proposals.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/04/21/us/politics/trump-birthrate-proposals.html</guid>
-      <pubDate>Tue, 22 Apr 2025 00:31:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Theatre of the absurd: Labor and Liberals on a unity ticket on every key issue — and guess who benefits (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/04/22/2025-federal-election-labor-liberals-unity-ticket/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1202810</guid>
-      <pubDate>Mon, 21 Apr 2025 23:38:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>'World's Coolest Dictator' Proposes Prisoner Swap For Trump Deportees (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/bukele-el-salvador-venezuela-prisoner-swap_n_6806bbb1e4b052543c13ae1e</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/bukele-el-salvador-venezuela-prisoner-swap_n_6806bbb1e4b052543c13ae1e</guid>
-      <pubDate>Mon, 21 Apr 2025 22:46:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Harvard sues Trump administration over funding freeze (Axios)</title>
-      <link>https://www.axios.com/2025/04/21/harvard-sues-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/21/harvard-sues-trump</guid>
-      <pubDate>Mon, 21 Apr 2025 22:31:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
