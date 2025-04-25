@@ -26,7 +26,7 @@ const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 
 // 2 Lists
 const politics = [...usPolitics, 'senator', 'election', 'democra', 'under-resourced', 'officially appointed', 'socialist',
-  ...rightWing, 'call for debate', 'liberal',
+  ...rightWing, 'call for debate', 'liberal', 'government', 
 ];
 // +Crikey, +Open Democracy, +RFI, +SBS News
 const us = ['Anchorage', ...usPolitics];
