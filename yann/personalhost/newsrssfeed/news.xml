@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks against Ukraine kill 8, injure at least 22 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-attacks-against-ukraine-kill-8-injure-at-least-22-over-past-day</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-attacks-against-ukraine-kill-8-injure-at-least-22-over-past-day</guid>
+      <pubDate>Fri, 25 Apr 2025 11:36:19 +0300</pubDate>
+    </item>
+    <item>
+      <title>Education Department cuts threaten to deepen local schools' woes (Axios)</title>
+      <link>https://www.axios.com/2025/04/25/local-schools-federal-funding-superintendents</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/25/local-schools-federal-funding-superintendents</guid>
+      <pubDate>Fri, 25 Apr 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Elon Musk leaves legacy of self-destruction at DOGE (Axios)</title>
       <link>https://www.axios.com/2025/04/25/elon-musk-doge-legacy</link>
       <author>Axios</author>
@@ -1423,20 +1437,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5262024</guid>
       <pubDate>Tue, 22 Apr 2025 23:06:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Drunk man walks into climate change, burns the bottoms of his feet off (Arstechnica)</title>
-      <link>https://arstechnica.com/health/2025/04/drunk-man-walks-into-climate-change-burns-the-bottoms-of-his-feet-off/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/health/2025/04/drunk-man-walks-into-climate-change-burns-the-bottoms-of-his-feet-off/</guid>
-      <pubDate>Tue, 22 Apr 2025 22:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk says he'll take step back from DOGE (Axios)</title>
-      <link>https://www.axios.com/2025/04/22/elon-musk-doge-tesla-earnings-call</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/22/elon-musk-doge-tesla-earnings-call</guid>
-      <pubDate>Tue, 22 Apr 2025 22:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
