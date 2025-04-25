@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les boîtes à clés, un système pratique mais moins sécurisé qu'on ne le pense (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/boites-a-cles-pratiques-mais-vulnerables-les-precautions-a-prendre-28863484.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28863484</guid>
+      <pubDate>Fri, 25 Apr 2025 04:25:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump tells DOJ to investigate Democrats donation platform ActBlue (Axios)</title>
       <link>https://www.axios.com/2025/04/25/trump-actblue-democrats-justice-department-investigation</link>
       <author>Axios</author>
@@ -1429,13 +1436,6 @@
       <author>SBS News</author>
       <guid>00000196-5f1e-d435-afde-7fde1d490001</guid>
       <pubDate>Tue, 22 Apr 2025 20:26:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Allemagne: l'impopularité du futur chancelier Friedrich Merz fait monter le parti d'extrême droite AfD (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250422-allemagne-l-impopularit%C3%A9-du-futur-chancelier-friedrich-merz-fait-monter-le-parti-d-extr%C3%AAme-droite-afd</link>
-      <author>RFI</author>
-      <guid>6457d5d2-1fb7-11f0-91d5-005056bf762b</guid>
-      <pubDate>Tue, 22 Apr 2025 20:21:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
