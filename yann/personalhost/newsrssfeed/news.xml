@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Macron calls report on new snap elections ‘complete nonsense’					 (Politico)</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-report-new-snap-election-nonsense/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-report-new-snap-election-nonsense/</guid>
+      <pubDate>Fri, 25 Apr 2025 07:27:08 -0000</pubDate>
+    </item>
+    <item>
       <title>Des milliers de faux papiers d'identité en circulation en Suisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/faux-papiers-en-suisse-un-probleme-croissant-pour-les-autorites-28863022.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1354,6 +1362,13 @@
       <pubDate>Wed, 23 Apr 2025 02:43:55 +0300</pubDate>
     </item>
     <item>
+      <title>Elon Musk's Tesla admits "political sentiment" may hurt the company (Axios)</title>
+      <link>https://www.axios.com/2025/04/22/tesla-musk-earnings-call-tsla-stock</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/22/tesla-musk-earnings-call-tsla-stock</guid>
+      <pubDate>Tue, 22 Apr 2025 23:40:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Venezuelan Immigrant Deported by Trump Administration Has Disappeared (New York Times)</title>
       <link>https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html</link>
       <author>New York Times</author>
@@ -1422,20 +1437,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/22/business/media/cbs-60-minutes-trump-bill-owens.html</guid>
       <pubDate>Tue, 22 Apr 2025 21:34:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>EPA fires or reassigns hundreds of staffers (Axios)</title>
-      <link>https://www.axios.com/2025/04/22/epa-fires-or-reassigns-hundreds-of-staffers</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/22/epa-fires-or-reassigns-hundreds-of-staffers</guid>
-      <pubDate>Tue, 22 Apr 2025 21:24:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sarah Palin loses defamation retrial against NYT (Axios)</title>
-      <link>https://www.axios.com/2025/04/22/sarah-palin-loses-defamation-retrial-against-nyt</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/22/sarah-palin-loses-defamation-retrial-against-nyt</guid>
-      <pubDate>Tue, 22 Apr 2025 21:13:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
