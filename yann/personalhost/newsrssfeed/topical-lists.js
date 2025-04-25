@@ -7,7 +7,7 @@ const democraticParty = ['democrat', 'biden', 'kamala', 'sanders'];
 const prehistory = ['neanderthal', 'ancient primate', 'primate ancestor', 'prehistory', 'australopithecus'];
 // +Arstechnica, +The Conversation, +Science Research
 const prison = ['pardon', 'prison'];
-// +Amnesty, +Conversation
+// +Amnesty, +Conversation, Intercept
 const rightWing = ['conservative backlash', 'Orbán ally', "Murdoch", 'MAGA',
 ];
 // +AP News, +Intercept, +Kiev Independent, +West England Bylines 
