@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Portugal: le pays commémore les 51 ans de la démocratie sur fond de polémique (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250425-portugal-le-pays-comm%C3%A9more-les-51-ans-de-la-d%C3%A9mocratie-sur-fond-de-pol%C3%A9mique</link>
+      <author>RFI</author>
+      <guid>b37ea532-21ba-11f0-bcd2-005056a97652</guid>
+      <pubDate>Fri, 25 Apr 2025 10:00:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Moms in Crisis, Jobs Lost: The Human Cost of Trump’s Addiction Funding Cuts (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/addiction-recovery-mental-health-funding-cuts-covid-hhs-trump/</link>
       <author>KFF Health News</author>
@@ -17,6 +24,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2020509</guid>
       <pubDate>Fri, 25 Apr 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICE Air Has a New Contractor. This State Is Asking How It Will Protect the Detainees on Board. (Propublica)</title>
+      <link>https://www.propublica.org/article/avelo-airlines-ice-air-connecticut</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/avelo-airlines-ice-air-connecticut</guid>
+      <pubDate>Fri, 25 Apr 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title> Russian attacks against Ukraine kill 8, injure at least 22 over past day  (Kyiv Indpendent)</title>
@@ -1423,20 +1437,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html</guid>
       <pubDate>Tue, 22 Apr 2025 23:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: «Hungry for Justice in Palestine», une grève de la faim pour Gaza (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250422-france-hungry-for-justice-in-palestine-une-gr%C3%A8ve-de-la-faim-pour-gaza</link>
-      <author>RFI</author>
-      <guid>6f2f0122-1fcd-11f0-a709-005056bf762b</guid>
-      <pubDate>Tue, 22 Apr 2025 23:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: au procès de Joël Le Scouarnec, un médecin lanceur d’alerte à la barre (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250422-france-au-proc%C3%A8s-de-jo%C3%ABl-le-scouarnec-un-m%C3%A9decin-lanceur-d-alerte-%C3%A0-la-barre</link>
-      <author>RFI</author>
-      <guid>7f87b668-1fc8-11f0-aff5-005056bf762b</guid>
-      <pubDate>Tue, 22 Apr 2025 23:14:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
