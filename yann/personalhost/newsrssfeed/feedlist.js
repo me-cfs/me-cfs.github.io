@@ -168,7 +168,8 @@ module.exports = [
     name: 'The Intercept',
     url: 'https://theintercept.com/feed/?rss',
     inclusionWords: [...tList.geopolitics, ...tList.israelPalestine, "open", 'strongest predictor',
-      'paywall', 'Nigeria', ...tList.rightWing, "Porn", ...tList.cybersecurity, 
+      'paywall', 'Nigeria', ...tList.rightWing, "Porn", ...tList.cybersecurity, ...tList.prison,
+      
     ],
   },
   {
