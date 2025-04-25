@@ -12,9 +12,9 @@ const rightWing = ['conservative backlash', 'Orbán ally', "Murdoch", 'MAGA',
 ];
 // +AP News, +Intercept, +Kiev Independent, +West England Bylines 
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with',
-  'suspect',
+  'suspect', "raping", 
 ];
-// -BBC Australia, -BBC Fiji
+// -BBC Australia, -BBC Fiji, -Huffington
 
 // 1 Lists
 const humanRights = ['death row', 'censorship', ...prison, 'colonisation'];
