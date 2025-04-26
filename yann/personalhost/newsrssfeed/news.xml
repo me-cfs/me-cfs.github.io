@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump tariffs stoke fears of shortages and price hikes (Axios)</title>
+      <link>https://www.axios.com/2025/04/26/trump-tariffs-shortages-prices-china-products</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/26/trump-tariffs-shortages-prices-china-products</guid>
+      <pubDate>Sat, 26 Apr 2025 12:51:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Key commodity exports plunge as Trump's trade war bites (Axios)</title>
+      <link>https://www.axios.com/2025/04/26/trump-china-soybeans-pork-tariffs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/26/trump-china-soybeans-pork-tariffs</guid>
+      <pubDate>Sat, 26 Apr 2025 12:31:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump and Zelensky met on sidelines of Pope Francis' funeral (Axios)</title>
       <link>https://www.axios.com/2025/04/26/trump-zelensky-pope-funeral-meeting</link>
       <author>Axios</author>
@@ -1428,20 +1442,6 @@
       <author>RTS</author>
       <guid>28862297</guid>
       <pubDate>Wed, 23 Apr 2025 17:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>États-Unis: Trump attaque Zelensky, lui reproche de tenir des «propos incendiaires» sur la Crimée (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250423-%C3%A9tats-unis-trump-attaque-zelensky-lui-reproche-de-tenir-des-propos-incendiaires-sur-la-crim%C3%A9e</link>
-      <author>RFI</author>
-      <guid>96bee130-2063-11f0-92c5-005056bf762b</guid>
-      <pubDate>Wed, 23 Apr 2025 16:58:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump accuses Zelensky of sabotaging U.S. peace plan for Ukraine (Axios)</title>
-      <link>https://www.axios.com/2025/04/23/trump-attack-zelensky-response-ukraine-peace-plan</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/23/trump-attack-zelensky-response-ukraine-peace-plan</guid>
-      <pubDate>Wed, 23 Apr 2025 16:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
