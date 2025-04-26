@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: ce que l'on sait du meurtre d'un fidèle dans une mosquée du Gard (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250426-france-ce-que-l-on-sait-du-meurtre-d-un-fid%C3%A8le-dans-une-mosqu%C3%A9e-du-gard</link>
+      <author>RFI</author>
+      <guid>70849582-22ca-11f0-b704-005056a97652</guid>
+      <pubDate>Sat, 26 Apr 2025 18:19:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Israeli Airstrike Kills 10 People, Half Of Them Children, As Mediators Try To Restart Ceasefire (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israeli-airstrike-kills-10-people-half-of-them-children-mediators-restart-ceasefire_n_680d16c1e4b06b5c9fc8d6f3</link>
       <author>Huffington Post</author>
@@ -25,6 +32,13 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cly1p1lezdgo#0</guid>
       <pubDate>Sat, 26 Apr 2025 17:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Latest Deportation Tear Includes a 2-Year-Old and a Kid With Cancer (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/04/trump-deportation-two-year-old-us-citizen-cancer-disregard-due-process-new-orleans/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1128984</guid>
+      <pubDate>Sat, 26 Apr 2025 17:04:25 +0000</pubDate>
     </item>
     <item>
       <title>La route du Grand-Saint-Bernard sera praticable plus tôt que prévu (RTS)</title>
@@ -1425,20 +1439,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5263506</guid>
       <pubDate>Wed, 23 Apr 2025 20:48:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>President Trump’s attacks on the Fed are not over (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/04/23/president-trumps-attacks-on-the-fed-are-not-over</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/04/23/president-trumps-attacks-on-the-fed-are-not-over</guid>
-      <pubDate>Wed, 23 Apr 2025 20:47:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: au procès de Joël Le Scouarnec, le sentiment de culpabilité des parents de victimes (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250423-france-au-proc%C3%A8s-de-jo%C3%ABl-le-scouarnec-le-sentiment-de-culpabilit%C3%A9-des-parents-de-victimes</link>
-      <author>RFI</author>
-      <guid>2e78c8d0-2080-11f0-9425-005056a97652</guid>
-      <pubDate>Wed, 23 Apr 2025 20:43:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
