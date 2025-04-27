@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Des défenseurs des animaux déposent une plainte contre une affiche de la BEA (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/affiche-bea-controversee-plainte-pour-publicite-deloyale-deposee-28865577.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28865577</guid>
+      <pubDate>Sun, 27 Apr 2025 17:38:28 GMT</pubDate>
+    </item>
+    <item>
       <title>GOP Rep. says Trump ‘does not want’ agenda bill ‘to be a health care bill’ (The Hill)</title>
       <link>https://thehill.com/homenews/house/5270013-gop-rep-jason-smith-trump-agenda-bill/</link>
       <author>The Hill</author>
@@ -46,6 +53,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/27/trump-china-us-trade-bessent</guid>
       <pubDate>Sun, 27 Apr 2025 14:47:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vladimir Putin’s money machine is sputtering (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/04/27/vladimir-putins-money-machine-is-sputtering</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/04/27/vladimir-putins-money-machine-is-sputtering</guid>
+      <pubDate>Sun, 27 Apr 2025 13:46:58 GMT</pubDate>
     </item>
     <item>
       <title>Scoop: Trump administration assessing options for North Korea talks (Axios)</title>
@@ -1420,20 +1434,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/europe/2025/04/24/america-is-selling-a-ukraine-peace-plan-no-one-is-buying-yet</guid>
       <pubDate>Thu, 24 Apr 2025 08:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Australian politician fined for supplying cocaine (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cr783dd08k3o</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cr783dd08k3o#0</guid>
-      <pubDate>Thu, 24 Apr 2025 07:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump Attacks Zelenskyy For Resisting Calls To Cede Crimea To Russia (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/trump-zelenskyy-crimea-annexation-russia-ukraine-peace-talks_n_6809d69ce4b0c4479136e55d</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/trump-zelenskyy-crimea-annexation-russia-ukraine-peace-talks_n_6809d69ce4b0c4479136e55d</guid>
-      <pubDate>Thu, 24 Apr 2025 07:28:21 -0000</pubDate>
     </item>
   </channel>
 </rss>
