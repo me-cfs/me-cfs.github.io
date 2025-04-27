@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Meta faces Ghana lawsuits over impact of extreme content on moderators (Guardian)</title>
+      <link>https://www.theguardian.com/technology/2025/apr/27/meta-faces-ghana-lawsuits-over-impact-of-extreme-content-on-moderators</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/technology/2025/apr/27/meta-faces-ghana-lawsuits-over-impact-of-extreme-content-on-moderators</guid>
+      <pubDate>Sun, 27 Apr 2025 05:00:24 GMT</pubDate>
+    </item>
+    <item>
       <title>La Marine française part à la conquête des grands fonds marins (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250427-la-marine-fran%C3%A7aise-part-%C3%A0-la-conqu%C3%AAte-des-grands-fonds-marins</link>
       <author>RFI</author>
@@ -1432,14 +1439,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/britain-conservative-party-losses-election-polls/</guid>
       <pubDate>Thu, 24 Apr 2025 02:18:39 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s debt set to surge again in new era of uncertainty, IMF warns					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-debt-surge-uncertainty-international-monetary-fund/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-debt-surge-uncertainty-international-monetary-fund/</guid>
-      <pubDate>Thu, 24 Apr 2025 02:03:39 -0000</pubDate>
     </item>
   </channel>
 </rss>
