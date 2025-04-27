@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En France, les médecins dans la rue pour protester contre la loi Garrot (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250427-en-france-les-m%C3%A9decins-dans-la-rue-pour-protester-contre-la-loi-garrot</link>
+      <author>RFI</author>
+      <guid>2a72c92e-22e8-11f0-8ba2-005056a97652</guid>
+      <pubDate>Sun, 27 Apr 2025 22:05:06 GMT</pubDate>
+    </item>
+    <item>
       <title>The price of eggs, welcome to country and Donald Trump’s mobile number (Crikey)</title>
       <link>https://www.crikey.com.au/2025/04/28/2025-federal-election-leaders-debate-polling-eggs/</link>
       <author>Crikey</author>
@@ -1427,13 +1434,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/apr/24/tanzania-tundu-lissu-court-treason-opposition-detained</guid>
       <pubDate>Thu, 24 Apr 2025 09:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Guerre en Ukraine: une nouvelle attaque meurtrière de missiles russes sur Kiev (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250424-guerre-en-ukraine-une-nouvelle-attaque-meurtri%C3%A8re-de-missiles-russes-sur-kiev</link>
-      <author>RFI</author>
-      <guid>4d8ceae2-20e6-11f0-9cba-005056a97652</guid>
-      <pubDate>Thu, 24 Apr 2025 09:18:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
