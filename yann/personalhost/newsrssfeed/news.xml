@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'Espagne, le Portugal, et le sud de la France touchés par une vaste panne d'électricité (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250428-l-espagne-et-le-portugal-touch%C3%A9s-par-une-vaste-panne-d-%C3%A9lectricit%C3%A9</link>
+      <author>RFI</author>
+      <guid>0a7c2d62-2429-11f0-aa6e-005056a97652</guid>
+      <pubDate>Mon, 28 Apr 2025 12:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bâle-Ville réclame "l'égalité des droits" et un deuxième siège au Conseil des Etats (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/bale-ville-exige-un-2e-siege-au-conseil-des-etats-debat-relance-28866564.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28866564</guid>
+      <pubDate>Mon, 28 Apr 2025 12:03:15 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Huge power outage cripples Spain and Portugal					 (Politico)</title>
       <link>https://www.politico.eu/article/huge-blackouts-cripple-power-supply-in-spain-and-portugal/</link>
@@ -284,6 +298,13 @@
       <author>RTS</author>
       <guid>28865701</guid>
       <pubDate>Sun, 27 Apr 2025 18:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Missteps That Led to a Fatal Plane Crash at Reagan National Airport (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html</guid>
+      <pubDate>Sun, 27 Apr 2025 18:15:20 +0000</pubDate>
     </item>
     <item>
       <title>Arsenal reach first Women's Champions League final since 2007 after win over Lyon (The Athletic Football)</title>
@@ -1411,27 +1432,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/security/2025/04/russian-military-personnel-on-the-front-lines-targeted-with-new-android-spyware/</guid>
       <pubDate>Thu, 24 Apr 2025 20:02:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oversight Democrat questions how CDC can provide public records without staffers (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5265662-cdc-foia-action-connolly/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5265662</guid>
-      <pubDate>Thu, 24 Apr 2025 19:39:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Federal Court Just Blocked Key Parts of Trump’s Anti-Voting Executive Order (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/04/federal-court-trump-voting-executive-order-blocked/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1128659</guid>
-      <pubDate>Thu, 24 Apr 2025 19:29:55 +0000</pubDate>
-    </item>
-    <item>
-      <title> North Korean missile used in deadly Russian strike on Kyiv, Zelensky says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/kyiv-strike-that-killed-12-involved-north-korean-missile-reuters-report</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/kyiv-strike-that-killed-12-involved-north-korean-missile-reuters-report</guid>
-      <pubDate>Thu, 24 Apr 2025 22:25:34 +0300</pubDate>
     </item>
   </channel>
 </rss>
