@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>'It was hell on earth': Vietnamese Australians relieve the Fall of Saigon, 50 years on (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/vietnam-war-and-the-fall-of-saigon-remembered-50-years-on/ucvol1xv2</link>
+      <author>SBS News</author>
+      <guid>00000196-6b92-df4c-adb6-6fd6fde60000</guid>
+      <pubDate>Mon, 28 Apr 2025 19:30:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Un ex-rebelle syrien jugé en France pour complicité de crimes de guerre en Syrie (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250428-un-ex-rebelle-syrien-jug%C3%A9-en-france-pour-complicit%C3%A9-de-crimes-de-guerre-en-syrie</link>
       <author>RFI</author>
       <guid>a654a60e-2462-11f0-9d2d-005056bf762b</guid>
       <pubDate>Mon, 28 Apr 2025 18:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>50 years later, Vietnam’s environment still bears the scars of war (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/04/50-years-later-vietnams-environment-still-bears-the-scars-of-war/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/04/50-years-later-vietnams-environment-still-bears-the-scars-of-war/</guid>
+      <pubDate>Mon, 28 Apr 2025 18:54:55 +0000</pubDate>
     </item>
     <item>
       <title>Trump lashes out against "fake polls" as his approval ratings sink (Axios)</title>
@@ -1419,20 +1433,6 @@
       <author>RTS</author>
       <guid>28862827</guid>
       <pubDate>Fri, 25 Apr 2025 06:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>California surpasses Japan as 4th largest economy, but Newsom warns of Trump tariffs threat (Axios)</title>
-      <link>https://www.axios.com/2025/04/25/california-japan-economy-fourth-largest-newsom-trump-tariffs</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/25/california-japan-economy-fourth-largest-newsom-trump-tariffs</guid>
-      <pubDate>Fri, 25 Apr 2025 06:05:05 +0000</pubDate>
-    </item>
-    <item>
-      <title> Ukraine may need to temporarily give up territory to Russia for peace, Klitschko says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-may-need-to-temporarily-give-up-territory-for-peace</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-may-need-to-temporarily-give-up-territory-for-peace</guid>
-      <pubDate>Fri, 25 Apr 2025 09:00:22 +0300</pubDate>
     </item>
   </channel>
 </rss>
