@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le roi du Danemark en visite au Groenland menacé d'annexion par Donald Trump (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250428-le-roi-du-danemark-en-visite-au-groenland-menac%C3%A9-d-annexion-par-donald-trump</link>
+      <author>RFI</author>
+      <guid>faaa230e-23dc-11f0-8155-005056bf762b</guid>
+      <pubDate>Mon, 28 Apr 2025 03:16:01 GMT</pubDate>
+    </item>
+    <item>
       <title>From ‘hate media’ to ‘lock him up’, Dutton’s Trump tribute act is still reliably playing the hits (Crikey)</title>
       <link>https://www.crikey.com.au/2025/04/28/peter-dutton-donald-trump-similarities-2025-election/</link>
       <author>Crikey</author>
@@ -1428,13 +1435,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/apr/24/drc-government-and-m23-make-surprise-truce-to-end-fighting-in-east-of-country</guid>
       <pubDate>Thu, 24 Apr 2025 12:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: l'agence sanitaire alerte sur les effets néfastes des pesticides pour les jeunes enfants (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250424-france-l-agence-sanitaire-alerte-sur-les-effets-n%C3%A9fastes-des-pesticides-pour-les-jeunes-enfants</link>
-      <author>RFI</author>
-      <guid>607c8ad2-20f9-11f0-8b0b-005056a97652</guid>
-      <pubDate>Thu, 24 Apr 2025 11:22:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
