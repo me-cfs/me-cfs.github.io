@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Seven’s federal election debate questions leak… again (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/04/28/channel-seven-election-debate-questions-leak-again/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1204058</guid>
+      <pubDate>Mon, 28 Apr 2025 05:36:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meurtre dans une mosquée en France: le suspect arrêté en Italie, il s'est «rendu de lui-même» (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250428-meurtre-dans-une-mosqu%C3%A9e-en-france-le-suspect-arr%C3%AAt%C3%A9-en-italie-il-s-est-rendu-de-lui-m%C3%AAme</link>
+      <author>RFI</author>
+      <guid>02e27c82-23f2-11f0-b55a-005056bf762b</guid>
+      <pubDate>Mon, 28 Apr 2025 05:35:33 GMT</pubDate>
+    </item>
+    <item>
       <title>‘Killer Robots’ Threaten Human Rights During War, Peace (Human Rights Watch)</title>
       <link>https://www.hrw.org/news/2025/04/28/killer-robots-threaten-human-rights-during-war-peace</link>
       <author>Human Rights Watch</author>
@@ -41,6 +55,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/italy-milan-generali-sovereign-debt/</guid>
       <pubDate>Mon, 28 Apr 2025 02:52:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-NIH chief says he was "not allowed to speak" under 2nd Trump administration (Axios)</title>
+      <link>https://www.axios.com/2025/04/28/trump-rfk-nih-francis-collins-60-minutes</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/28/trump-rfk-nih-francis-collins-60-minutes</guid>
+      <pubDate>Mon, 28 Apr 2025 02:44:08 +0000</pubDate>
     </item>
     <item>
       <title>From ‘hate media’ to ‘lock him up’, Dutton’s Trump tribute act is still reliably playing the hits (Crikey)</title>
@@ -1411,33 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/24/trump-putin-stop-attack-kiev</guid>
       <pubDate>Thu, 24 Apr 2025 13:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        The weekly cartoon
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/04/24/the-weekly-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>74a69727-1a47-456f-bc70-08981ddd1809</guid>
-      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Business
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/04/24/business</link>
-      <author>Economist the World this Week</author>
-      <guid>03f60c40-4b08-40e0-a20f-d6c3a73673dc</guid>
-      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Politics
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/04/24/politics</link>
-      <author>Economist the World this Week</author>
-      <guid>a2c154c4-d1b8-4d80-b6c6-893b5b843750</guid>
-      <pubDate>Thu, 24 Apr 2025 12:49:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
