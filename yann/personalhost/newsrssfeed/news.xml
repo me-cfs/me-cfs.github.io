@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Power cut leaves card users in the lurch in Spain, Portugal					 (Politico)</title>
+      <link>https://www.politico.eu/article/power-blackout-spain-portugal-card-users-pos-atms-hospitals/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/power-blackout-spain-portugal-card-users-pos-atms-hospitals/</guid>
+      <pubDate>Mon, 28 Apr 2025 16:51:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>Extra-murky economic data is dropping this week (Axios)</title>
+      <link>https://www.axios.com/2025/04/28/economy-gdp-jobs-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/28/economy-gdp-jobs-trump</guid>
+      <pubDate>Mon, 28 Apr 2025 16:35:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump administration plans to limit ‘forever chemical’ discharges (The Hill)</title>
       <link>https://thehill.com/policy/energy-environment/5271059-trump-administration-plans-limits-pfas/</link>
       <author>The Hill</author>
@@ -1423,20 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/24/trump-putin-stop-attack-kiev</guid>
       <pubDate>Fri, 25 Apr 2025 01:24:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Etats-Unis intéressés par une solution rapide avec la Suisse sur les droits de douane (RTS)</title>
-      <link>https://www.rts.ch/info/dossiers/2025/guerre-commerciale/2025/article/les-etats-unis-interesses-par-une-solution-rapide-avec-la-suisse-sur-les-droits-de-douane-28863763.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28863763</guid>
-      <pubDate>Fri, 25 Apr 2025 01:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prosecutors to seek death penalty for Luigi Mangione (Axios)</title>
-      <link>https://www.axios.com/2025/04/25/luigi-mangione-death-penalty-posecutors</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/25/luigi-mangione-death-penalty-posecutors</guid>
-      <pubDate>Fri, 25 Apr 2025 01:07:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
