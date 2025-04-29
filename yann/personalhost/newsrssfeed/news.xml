@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump’s National Climate Assessment: No funding and all authors cut loose (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/04/trump-admin-may-be-trying-to-sabotage-the-national-climate-assessment/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/04/trump-admin-may-be-trying-to-sabotage-the-national-climate-assessment/</guid>
+      <pubDate>Tue, 29 Apr 2025 15:30:29 +0000</pubDate>
+    </item>
+    <item>
       <title>France: le tour de vis carcéral du ministre de la Justice Gérald Darmanin (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250429-france-le-tour-de-vis-carc%C3%A9ral-du-ministre-de-la-justice-g%C3%A9rald-darmanin</link>
       <author>RFI</author>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/26/tariffs-baby-product-prices</guid>
       <pubDate>Sat, 26 Apr 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump joins other world leaders at Pope Francis' funeral (Axios)</title>
-      <link>https://www.axios.com/2025/04/26/trump-zelensky-pope-francis-funeral</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/26/trump-zelensky-pope-francis-funeral</guid>
-      <pubDate>Sat, 26 Apr 2025 10:51:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
