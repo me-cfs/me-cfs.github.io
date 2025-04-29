@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le ministre de l’Intérieur dans la tourmente après le meurtre d'un Malien dans une mosquée (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250429-france-retailleau-ministre-int%C3%A9rieur-tourmente-apr%C3%A8s-le-meurtre-d-un-malien-dans-une-mosqu%C3%A9e</link>
+      <author>RFI</author>
+      <guid>bea73400-24b3-11f0-8167-005056a97652</guid>
+      <pubDate>Tue, 29 Apr 2025 07:41:49 GMT</pubDate>
+    </item>
+    <item>
       <title> Europe, Kyiv worry Trump prepares to exit Ukraine peace efforts, FT reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/europe-kyiv-worry-trump-readies-to-exit-ukraine-peace-efforts-ft-reports</link>
       <author>Kyiv Indpendent</author>
@@ -162,6 +169,20 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cddelqpl2m1o#0</guid>
       <pubDate>Tue, 29 Apr 2025 01:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Faith Kipyegon's moonshot mile (Axios)</title>
+      <link>https://www.axios.com/2025/04/29/faith-kipyegon-four-minute-mile-nike</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/29/faith-kipyegon-four-minute-mile-nike</guid>
+      <pubDate>Tue, 29 Apr 2025 01:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's new taxes deadline: The 4th of July (Axios)</title>
+      <link>https://www.axios.com/2025/04/29/trump-taxes-deadline-july-4-mike-johnson</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/29/trump-taxes-deadline-july-4-mike-johnson</guid>
+      <pubDate>Tue, 29 Apr 2025 00:52:26 +0000</pubDate>
     </item>
     <item>
       <title>House Democrats wait anxiously on AOC's big Oversight decision (Axios)</title>
@@ -1414,27 +1435,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5268192</guid>
       <pubDate>Fri, 25 Apr 2025 19:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Tessinoise Francesca Torrani  journaliste suisse de l'année, un reportage de Mise au Point primé (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/francesca-torrani-elue-journaliste-suisse-2024-un-reportage-rts-prime-28864486.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28864486</guid>
-      <pubDate>Fri, 25 Apr 2025 19:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thermal imaging shows xAI lied about supercomputer pollution, group says (Arstechnica)</title>
-      <link>https://arstechnica.com/tech-policy/2025/04/elon-musks-xai-accused-of-lying-to-black-communities-about-harmful-pollution/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/tech-policy/2025/04/elon-musks-xai-accused-of-lying-to-black-communities-about-harmful-pollution/</guid>
-      <pubDate>Fri, 25 Apr 2025 19:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Montana Hospitals Preserve Medicaid Expansion, Fend Off Regulations (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/the-week-in-brief-montana-legislature-medicaid-expansion-hospitals/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=2020489&amp;post_type=article&amp;preview_id=2020489</guid>
-      <pubDate>Fri, 25 Apr 2025 18:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
