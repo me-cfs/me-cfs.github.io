@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>André Duvillard: "Ce qui s'est passé en Espagne et au Portugal devrait servir de piqûre de rappel" (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/panne-electrique-geante-la-suisse-est-elle-prete-face-a-ce-risque-28867515.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28867515</guid>
+      <pubDate>Tue, 29 Apr 2025 09:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Espagne: après la panne d'électricité massive, retour progressif mais pas complet à la normale (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250429-espagne-apr%C3%A8s-la-panne-%C3%A9lectricit%C3%A9-retour-progressif-mais-pas-complet-%C3%A0-la-normale-transports</link>
+      <author>RFI</author>
+      <guid>9148971e-24d2-11f0-bcb7-005056bf762b</guid>
+      <pubDate>Tue, 29 Apr 2025 09:12:16 GMT</pubDate>
+    </item>
+    <item>
       <title>In a Broken Mental Health System, a Tiny Jail Cell Becomes an Institution of Last Resort (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/montana-local-jails-mental-health-last-resort-state-hospital-commitment/</link>
       <author>KFF Health News</author>
@@ -1421,20 +1435,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5268170</guid>
       <pubDate>Fri, 25 Apr 2025 21:17:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des activistes du climat dénoncent les investissements de la BNS lors de l'assemblée générale (RTS)</title>
-      <link>https://www.rts.ch/info/economie/2025/article/activistes-climatiques-defient-la-bns-sur-ses-investissements-controverses-28864507.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28864507</guid>
-      <pubDate>Fri, 25 Apr 2025 21:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inspector General Probes Whether Trump, DOGE Sought Private Taxpayer Information or Sensitive IRS Material (Propublica)</title>
-      <link>https://www.propublica.org/article/trump-doge-irs-treasury-tigta-inspector-general-probe</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/trump-doge-irs-treasury-tigta-inspector-general-probe</guid>
-      <pubDate>Fri, 25 Apr 2025 17:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
