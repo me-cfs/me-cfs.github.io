@@ -73,7 +73,7 @@ module.exports = [
     exclusionWords: ['boxing', 'how', '?', 'days', ...tList.fluffyTitle, 'most poweful', ...tList.clickbait,
       ...tList.uninterestedGeneral, 'went wrong', 'why the', '...', 'trip wire', "'s chance", 'miss in', 
       'times', ...tList.economics, ...tList.nonInformativeTitle, "bad deal", "History's long", 'alarming', 
-      'zz', ...tList.business, "not happen", "shuns", "our obsession", "falling out",
+      'zz', ...tList.business, "not happen", "shuns", "our obsession", "falling out", ...tList.singlePerson,
     ],
     minCharsTitle: 28,
     blacklist: ['newsletter'],
@@ -87,7 +87,7 @@ module.exports = [
     name: 'RFI',
     url: 'https://www.rfi.fr/france/rss',
     inclusionWords: [...tList.location, ...tList.politics],
-    exclusionWords: [...tList.fluffyTitle, 'découverte',],
+    exclusionWords: [...tList.fluffyTitle, 'découverte', ...tList.singlePerson],
     urlExlusionWord: ['podcast'],
   },
   { // Europe
