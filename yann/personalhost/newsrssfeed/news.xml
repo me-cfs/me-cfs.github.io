@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Project 2025 was extreme. Trump’s first 100 days have been even more radical. (Grist)</title>
+      <link>https://grist.org/accountability/project-2025-tracker-trump-environmental-policy-legal-constitutional-crisis/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=664359</guid>
+      <pubDate>Wed, 30 Apr 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Toxic mushroom meal was 'terrible accident', says woman on trial for murder (BBC)</title>
       <link>https://www.bbc.com/news/articles/cvgqjny1296o</link>
       <author>BBC</author>
@@ -911,6 +918,13 @@
       <pubDate>Mon, 28 Apr 2025 18:43:08 +0000</pubDate>
     </item>
     <item>
+      <title>The Missteps That Led to a Fatal Plane Crash at Reagan National Airport (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html</guid>
+      <pubDate>Mon, 28 Apr 2025 18:24:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Democratic Rep. Shri Thanedar unveils seven articles of Impeachment against Trump (Axios)</title>
       <link>https://www.axios.com/2025/04/28/articles-of-impeachment-trump-shri-thanedar</link>
       <author>Axios</author>
@@ -1419,21 +1433,6 @@
       <author>ME/LC News</author>
       <guid>https://med-mastodon.com/@s4me/114411981627673107</guid>
       <pubDate>Sun, 27 Apr 2025 21:11:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Huge explosion at Iranian port kills 25, injures hundreds					 (Politico)</title>
-      <link>https://www.politico.eu/article/huge-explosion-at-iranian-port-kills-5-injures-hundreds/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/huge-explosion-at-iranian-port-kills-5-injures-hundreds/</guid>
-      <pubDate>Sun, 27 Apr 2025 19:22:19 -0000</pubDate>
-    </item>
-    <item>
-      <title>Meurtre dans une mosquée en France: la colère et l'anxiété de la communauté musulmane (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250427-meurtre-dans-une-mosqu%C3%A9e-en-france-la-col%C3%A8re-et-l-anxi%C3%A9t%C3%A9-de-la-communaut%C3%A9-musulmane</link>
-      <author>RFI</author>
-      <guid>5089f66e-239c-11f0-a71e-005056a97652</guid>
-      <pubDate>Sun, 27 Apr 2025 19:18:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
