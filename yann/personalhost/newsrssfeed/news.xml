@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trust Me-I’m a Doctor (Science Based Medicine)</title>
+      <link>https://sciencebasedmedicine.org/trust-me-im-a-doctor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trust-me-im-a-doctor</link>
+      <author>Science Based Medicine</author>
+      <guid>https://sciencebasedmedicine.org/?p=108108</guid>
+      <pubDate>Wed, 30 Apr 2025 12:15:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Allemagne: le contrat de coalition gouvernementale avec la CDU a été validé par le SPD (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250430-allemagne-le-contrat-de-coalition-gouvernementale-avec-la-cdu-a-%C3%A9t%C3%A9-valid%C3%A9-par-le-spd</link>
       <author>RFI</author>
@@ -1423,13 +1430,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1204058</guid>
       <pubDate>Mon, 28 Apr 2025 05:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meurtre dans une mosquée en France: le suspect arrêté en Italie, il s'est «rendu de lui-même» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250428-meurtre-dans-une-mosqu%C3%A9e-en-france-le-suspect-arr%C3%AAt%C3%A9-en-italie-il-s-est-rendu-de-lui-m%C3%AAme</link>
-      <author>RFI</author>
-      <guid>02e27c82-23f2-11f0-b55a-005056bf762b</guid>
-      <pubDate>Mon, 28 Apr 2025 05:35:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
