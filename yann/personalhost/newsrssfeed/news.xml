@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Suissesse enlevée au Niger serait aux mains du groupe Etat islamique au Mali (RTS)</title>
+      <link>https://www.rts.ch/info/monde/2025/article/suissesse-enlevee-au-niger-daesh-la-detiendrait-au-mali-selon-un-journal-28868407.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28868407</guid>
+      <pubDate>Wed, 30 Apr 2025 07:43:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Retour de Donald Trump à la Maison Blanche: cent jours qui ont aussi changé l’Europe (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250430-ue-retour-de-donald-trump-%C3%A0-la-maison-blanche-cent-jours-qui-ont-aussi-chang%C3%A9-l-europe</link>
       <author>RFI</author>
@@ -1427,13 +1434,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html</guid>
       <pubDate>Sun, 27 Apr 2025 18:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arsenal reach first Women's Champions League final since 2007 after win over Lyon (The Athletic Football)</title>
-      <link>https://www.nytimes.com/athletic/6315336/2025/04/27/arsenal-lyon-womens-champions-league-final/</link>
-      <author>The Athletic Football</author>
-      <guid>https://www.nytimes.com/athletic/6315336/2025/04/27/arsenal-lyon-womens-champions-league-final/</guid>
-      <pubDate>Sun, 27 Apr 2025 17:58:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
