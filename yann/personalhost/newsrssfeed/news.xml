@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>U.S. and Ukraine to sign minerals deal today: Ukrainian official (Axios)</title>
+      <link>https://www.axios.com/2025/04/30/ukraine-minerals-deal-signing</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/04/30/ukraine-minerals-deal-signing</guid>
+      <pubDate>Wed, 30 Apr 2025 20:31:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Risque de black-out: cantons et Confédération s’y préparent  (RTS)</title>
       <link>https://www.rts.ch/info/regions/2025/article/panne-electrique-en-suisse-comment-les-autorites-s-y-preparent-28869325.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1426,13 +1433,6 @@
       <author>RFI</author>
       <guid>ac590104-2420-11f0-988b-005056bf762b</guid>
       <pubDate>Mon, 28 Apr 2025 12:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>L'Espagne, le Portugal, et le sud de la France touchés par une vaste panne d'électricité (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250428-l-espagne-et-le-portugal-touch%C3%A9s-par-une-vaste-panne-d-%C3%A9lectricit%C3%A9</link>
-      <author>RFI</author>
-      <guid>0a7c2d62-2429-11f0-aa6e-005056a97652</guid>
-      <pubDate>Mon, 28 Apr 2025 12:13:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
