@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Coup de filet en Espagne contre le gang salvadorien MS-13 (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250430-coup-de-filet-en-espagne-contre-le-gang-salvadorien-ms-13-mara-salvatrucha</link>
+      <author>RFI</author>
+      <guid>bf0e5af6-25dd-11f0-8f15-005056a97652</guid>
+      <pubDate>Wed, 30 Apr 2025 16:11:16 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Ukraine and US plan to sign new minerals deal					 (Politico)</title>
       <link>https://www.politico.eu/article/ukraine-us-agree-new-minerals-deal/</link>
@@ -1426,13 +1433,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/04/28/us/politics/supreme-court-lawyer-standing-ovation.html</guid>
       <pubDate>Mon, 28 Apr 2025 09:01:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>When is the Australian election and who could be prime minister? (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c626e935llwo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/c626e935llwo#0</guid>
-      <pubDate>Mon, 28 Apr 2025 09:01:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
