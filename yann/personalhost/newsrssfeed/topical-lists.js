@@ -12,15 +12,17 @@ const rightWing = ['conservative backlash', 'Orbán ally', "Murdoch", 'MAGA',
 ];
 // +AP News, +Intercept, +Kiev Independent, +West England Bylines 
 const singleCrime = ['assault', 'rape', 'guilty', 'charged with', 'alcohol poisoning', 'apologise', 'smuggler', 'sentenced with',
-  'suspect', "raping", 
+  'suspect', "raping","on trial", 
 ];
 // -BBC Australia, -BBC Fiji, -Huffington
 
 // 1 Lists
 const humanRights = ['death row', 'censorship', ...prison, 'colonisation'];
 // +AP, +Amnesty, +Orient XXI, *HRW, +Jacobin, +404 Media
-const singlePerson = [...singleCrime, "eulogy", "bride", "dead at", "décédé", 'writer', ];
-// -Axios, -BBCAu, -Guardian (Aft), -NYT, -RTS
+const singlePerson = [...singleCrime, "eulogy", "bride", "dead at", "décédé", 'writer', "feared dead", "obituary",
+  "life in photos", "dies at", " my ", "remembering", "lauréate", "retiring",
+];
+// -Axios, -BBCAu, -Guardian (Aft), -NYT, -Politico, -RFI (Fr),-RTS
 const usPolitics = [...democraticParty, 'GOP', 'Trump', 'senate', 'Eric Adams'];
 // +Grist, +The Hill Healthcare, +Human Rights Watch, +KFF Health News, +Politics
 
