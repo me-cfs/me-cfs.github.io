@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L’accès limité des élus aux accords Suisse–UE fait débat au Palais fédéral (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/accords-suisse-ue-debat-sur-l-acces-limite-des-elus-au-palais-federal-28870511.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28870511</guid>
+      <pubDate>Thu, 01 May 2025 21:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>"This is a self-own": House Democrat's rogue Trump impeachment push sets off internal furor (Axios)</title>
       <link>https://www.axios.com/2025/05/01/house-democrats-impeachment-thanedar-trump</link>
       <author>Axios</author>
@@ -478,6 +485,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/commentisfree/2025/may/01/consistently-appeasing-platforming-right-bbc-undermines-own-survival</guid>
       <pubDate>Thu, 01 May 2025 05:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>U.S. and Ukraine Sign Minerals Deal (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/30/world/europe/ukraine-minerals-deal-trump.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/30/world/europe/ukraine-minerals-deal-trump.html</guid>
+      <pubDate>Thu, 01 May 2025 04:38:26 +0000</pubDate>
     </item>
     <item>
       <title>Harris calls Trump's tariffs "reckless" and his agenda  "self-serving" (Axios)</title>
@@ -1418,20 +1432,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/trump-promised-peace-in-100-days-but-russias-violence-against-ukraine-has-only-escalated</guid>
       <pubDate>Tue, 29 Apr 2025 19:29:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Two Long COVID-focused performances show the power of art for reflection and solidarity (ME/LC News)</title>
-      <link>https://thesicktimes.org/2025/04/29/two-long-covid-focused-performances-show-the-power-of-art-for-reflection-and-solidarity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=two-long-covid-focused-performances-show-the-power-of-art-for-reflection-and-solidarity</link>
-      <author>ME/LC News</author>
-      <guid>https://thesicktimes.org/?p=6377</guid>
-      <pubDate>Tue, 29 Apr 2025 16:24:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration finalizes tariff for U.S. automakers (Axios)</title>
-      <link>https://www.axios.com/2025/04/29/trump-auto-tariffs-lutnick-deal-commerce</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/29/trump-auto-tariffs-lutnick-deal-commerce</guid>
-      <pubDate>Tue, 29 Apr 2025 16:18:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
