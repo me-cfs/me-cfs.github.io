@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: Trump releasing 2026 budget tomorrow (Axios)</title>
+      <link>https://www.axios.com/2025/05/01/trump-2026-budget-release-russ-vought</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/01/trump-2026-budget-release-russ-vought</guid>
+      <pubDate>Thu, 01 May 2025 18:33:20 +0000</pubDate>
+    </item>
+    <item>
       <title>In a Compelling Documentary, Five Doctors Discuss Being Sick (ME/LC News)</title>
       <link>https://virology.ws/2025/05/01/trial-by-error-in-a-compelling-documentary-five-doctors-talk-about-being-sick/</link>
       <author>ME/LC News</author>
@@ -205,6 +212,13 @@
       <author>Economist the World this Week</author>
       <guid>1ec5e82a-5064-49f4-bee1-1d72c4455a05</guid>
       <pubDate>Thu, 01 May 2025 12:59:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Britain’s social contract is fraying (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/05/01/britains-social-contract-is-fraying</link>
+      <author>Economist</author>
+      <guid>7facdc83-9ba0-46fd-848c-dbf4a22ee958</guid>
+      <pubDate>Thu, 01 May 2025 12:59:11 GMT</pubDate>
     </item>
     <item>
       <title>A superpower crunch over Taiwan is coming (Economist)</title>
@@ -1419,20 +1433,6 @@
       <author>RFI</author>
       <guid>952a0f96-24e3-11f0-8bce-005056bf762b</guid>
       <pubDate>Tue, 29 Apr 2025 12:57:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>India must prove Pakistan’s guilt in the attack in Kashmir (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/04/29/india-must-prove-pakistans-guilt-in-the-attack-in-kashmir</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/04/29/india-must-prove-pakistans-guilt-in-the-attack-in-kashmir</guid>
-      <pubDate>Tue, 29 Apr 2025 12:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>India must prove Pakistan’s complicity in the attack in Kashmir (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/04/29/india-must-prove-pakistans-complicity-in-the-attack-in-kashmir</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/leaders/2025/04/29/india-must-prove-pakistans-complicity-in-the-attack-in-kashmir</guid>
-      <pubDate>Tue, 29 Apr 2025 12:34:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
