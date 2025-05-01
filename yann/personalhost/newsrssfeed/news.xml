@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Texas Senate Approves Legislation to Clarify Exceptions to Abortion Ban. But Experts Fear Confusion Would Persist. (Propublica)</title>
+      <link>https://www.propublica.org/article/texas-senate-abortion-ban-legislation-medical-exceptions</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/texas-senate-abortion-ban-legislation-medical-exceptions</guid>
+      <pubDate>Thu, 01 May 2025 11:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title> Trump fires national security adviser Mike Waltz  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/trump-fires-national-security-adviser-mike-waltz</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/trump-fires-national-security-adviser-mike-waltz</guid>
+      <pubDate>Thu, 01 May 2025 18:53:56 +0300</pubDate>
+    </item>
+    <item>
       <title>King Charles Shares Moving Message Of Solidarity With Cancer Patients (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/king-charles-cancer_n_68123a18e4b03207b5ba1eca</link>
       <author>Huffington Post</author>
@@ -422,6 +436,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/30/senate-tariff-vote-gop</guid>
       <pubDate>Wed, 30 Apr 2025 23:01:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mohsen Mahdawi, Columbia Student Detained by Trump Administration, Is Freed (New York Times)</title>
+      <link>https://www.nytimes.com/2025/04/30/nyregion/columbia-student-mohsen-mahdawi-freed.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/04/30/nyregion/columbia-student-mohsen-mahdawi-freed.html</guid>
+      <pubDate>Wed, 30 Apr 2025 22:26:40 +0000</pubDate>
     </item>
     <item>
       <title>En France, la maternité reste un combat difficile pour les femmes avocates (RFI)</title>
@@ -1413,27 +1434,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/29/trump-100-days-polls-economy-immigration</guid>
       <pubDate>Tue, 29 Apr 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: le ministre de l’Intérieur dans la tourmente après le meurtre d'un Malien dans une mosquée (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250429-france-retailleau-ministre-int%C3%A9rieur-tourmente-apr%C3%A8s-le-meurtre-d-un-malien-dans-une-mosqu%C3%A9e</link>
-      <author>RFI</author>
-      <guid>bea73400-24b3-11f0-8167-005056a97652</guid>
-      <pubDate>Tue, 29 Apr 2025 07:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title> Europe, Kyiv worry Trump prepares to exit Ukraine peace efforts, FT reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/europe-kyiv-worry-trump-readies-to-exit-ukraine-peace-efforts-ft-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/europe-kyiv-worry-trump-readies-to-exit-ukraine-peace-efforts-ft-reports</guid>
-      <pubDate>Tue, 29 Apr 2025 10:38:03 +0300</pubDate>
-    </item>
-    <item>
-      <title>Some charges dropped as Erin Patterson goes on trial for alleged mushroom murder (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/some-charges-dropped-as-erin-patterson-goes-on-trial-for-alleged-mushroom-murder/rumpfsm21</link>
-      <author>SBS News</author>
-      <guid>00000196-8045-df4c-adb6-87d72e820002</guid>
-      <pubDate>Tue, 29 Apr 2025 07:23:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
