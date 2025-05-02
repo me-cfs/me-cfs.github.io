@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Serbie: étudiants et syndicats défilent dans les rues six mois après l'accident de la gare de Novi Sad (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250502-serbie-%C3%A9tudiants-syndicats-d%C3%A9filent-dans-les-rues-six-mois-apr%C3%A8s-l-accident-de-la-gare-de-novi-sad</link>
+      <author>RFI</author>
+      <guid>03f0cf46-2714-11f0-baa3-005056bf762b</guid>
+      <pubDate>Fri, 02 May 2025 06:53:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Andrew Ewing &amp; David Joffe on Just-Published “Global Expert Consensus” on Long Covid (ME/LC News)</title>
       <link>https://virology.ws/2025/05/02/trial-by-error-andrew-ewing-david-joffe-on-just-published-global-expert-consensus-on-long-covid/</link>
       <author>ME/LC News</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/04/30/democrats-connolly-aoc-crockett-lynch-oversight</guid>
       <pubDate>Wed, 30 Apr 2025 00:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's late push for huge new corporate tax cuts (Axios)</title>
-      <link>https://www.axios.com/2025/04/30/trump-corporate-tax-cuts-expensing-factories</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/30/trump-corporate-tax-cuts-expensing-factories</guid>
-      <pubDate>Wed, 30 Apr 2025 00:09:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
