@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						The AfD is a right-wing extremist group, German intelligence agency says					 (Politico)</title>
+      <link>https://www.politico.eu/article/afd-officially-right-wing-extremist-group-germanys-intel-agency-says/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/afd-officially-right-wing-extremist-group-germanys-intel-agency-says/</guid>
+      <pubDate>Fri, 02 May 2025 09:29:49 -0000</pubDate>
+    </item>
+    <item>
       <title>Democrats launch pressure campaign to sink Trump's budget bill (Axios)</title>
       <link>https://www.axios.com/2025/05/02/trump-democrats-republicans-congress-budget-bill</link>
       <author>Axios</author>
@@ -31,6 +39,13 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/education-department-civil-rights-donald-trump-discrimination</guid>
       <pubDate>Fri, 02 May 2025 05:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Allemagne: le parti AfD confirmé «extrémiste de droite» (RFI)</title>
+      <link>https://www.rfi.fr/fr/en-bref/20250502-allemagne-le-parti-afd-confirm%C3%A9-extr%C3%A9miste-de-droite-renseignement-int%C3%A9rieur</link>
+      <author>RFI</author>
+      <guid>66e4e7cc-2732-11f0-b1ef-005056a97652</guid>
+      <pubDate>Fri, 02 May 2025 08:49:47 GMT</pubDate>
     </item>
     <item>
       <title>Trump radically remade the US food system in just 100 days (Grist)</title>
@@ -1367,6 +1382,14 @@
       <pubDate>Wed, 30 Apr 2025 08:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>
+						French interior minister under fire for slow response to deadly mosque stabbing					 (Politico)</title>
+      <link>https://www.politico.eu/article/french-interior-minister-slow-response-deadly-mosque-stabbing/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/french-interior-minister-slow-response-deadly-mosque-stabbing/</guid>
+      <pubDate>Wed, 30 Apr 2025 08:38:15 -0000</pubDate>
+    </item>
+    <item>
       <title>Toxic mushroom meal was 'terrible accident', says woman on trial for murder (BBC)</title>
       <link>https://www.bbc.com/news/articles/cvgqjny1296o</link>
       <author>BBC</author>
@@ -1407,29 +1430,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/apr/30/a-godsend-the-white-afrikaners-lining-up-to-accept-trumps-offer-of-asylum</guid>
       <pubDate>Wed, 30 Apr 2025 04:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Merz can’t count on Macron to save the EU’s Latin American trade deal					 (Politico)</title>
-      <link>https://www.politico.eu/article/not-so-fast-friedrich-merz-emmanuel-macron-cant-just-back-mercosur-trade-deal/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/not-so-fast-friedrich-merz-emmanuel-macron-cant-just-back-mercosur-trade-deal/</guid>
-      <pubDate>Wed, 30 Apr 2025 03:48:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The mechanics behind Spain’s mega-blackout					 (Politico)</title>
-      <link>https://www.politico.eu/article/mechanics-spain-mega-blackout-politics-cyberattack/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/mechanics-spain-mega-blackout-politics-cyberattack/</guid>
-      <pubDate>Wed, 30 Apr 2025 03:18:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump tells ABC: "I could" return Ábrego García "if he were the gentleman you say he is" (Axios)</title>
-      <link>https://www.axios.com/2025/04/30/trump-abc-interview-abrego-garca-detained-el-salvador</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/04/30/trump-abc-interview-abrego-garca-detained-el-salvador</guid>
-      <pubDate>Wed, 30 Apr 2025 03:04:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
