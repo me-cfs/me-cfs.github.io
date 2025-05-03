@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australian PM wins second term with increased majority (BBC)</title>
+      <link>https://www.bbc.com/news/articles/c9djze015xlo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/c9djze015xlo#0</guid>
+      <pubDate>Sat, 03 May 2025 13:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Veteran ABC election analyst Antony Green hosts final broadcast (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cly8755xzkeo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cly8755xzkeo#0</guid>
+      <pubDate>Sat, 03 May 2025 12:58:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Australia's Prime Minister Anthony Albanese Wins A Second Three-Year Term (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/australias-prime-minister-anthony-albanese-wins-second-three-year-term_n_6816061de4b011b2af8f9968</link>
       <author>Huffington Post</author>
@@ -260,6 +274,13 @@
       <link>https://www.bbc.com/news/videos/cn5xdg3denvo</link>
       <author>BBC</author>
       <guid>https://www.bbc.com/news/videos/cn5xdg3denvo#0</guid>
+      <pubDate>Fri, 02 May 2025 21:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>What you need to know about the Australia election (BBC)</title>
+      <link>https://www.bbc.com/news/videos/cn5xdg3denvo</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/videos/cn5xdg3denvo#2</guid>
       <pubDate>Fri, 02 May 2025 21:12:39 GMT</pubDate>
     </item>
     <item>
@@ -1403,29 +1424,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/financing-scandal-rocks-greece-ruling-party-new-democracy/</guid>
       <pubDate>Thu, 01 May 2025 03:46:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s politicians turn to Newsmax to catch Trump’s eye					 (Politico)</title>
-      <link>https://www.politico.eu/article/european-politicians-newsmax-donald-trump-maga-media-rachel-reeves-john-healey-uk/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/european-politicians-newsmax-donald-trump-maga-media-rachel-reeves-john-healey-uk/</guid>
-      <pubDate>Thu, 01 May 2025 03:31:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>NASA’s Psyche spacecraft hits a speed bump on the way to a metal asteroid (Arstechnica)</title>
-      <link>https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/space/2025/04/engineers-probe-pressure-drop-in-psyche-spacecrafts-propulsion-system/</guid>
-      <pubDate>Thu, 01 May 2025 03:18:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump’s tariffs could sink gas deal with Europe, top energy boss warns					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-tariffs-foreign-gas-sales-american-lng-trade-war-energy-fuel/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-tariffs-foreign-gas-sales-american-lng-trade-war-energy-fuel/</guid>
-      <pubDate>Thu, 01 May 2025 03:16:17 -0000</pubDate>
     </item>
   </channel>
 </rss>
