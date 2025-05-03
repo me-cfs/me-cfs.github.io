@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Battle for next pope is about whether Rome is still the Church’s power base					 (Politico)</title>
+      <link>https://www.politico.eu/article/battle-next-pope-rome-church-power-base/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/battle-next-pope-rome-church-power-base/</guid>
+      <pubDate>Sat, 03 May 2025 11:46:40 -0000</pubDate>
+    </item>
+    <item>
       <title>Scoop: Trump to hold summit with Gulf leaders during Saudi Arabia trip (Axios)</title>
       <link>https://www.axios.com/2025/05/03/trump-gulf-leaders-summit-saudi-arabia</link>
       <author>Axios</author>
@@ -1421,13 +1429,6 @@
       <author>RFI</author>
       <guid>b0faf8ba-262e-11f0-9711-005056bf762b</guid>
       <pubDate>Thu, 01 May 2025 02:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman's eyeball ID startup lands in U.S. (Axios)</title>
-      <link>https://www.axios.com/2025/05/01/sam-altman-world-biometric-us-rollout</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/01/sam-altman-world-biometric-us-rollout</guid>
-      <pubDate>Thu, 01 May 2025 02:10:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
