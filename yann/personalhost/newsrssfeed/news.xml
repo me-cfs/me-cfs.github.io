@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Portugal: le gouvernement sortant annonce l'expulsion de milliers d'immigrés illégaux (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250504-portugal-le-gouvernement-sortant-annonce-l-expulsion-de-milliers-d-immigr%C3%A9s-ill%C3%A9gaux</link>
+      <author>RFI</author>
+      <guid>2741ce24-292a-11f0-810f-005056bf762b</guid>
+      <pubDate>Sun, 04 May 2025 20:56:02 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Meet George Simion, the hard-right Romanian election winner … who’s banned from Ukraine					 (Politico)</title>
       <link>https://www.politico.eu/article/george-simion-hard-right-winner-romanias-presidential-election-first-round/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/george-simion-hard-right-winner-romanias-presidential-election-first-round/</guid>
       <pubDate>Sun, 04 May 2025 20:31:50 -0000</pubDate>
+    </item>
+    <item>
+      <title>UN and aid groups denounce Israeli-U.S. plan for Gaza aid delivery (Axios)</title>
+      <link>https://www.axios.com/2025/05/04/un-rejects-israel-gaza-aid-plan</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/04/un-rejects-israel-gaza-aid-plan</guid>
+      <pubDate>Sun, 04 May 2025 20:04:12 +0000</pubDate>
     </item>
     <item>
       <title>French Crypto Mogul's Father Kidnapped, Had Finger 'Cut Off' In Ransom Attempt (Huffington Post)</title>
@@ -1411,20 +1425,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/01/elon-musk-tesla-ceo-succession</guid>
       <pubDate>Thu, 01 May 2025 20:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's next national security adviser will be his sixth (Axios)</title>
-      <link>https://www.axios.com/2025/05/01/trump-five-national-security-advisers-waltz</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/01/trump-five-national-security-advisers-waltz</guid>
-      <pubDate>Thu, 01 May 2025 19:57:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump nominates ousted adviser Waltz as UN ambassador (Axios)</title>
-      <link>https://www.axios.com/2025/05/01/trump-waltz-resignation-un-ambassador</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/01/trump-waltz-resignation-un-ambassador</guid>
-      <pubDate>Thu, 01 May 2025 19:47:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
