@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: une semaine très européenne pour Emmanuel Macron (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250505-france-une-semaine-tr%C3%A8s-europ%C3%A9enne-pour-emmanuel-macron-von-der-leyen-merz-tusk</link>
+      <author>RFI</author>
+      <guid>9a7a4dae-296a-11f0-bad7-005056a97652</guid>
+      <pubDate>Mon, 05 May 2025 05:14:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Mass arrests and beatings: how Ethiopia went from celebrating journalists to jailing them (Guardian)</title>
       <link>https://www.theguardian.com/global-development/ng-interactive/2025/may/05/mass-arrests-and-beatings-how-ethiopia-went-from-celebrating-journalists-to-jailing-them</link>
       <author>Guardian</author>
@@ -1423,13 +1430,6 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1204914</guid>
       <pubDate>Fri, 02 May 2025 01:12:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Pro-Paxton group courts Trump with anti-Cornyn ad (Axios)</title>
-      <link>https://www.axios.com/2025/05/02/trump-ad-paxton-cornyn-texas-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/02/trump-ad-paxton-cornyn-texas-senate</guid>
-      <pubDate>Fri, 02 May 2025 00:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
