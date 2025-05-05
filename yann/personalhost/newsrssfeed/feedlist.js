@@ -208,7 +208,7 @@ module.exports = [
     off: false,
     exclusionWords: [...tList.uninterestedGeneral, ...tList.singlePerson, ...tList.fluffyTitle,
       'Australia Debut', ...tList.nonArticle, ...tList.uninterestedSports, ...tList.clickbait,
-      "Inglis", "England", "Blues",
+      "Inglis", "England", "Blues", ...tList.royalFamily, 
     ],
   },
   {
@@ -326,7 +326,8 @@ module.exports = [
     url: 'https://politepol.com/fd/JvzTMgPr0nym.xml',
     off: false,
     exclusionWords: ['hilarious', 'spirit of', 'most beautiful', ...tList.uninterestedGeneral, ...tList.nonInformativeTitle, ...tList.triggers,
-      ...tList.uninterestedPeople, ...tList.business, "Somalia", "Vatican", "Pope", "Russian Officials", ...tList.singleCrime,
+      ...tList.uninterestedPeople, ...tList.business, "Somalia", "Vatican", "Pope", "Russian Officials", ...tList.singleCrime, ...tList.royalFamily,
+      
     ],
   },
   {
