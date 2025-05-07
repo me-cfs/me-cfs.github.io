@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump pulls surgeon general nominee (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5288601-trump-nominee-casey-means-surgeon-general/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5288601</guid>
+      <pubDate>Wed, 07 May 2025 21:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s NIH Axed Research Grants Even After a Judge Blocked the Cuts, Internal Records Show (Propublica)</title>
+      <link>https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants</guid>
+      <pubDate>Wed, 07 May 2025 17:10:00 -0400</pubDate>
+    </item>
+    <item>
       <title>PSG 2 Arsenal 1 (agg: 3-1): Decisive Donnarumma, worthy finalists, Arteta's set-piece problem (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6336860/2025/05/07/psg-2-arsenal-1-champions-league-donnarumma-arteta/</link>
       <author>The Athletic Football</author>
@@ -17,6 +31,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/eu-eyes-new-sanctions-over-russian-hybrid-threats-chemical-weapons-use-in-ukraine</guid>
       <pubDate>Wed, 07 May 2025 23:50:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Under Texas’ Abortion Ban, Where a Pregnant Woman Lives Can Determine Her Risk of Developing Sepsis (Propublica)</title>
+      <link>https://www.propublica.org/article/texas-abortion-ban-sepsis-rates-dallas-houston</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/texas-abortion-ban-sepsis-rates-dallas-houston</guid>
+      <pubDate>Wed, 07 May 2025 16:20:00 -0400</pubDate>
     </item>
     <item>
       <title>First Day Of Papal Conclave Concludes (Huffington Post)</title>
@@ -1401,28 +1422,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/04/un-rejects-israel-gaza-aid-plan</guid>
       <pubDate>Sun, 04 May 2025 20:04:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>French Crypto Mogul's Father Kidnapped, Had Finger 'Cut Off' In Ransom Attempt (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/cryptocurrency-kidnapping-finger-cut-off_n_6817b816e4b08041c58c69a9</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/cryptocurrency-kidnapping-finger-cut-off_n_6817b816e4b08041c58c69a9</guid>
-      <pubDate>Sun, 04 May 2025 19:46:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Romanian election exit polls: Hard-right Trump fan George Simion wins first round					 (Politico)</title>
-      <link>https://www.politico.eu/article/romanian-election-exit-polls-george-simoon-hard-right/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/romanian-election-exit-polls-george-simoon-hard-right/</guid>
-      <pubDate>Sun, 04 May 2025 19:46:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Petros Mavromichalis: les accords entre la Suisse et l'UE "sont dans l'intérêt des deux parties" (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/accords-suisse-ue-l-ambassadeur-europeen-confiant-malgre-les-critiques-28872989.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28872989</guid>
-      <pubDate>Sun, 04 May 2025 19:39:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
