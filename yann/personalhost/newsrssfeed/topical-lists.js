@@ -142,6 +142,8 @@ const medicine = ['microbiology', 'disability', 'medicaid', 'coroner', 'cancer',
 // +AP News, +Arstechnica, +Byline Times, +The Conversation, +The Disabled Writer, +The Equal Times, +KFF Health, +Propublica
 const people = ['Bernie', 'Sanders', 'Taylor Lorenz', 'George Monbiot'];
 // +Semafor
+const popMed = ["diet", "workout"]
+// -Axios, Guardian Afr
 const royalFamily = ["William", "Kate", "Prince", "Meghan Markle", "King", "Charles"]
 // - BBC Aus, Huffington
 const scienceResearch = ['science', 'astrobio', ...prehistory];
@@ -219,5 +221,7 @@ module.exports = {
   war,
   economics,
   singlePerson, 
+  royalFamily,
+  popMed, 
 };
 
