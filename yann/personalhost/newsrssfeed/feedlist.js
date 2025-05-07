@@ -11,7 +11,8 @@ module.exports = [
     name: 'Guardian',
     url: 'https://www.theguardian.com/world/africa/rss',
     exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,
-      ...tList.nonInformativeTitle, ...tList.uninterestedGeneral, "The Long Wave",],
+      ...tList.nonInformativeTitle, ...tList.uninterestedGeneral, "The Long Wave", ...tList.popMed,
+    ],
     off: false,
   },
  {
@@ -118,7 +119,7 @@ module.exports = [
     url: 'https://api.axios.com/feed/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosedge&stream=politics',
     off: false,
     exclusionWords: [
-      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance', 'which',
+      'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance', 'which', ...tList.popMed,
       'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", "Ukraine Ceasefire",
       'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle, "Where",
