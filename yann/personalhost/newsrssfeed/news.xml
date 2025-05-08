@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Papal conclave ends on second day, in line with two centuries of tradition (Axios)</title>
+      <link>https://www.axios.com/2025/05/07/conclaves-length-new-pope-history-vatican</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/07/conclaves-length-new-pope-history-vatican</guid>
+      <pubDate>Thu, 08 May 2025 16:52:14 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump yanks Ed Martin's U.S. Attorney pick after backlash to Jan. 6 comments (Axios)</title>
       <link>https://www.axios.com/2025/05/08/trump-ed-martin-nomination-rescinded-us-attorney</link>
       <author>Axios</author>
@@ -188,6 +195,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/april-becomes-deadliest-month-for-ukrainian-civilians-since-last-fall-un-reports</guid>
       <pubDate>Thu, 08 May 2025 15:19:21 +0300</pubDate>
+    </item>
+    <item>
+      <title>Retraites : y a-t-il un problème français ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250508-retraites-y-a-t-il-un-probl%C3%A8me-fran%C3%A7ais</link>
+      <author>RFI</author>
+      <guid>74f7cf86-2c06-11f0-81a1-005056bf762b</guid>
+      <pubDate>Thu, 08 May 2025 12:17:48 GMT</pubDate>
     </item>
     <item>
       <title>China, Russia make strategic show of friendship on Xi's visit to Moscow (Semafor)</title>
@@ -1427,20 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/06/trump-ed-martin-dc-prosecutor-tillis-opposition</guid>
       <pubDate>Tue, 06 May 2025 16:18:28 +0000</pubDate>
-    </item>
-    <item>
-      <title> Russian missile strike on Sumy suburb kills 3, injures 11  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russian-missile-strike-on-sumy-suburb-kills-child-injures-at-least-6</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russian-missile-strike-on-sumy-suburb-kills-child-injures-at-least-6</guid>
-      <pubDate>Tue, 06 May 2025 19:05:53 +0300</pubDate>
-    </item>
-    <item>
-      <title> Russian missile strike on Sumy suburb kills 3, injures 11  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russian-missile-strike-on-sumy-suburb-kills-child-injures-at-least-6/</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russian-missile-strike-on-sumy-suburb-kills-child-injures-at-least-6/</guid>
-      <pubDate>Tue, 06 May 2025 19:05:53 +0300</pubDate>
     </item>
   </channel>
 </rss>
