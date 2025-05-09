@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'Ukraine et ses alliés européens approuvent la création d'un tribunal pour juger les crimes de guerre russes (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250509-l-ukraine-et-ses-alli%C3%A9s-europ%C3%A9ens-approuvent-la-cr%C3%A9ation-d-un-tribunal-pour-juger-les-crimes-de-guerre-russes</link>
+      <author>RFI</author>
+      <guid>a26e56ea-2cf3-11f0-9690-005056a97652</guid>
+      <pubDate>Fri, 09 May 2025 16:35:35 GMT</pubDate>
+    </item>
+    <item>
       <title> EU to provide Ukraine with over 1 million shells over 2025, allocate over $2 billion for military aid from Russian frozen assets  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/eu-pledges-to-provide-ukraine-with-over-1-million-rounds-of-shells-plans-to-allocate-over-2-billion-for-military-aid-from-russian-frozen-assets/</link>
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/eu-pledges-to-provide-ukraine-with-over-1-million-rounds-of-shells-plans-to-allocate-over-2-billion-for-military-aid-from-russian-frozen-assets/</guid>
       <pubDate>Fri, 09 May 2025 18:53:45 +0300</pubDate>
+    </item>
+    <item>
+      <title>Tariffs, mounting debt threaten dollar's role as global reserve currency (Axios)</title>
+      <link>https://www.axios.com/2025/05/09/trump-tariffs-us-dollar</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/09/trump-tariffs-us-dollar</guid>
+      <pubDate>Fri, 09 May 2025 15:50:00 +0000</pubDate>
     </item>
     <item>
       <title> 'I don't think Putin will agree to a peace agreement ever' — Volker on peace talks between Ukraine, Russia  (Kyiv Indpendent)</title>
@@ -1431,21 +1445,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1130834</guid>
       <pubDate>Wed, 07 May 2025 16:31:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						UK is ‘compliant servant of communist China,’ Trump’s trade adviser says					 (Politico)</title>
-      <link>https://www.politico.eu/article/uk-compliant-servant-communist-china-donald-trump-trade-adviser-peter-navarro/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/uk-compliant-servant-communist-china-donald-trump-trade-adviser-peter-navarro/</guid>
-      <pubDate>Wed, 07 May 2025 16:17:27 -0000</pubDate>
-    </item>
-    <item>
-      <title> 14 killed, 54 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/14-killed-54-injured-in-russian-attacks-on-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/14-killed-54-injured-in-russian-attacks-on-ukraine-over-past-day</guid>
-      <pubDate>Wed, 07 May 2025 19:13:01 +0300</pubDate>
     </item>
   </channel>
 </rss>
