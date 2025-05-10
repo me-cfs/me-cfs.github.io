@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Philipp Matthias Bregy en route vers la présidence du Centre (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/philipp-matthias-bregy-candidat-unique-a-la-presidence-du-centre-28879677.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28879677</guid>
+      <pubDate>Sat, 10 May 2025 11:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title> Zelensky, European leaders hold 'productive' call with Trump about peace talks  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/zelensky-european-leaders-hold-productive-call-with-trump/</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/zelensky-european-leaders-hold-productive-call-with-trump/</guid>
+      <pubDate>Sat, 10 May 2025 14:12:44 +0300</pubDate>
+    </item>
+    <item>
       <title>Some photos from the rallies against gendered and sexual violence held across Australia (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/some-photos-from-the-rallies-against-gendered-and-sexual-violence-held-across-australia/rxhvn3han</link>
       <author>SBS News</author>
@@ -1427,20 +1441,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/ckgxg6x2vv4o#0</guid>
       <pubDate>Wed, 07 May 2025 22:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump admin tries to avoid divulging Abrego Garcia case info through "state secret" privilege (Axios)</title>
-      <link>https://www.axios.com/2025/05/07/abrego-garcia-trump-state-secrets</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/07/abrego-garcia-trump-state-secrets</guid>
-      <pubDate>Wed, 07 May 2025 22:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seconde Guerre mondiale: pourquoi le 8-Mai n'est pas célébré partout en Europe (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250507-seconde-guerre-mondiale-pourquoi-le-8-mai-n-est-pas-c%C3%A9l%C3%A9br%C3%A9-partout-en-europe</link>
-      <author>RFI</author>
-      <guid>d0a8610e-2b8b-11f0-94af-005056a97652</guid>
-      <pubDate>Wed, 07 May 2025 21:40:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
