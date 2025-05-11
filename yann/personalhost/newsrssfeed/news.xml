@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>10% tariffs are here to stay, Lutnick says, insisting consumers don't pay (Axios)</title>
+      <link>https://www.axios.com/2025/05/11/trump-trade-war-lutnick-tariffs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/11/trump-trade-war-lutnick-tariffs</guid>
+      <pubDate>Sun, 11 May 2025 13:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>France: l'État sommé de prendre en charge les frais de transport de tous les demandeurs d'asile (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250511-france-l-%C3%A9tat-somm%C3%A9-de-prendre-en-charge-les-frais-de-transport-de-tous-les-demandeurs-d-asile</link>
+      <author>RFI</author>
+      <guid>65fc11d0-2e64-11f0-9453-005056a97652</guid>
+      <pubDate>Sun, 11 May 2025 13:24:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Dans sa première allocution, le pape Léon XIV appelle les «grands de ce monde» à arrêter les guerres (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250511-dans-sa-premi%C3%A8re-allocution-le-pape-l%C3%A9on-xiv-appelle-les-grands-de-ce-monde-%C3%A0-arr%C3%AAter-les-guerres</link>
       <author>RFI</author>
@@ -1420,20 +1434,6 @@
       <author>RFI</author>
       <guid>9955531a-2a8c-11f0-bcc3-005056bf762b</guid>
       <pubDate>Thu, 08 May 2025 09:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gleaming labs turned to rubble: scientists mourn the loss of decades of medical progress in Sudan (Guardian)</title>
-      <link>https://www.theguardian.com/global-development/2025/may/08/gleaming-labs-turned-to-rubble-scientists-mourn-the-loss-of-decades-of-medical-progress-in-sudan</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/global-development/2025/may/08/gleaming-labs-turned-to-rubble-scientists-mourn-the-loss-of-decades-of-medical-progress-in-sudan</guid>
-      <pubDate>Thu, 08 May 2025 09:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech titans reap little reward after going full Trump (Axios)</title>
-      <link>https://www.axios.com/2025/05/08/trump-big-tech-inauguration-hangover</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/08/trump-big-tech-inauguration-hangover</guid>
-      <pubDate>Thu, 08 May 2025 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
