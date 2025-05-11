@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Gérald Darmanin souhaite expulser les détenus étrangers pour réduire la surpopulation carcérale (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250511-france-g%C3%A9rald-darmanin-souhaite-expulser-les-d%C3%A9tenus-%C3%A9trangers-pour-r%C3%A9duire-la-surpopulation-carc%C3%A9rale</link>
+      <author>RFI</author>
+      <guid>27a53e02-2eb4-11f0-8301-005056bf762b</guid>
+      <pubDate>Sun, 11 May 2025 22:27:23 GMT</pubDate>
+    </item>
+    <item>
       <title>New Mexico governor says potential GOP cuts to Medicaid would 'destroy health care as we know it' (The Hill)</title>
       <link>https://thehill.com/policy/healthcare/5294811-new-mexico-governor-potential-gop-cuts-medicaid/</link>
       <author>The Hill</author>
@@ -1427,13 +1434,6 @@
       <author>Science Based Medicine</author>
       <guid>https://sciencebasedmedicine.org/?p=108354</guid>
       <pubDate>Thu, 08 May 2025 12:45:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indigenous communities near Panama Canal have a bigger problem than Trump (Open Democracy)</title>
-      <link>https://www.opendemocracy.net/en/panama-canal-new-resevoir-flood-indio-indigenous-communities-donald-trump-us/</link>
-      <author>Open Democracy</author>
-      <guid>https://www.opendemocracy.net/en/panama-canal-new-resevoir-flood-indio-indigenous-communities-donald-trump-us/</guid>
-      <pubDate>Thu, 08 May 2025 12:43:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
