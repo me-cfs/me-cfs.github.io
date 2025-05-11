@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Dans sa première allocution, le pape Léon XIV appelle les «grands de ce monde» à arrêter les guerres (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250511-dans-sa-premi%C3%A8re-allocution-le-pape-l%C3%A9on-xiv-appelle-les-grands-de-ce-monde-%C3%A0-arr%C3%AAter-les-guerres</link>
+      <author>RFI</author>
+      <guid>de6f0c86-2e68-11f0-a311-005056a97652</guid>
+      <pubDate>Sun, 11 May 2025 13:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pope Leo XIV calls for Gaza ceasefire and peace in Ukraine (Axios)</title>
+      <link>https://www.axios.com/2025/05/11/pope-leo-gaza-ceasefire-ukraine-peace</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/11/pope-leo-gaza-ceasefire-ukraine-peace</guid>
+      <pubDate>Sun, 11 May 2025 13:09:45 +0000</pubDate>
+    </item>
+    <item>
       <title>India And Pakistan Ceasefire Shaken By Overnight Border Fighting In Disputed Kashmir Region (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/ap-as-pakistan-india-conflict-ceasefire_n_68208c4fe4b06987bce14091</link>
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/ap-as-pakistan-india-conflict-ceasefire_n_68208c4fe4b06987bce14091</guid>
       <pubDate>Sun, 11 May 2025 12:57:22 -0000</pubDate>
+    </item>
+    <item>
+      <title> Putin, Erdogan discuss proposed Russia-Ukraine peace talks in phone call  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/putin-erdogan-discuss-proposed-russia-ukraine-talks-in-istanbul/</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/putin-erdogan-discuss-proposed-russia-ukraine-talks-in-istanbul/</guid>
+      <pubDate>Sun, 11 May 2025 15:38:07 +0300</pubDate>
     </item>
     <item>
       <title>Trump claims "total reset" with China as trade talks continue (Axios)</title>
@@ -1413,27 +1434,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/08/trump-big-tech-inauguration-hangover</guid>
       <pubDate>Thu, 08 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seeking Spending Cuts, GOP Lawmakers Target a Tax Hospitals Love To Pay (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/medicaid-provider-tax-hospitals-gop-spending-cuts-budget/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2025807</guid>
-      <pubDate>Thu, 08 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Price of Remission (Propublica)</title>
-      <link>https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma</guid>
-      <pubDate>Thu, 08 May 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>China unveils stimulus ahead of US trade talks (Semafor)</title>
-      <link>https://www.semafor.com/article/05/08/2025/china-unveils-stimulus-ahead-of-us-trade-talks</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/08/2025/china-unveils-stimulus-ahead-of-us-trade-talks</guid>
-      <pubDate>Thu, 08 May 2025 08:48:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
