@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: Emmanuel Macron va chercher à renouer avec les Français (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250512-france-emmanuel-macron-va-chercher-%C3%A0-renouer-avec-les-fran%C3%A7ais</link>
+      <author>RFI</author>
+      <guid>24663a6a-2eb0-11f0-a4d5-005056a97652</guid>
+      <pubDate>Mon, 12 May 2025 03:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Republicans unveil Medicaid portion of Trump tax bill (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5294994-house-republicans-medicaid-bill/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5294994</guid>
+      <pubDate>Mon, 12 May 2025 02:44:24 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Albanian election result unclear after broadcasters withhold exit polls					 (Politico)</title>
       <link>https://www.politico.eu/article/elections-albania-exit-poll-results-democratic-party-socialist/</link>
@@ -1415,21 +1429,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/eu-provides-ukraine-with-1-billion-tranche-under-g7-loan-covered-by-russian-assets/</guid>
       <pubDate>Thu, 08 May 2025 16:26:16 +0300</pubDate>
-    </item>
-    <item>
-      <title>Bill Gates will give away "virtually all" his wealth over next 20 years (Axios)</title>
-      <link>https://www.axios.com/2025/05/08/bill-gates-give-away-virtually-all-wealth-gates-foundation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/08/bill-gates-give-away-virtually-all-wealth-gates-foundation</guid>
-      <pubDate>Thu, 08 May 2025 13:10:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU Parliament approves law to let farmers shoot more wolves					 (Politico)</title>
-      <link>https://www.politico.eu/article/european-lawmakers-vote-to-loosen-wolf-protections/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/european-lawmakers-vote-to-loosen-wolf-protections/</guid>
-      <pubDate>Thu, 08 May 2025 13:03:05 -0000</pubDate>
     </item>
   </channel>
 </rss>
