@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Immigration: le Sénat vote pour écarter les associations des centres de rétention en France (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250512-immigration-le-s%C3%A9nat-vote-pour-%C3%A9carter-les-associations-des-centres-de-r%C3%A9tention-en-france</link>
+      <author>RFI</author>
+      <guid>164cd822-2f63-11f0-9ced-005056bf762b</guid>
+      <pubDate>Mon, 12 May 2025 18:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>L’armée pourrait remettre en état de tir d’anciennes forteresses d’artillerie (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/suisse-l-armee-envisage-de-reactiver-d-anciens-bunkers-lance-mines-28881637.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28881637</guid>
+      <pubDate>Mon, 12 May 2025 18:57:24 GMT</pubDate>
+    </item>
+    <item>
       <title>GOP Unveils Sweeping, Brutal Medicaid Cuts (Motherjones)</title>
       <link>https://www.motherjones.com/politics/2025/05/republican-medicaid-health-cuts-insurance-gop/</link>
       <author>Motherjones</author>
@@ -1417,20 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/09/kemp-trump-white-house-georgia-senate</guid>
       <pubDate>Fri, 09 May 2025 00:29:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump turns to Fox's Jeanine Pirro for D.C. attorney after cutting Ed Martin (Axios)</title>
-      <link>https://www.axios.com/2025/05/08/trump-ed-martin-nomination-rescinded-us-attorney</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/08/trump-ed-martin-nomination-rescinded-us-attorney</guid>
-      <pubDate>Thu, 08 May 2025 23:36:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>The head of FEMA defended the agency on Capitol Hill. Trump fired him (Grist)</title>
-      <link>https://grist.org/politics/the-head-of-fema-defended-the-agency-on-capitol-hill-trump-fired-him/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=665180</guid>
-      <pubDate>Thu, 08 May 2025 22:55:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
