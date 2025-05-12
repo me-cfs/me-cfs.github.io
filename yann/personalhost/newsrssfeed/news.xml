@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Pologne annonce la fermeture d'un consulat de Russie après «un acte de sabotage» (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250512-la-pologne-annonce-la-fermeture-d-un-consulat-de-russie-apr%C3%A8s-un-acte-de-sabotage</link>
+      <author>RFI</author>
+      <guid>79a20f7c-2f28-11f0-bdc2-005056a97652</guid>
+      <pubDate>Mon, 12 May 2025 12:40:20 GMT</pubDate>
+    </item>
+    <item>
       <title> 'Clock is ticking' — Germany gives Russia until midnight to implement ceasefire, threatens sanctions  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/germany-gives-russia-until-midnight-to-implement-ceasefire-threatens-sanctions/</link>
       <author>Kyiv Indpendent</author>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/08/trump-taxes-millionaires-medicaid</guid>
       <pubDate>Thu, 08 May 2025 18:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats push GOP toward Medicare 'upcoding' instead of Medicaid cuts (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5290279-democrats-say-target-medicare-advantage-not-medicaid/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5290279</guid>
-      <pubDate>Thu, 08 May 2025 18:42:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
