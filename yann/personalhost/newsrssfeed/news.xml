@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le texte de loi sur la fin de vie de retour à l'examen à l'Assemblée nationale (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250512-france-le-texte-de-loi-sur-la-fin-de-vie-de-retour-%C3%A0-l-examen-%C3%A0-l-assembl%C3%A9e-nationale</link>
+      <author>RFI</author>
+      <guid>964797b6-2ef9-11f0-a485-005056bf762b</guid>
+      <pubDate>Mon, 12 May 2025 17:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Les CFF testent avec succès des mélanges de plantes pour remplacer les herbicides (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/cff-des-plantes-pour-remplacer-les-herbicides-le-long-des-voies-ferrees-28881717.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28881717</guid>
+      <pubDate>Mon, 12 May 2025 16:49:31 GMT</pubDate>
+    </item>
+    <item>
       <title>CBO: House GOP plan exceeds $880 billion savings target (The Hill)</title>
       <link>https://thehill.com/homenews/house/5295726-cbo-house-gop-energy-and-commerce-medicaid-880-billion/</link>
       <author>The Hill</author>
@@ -1417,21 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/08/pope-conclave-white-smoke-vatican</guid>
       <pubDate>Thu, 08 May 2025 22:43:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ed Martin’s Derailed Nomination Shows Donald Trump’s Power Is Waning (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/05/ed-martin-us-attorney-dc-nomination-defeated-donald-trump-january-6/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1131236</guid>
-      <pubDate>Thu, 08 May 2025 22:09:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Pope Leo XIV seen as bridge builder after Francis’ turbulent reign					 (Politico)</title>
-      <link>https://www.politico.eu/article/pope-leo-xiv-francis-prevost-catholic-church-history-vatican-francis/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/pope-leo-xiv-francis-prevost-catholic-church-history-vatican-francis/</guid>
-      <pubDate>Thu, 08 May 2025 22:09:39 -0000</pubDate>
     </item>
   </channel>
 </rss>
