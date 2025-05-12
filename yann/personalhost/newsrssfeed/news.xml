@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Hamas releases Edan Alexander, last living American hostage in Gaza (Axios)</title>
+      <link>https://www.axios.com/2025/05/12/hamas-releases-edan-alexander-last-living-american-hostage-in-gaza</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/12/hamas-releases-edan-alexander-last-living-american-hostage-in-gaza</guid>
+      <pubDate>Mon, 12 May 2025 16:23:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump signs executive order aimed at slashing prescription drug costs (The Hill)</title>
       <link>https://thehill.com/homenews/5295603-trump-executive-order-prescription-drug-prices/</link>
       <author>The Hill</author>
@@ -24,6 +31,13 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5295538</guid>
       <pubDate>Mon, 12 May 2025 15:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 Human Rights Roadmap for the African Union (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/05/12/2025-human-rights-roadmap-african-union</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/05/12/2025-human-rights-roadmap-african-union</guid>
+      <pubDate>Mon, 12 May 2025 11:17:39 -0400</pubDate>
     </item>
     <item>
       <title>Aide à mourir: «50 ans après la loi Veil, un nouveau droit pour les Français», Philippe Vigier député MoDem (RFI)</title>
@@ -1418,20 +1432,6 @@
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/05/08/social-media-companies-should-resist-turkish-state-censorship</guid>
       <pubDate>Thu, 08 May 2025 17:57:02 -0400</pubDate>
-    </item>
-    <item>
-      <title>New RSV vaccine, treatment linked to dramatic fall in baby hospitalizations (Arstechnica)</title>
-      <link>https://arstechnica.com/health/2025/05/baby-hospitalizations-from-rsv-fell-up-to-71-with-new-vaccine-treatment/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/health/2025/05/baby-hospitalizations-from-rsv-fell-up-to-71-with-new-vaccine-treatment/</guid>
-      <pubDate>Thu, 08 May 2025 21:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Democrats urge Israel to resume Gaza humanitarian aid (The Hill)</title>
-      <link>https://thehill.com/homenews/house/5291227-house-democrats-gaza-aid/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5291227</guid>
-      <pubDate>Thu, 08 May 2025 21:37:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
