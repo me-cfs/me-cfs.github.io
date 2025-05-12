@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Royaume-Uni: un documentaire de la BBC accuse les forces spéciales britanniques de crimes de guerre (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250512-royaume-uni-un-documentaire-de-la-bbc-accuse-les-forces-sp%C3%A9ciales-britanniques-de-crimes-de-guerre</link>
+      <author>RFI</author>
+      <guid>27703502-2f2e-11f0-b0e7-005056bf762b</guid>
+      <pubDate>Mon, 12 May 2025 14:27:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Australia's Jackson Irvine 'disappointed' by men’s football's reaction to English ban on transgender women (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6349706/2025/05/12/irvine-fa-transgender-ban-women/</link>
       <author>The Athletic Football</author>
@@ -1425,13 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/08/trump-rubio-pro-palestinian-protests-student-visas</guid>
       <pubDate>Thu, 08 May 2025 19:10:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le projet fédéral de révision de la surveillance des télécoms vivement critiqué (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/projet-federal-de-surveillance-des-telecoms-vive-opposition-des-partis-28877884.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28877884</guid>
-      <pubDate>Thu, 08 May 2025 19:06:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
