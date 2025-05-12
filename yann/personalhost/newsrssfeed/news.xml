@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						US popularity collapses worldwide in wake of Trump’s return					 (Politico)</title>
+      <link>https://www.politico.eu/article/usa-popularity-collapse-worldwide-trump-return/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/usa-popularity-collapse-worldwide-trump-return/</guid>
+      <pubDate>Mon, 12 May 2025 19:46:26 -0000</pubDate>
+    </item>
+    <item>
       <title>Immigration: le Sénat vote pour écarter les associations des centres de rétention en France (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250512-immigration-le-s%C3%A9nat-vote-pour-%C3%A9carter-les-associations-des-centres-de-r%C3%A9tention-en-france</link>
       <author>RFI</author>
@@ -1424,13 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/09/trumps-millionaires-tax-rates-mike-johnson</guid>
       <pubDate>Fri, 09 May 2025 00:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Kemp plans secret White House sortie for Georgia Senate pick (Axios)</title>
-      <link>https://www.axios.com/2025/05/09/kemp-trump-white-house-georgia-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/09/kemp-trump-white-house-georgia-senate</guid>
-      <pubDate>Fri, 09 May 2025 00:29:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
