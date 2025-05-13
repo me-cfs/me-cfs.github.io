@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU lawmakers probe rule of law in Meloni’s Italy					 (Politico)</title>
+      <link>https://www.politico.eu/article/giorgia-meloni-italy-rule-of-law-democracy-european-parliament-probe/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/giorgia-meloni-italy-rule-of-law-democracy-european-parliament-probe/</guid>
+      <pubDate>Tue, 13 May 2025 16:40:06 -0000</pubDate>
+    </item>
+    <item>
+      <title> Germany's Merz threatens 'significant tightening' of Russia sanctions ahead of Ukraine peace talks  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/eu-threatens-tougher-russia-sanctions-ahead-of-possible-istanbul-peace-talks/</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/eu-threatens-tougher-russia-sanctions-ahead-of-possible-istanbul-peace-talks/</guid>
+      <pubDate>Tue, 13 May 2025 19:10:46 +0300</pubDate>
+    </item>
+    <item>
       <title>Léon Deffontaines, porte-parole du Parti communiste français (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/mardi-politique/20250513-l%C3%A9on-deffontaines-porte-parole-du-parti-communiste-fran%C3%A7ais</link>
       <author>RFI</author>
@@ -1417,20 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/10/trump-india-pakistan-ceasefire</guid>
       <pubDate>Sat, 10 May 2025 12:23:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA is quiet as Trump, Vance criticize Putin (Axios)</title>
-      <link>https://www.axios.com/2025/05/10/maga-base-trump-vance-putin</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/10/maga-base-trump-vance-putin</guid>
-      <pubDate>Sat, 10 May 2025 12:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>White House's large-scale firings paused by federal judge (Axios)</title>
-      <link>https://www.axios.com/2025/05/10/trump-doge-federal-workers-firings</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/10/trump-doge-federal-workers-firings</guid>
-      <pubDate>Sat, 10 May 2025 12:07:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
