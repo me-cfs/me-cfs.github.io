@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks across Ukraine kill 2, injure 7 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-attacks-across-ukraine-kill-2-injure-7-over-past-day-2/</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-attacks-across-ukraine-kill-2-injure-7-over-past-day-2/</guid>
+      <pubDate>Tue, 13 May 2025 10:10:05 +0300</pubDate>
+    </item>
+    <item>
       <title> Europe awaits potential Zelensky-Putin meeting before pushing for new US sanctions on Russia, Bloomberg reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/european-allies-await-potential-zelensky-putin-meeting-before-pushing-us-for-new-sanctions-against-russia-bloomberg-reports/</link>
       <author>Kyiv Indpendent</author>
@@ -1427,13 +1434,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/us-news/2025/may/09/libya-deportations-immigrants-trump</guid>
       <pubDate>Fri, 09 May 2025 17:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>L'Ukraine et ses alliés européens approuvent la création d'un tribunal pour juger les crimes de guerre russes (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250509-l-ukraine-et-ses-alli%C3%A9s-europ%C3%A9ens-approuvent-la-cr%C3%A9ation-d-un-tribunal-pour-juger-les-crimes-de-guerre-russes</link>
-      <author>RFI</author>
-      <guid>a26e56ea-2cf3-11f0-9690-005056a97652</guid>
-      <pubDate>Fri, 09 May 2025 16:35:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
