@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pharma is facing its nightmare scenario (Axios)</title>
+      <link>https://www.axios.com/2025/05/13/trump-drug-prices-pharma-most-favored-nation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/13/trump-drug-prices-pharma-most-favored-nation</guid>
+      <pubDate>Tue, 13 May 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>All Trump's roads lead to the Gulf (Axios)</title>
       <link>https://www.axios.com/2025/05/13/trump-gulf-trip-saudi-uae-qatar-partners</link>
       <author>Axios</author>
@@ -31,6 +38,20 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2032911</guid>
       <pubDate>Tue, 13 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Incalculable” Damage: How a “We Buy Ugly Houses” Franchise Left a Trail of Financial Wreckage Across Texas (Propublica)</title>
+      <link>https://www.propublica.org/article/homevestors-fraud-charles-carrier-texas</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/homevestors-fraud-charles-carrier-texas</guid>
+      <pubDate>Tue, 13 May 2025 05:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Toxic algae kills more than 200 marine species in Australia (BBC)</title>
+      <link>https://www.bbc.com/news/articles/cqxewn0z2v8o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/cqxewn0z2v8o#0</guid>
+      <pubDate>Tue, 13 May 2025 08:54:05 GMT</pubDate>
     </item>
     <item>
       <title> EU prepares capital controls, tariffs on Russia in case Hungary blocks sanctions, FT reports  (Kyiv Indpendent)</title>
@@ -1413,27 +1434,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/uk-targets-101-ships-in-largest-ever-sanctions-against-russias-shadow-fleet/</guid>
       <pubDate>Fri, 09 May 2025 22:57:30 +0300</pubDate>
-    </item>
-    <item>
-      <title>Recap: Here’s what happened in Google’s search antitrust trial (Arstechnica)</title>
-      <link>https://arstechnica.com/google/2025/05/googles-search-antitrust-trial-is-wrapping-up-heres-what-we-learned/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/google/2025/05/googles-search-antitrust-trial-is-wrapping-up-heres-what-we-learned/</guid>
-      <pubDate>Fri, 09 May 2025 19:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>My Miserable Week in the ‘Happiest Country on Earth’ (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/02/magazine/finland-happiest-country.html</guid>
-      <pubDate>Fri, 09 May 2025 19:18:16 +0000</pubDate>
-    </item>
-    <item>
-      <title> Zelensky imposes sanctions on Russian nationals, companies from Russia, China, Iran, Uzbekistan  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/zelensky-imposes-sanctions-on-russian-nationals-companies-from-russia-china-iran-uzbekistan/</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/zelensky-imposes-sanctions-on-russian-nationals-companies-from-russia-china-iran-uzbekistan/</guid>
-      <pubDate>Fri, 09 May 2025 22:02:58 +0300</pubDate>
     </item>
   </channel>
 </rss>
