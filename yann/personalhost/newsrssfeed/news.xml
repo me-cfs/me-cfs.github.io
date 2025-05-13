@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Mobilisation sans précédent sur la politique OGM de Migros (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/la-politique-pro-ogm-de-migros-suscite-le-debat-28882621.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28882621</guid>
+      <pubDate>Tue, 13 May 2025 14:30:29 GMT</pubDate>
+    </item>
+    <item>
       <title>A Letter Seeking a Correction in FMD Physiotherapy Paper (ME/LC News)</title>
       <link>https://virology.ws/2025/05/13/trial-by-error-a-letter-seeking-a-correction-in-fmd-physiotherapy-paper/</link>
       <author>ME/LC News</author>
@@ -1424,13 +1431,6 @@
       <author>SBS News</author>
       <guid>00000196-b941-db50-a396-bf5920c50000</guid>
       <pubDate>Sat, 10 May 2025 09:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title> Russia may close airspace over Kapustin Yar, site of Oreshnik ballistic missile launch, on May 12-13  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russia-to-reportedly-close-airspace-over-kapustin-yar-site-of-oreshnik-ballistic-missile-launch-on-may-12-13/</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russia-to-reportedly-close-airspace-over-kapustin-yar-site-of-oreshnik-ballistic-missile-launch-on-may-12-13/</guid>
-      <pubDate>Sat, 10 May 2025 12:21:54 +0300</pubDate>
     </item>
   </channel>
 </rss>
