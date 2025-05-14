@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La sécurité en toile de fond de l'élection présidentielle en Pologne (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250514-la-s%C3%A9curit%C3%A9-en-toile-de-fond-de-l-%C3%A9lection-pr%C3%A9sidentielle-en-pologne</link>
+      <author>RFI</author>
+      <guid>0a95107e-30dc-11f0-9a7a-005056a97652</guid>
+      <pubDate>Wed, 14 May 2025 15:56:47 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						EU announces top lawyer’s departure on same day as ‘Pfizergate’ ruling					 (Politico)</title>
       <link>https://www.politico.eu/article/pfizergate-ursula-von-der-leyen-daniel-calleja-y-crespo-covid-19-pfizer/</link>
@@ -1422,13 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/us-china-cut-tariffs-dramatically-donald-trump-trade-war/</guid>
       <pubDate>Mon, 12 May 2025 10:50:53 -0000</pubDate>
-    </item>
-    <item>
-      <title>China and US suspend tariffs in trade war reprieve (Semafor)</title>
-      <link>https://www.semafor.com/article/05/12/2025/china-and-us-suspend-tariffs-in-trade-war-reprieve</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/12/2025/china-and-us-suspend-tariffs-in-trade-war-reprieve</guid>
-      <pubDate>Mon, 12 May 2025 10:35:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
