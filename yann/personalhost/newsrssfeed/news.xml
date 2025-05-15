@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'Allemagne et le Royaume-Uni vont développer des missiles d'une portée de 2000 kilomètres (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250515-l-allemagne-et-le-royaume-uni-vont-d%C3%A9velopper-des-missiles-d-une-port%C3%A9e-de-2000-kilom%C3%A8tres</link>
+      <author>RFI</author>
+      <guid>b655a068-31b3-11f0-bc59-005056a97652</guid>
+      <pubDate>Thu, 15 May 2025 17:45:46 GMT</pubDate>
+    </item>
+    <item>
       <title>Kendall refuses to apologise after misleading MPs four times in 23 minutes about PIP cuts (Disability News Service)</title>
       <link>https://www.disabilitynewsservice.com/kendall-refuses-to-apologise-after-misleading-mps-four-times-in-23-minutes-about-pip-cuts/</link>
       <author>Disability News Service</author>
@@ -1422,13 +1429,6 @@
       <author>RTS</author>
       <guid>28882885</guid>
       <pubDate>Wed, 14 May 2025 06:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title> Russia likely preparing major offensive in Ukraine despite peace efforts, FT reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russia-preparing-major-offensive-despite-peace-efforts-ft-reports/</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russia-preparing-major-offensive-despite-peace-efforts-ft-reports/</guid>
-      <pubDate>Wed, 14 May 2025 09:00:08 +0300</pubDate>
     </item>
   </channel>
 </rss>
