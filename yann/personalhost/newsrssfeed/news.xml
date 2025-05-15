@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Boeing lands biggest order in sale to Qatar Airways (Axios)</title>
+      <link>https://www.axios.com/2025/05/15/boeing-order-trump-qatar-airways</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/15/boeing-order-trump-qatar-airways</guid>
+      <pubDate>Thu, 15 May 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump clears a path for Stefanik to run for NY governor (Axios)</title>
+      <link>https://www.axios.com/2025/05/15/trump-stefanik-new-york-governor</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/15/trump-stefanik-new-york-governor</guid>
+      <pubDate>Thu, 15 May 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Juror removed from mushroom lunch murder trial (BBC)</title>
       <link>https://www.bbc.com/news/articles/cn4qzx1dln2o</link>
       <author>BBC</author>
@@ -1414,20 +1428,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/us-envoys-witkoff-kellogg-to-travel-to-istanbul-for-potential-russia-ukraine-peace-talks-reuters-reports</guid>
       <pubDate>Tue, 13 May 2025 15:20:23 +0300</pubDate>
-    </item>
-    <item>
-      <title>Guerre en Ukraine: l'absence de Poutine à Istanbul signifierait que Moscou ne veut pas la paix, dit Kiev (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250513-guerre-en-ukraine-l-absence-de-poutine-%C3%A0-istanbul-signifierait-que-moscou-ne-veut-pas-la-paix-dit-kiev</link>
-      <author>RFI</author>
-      <guid>d5e14e06-2ff0-11f0-9599-005056a97652</guid>
-      <pubDate>Tue, 13 May 2025 12:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>China develops method to extract uranium from seawater (Semafor)</title>
-      <link>https://www.semafor.com/article/05/13/2025/china-develops-method-to-extract-uranium-from-seawater</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/13/2025/china-develops-method-to-extract-uranium-from-seawater</guid>
-      <pubDate>Tue, 13 May 2025 11:59:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
