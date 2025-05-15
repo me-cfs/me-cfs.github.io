@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>1/5 Une démarche pionnière en France – Dans les mots d’Ahmed et Georges (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/ondes-de-choc/20250515-une-d%C3%A9marche-pionni%C3%A8re-en-france-%E2%80%93-dans-les-mots-d-ahmed-et-georges</link>
+      <author>RFI</author>
+      <guid>6d8fd170-319d-11f0-887c-005056a97652</guid>
+      <pubDate>Thu, 15 May 2025 15:37:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump's Sanctions On ICC Prosecutor Have Halted Tribunal's Work (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/trump-sanctions-icc-halted-work-karim-khan_n_6825fb72e4b0a8ff0de6c9ff</link>
       <author>Huffington Post</author>
@@ -1399,6 +1406,13 @@
       <pubDate>Tue, 13 May 2025 23:19:50 +0000</pubDate>
     </item>
     <item>
+      <title>GOP moves to boot Democrats off committees over ICE scuffle (Axios)</title>
+      <link>https://www.axios.com/2025/05/13/house-republican-democrat-committees-new-jersey</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/13/house-republican-democrat-committees-new-jersey</guid>
+      <pubDate>Tue, 13 May 2025 23:13:43 +0000</pubDate>
+    </item>
+    <item>
       <title>House Democrat forces long-shot vote on impeaching Trump (Axios)</title>
       <link>https://www.axios.com/2025/05/13/trump-impeachment-house-democrat-vote-thanedar</link>
       <author>Axios</author>
@@ -1419,20 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/13/alien-enemies-act-judge-deportatations</guid>
       <pubDate>Tue, 13 May 2025 21:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>CBO: GOP Medicaid plan would make 7.6 million people uninsured (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5298593-cbo-gop-medicaid-plan-would-make-7-6-million-people-uninsured/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5298593</guid>
-      <pubDate>Tue, 13 May 2025 21:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>25 Arrested While Protesting GOP Medicaid Cuts (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/05/25-arrested-republican-medicaid-insurance-cuts/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1131822</guid>
-      <pubDate>Tue, 13 May 2025 21:01:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
