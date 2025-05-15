@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: liberté conditionnelle pour Nicolas Sarkozy, son bracelet électronique lui a été retiré (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250515-france-libert%C3%A9-conditionnelle-pour-nicolas-sarkozy-son-bracelet-%C3%A9lectronique-lui-a-%C3%A9t%C3%A9-retir%C3%A9</link>
+      <author>RFI</author>
+      <guid>4ed9528c-3171-11f0-8af0-005056bf762b</guid>
+      <pubDate>Thu, 15 May 2025 10:08:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>La SSR et l'association des éditeurs alémaniques annoncent un accord de coopération (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/ssr-et-editeurs-alemaniques-accord-limitant-l-offre-en-ligne-du-service-public-28884546.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28884546</guid>
+      <pubDate>Thu, 15 May 2025 09:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astrid Epiney: "La Suisse peut bel et bien activer la clause de sauvegarde unilatéralement" (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/clause-de-sauvegarde-suisse-ue-une-nouvelle-marge-de-man-uvre-migratoire-28884384.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28884384</guid>
+      <pubDate>Thu, 15 May 2025 09:45:46 GMT</pubDate>
+    </item>
+    <item>
       <title>Juror dismissed from fatal mushroom cook trial (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/juror-dissmissed-from-fatal-mushroom-cook-trial/4wg4xllmq</link>
       <author>SBS News</author>
@@ -1407,27 +1428,6 @@
       <author>RFI</author>
       <guid>4d9e819a-2f3b-11f0-b7bc-005056bf762b</guid>
       <pubDate>Tue, 13 May 2025 16:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bipartisan bill would push back on China's influence (Semafor)</title>
-      <link>https://www.semafor.com/article/05/13/2025/bipartisan-bill-would-push-back-on-chinas-influence-on-pacific-islands</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/13/2025/bipartisan-bill-would-push-back-on-chinas-influence-on-pacific-islands</guid>
-      <pubDate>Tue, 13 May 2025 15:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump expected to meet with Syrian president in Riyadh on Wednesday (Axios)</title>
-      <link>https://www.axios.com/2025/05/13/trump-syria-al-sharaa-meeting-saudi</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/13/trump-syria-al-sharaa-meeting-saudi</guid>
-      <pubDate>Tue, 13 May 2025 15:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Dems press Trump to divest from stablecoin (Axios)</title>
-      <link>https://www.axios.com/2025/05/13/trump-stablecoin-crypto-divest-corruption-dems</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/13/trump-stablecoin-crypto-divest-corruption-dems</guid>
-      <pubDate>Tue, 13 May 2025 15:10:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
