@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Guerre en Ukraine: des discussions trilatérales prévues à Istanbul ce vendredi (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250515-guerre-en-ukraine-des-discussions-trilat%C3%A9rales-pr%C3%A9vues-%C3%A0-istanbul-ce-vendredi</link>
+      <author>RFI</author>
+      <guid>2894f0c6-31db-11f0-a19b-005056bf762b</guid>
+      <pubDate>Thu, 15 May 2025 22:22:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Asks the Supreme Court for a “Catch Me if You Can” System of Justice (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/05/supreme-court-universal-injunctions-birthright-citizenship/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1132235</guid>
+      <pubDate>Thu, 15 May 2025 21:49:18 +0000</pubDate>
+    </item>
+    <item>
       <title>House Democrats warn against Trump cuts to scientific agencies (The Hill)</title>
       <link>https://thehill.com/policy/technology/5302731-house-democrats-warn-against-trump-cuts-to-scientific-agencies/</link>
       <author>The Hill</author>
@@ -1415,20 +1429,6 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2029913</guid>
       <pubDate>Wed, 14 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Fast-Tracked Deal for a Copper Mine Heightens Existential Fight for Apache (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/apache-oak-flat-resolution-copper-mine-arizona-trump-public-lands-rural/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2033805</guid>
-      <pubDate>Wed, 14 May 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Firm Running Georgia’s Struggling Medicaid Experiment Was Also Paid Millions to Sell It to the Public (Propublica)</title>
-      <link>https://www.propublica.org/article/deloitte-georgia-medicaid-work-requirement-pathways-campaign</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/deloitte-georgia-medicaid-work-requirement-pathways-campaign</guid>
-      <pubDate>Wed, 14 May 2025 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
