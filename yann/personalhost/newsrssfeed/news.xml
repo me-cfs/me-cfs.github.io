@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The top fell off Australia’s first orbital-class rocket, delaying its launch (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/05/the-top-fell-off-australias-first-orbital-class-rocket-delaying-its-launch/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/05/the-top-fell-off-australias-first-orbital-class-rocket-delaying-its-launch/</guid>
+      <pubDate>Fri, 16 May 2025 00:03:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Pologne: Sławomir Mentzen, le candidat d'extrême droite qui séduit les jeunes électeurs (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250515-pologne-s%C5%82awomir-mentzen-le-candidat-d-extr%C3%AAme-droite-qui-s%C3%A9duit-les-jeunes-%C3%A9lecteurs</link>
       <author>RFI</author>
@@ -193,6 +200,13 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/two-terminally-ill-women-to-complain-to-un-over-passage-of-assisted-dying-bill-through-parliament/</guid>
       <pubDate>Thu, 15 May 2025 16:55:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>FAA probes radio failure at Denver airport (Axios)</title>
+      <link>https://www.axios.com/local/denver/2025/05/15/faa-radio-outage-denver-airport-investigation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/local/denver/2025/05/15/faa-radio-outage-denver-airport-investigation</guid>
+      <pubDate>Thu, 15 May 2025 16:44:14 +0000</pubDate>
     </item>
     <item>
       <title>Shocked disabled campaigners vow to fight on after MSPs vote for Scottish assisted dying bill to progress (Disability News Service)</title>
@@ -844,6 +858,13 @@
       <pubDate>Wed, 14 May 2025 17:45:00 -0400</pubDate>
     </item>
     <item>
+      <title>Book Review: ‘Original Sin,’ by Jake Tapper and Alex Thompson (New York Times)</title>
+      <link>https://www.nytimes.com/2025/05/13/books/review/originial-sin-jake-tapper-alex-thompson.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/05/13/books/review/originial-sin-jake-tapper-alex-thompson.html</guid>
+      <pubDate>Wed, 14 May 2025 21:41:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Rep. Greg Murphy lays out his "beige line" on the GOP budget bill (Axios)</title>
       <link>https://www.axios.com/2025/05/14/greg-murphy-medicare-house-republicans</link>
       <author>Axios</author>
@@ -1408,27 +1429,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/05/13/2025/chinas-energy-investing-is-getting-greener</guid>
       <pubDate>Wed, 14 May 2025 09:35:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guerre en Ukraine: l'Union européenne approuve un 17e paquet de sanctions contre la Russie (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250514-guerre-en-ukraine-l-union-europ%C3%A9enne-approuve-un-17e-paquet-de-sanctions-contre-la-russie</link>
-      <author>RFI</author>
-      <guid>7a0a40f4-309c-11f0-84d8-005056a97652</guid>
-      <pubDate>Wed, 14 May 2025 09:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Royaume-Uni: le Parti conservateur opère un virage trumpiste sur les questions climatiques (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250514-royaume-uni-le-parti-conservateur-op%C3%A8re-un-virage-trumpiste-sur-les-questions-climatiques</link>
-      <author>RFI</author>
-      <guid>5cbb0c16-3094-11f0-b4d7-005056bf762b</guid>
-      <pubDate>Wed, 14 May 2025 09:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>He Became the Face of Georgia’s Medicaid Work Requirement. Now He’s Fed Up With It. (Propublica)</title>
-      <link>https://www.propublica.org/article/georgia-medicaid-pathways-brian-kemp-luke-seaborn-testimonial-video</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/georgia-medicaid-pathways-brian-kemp-luke-seaborn-testimonial-video</guid>
-      <pubDate>Wed, 14 May 2025 05:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
