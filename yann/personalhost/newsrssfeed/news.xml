@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Présidentielle en Pologne: le parti de Donald Tusk visé par une cyberattaque (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250516-pr%C3%A9sidentielle-en-pologne-le-parti-de-donald-tusk-vis%C3%A9-par-une-cyberattaque</link>
+      <author>RFI</author>
+      <guid>43961d56-3275-11f0-a78d-005056bf762b</guid>
+      <pubDate>Fri, 16 May 2025 17:13:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Présidentielle en Pologne: duel entre un europhile polyglotte et un historien nationaliste (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/europ%C3%A9en-de-la-semaine/20250516-pr%C3%A9sidentielle-en-pologne-duel-entre-un-europhile-polyglotte-et-un-historien-nationaliste</link>
       <author>RFI</author>
@@ -1426,13 +1433,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2025/05/for-the-first-time-an-australian-rocket-will-take-aim-at-low-earth-orbit/</guid>
       <pubDate>Wed, 14 May 2025 19:33:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dems blitz RFK Jr. on vaccine record, HHS cuts (Axios)</title>
-      <link>https://www.axios.com/2025/05/14/rfk-testify-congress-hhs-layoffs-measles-outbreak</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/14/rfk-testify-congress-hhs-layoffs-measles-outbreak</guid>
-      <pubDate>Wed, 14 May 2025 19:29:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
