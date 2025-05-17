@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pologne : une présidentielle décisive pour l'avenir du pays (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20250517-pologne-une-pr%C3%A9sidentielle-d%C3%A9cisive-pour-l-avenir-du-pays</link>
+      <author>RFI</author>
+      <guid>e5b5aa0c-31a8-11f0-8680-005056bf762b</guid>
+      <pubDate>Sat, 17 May 2025 05:00:16 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Pope Leo offers Vatican for Ukraine peace talks					 (Politico)</title>
       <link>https://www.politico.eu/article/new-pope-leo-xiv-offers-vatican-ukraine-peace-talks-putin-zelenskyy/</link>
@@ -1428,14 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/14/trump-impeachment-house-vote-shri-thanedar</guid>
       <pubDate>Wed, 14 May 2025 22:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Putin won’t go to peace talks with Zelenskyy in Turkey					 (Politico)</title>
-      <link>https://www.politico.eu/article/vladimir-putin-peace-talks-war-in-ukraine-volodymyr-zelenskyy-turkey/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/vladimir-putin-peace-talks-war-in-ukraine-volodymyr-zelenskyy-turkey/</guid>
-      <pubDate>Wed, 14 May 2025 22:27:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
