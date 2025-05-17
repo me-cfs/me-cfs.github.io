@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Présidentielle en Pologne: les militants féministes et LGBT+ attendent le gouvernement Tusk au tournant (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250517-pr%C3%A9sidentielle-en-pologne-les-militants-f%C3%A9ministes-et-lgbt-attendent-le-gouvernement-tusk-au-tournant</link>
+      <author>RFI</author>
+      <guid>63c9ce10-3324-11f0-907d-005056bf762b</guid>
+      <pubDate>Sat, 17 May 2025 14:45:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Les employés du bâtiment manifestent pour une amélioration de leurs conditions de travail (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/manifestation-du-batiment-10-000-ouvriers-reclament-respect-et-meilleurs-salaires-28886907.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1427,14 +1434,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/hungary-slovakia-quit-russia-energy-crea-report/</guid>
       <pubDate>Thu, 15 May 2025 02:57:42 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Commission floats digital levy to repay post-Covid debt					 (Politico)</title>
-      <link>https://www.politico.eu/article/covid-eu-commission-digital-levy-post-covid-debt/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/covid-eu-commission-digital-levy-post-covid-debt/</guid>
-      <pubDate>Thu, 15 May 2025 02:42:42 -0000</pubDate>
     </item>
   </channel>
 </rss>
