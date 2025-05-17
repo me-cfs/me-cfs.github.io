@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump says he will speak to Putin and Zelensky on Monday and push for ceasefire (Axios)</title>
+      <link>https://www.axios.com/2025/05/17/trump-putin-zelensky-ceasefire-talk</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/17/trump-putin-zelensky-ceasefire-talk</guid>
+      <pubDate>Sat, 17 May 2025 16:44:09 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump Says He Will Call Putin On Monday To Discuss The War In Ukraine (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/trump-says-call-putin-monday-discuss-war-ukraine_n_6828a9c2e4b0e77a35639590</link>
       <author>Huffington Post</author>
@@ -1425,13 +1432,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/commentisfree/2025/may/15/labour-planning-reform-government-proposals-habitats-keir-starmer</guid>
       <pubDate>Thu, 15 May 2025 05:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mortalité infantile: pourquoi la France a l’un des taux les plus élevés d’Europe? (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250515-mortalit%C3%A9-infantile-pourquoi-la-france-a-l-un-des-taux-les-plus-%C3%A9lev%C3%A9s-d-europe</link>
-      <author>RFI</author>
-      <guid>5851b6fe-30dd-11f0-8bfa-005056a97652</guid>
-      <pubDate>Thu, 15 May 2025 04:12:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
