@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Israeli Cabinet approves resuming immediate humanitarian aid to Gaza (Axios)</title>
+      <link>https://www.axios.com/2025/05/18/gaza-humanitarian-aid-israel</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/18/gaza-humanitarian-aid-israel</guid>
+      <pubDate>Sun, 18 May 2025 20:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Portugal: la coalition de droite remporte les législatives, l'extrême droite atteint la barre des 20% (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250518-portugal-la-coalition-de-droite-remporte-les-l%C3%A9gislatives-l-extr%C3%AAme-droite-atteint-la-barre-des-20</link>
       <author>RFI</author>
@@ -1426,13 +1433,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/trump-sanctions-icc-halted-work-karim-khan_n_6825fb72e4b0a8ff0de6c9ff</guid>
       <pubDate>Thu, 15 May 2025 15:30:28 -0000</pubDate>
-    </item>
-    <item>
-      <title>UnitedHealth shares plunge after probe report (Axios)</title>
-      <link>https://www.axios.com/2025/05/15/unitedhealth-shares-plunge-wsj-report</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/15/unitedhealth-shares-plunge-wsj-report</guid>
-      <pubDate>Thu, 15 May 2025 14:50:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
