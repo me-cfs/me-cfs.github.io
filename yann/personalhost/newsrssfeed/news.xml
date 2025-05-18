@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's Gulf gamble: Helping UAE and Saudi become AI powers (Axios)</title>
+      <link>https://www.axios.com/2025/05/18/trump-gulf-ai-deals-saudi-uae-security-china-risk</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/18/trump-gulf-ai-deals-saudi-uae-security-china-risk</guid>
+      <pubDate>Sun, 18 May 2025 13:05:09 +0000</pubDate>
+    </item>
+    <item>
       <title> New clips from Putin documentary suggest Russia dismissed Ukraine peace talks, ceasefire weeks ago  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/putin-vows-to-complete-war-in-ukraine-rejects-concessions-ahead-of-trump-call</link>
       <author>Kyiv Indpendent</author>
@@ -39,6 +46,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/world-leaders-zelenskyy-vance-rome-pope-leo-inauguration/</guid>
       <pubDate>Sun, 18 May 2025 12:17:31 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mexican Navy Sailing Ship Crashes Into Brooklyn Bridge, Killing 2 Crew Members (New York Times)</title>
+      <link>https://www.nytimes.com/2025/05/17/nyregion/brooklyn-bridge-ship-crash-nyc.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/05/17/nyregion/brooklyn-bridge-ship-crash-nyc.html</guid>
+      <pubDate>Sun, 18 May 2025 12:15:30 +0000</pubDate>
     </item>
     <item>
       <title>Le jardinage, c'est plus que du sport (RTS)</title>
@@ -1422,21 +1436,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/05/15/2025/putin-likely-to-skip-ukraine-peace-talks-in-turkey</guid>
       <pubDate>Thu, 15 May 2025 10:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						The risks of being associated with Trump					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-risk-politics-us-maga-canada-uk-nigel-farage/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-risk-politics-us-maga-canada-uk-nigel-farage/</guid>
-      <pubDate>Thu, 15 May 2025 10:36:33 -0000</pubDate>
-    </item>
-    <item>
-      <title>France: liberté conditionnelle pour Nicolas Sarkozy, son bracelet électronique lui a été retiré (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250515-france-libert%C3%A9-conditionnelle-pour-nicolas-sarkozy-son-bracelet-%C3%A9lectronique-lui-a-%C3%A9t%C3%A9-retir%C3%A9</link>
-      <author>RFI</author>
-      <guid>4ed9528c-3171-11f0-8af0-005056bf762b</guid>
-      <pubDate>Thu, 15 May 2025 10:08:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
