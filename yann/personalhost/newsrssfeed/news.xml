@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Crise du logement: un expert en urbanisme pointe les incohérences du marché suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/crise-du-logement-en-suisse-un-expert-pointe-les-incoherences-du-marche-28884369.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28884369</guid>
+      <pubDate>Sun, 18 May 2025 06:39:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Législatives anticipées au Portugal: une économie en difficulté qui ne pèse pas encore sur l'élection (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250518-l%C3%A9gislatives-anticip%C3%A9es-au-portugal-une-%C3%A9conomie-en-difficult%C3%A9-qui-ne-p%C3%A8se-pas-encore-sur-l-%C3%A9lection</link>
       <author>RFI</author>
@@ -1428,13 +1435,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/russias-low-level-peace-delegation-slap-in-the-face-estonia-says</guid>
       <pubDate>Thu, 15 May 2025 11:51:45 +0300</pubDate>
-    </item>
-    <item>
-      <title>Supreme Court weighs judges' power over Trump (Axios)</title>
-      <link>https://www.axios.com/2025/05/15/supreme-court-trump-birthright-citizenship</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/15/supreme-court-trump-birthright-citizenship</guid>
-      <pubDate>Thu, 15 May 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
