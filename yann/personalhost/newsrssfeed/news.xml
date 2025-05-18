@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>U.S. presses Israel and Hamas to accept updated offer for Gaza ceasefire (Axios)</title>
+      <link>https://www.axios.com/2025/05/18/gaza-ceasefire-hamas-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/18/gaza-ceasefire-hamas-trump</guid>
+      <pubDate>Sun, 18 May 2025 17:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elections en Roumanie: le fondateur de Telegram accuse d'ingérence la France, qui dément (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250518-elections-en-roumanie-le-fondateur-de-telegram-accuse-d-ing%C3%A9rence-la-france-qui-d%C3%A9ment</link>
+      <author>RFI</author>
+      <guid>43083682-3408-11f0-b101-005056a97652</guid>
+      <pubDate>Sun, 18 May 2025 16:50:52 GMT</pubDate>
+    </item>
+    <item>
       <title>Zelenskyy Meets U.S., EU Leaders In Rome Ahead Of Trump-Putin Call (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/zelenskyy-meets-us-eu-leaders-trump-putin-call_n_682a069fe4b0e8ed0bc2ecc9</link>
       <author>Huffington Post</author>
@@ -1421,22 +1435,6 @@
       <author>Economist the World this Week</author>
       <guid>79224f77-bf29-4682-b299-42653627aaf5</guid>
       <pubDate>Thu, 15 May 2025 12:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Business
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/05/15/business</link>
-      <author>Economist the World this Week</author>
-      <guid>8e169ffc-008e-4945-83e6-127541247312</guid>
-      <pubDate>Thu, 15 May 2025 12:59:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consumers eased spending in April after tariff front-loading (Axios)</title>
-      <link>https://www.axios.com/2025/05/15/retail-sales-april-tariffs-consumers</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/15/retail-sales-april-tariffs-consumers</guid>
-      <pubDate>Thu, 15 May 2025 12:52:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
