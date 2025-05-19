@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>NIH funding cuts put current and future cancer patients at risk (Axios)</title>
+      <link>https://www.axios.com/2025/05/19/nih-cuts-cancer-research-hhs</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/19/nih-cuts-cancer-research-hhs</guid>
+      <pubDate>Mon, 19 May 2025 18:38:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Microsoft closes 9-year-old feature request, open-sources Windows Subsystem for Linux (Arstechnica)</title>
       <link>https://arstechnica.com/gadgets/2025/05/microsoft-takes-windows-subsystem-for-linux-open-source-after-nearly-a-decade/</link>
       <author>Arstechnica</author>
@@ -1427,13 +1434,6 @@
       <author>RFI</author>
       <guid>d1e6bec2-3224-11f0-9f8e-005056a97652</guid>
       <pubDate>Fri, 16 May 2025 07:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title> Ukraine holds meeting with US, Turkey ahead of peace talks with Russia  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-holds-meeting-with-us-turkey-ahead-of-peace-talks-with-russia</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-holds-meeting-with-us-turkey-ahead-of-peace-talks-with-russia</guid>
-      <pubDate>Fri, 16 May 2025 10:51:32 +0300</pubDate>
     </item>
   </channel>
 </rss>
