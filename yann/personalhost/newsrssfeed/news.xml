@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scoop: Vance decided against Israel visit due to new Israeli operation in Gaza (Axios)</title>
+      <link>https://www.axios.com/2025/05/19/vance-skip-israel-visit-gaza-operation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/19/vance-skip-israel-visit-gaza-operation</guid>
+      <pubDate>Mon, 19 May 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr.'s next target: A common weedkiller (Axios)</title>
+      <link>https://www.axios.com/2025/05/19/rfk-roundup-weedkiller-chronic-disease-glyphosate</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/19/rfk-roundup-weedkiller-chronic-disease-glyphosate</guid>
+      <pubDate>Mon, 19 May 2025 09:30:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The argument's over: Americans pay for tariffs (Axios)</title>
       <link>https://www.axios.com/2025/05/19/trump-tariffs-who-pays</link>
       <author>Axios</author>
@@ -31,6 +45,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2036575</guid>
       <pubDate>Mon, 19 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Helene’s Unheard Warnings (Propublica)</title>
+      <link>https://www.propublica.org/article/hurricane-helene-evacuation-warnings-yancey-county-north-carolina</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/hurricane-helene-evacuation-warnings-yancey-county-north-carolina</guid>
+      <pubDate>Mon, 19 May 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Près de 300 victimes de la traite humaine en Suisse (RTS)</title>
@@ -1411,27 +1432,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/trump-mexico-travel-visa-restrictions-politicians-sheinbaum</guid>
       <pubDate>Thu, 15 May 2025 14:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Flawed Federal Programs Maroon Rural Americans in Telehealth Limbo  (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/the-week-in-brief-access-to-telehealth-rural-areas-federal-programs-flaws/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?p=2035340&amp;post_type=article&amp;preview_id=2035340</guid>
-      <pubDate>Thu, 15 May 2025 18:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tesla changes lease policy, didn’t use old cars as robotaxis (Arstechnica)</title>
-      <link>https://arstechnica.com/cars/2025/05/tesla-changes-lease-policy-didnt-use-old-cars-as-robotaxis/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/cars/2025/05/tesla-changes-lease-policy-didnt-use-old-cars-as-robotaxis/</guid>
-      <pubDate>Thu, 15 May 2025 18:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title> Level of Russian delegation &amp;#x27;not indicative&amp;#x27; of breakthrough in Istanbul peace talks, Rubio says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/level-of-russian-delegation-not-indicative-of-breakthrough-in-turkey-peace-talks-rubio-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/level-of-russian-delegation-not-indicative-of-breakthrough-in-turkey-peace-talks-rubio-says</guid>
-      <pubDate>Thu, 15 May 2025 21:25:30 +0300</pubDate>
     </item>
   </channel>
 </rss>
