@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Microsoft closes 9-year-old feature request, open-sources Windows Subsystem for Linux (Arstechnica)</title>
+      <link>https://arstechnica.com/gadgets/2025/05/microsoft-takes-windows-subsystem-for-linux-open-source-after-nearly-a-decade/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/gadgets/2025/05/microsoft-takes-windows-subsystem-for-linux-open-source-after-nearly-a-decade/</guid>
+      <pubDate>Mon, 19 May 2025 17:49:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Supreme Court allows Trump admin to pull protections for 350,000 Venezuelans (Axios)</title>
       <link>https://www.axios.com/2025/05/19/trump-supreme-court-venezuelan-immigrants</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/19/trump-supreme-court-venezuelan-immigrants</guid>
       <pubDate>Mon, 19 May 2025 17:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transportation Secretary Sean Duffy Sold Stocks Two Days Before Trump Announced a Plan for Reciprocal Tariffs (Propublica)</title>
+      <link>https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs</guid>
+      <pubDate>Mon, 19 May 2025 13:15:00 -0400</pubDate>
     </item>
     <item>
       <title>Appel entre Trump et Poutine sur l'Ukraine: un entretien «instructif et utile» selon le président russe (RFI)</title>
@@ -1420,20 +1434,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/ukraine-holds-meeting-with-us-turkey-ahead-of-peace-talks-with-russia</guid>
       <pubDate>Fri, 16 May 2025 10:51:32 +0300</pubDate>
-    </item>
-    <item>
-      <title>Baby Is Healed With World’s First Personalized Gene-Editing Treatment (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html</guid>
-      <pubDate>Fri, 16 May 2025 07:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doctors Who Rose to Power Bashing the Medical Establishment Are Now the Medical Establishment. Good Luck With That. (Science Based Medicine)</title>
-      <link>https://sciencebasedmedicine.org/letthemfight/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=letthemfight</link>
-      <author>Science Based Medicine</author>
-      <guid>https://sciencebasedmedicine.org/?p=108600</guid>
-      <pubDate>Fri, 16 May 2025 07:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
