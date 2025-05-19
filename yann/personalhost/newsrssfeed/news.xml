@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Obamas react to Biden cancer diagnosis (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5306882-obama-encourages-biden-after-cancer-diagnosis/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5306882</guid>
+      <pubDate>Mon, 19 May 2025 02:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan: Press Cambodia’s Leader on Human Rights (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/05/18/japan-press-cambodias-leader-human-rights</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/05/18/japan-press-cambodias-leader-human-rights</guid>
+      <pubDate>Sun, 18 May 2025 21:00:00 -0400</pubDate>
+    </item>
+    <item>
       <title>Israel Says It Will Allow 'Basic' Aid Into Gaza After Nearly 3 Months Of Blockade (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/israel-ground-assault-gaza-airstrikes-kill-100_n_6829fc2ce4b0bccd40f51b78</link>
       <author>Huffington Post</author>
@@ -81,6 +95,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/18/gaza-humanitarian-aid-israel</guid>
       <pubDate>Sun, 18 May 2025 20:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>We met the group tearing down Australia’s colonial statues. They have plans to escalate (SBS News)</title>
+      <link>https://www.sbs.com.au/news/the-feed/article/inside-the-secret-group-taking-down-australias-colonial-statues-it-has-a-list-of-priorities/lglzvoy7w</link>
+      <author>SBS News</author>
+      <guid>00000196-d358-dd87-abde-db5b3b520000</guid>
+      <pubDate>Sun, 18 May 2025 19:46:41 +0000</pubDate>
     </item>
     <item>
       <title>Portugal: la coalition de droite remporte les législatives, l'extrême droite atteint la barre des 20% (RFI)</title>
@@ -1411,28 +1432,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/crowdfunder-in-memory-of-krissi-hunt-could-educate-coroners-on-links-between-dwp-and-claimant-deaths/</guid>
       <pubDate>Thu, 15 May 2025 16:39:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						EU won’t accept UK-style tariff deal with Trump, ministers say					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-wont-accept-uk-china-style-tariff-deal-with-trump-ministers-say/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-wont-accept-uk-china-style-tariff-deal-with-trump-ministers-say/</guid>
-      <pubDate>Thu, 15 May 2025 16:39:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>Rising Food Prices Deepen Nigeria’s Poverty Crisis (Human Rights Watch)</title>
-      <link>https://www.hrw.org/news/2025/05/15/rising-food-prices-deepen-nigerias-poverty-crisis</link>
-      <author>Human Rights Watch</author>
-      <guid>https://www.hrw.org/news/2025/05/15/rising-food-prices-deepen-nigerias-poverty-crisis</guid>
-      <pubDate>Thu, 15 May 2025 12:37:54 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mind faces discrimination claims after internal probe calls for multiple improvements on equality (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/mind-faces-discrimination-claims-after-internal-probe-calls-for-multiple-improvements-on-equality/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/mind-faces-discrimination-claims-after-internal-probe-calls-for-multiple-improvements-on-equality/</guid>
-      <pubDate>Thu, 15 May 2025 16:25:31 -0000</pubDate>
     </item>
   </channel>
 </rss>
