@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Boele, she wrote: The Bradfield independent appears to have claimed blue-ribbon Liberal seat (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/05/20/nicolette-boele-bradfield-teal-independent/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1207433</guid>
+      <pubDate>Tue, 20 May 2025 00:35:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump DOJ charges Democratic Rep. LaMonica McIver over clash with ICE officers (Axios)</title>
+      <link>https://www.axios.com/2025/05/20/mciver-justice-department-trump-charged-ice</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/20/mciver-justice-department-trump-charged-ice</guid>
+      <pubDate>Tue, 20 May 2025 00:22:03 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						BBC’s Gary Lineker departs after sharing post about Zionism featuring a rat					 (Politico)</title>
       <link>https://www.politico.eu/article/gary-lineker-bbc-israel-palestine-rat-zionism-accusation/</link>
@@ -46,6 +60,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/trump-trusts-putin-believes-he-wants-peace-in-ukraine</guid>
       <pubDate>Tue, 20 May 2025 00:50:11 +0300</pubDate>
+    </item>
+    <item>
+      <title>Supreme Court Lets Trump Lift Deportation Protections for Venezuelans (New York Times)</title>
+      <link>https://www.nytimes.com/2025/05/19/us/politics/supreme-court-protected-status-venezuelans.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/05/19/us/politics/supreme-court-protected-status-venezuelans.html</guid>
+      <pubDate>Mon, 19 May 2025 21:19:06 +0000</pubDate>
     </item>
     <item>
       <title>The real message of the Moody's downgrade (Axios)</title>
@@ -133,6 +154,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/19/nih-cuts-cancer-research-hhs</guid>
       <pubDate>Mon, 19 May 2025 18:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: First flight leaves U.S. under Trump's $1,000 "self-deport" deal (Axios)</title>
+      <link>https://www.axios.com/2025/05/19/self-deportation-flights-1000-dollars</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/19/self-deportation-flights-1000-dollars</guid>
+      <pubDate>Mon, 19 May 2025 18:21:19 +0000</pubDate>
     </item>
     <item>
       <title>Microsoft closes 9-year-old feature request, open-sources Windows Subsystem for Linux (Arstechnica)</title>
@@ -1409,34 +1437,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/propublica-editor-training-cohort-2025</guid>
       <pubDate>Fri, 16 May 2025 08:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Russia and Ukraine meet for the first time in three years to discuss ceasefire (Axios)</title>
-      <link>https://www.axios.com/2025/05/16/russia-ukraine-ceasefire-talks-turkey</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/16/russia-ukraine-ceasefire-talks-turkey</guid>
-      <pubDate>Fri, 16 May 2025 11:42:10 +0000</pubDate>
-    </item>
-    <item>
-      <title> European summit in Albania to focus on tougher sanctions against Russia, Politico reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/european-summit-in-albania-to-focus-on-tougher-sanctions-against-russia-politico-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/european-summit-in-albania-to-focus-on-tougher-sanctions-against-russia-politico-reports</guid>
-      <pubDate>Fri, 16 May 2025 14:40:23 +0300</pubDate>
-    </item>
-    <item>
-      <title>Slovénie: disparition d'une statue de Melania Trump érigée près de sa ville natale (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250516-slov%C3%A9nie-disparition-d-une-statue-de-melania-trump-%C3%A9rig%C3%A9e-pr%C3%A8s-de-sa-ville-natale</link>
-      <author>RFI</author>
-      <guid>c1104d1a-323e-11f0-95fe-005056bf762b</guid>
-      <pubDate>Fri, 16 May 2025 11:28:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rocket Report: How is your payload fairing? Poland launches test rocket. (Arstechnica)</title>
-      <link>https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/</guid>
-      <pubDate>Fri, 16 May 2025 11:00:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
