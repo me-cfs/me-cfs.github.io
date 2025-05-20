@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Gen Z's new side hustle: selling data (Axios)</title>
+      <link>https://www.axios.com/2025/05/20/gen-z-data-privacy-generation-lab-verb-ai</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/20/gen-z-data-privacy-generation-lab-verb-ai</guid>
+      <pubDate>Tue, 20 May 2025 08:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title> EU to adopt 17th sanctions package against Russia on May 20; 18th package underway  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/eu-to-adopt-17th-sanctions-package-against-russia-on-may-20-18th-package-underway</link>
       <author>Kyiv Indpendent</author>
@@ -1431,15 +1438,6 @@
       <author>RFI</author>
       <guid>a6d8f652-3281-11f0-af5e-005056a97652</guid>
       <pubDate>Fri, 16 May 2025 18:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-        Cover Story newsletter: How we chose the cover images
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/05/16/cover-story-newsletter-how-we-chose-the-cover-images</link>
-      <author>Economist the World this Week</author>
-      <guid>9fb331c4-d409-42cd-a4e5-dd2296322ef9</guid>
-      <pubDate>Fri, 16 May 2025 18:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
