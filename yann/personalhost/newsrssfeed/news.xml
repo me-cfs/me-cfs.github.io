@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks kill 1, injure 13 in Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-150</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-150</guid>
+      <pubDate>Tue, 20 May 2025 09:38:28 +0300</pubDate>
+    </item>
+    <item>
       <title>La loi qui durcit la justice des mineurs adoptée: «La France tourne clairement le dos à ce qu'elle est» (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250520-france-loi-attal-justice-des-mineurs-adopt%C3%A9e-avocat-contestation-droit-enfant</link>
       <author>RFI</author>
@@ -1434,13 +1441,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/its-all-a-farce-ukrainian-soldiers-react-to-peace-talks-in-istanbul</guid>
       <pubDate>Fri, 16 May 2025 20:28:34 +0300</pubDate>
-    </item>
-    <item>
-      <title>Présidentielle en Pologne: le parti de Donald Tusk visé par une cyberattaque (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250516-pr%C3%A9sidentielle-en-pologne-le-parti-de-donald-tusk-vis%C3%A9-par-une-cyberattaque</link>
-      <author>RFI</author>
-      <guid>43961d56-3275-11f0-a78d-005056bf762b</guid>
-      <pubDate>Fri, 16 May 2025 17:13:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
