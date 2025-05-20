@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump officials deported Vietnamese and Burmese migrants to South Sudan, say lawyers (Guardian)</title>
+      <link>https://www.theguardian.com/us-news/2025/may/20/trump-administration-deported-migrants-south-sudan</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/us-news/2025/may/20/trump-administration-deported-migrants-south-sudan</guid>
+      <pubDate>Tue, 20 May 2025 21:33:14 GMT</pubDate>
+    </item>
+    <item>
       <title>El Salvador: Prominent Human Rights Defender Arrested (Human Rights Watch)</title>
       <link>https://www.hrw.org/news/2025/05/20/el-salvador-prominent-human-rights-defender-arrested</link>
       <author>Human Rights Watch</author>
@@ -1433,13 +1440,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/israel-launch-new-operation-gaza-us-trump-leaves-middle-east/</guid>
       <pubDate>Sun, 18 May 2025 05:10:07 -0000</pubDate>
-    </item>
-    <item>
-      <title>Présidentielle en Pologne: les enjeux d’une élection en forme de test pour le gouvernement Tusk (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250518-pr%C3%A9sidentielle-pologne-enjeux-%C3%A9lection-en-forme-de-test-pour-le-gouvernement-tusk</link>
-      <author>RFI</author>
-      <guid>dcb224ae-3341-11f0-81f7-005056bf762b</guid>
-      <pubDate>Sun, 18 May 2025 05:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
