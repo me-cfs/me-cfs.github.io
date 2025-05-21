@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>South Sudan thrust under spotlight after attempted US deportations (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/may/21/south-sudan-thrust-under-spotlight-after-attempted-us-deportations</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/may/21/south-sudan-thrust-under-spotlight-after-attempted-us-deportations</guid>
+      <pubDate>Wed, 21 May 2025 16:58:58 GMT</pubDate>
+    </item>
+    <item>
       <title>L’entrepreneuriat est-il suffisamment encouragé en France ? (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250521-l-entrepreneuriat-est-il-suffisamment-encourag%C3%A9-en-france</link>
       <author>RFI</author>
@@ -652,6 +659,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/20/mike-johnson-thune-republican-senators</guid>
       <pubDate>Tue, 20 May 2025 17:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>How China became cool (Economist)</title>
+      <link>https://www.economist.com/china/2025/05/20/how-china-became-cool</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/china/2025/05/20/how-china-became-cool</guid>
+      <pubDate>Tue, 20 May 2025 17:45:04 GMT</pubDate>
     </item>
     <item>
       <title>Google is putting more AI in more places (Axios)</title>
@@ -1416,21 +1430,6 @@
       <author>Human Rights Watch</author>
       <guid>https://www.hrw.org/news/2025/05/19/discriminatory-testing-blocks-migrant-childrens-right-education-russia</guid>
       <pubDate>Mon, 19 May 2025 09:37:32 -0400</pubDate>
-    </item>
-    <item>
-      <title>
-						Tate bro tears and EU delight as Dan beats right-winger in Romania’s election					 (Politico)</title>
-      <link>https://www.politico.eu/article/nicusor-dan-romania-presidential-election-reaction-european-union-andrew-tate/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/nicusor-dan-romania-presidential-election-reaction-european-union-andrew-tate/</guid>
-      <pubDate>Mon, 19 May 2025 13:26:06 -0000</pubDate>
-    </item>
-    <item>
-      <title> EU coordinating next Russia sanctions with US, Germany says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/eu-coordinating-russia-sanctions-in-cooperation-with-us-germany-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/eu-coordinating-russia-sanctions-in-cooperation-with-us-germany-says</guid>
-      <pubDate>Mon, 19 May 2025 16:14:08 +0300</pubDate>
     </item>
   </channel>
 </rss>
