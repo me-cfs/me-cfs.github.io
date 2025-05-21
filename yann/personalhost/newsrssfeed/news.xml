@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's Oval Office is a danger zone for world leaders (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/trump-oval-office-ramaphosa-zelensky</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/trump-oval-office-ramaphosa-zelensky</guid>
+      <pubDate>Wed, 21 May 2025 20:21:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Republican moves to expel Rep. LaMonica McIver from Congress (Axios)</title>
       <link>https://www.axios.com/2025/05/21/lamonica-mciver-expel-congress-nancy-mace</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/21/lamonica-mciver-expel-congress-nancy-mace</guid>
       <pubDate>Wed, 21 May 2025 20:11:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump admin deportations to South Sudan violated court order, judge rules (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</guid>
+      <pubDate>Wed, 21 May 2025 19:28:39 +0000</pubDate>
     </item>
     <item>
       <title> Ukraine war latest: Russian semiconductor plant making missile, jet parts hit in Ukrainian attack, military says  (Kyiv Indpendent)</title>
@@ -46,6 +60,13 @@
       <author>RTS</author>
       <guid>28891051</guid>
       <pubDate>Wed, 21 May 2025 18:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scoop: GOP senator investigating White House handling of Biden's health (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/senate-republican-ron-johnson-biden-health</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/senate-republican-ron-johnson-biden-health</guid>
+      <pubDate>Wed, 21 May 2025 17:30:38 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1407,28 +1428,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs</guid>
       <pubDate>Mon, 19 May 2025 13:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>
-						Macron’s office immersed in major Perrier mineral water scandal					 (Politico)</title>
-      <link>https://www.politico.eu/article/emmanuel-macron-france-mineral-water-scandal-perrier-nestle-waters-regulation/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/emmanuel-macron-france-mineral-water-scandal-perrier-nestle-waters-regulation/</guid>
-      <pubDate>Mon, 19 May 2025 17:14:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Appel entre Trump et Poutine sur l'Ukraine: un entretien «instructif et utile» selon le président russe (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250519-appel-entre-trump-et-poutine-sur-l-ukraine-un-entretien-instructif-et-utile-selon-le-pr%C3%A9sident-russe</link>
-      <author>RFI</author>
-      <guid>121fe8e6-34ba-11f0-8cbd-005056bf762b</guid>
-      <pubDate>Mon, 19 May 2025 17:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno Retailleau peut-il relancer la droite française ? (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250519-bruno-retailleau-peut-il-relancer-la-droite-fran%C3%A7aise</link>
-      <author>RFI</author>
-      <guid>3f6acc1c-34d3-11f0-9284-005056a97652</guid>
-      <pubDate>Mon, 19 May 2025 17:03:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
