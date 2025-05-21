@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Biden's staged town hall footage was unusable, new book says (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/biden-town-hall-event-new-book-original-sin</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/biden-town-hall-event-new-book-original-sin</guid>
+      <pubDate>Wed, 21 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's "fiscal hawk" credentials collide with a $4 trillion deficit bomb (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/trump-tax-cuts-budget-deficit-debt</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/trump-tax-cuts-budget-deficit-debt</guid>
+      <pubDate>Wed, 21 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Won’t Force Medicaid to Cover GLP-1s for Obesity. A Few States Are Doing It Anyway. (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/glp1-drugs-weight-loss-obesity-trump-medicaid-coverage-south-carolina/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2028461</guid>
+      <pubDate>Wed, 21 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title> US Senate to vote on new Russia sanctions unless peace efforts progress soon, Senator Graham says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/senate-to-vote-on-new-sanctions-against-russia-if-there-is-no-progress-in-peace-talks-soon-senator-graham-says</link>
       <author>Kyiv Indpendent</author>
@@ -52,6 +73,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/attacks-151</guid>
       <pubDate>Wed, 21 May 2025 10:40:00 +0300</pubDate>
+    </item>
+    <item>
+      <title> Russian semiconductor plant making missile, jet parts hit in Ukrainian attack, military says  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/massive-drone-attack-hits-russia-semiconductor-plant-reportedly-targeted</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/massive-drone-attack-hits-russia-semiconductor-plant-reportedly-targeted</guid>
+      <pubDate>Wed, 21 May 2025 09:45:19 +0300</pubDate>
     </item>
     <item>
       <title>Guerre à Gaza: l'accord d'association entre l'Union européenne et Israël sera réexaminé (RFI)</title>
@@ -1403,35 +1431,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/ap-eu-romania-election-george-simion-nicusor-dan_n_682a4804e4b0bccd40f52d29</guid>
       <pubDate>Sun, 18 May 2025 21:32:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>News in Brief for the week of May 11th (ME/LC News)</title>
-      <link>https://www.s4me.info/threads/news-in-brief-may-2025.43985/#post-610066/</link>
-      <author>ME/LC News</author>
-      <guid>https://med-mastodon.com/@s4me/114530867881203249</guid>
-      <pubDate>Sun, 18 May 2025 21:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Center-right projected to win Portugal’s election — but not a majority					 (Politico)</title>
-      <link>https://www.politico.eu/article/portugal-election-center-right-democratic-alliance-coalition-luis-montenegro-chega/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/portugal-election-center-right-democratic-alliance-coalition-luis-montenegro-chega/</guid>
-      <pubDate>Sun, 18 May 2025 20:29:27 -0000</pubDate>
-    </item>
-    <item>
-      <title>Biden diagnosed with prostate cancer: reports (Axios)</title>
-      <link>https://www.axios.com/2025/05/18/biden-prostate-cancer-diagnosed</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/18/biden-prostate-cancer-diagnosed</guid>
-      <pubDate>Sun, 18 May 2025 20:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Israeli Cabinet approves resuming immediate humanitarian aid to Gaza (Axios)</title>
-      <link>https://www.axios.com/2025/05/18/gaza-humanitarian-aid-israel</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/18/gaza-humanitarian-aid-israel</guid>
-      <pubDate>Sun, 18 May 2025 20:07:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
