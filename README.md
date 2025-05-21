@@ -28,7 +28,6 @@
 * [ME News](https://me-cfs.github.io/news/community/)
 * [Collection of Mainstream News about ME](https://me-cfs.github.io/news/collection/mainstream.html)
 * [ME/CFS resources](useful-resources.md)
-* [Long Covid Action Project is Dangerous](LCAP.md)
 * [What is ME/CFS?](me-cfs.md)
 
 <br/> <br/>
