@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Serbie: malgré des résultats, les manifestations anti-Vucic perdent de leur ampleur (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250522-serbie-malgr%C3%A9-des-r%C3%A9sultats-les-manifestations-anti-vucic-perdent-de-leur-ampleur</link>
+      <author>RFI</author>
+      <guid>740af07a-36cf-11f0-bfda-005056bf762b</guid>
+      <pubDate>Thu, 22 May 2025 06:35:06 GMT</pubDate>
+    </item>
+    <item>
       <title>How an idealistic tree-planting project turned into Kenya’s toxic, thorny nightmare (Guardian)</title>
       <link>https://www.theguardian.com/environment/2025/may/22/kenya-mathenge-desertification-invasive-plants-neltuma-prosopis-juliflora-samburu-pastoralists-aoe</link>
       <author>Guardian</author>
@@ -168,6 +175,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/21/deputy-cia-director-ellis-china-spying</guid>
       <pubDate>Wed, 21 May 2025 22:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Une analyse inédite de Public Eye dévoile l’ampleur du pantouflage dans le secteur pharma en Suisse (Public Eye)</title>
+      <link>https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/une-analyse-inedite-de-public-eye-devoile-lampleur-du-pantouflage-dans-le-secteur-pharma-en-suisse</link>
+      <author>Public Eye</author>
+      <guid>187-1934</guid>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Top moments from Axios' Building The Future event (Axios)</title>
@@ -1413,20 +1427,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-to-africa-no-more-free-cash/</guid>
       <pubDate>Tue, 20 May 2025 01:29:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>Wake-up call: Leadership in the AI age (Axios)</title>
-      <link>https://www.axios.com/2025/05/20/ai-leadership</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/20/ai-leadership</guid>
-      <pubDate>Tue, 20 May 2025 01:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dean Phillips on timing of Biden's cancer news: 'I don’t think it’s coincidental' (The Hill)</title>
-      <link>https://thehill.com/homenews/campaign/5308638-dean-phillips-on-timing-of-bidens-cancer-news/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5308638</guid>
-      <pubDate>Tue, 20 May 2025 01:15:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
