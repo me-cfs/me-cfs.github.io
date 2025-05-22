@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: enfin dévoilée, la liste des métiers en tension révèle certaines failles (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250522-france-enfin-d%C3%A9voil%C3%A9e-la-liste-des-m%C3%A9tiers-en-tension-r%C3%A9v%C3%A8le-certaines-failles</link>
+      <author>RFI</author>
+      <guid>9ae96568-372a-11f0-805d-b59cad4e5176</guid>
+      <pubDate>Thu, 22 May 2025 16:47:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Du Portugal à la Pologne, comment comprendre la percée de l'extrême droite en Europe ? (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/d%C3%A9cryptage/20250522-du-portugal-%C3%A0-la-pologne-comment-comprendre-la-perc%C3%A9e-de-l-extr%C3%AAme-droite-en-europe</link>
       <author>RFI</author>
@@ -1422,13 +1429,6 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=226952</guid>
       <pubDate>Tue, 20 May 2025 11:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The lose-lose calculus of the White House trade war (Axios)</title>
-      <link>https://www.axios.com/2025/05/20/trump-trade-tariffs-workers-business</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/20/trump-trade-tariffs-workers-business</guid>
-      <pubDate>Tue, 20 May 2025 11:00:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
