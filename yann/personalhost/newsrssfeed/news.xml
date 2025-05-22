@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: Escalating Russian Attacks on Civilians (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/05/22/ukraine-escalating-russian-attacks-civilians</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/05/22/ukraine-escalating-russian-attacks-civilians</guid>
+      <pubDate>Thu, 22 May 2025 00:00:01 -0400</pubDate>
+    </item>
+    <item>
       <title>2 Israeli Embassy staff killed near Capital Jewish Museum in D.C., officials say (Axios)</title>
       <link>https://www.axios.com/2025/05/22/israeli-embassy-staff-killed-shooting-capital-jewish-museum-dc</link>
       <author>Axios</author>
@@ -1421,13 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/gary-lineker-bbc-israel-palestine-rat-zionism-accusation/</guid>
       <pubDate>Mon, 19 May 2025 23:27:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>Biden’s cancer raises questions around screening, timing  (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5308413-prostate-cancer-screening-biden/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5308413</guid>
-      <pubDate>Mon, 19 May 2025 23:26:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
