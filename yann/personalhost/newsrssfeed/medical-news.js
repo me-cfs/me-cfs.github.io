@@ -27,4 +27,11 @@ module.exports = [
     inclusionWords: [...tList.disability, ...tList.medicine, ...tList.usPolitics, 'rural', 'aca', 'ada'],
     exclusionWords: [...tList.spanish, ...tList.nonArticle],
   },
+{
+    name: 'Science Based Medicine',
+    url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
+    exclusionWords: ['?', 'questions', 'Kulldorf',],
+    minCharsTitle: 12,
+    off: true,
+  },
 ];
