@@ -194,14 +194,7 @@ module.exports = [
     altUrls: ['https://paulkrugman.substack.com/feed'],
     off: false,
   },
-  {
-    name: 'Science Based Medicine',
-    url: 'http://www.sciencebasedmedicine.org/?feed=rss2',
-    exclusionWords: ['?', 'questions', 'Kulldorf',],
-    minCharsTitle: 12,
-  },
   
-
 // Oceania
   { //Australia
     name: 'BBC',
