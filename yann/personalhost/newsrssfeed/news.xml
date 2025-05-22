@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Supreme Court says Federal Reserve protected from Trump removals (Axios)</title>
+      <link>https://www.axios.com/2025/05/22/federal-reserve-supreme-court-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/22/federal-reserve-supreme-court-trump</guid>
+      <pubDate>Thu, 22 May 2025 21:30:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump says autism ‘has to be artificially induced’ (The Hill)</title>
       <link>https://thehill.com/homenews/administration/5314993-trump-autism-maha-commission-report/</link>
       <author>The Hill</author>
@@ -1417,13 +1424,6 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=6802</guid>
       <pubDate>Tue, 20 May 2025 16:59:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration set to limit COVID-19 shot approvals to the elderly, highest-risk (The Hill)</title>
-      <link>https://thehill.com/homenews/state-watch/5309654-trump-administration-covid-vaccines/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5309654</guid>
-      <pubDate>Tue, 20 May 2025 16:51:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
