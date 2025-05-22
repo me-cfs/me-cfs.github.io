@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The Senate just voted to block California’s gas car ban (Grist)</title>
+      <link>https://grist.org/regulation/senate-rescinds-californias-ev-rules-congressional-review-act/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=665911</guid>
+      <pubDate>Thu, 22 May 2025 23:43:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump defies ethics warnings with private meme coin dinner (Axios)</title>
       <link>https://www.axios.com/2025/05/22/trump-meme-coin-dinner</link>
       <author>Axios</author>
@@ -1416,13 +1423,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/20/mike-johnson-thune-republican-senators</guid>
       <pubDate>Tue, 20 May 2025 17:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>How China became cool (Economist)</title>
-      <link>https://www.economist.com/china/2025/05/20/how-china-became-cool</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/china/2025/05/20/how-china-became-cool</guid>
-      <pubDate>Tue, 20 May 2025 17:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
