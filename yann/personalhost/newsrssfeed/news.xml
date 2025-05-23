@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Court halts Trump administration’s attempt to send eight men to South Sudan (Guardian)</title>
+      <link>https://www.theguardian.com/us-news/2025/may/23/trump-south-sudan-deportations-halted-judge</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/us-news/2025/may/23/trump-south-sudan-deportations-halted-judge</guid>
+      <pubDate>Fri, 23 May 2025 16:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uncertainty loomed as FDA advisors met to discuss this year’s COVID shot (Arstechnica)</title>
+      <link>https://arstechnica.com/health/2025/05/fda-advisors-for-covid-shots-left-in-the-dark-over-how-theyll-be-regulated/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/health/2025/05/fda-advisors-for-covid-shots-left-in-the-dark-over-how-theyll-be-regulated/</guid>
+      <pubDate>Fri, 23 May 2025 15:10:37 +0000</pubDate>
+    </item>
+    <item>
       <title> Russia strikes Odesa port with ballistic missiles, kills 1, injures 8  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russia-strikes-odesa-port-with-ballistic-missiles-kills-1-injures-8</link>
       <author>Kyiv Indpendent</author>
@@ -1415,20 +1429,6 @@
       <author>SBS News</author>
       <guid>00000196-f129-d867-a3fe-fb390ffc0002</guid>
       <pubDate>Wed, 21 May 2025 08:14:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: au procès de l'ex-rebelle syrien Majdi Nema, la cour auditionne les parties civiles (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250521-france-au-proc%C3%A8s-de-l-ex-rebelle-syrien-majdi-nema-la-cour-auditionne-les-parties-civiles</link>
-      <author>RFI</author>
-      <guid>4d8be368-3608-11f0-a4a7-005056bf762b</guid>
-      <pubDate>Wed, 21 May 2025 08:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>South Africa’s Ramaphosa to take golf stars to Trump meeting at White House (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/may/21/south-africa-ramaphosa-golf-stars-trump-meeting-white-house</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/may/21/south-africa-ramaphosa-golf-stars-trump-meeting-white-house</guid>
-      <pubDate>Wed, 21 May 2025 08:07:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
