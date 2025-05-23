@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Trump threatens EU with 50 percent tariff from June 1					 (Politico)</title>
+      <link>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</guid>
+      <pubDate>Fri, 23 May 2025 13:02:32 -0000</pubDate>
+    </item>
+    <item>
       <title> German company shipped restricted technology to Russia despite EU sanctions, Politico reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/german-company-ships-restricted-technology-to-russia-despite-eu-sanctions-politico-reports</link>
       <author>Kyiv Indpendent</author>
@@ -39,6 +47,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/23/fannie-freddie-trump-stocks</guid>
       <pubDate>Fri, 23 May 2025 11:30:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rocket Report: SpaceX’s expansion at Vandenberg; India’s PSLV fails in flight (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/05/rocket-report-spacexs-expansion-at-vandenberg-indias-pslv-fails-in-flight/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/05/rocket-report-spacexs-expansion-at-vandenberg-indias-pslv-fails-in-flight/</guid>
+      <pubDate>Fri, 23 May 2025 11:00:35 +0000</pubDate>
     </item>
     <item>
       <title>Child tax benefit increase leaves out millions of kids, analysis says (Axios)</title>
@@ -159,6 +174,13 @@
       <author>RFI</author>
       <guid>1e3459e4-37a0-11f0-9b29-8762d6013a83</guid>
       <pubDate>Fri, 23 May 2025 06:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title> Ukraine confirms strike on Russian factory making parts for Iskander ballistic missiles, glide bombs  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/us-sanctioned-russian-plant-reportedly-targeted-in-drone-attack-on-lipetsk-oblast</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/us-sanctioned-russian-plant-reportedly-targeted-in-drone-attack-on-lipetsk-oblast</guid>
+      <pubDate>Fri, 23 May 2025 09:04:05 +0300</pubDate>
     </item>
     <item>
       <title>France: Gabriel Attal suscite la polémique en voulant interdire le port du voile aux moins de 15 ans (RFI)</title>
@@ -1407,27 +1429,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/massive-drone-attack-hits-russia-semiconductor-plant-reportedly-targeted</guid>
       <pubDate>Wed, 21 May 2025 09:45:19 +0300</pubDate>
-    </item>
-    <item>
-      <title>Guerre à Gaza: l'accord d'association entre l'Union européenne et Israël sera réexaminé (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250521-guerre-gaza-accord-association-ue-isra%C3%ABl-sera-r%C3%A9examin%C3%A9-sanctions</link>
-      <author>RFI</author>
-      <guid>7e4efcd4-360c-11f0-a456-005056bf762b</guid>
-      <pubDate>Wed, 21 May 2025 06:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title> Pope Leo willing to host Ukraine peace talks in Vatican, Italy&amp;#x27;s Meloni says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/pope-leo-willing-to-host-next-round-of-peace-talks-in-vatican-italys-meloni-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/pope-leo-willing-to-host-next-round-of-peace-talks-in-vatican-italys-meloni-says</guid>
-      <pubDate>Wed, 21 May 2025 09:09:56 +0300</pubDate>
-    </item>
-    <item>
-      <title> 6 service members killed, 10 injured in Russian missile strike in Sumy Oblast, National Guard says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/6-service-members-killed-10-injured-in-russian-missile-strike-in-sumy-oblast-national-guard-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/6-service-members-killed-10-injured-in-russian-missile-strike-in-sumy-oblast-national-guard-says</guid>
-      <pubDate>Wed, 21 May 2025 08:37:33 +0300</pubDate>
     </item>
   </channel>
 </rss>
