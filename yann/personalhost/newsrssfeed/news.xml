@@ -5,12 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Harvard sues Trump over international student ban (Axios)</title>
+      <link>https://www.axios.com/2025/05/23/harvard-sues-trump-administration</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/23/harvard-sues-trump-administration</guid>
+      <pubDate>Fri, 23 May 2025 13:17:17 +0000</pubDate>
+    </item>
+    <item>
       <title>
 						Trump threatens EU with 50 percent tariff from June 1					 (Politico)</title>
       <link>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</link>
       <author>Politico</author>
       <guid>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</guid>
       <pubDate>Fri, 23 May 2025 13:02:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Colorado art exhibition showcases creative expressions of Long COVID, advocates for research and treatment (ME/LC News)</title>
+      <link>https://thesicktimes.org/2025/05/23/colorado-art-exhibition-showcases-creative-expressions-of-long-covid-advocates-for-research-and-treatment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=colorado-art-exhibition-showcases-creative-expressions-of-long-covid-advocates-for-research-and-treatment</link>
+      <author>ME/LC News</author>
+      <guid>https://thesicktimes.org/?p=6855</guid>
+      <pubDate>Fri, 23 May 2025 12:45:00 +0000</pubDate>
     </item>
     <item>
       <title> German company shipped restricted technology to Russia despite EU sanctions, Politico reports  (Kyiv Indpendent)</title>
@@ -1415,20 +1429,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/may/21/aid-cuts-threaten-effort-reduce-maternal-deaths-nigeria</guid>
       <pubDate>Wed, 21 May 2025 08:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title> 2 killed, 23 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-151</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-151</guid>
-      <pubDate>Wed, 21 May 2025 10:40:00 +0300</pubDate>
-    </item>
-    <item>
-      <title> Russian semiconductor plant making missile, jet parts hit in Ukrainian attack, military says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/massive-drone-attack-hits-russia-semiconductor-plant-reportedly-targeted</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/massive-drone-attack-hits-russia-semiconductor-plant-reportedly-targeted</guid>
-      <pubDate>Wed, 21 May 2025 09:45:19 +0300</pubDate>
     </item>
   </channel>
 </rss>
