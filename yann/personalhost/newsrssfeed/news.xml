@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Maison des Lionnes: un refuge et un nouveau départ pour les femmes en grande précarité (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/renens-la-maison-des-lionnes-refuge-unique-pour-femmes-en-precarite-28890615.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28890615</guid>
+      <pubDate>Sat, 24 May 2025 15:36:55 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Trump rushes to announce largest POW swap of Russia-Ukraine war					 (Politico)</title>
       <link>https://www.politico.eu/article/donald-trump-rushes-to-spoil-largest-russia-ukraine-prisoners-swap-of-the-war/</link>
@@ -1427,13 +1434,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/us-news/2025/may/21/trump-deportations-south-sudan</guid>
       <pubDate>Wed, 21 May 2025 17:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>South Sudan thrust under spotlight after attempted US deportations (Guardian)</title>
-      <link>https://www.theguardian.com/world/2025/may/21/south-sudan-thrust-under-spotlight-after-attempted-us-deportations</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/2025/may/21/south-sudan-thrust-under-spotlight-after-attempted-us-deportations</guid>
-      <pubDate>Wed, 21 May 2025 16:58:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
