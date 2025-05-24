@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						EU plans new fund to help tech companies scale					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-commission-fund-tech-startups-ai-quantum-biotech-innovation/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-commission-fund-tech-startups-ai-quantum-biotech-innovation/</guid>
+      <pubDate>Sat, 24 May 2025 05:46:45 -0000</pubDate>
+    </item>
+    <item>
       <title>How to watch Women's Champions League final 2025: What's at stake for Arsenal and Barcelona (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6378641/2025/05/24/champions-league-final-2025-womens-barcelona-arsenal/</link>
       <author>The Athletic Football</author>
@@ -25,6 +33,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/belgium-future-queen-trump-war-harvard-monarchy-lawsuit-antisemitism-allegations/</guid>
       <pubDate>Fri, 23 May 2025 23:10:15 -0000</pubDate>
+    </item>
+    <item>
+      <title> 8 injured as Russia hits Kyiv with drones, missiles hours after largest prisoner exchange kicks off  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/explosions-reported-in-kyiv-amid-russian-drone-attack</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/explosions-reported-in-kyiv-amid-russian-drone-attack</guid>
+      <pubDate>Sat, 24 May 2025 00:53:42 +0300</pubDate>
     </item>
     <item>
       <title>Allemagne: 12 blessés dans une attaque au couteau à la gare de Hambourg, une suspecte arrêtée (RFI)</title>
@@ -1417,20 +1432,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/21/musk-trump-south-africa-cyril-ramaphosa</guid>
       <pubDate>Wed, 21 May 2025 13:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title> Poland intercepts Russian sanctions-evading ship near critical Baltic power cable, Tusk says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/poland-intercepts-russian-sanctions-evading-ship-near-critical-baltic-power-cable-tusk-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/poland-intercepts-russian-sanctions-evading-ship-near-critical-baltic-power-cable-tusk-says</guid>
-      <pubDate>Wed, 21 May 2025 16:47:30 +0300</pubDate>
-    </item>
-    <item>
-      <title>La Suisse va verser 10 millions de francs à l'UNRWA (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-va-verser-10-millions-de-francs-a-l-unrwa-28890853.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28890853</guid>
-      <pubDate>Wed, 21 May 2025 13:46:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
