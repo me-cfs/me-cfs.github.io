@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian chemical plant, missile parts manufacturer targeted in alleged Ukrainian drone strike  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-factories-targeted-in-alleged-ukrainian-drone-strike</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-factories-targeted-in-alleged-ukrainian-drone-strike</guid>
+      <pubDate>Sat, 24 May 2025 10:23:34 +0300</pubDate>
+    </item>
+    <item>
       <title>Présidentielle en Pologne: avant le deuxième tour, les candidats tentent de convaincre à droite (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250524-pr%C3%A9sidentielle-en-pologne-avant-le-deuxi%C3%A8me-tour-les-candidats-tentent-de-convaincre-%C3%A0-droite</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>RFI</author>
       <guid>bf6d6338-364b-11f0-8ad2-005056a97652</guid>
       <pubDate>Wed, 21 May 2025 14:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comment la fin du transport de camions par rail pourrait transformer le visage des routes alpines suisses (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/fin-du-ferroutage-en-suisse-plus-de-camions-sur-les-routes-alpines-28890478.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28890478</guid>
-      <pubDate>Wed, 21 May 2025 14:30:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
