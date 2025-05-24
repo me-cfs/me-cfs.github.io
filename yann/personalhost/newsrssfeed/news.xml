@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>AI race goes supersonic in milestone-packed week (Axios)</title>
+      <link>https://www.axios.com/2025/05/24/ai-race-chatgpt-anthropic-google-apple-openai</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/24/ai-race-chatgpt-anthropic-google-apple-openai</guid>
+      <pubDate>Sat, 24 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ukraine: vaste attaque de drones russes sur Kiev et nouvel échange de prisonniers (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250524-ukraine-vaste-attaque-de-drones-russes-sur-kiev-et-nouvel-%C3%A9change-de-prisonniers</link>
       <author>RFI</author>
@@ -1427,13 +1434,6 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/05/21/2025/china-maintains-global-critical-minerals-dominance-report</guid>
       <pubDate>Wed, 21 May 2025 15:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>La libéralisation de l'électricité voulue par l'UE inquiète le secteur solaire suisse (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/liberalisation-de-l-electricite-menace-sur-le-soutien-au-solaire-en-suisse-28890354.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28890354</guid>
-      <pubDate>Wed, 21 May 2025 15:39:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
