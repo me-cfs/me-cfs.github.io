@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: vaste attaque de drones russes sur Kiev et nouvel échange de prisonniers (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250524-ukraine-vaste-attaque-de-drones-russes-sur-kiev-et-nouvel-%C3%A9change-de-prisonniers</link>
+      <author>RFI</author>
+      <guid>ba2158f6-3887-11f0-b4e1-edb82d626907</guid>
+      <pubDate>Sat, 24 May 2025 11:38:56 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Europe must learn the art of ‘unpowering’ Russia					 (Politico)</title>
       <link>https://www.politico.eu/article/europe-russia-power-military-moscow-hostility-war-ukraine-putin/</link>
@@ -1265,6 +1272,13 @@
       <pubDate>Wed, 21 May 2025 20:11:03 +0000</pubDate>
     </item>
     <item>
+      <title>Trump's DOJ to halt police reform deals in Louisville, Minneapolis (Axios)</title>
+      <link>https://www.axios.com/2025/05/21/justice-department-police-reform-louisville-minneapolis</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/21/justice-department-police-reform-louisville-minneapolis</guid>
+      <pubDate>Wed, 21 May 2025 19:50:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump admin deportations to South Sudan violated court order, judge rules (Axios)</title>
       <link>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</link>
       <author>Axios</author>
@@ -1420,20 +1434,6 @@
       <author>RTS</author>
       <guid>28890354</guid>
       <pubDate>Wed, 21 May 2025 15:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japan's exports to US fall as tariffs bite (Semafor)</title>
-      <link>https://www.semafor.com/article/05/21/2025/japans-exports-to-us-fall-as-tariffs-bite</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/21/2025/japans-exports-to-us-fall-as-tariffs-bite</guid>
-      <pubDate>Wed, 21 May 2025 15:30:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nvidia CEO says US chip export controls on China are a ‘failure’ (Semafor)</title>
-      <link>https://www.semafor.com/article/05/21/2025/nvidia-ceo-says-us-chip-export-controls-on-china-are-a-failure</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/05/21/2025/nvidia-ceo-says-us-chip-export-controls-on-china-are-a-failure</guid>
-      <pubDate>Wed, 21 May 2025 15:22:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
