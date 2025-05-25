@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump pauses threatened EU tariffs until July (Axios)</title>
+      <link>https://www.axios.com/2025/05/25/eu-tariffs-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/25/eu-tariffs-trump</guid>
+      <pubDate>Sun, 25 May 2025 23:05:13 +0000</pubDate>
+    </item>
+    <item>
       <title>France: au procès de Joël Le Scouarnec, l'heure des plaidoiries de la défense (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250525-france-au-proc%C3%A8s-de-jo%C3%ABl-le-scouarnec-l-heure-des-plaidoiries-de-la-d%C3%A9fense</link>
       <author>RFI</author>
@@ -1425,13 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/europe-red-tape-single-market-france-benjamin-haddad-china-united-states/</guid>
       <pubDate>Thu, 22 May 2025 02:59:11 -0000</pubDate>
-    </item>
-    <item>
-      <title> Ukraine to pitch harsher Russian sanctions to EU next week as US sanctions fall through, Reuters reports  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-to-pitch-harsher-sanctions-on-russia-to-eu-next-week-as-us-sanctions-fall-through-reuters-reports</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-to-pitch-harsher-sanctions-on-russia-to-eu-next-week-as-us-sanctions-fall-through-reuters-reports</guid>
-      <pubDate>Thu, 22 May 2025 05:58:03 +0300</pubDate>
     </item>
   </channel>
 </rss>
