@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						World’s cartoonists on this week’s events					 (Politico)</title>
+      <link>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-157/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-157/</guid>
+      <pubDate>Sun, 25 May 2025 02:46:58 -0000</pubDate>
+    </item>
+    <item>
       <title>The new move to expose the insidious tactics of Australia's cults (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/the-new-move-to-expose-the-insidious-tactics-of-australias-cults/7f32xq8pv</link>
       <author>SBS News</author>
@@ -1426,13 +1434,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/hurricane-helene-lessons-evacuation-orders-messaging</guid>
       <pubDate>Wed, 21 May 2025 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Apple vet Jony Ive joins OpenAI in $6.5 billion deal for his hardware startup (Axios)</title>
-      <link>https://www.axios.com/2025/05/21/jony-ive-openai-io-acquisition</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/21/jony-ive-openai-io-acquisition</guid>
-      <pubDate>Wed, 21 May 2025 18:16:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
