@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Ukraine: drones, missiles russes... «nuit de terreur» dans la région de Kiev (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250525-ukraine-drones-missiles-russes-nuit-de-terreur-dans-la-r%C3%A9gion-de-kiev</link>
+      <author>RFI</author>
+      <guid>1dffaba0-3934-11f0-9318-eb109ac53710</guid>
+      <pubDate>Sun, 25 May 2025 07:17:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Andreï Mordvitchev: un opérationnel à la tête de l’état-major de l’armée de terre russe (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20250525-andre%C3%AF-mordvitchev-un-op%C3%A9rationnel-%C3%A0-la-t%C3%AAte-de-l-%C3%A9tat-major-de-l-arm%C3%A9e-de-terre-russe</link>
       <author>RFI</author>
@@ -32,6 +39,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-157/</guid>
       <pubDate>Sun, 25 May 2025 02:46:58 -0000</pubDate>
+    </item>
+    <item>
+      <title> Russian missile, drone attack kills at least 12 in Ukraine  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russia-launches-mass-attack-on-kyiv-ukrainian-cities-for-second-night-in-row</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russia-launches-mass-attack-on-kyiv-ukrainian-cities-for-second-night-in-row</guid>
+      <pubDate>Sun, 25 May 2025 01:05:07 +0300</pubDate>
     </item>
     <item>
       <title>The new move to expose the insidious tactics of Australia's cults (SBS News)</title>
@@ -1419,20 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</guid>
       <pubDate>Wed, 21 May 2025 19:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title> Ukraine war latest: Russian semiconductor plant making missile, jet parts hit in Ukrainian attack, military says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/ukraine-war-latest-russian-semiconductor-plant-making-missile-jet-parts-hit-in-ukrainian-attack-military-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/ukraine-war-latest-russian-semiconductor-plant-making-missile-jet-parts-hit-in-ukrainian-attack-military-says</guid>
-      <pubDate>Wed, 21 May 2025 22:11:30 +0300</pubDate>
-    </item>
-    <item>
-      <title>Des images satellites montrent une intense activité militaire russe à la frontière avec la Finlande (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250521-des-images-satellites-montrent-une-intense-activit%C3%A9-militaire-russe-%C3%A0-la-fronti%C3%A8re-avec-la-finlande</link>
-      <author>RFI</author>
-      <guid>176666a8-366e-11f0-8dee-005056a97652</guid>
-      <pubDate>Wed, 21 May 2025 19:07:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
