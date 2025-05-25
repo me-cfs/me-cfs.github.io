@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La Confédération veut miser sur les images satellites pour surveiller les mouvements du sol (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/surveillance-du-sol-suisse-par-satellite-une-nouvelle-ere-pour-la-securite-28894463.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28894463</guid>
+      <pubDate>Sun, 25 May 2025 07:21:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Ukraine: drones, missiles russes... «nuit de terreur» dans la région de Kiev (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250525-ukraine-drones-missiles-russes-nuit-de-terreur-dans-la-r%C3%A9gion-de-kiev</link>
       <author>RFI</author>
@@ -1426,13 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/21/justice-department-police-reform-louisville-minneapolis</guid>
       <pubDate>Wed, 21 May 2025 19:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump admin deportations to South Sudan violated court order, judge rules (Axios)</title>
-      <link>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation</guid>
-      <pubDate>Wed, 21 May 2025 19:28:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
