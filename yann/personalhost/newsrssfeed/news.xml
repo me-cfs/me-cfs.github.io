@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump Unleashes Bizarre Commencement Speech at West Point (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/05/trump-speech-west-point-weird/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1133824</guid>
+      <pubDate>Sun, 25 May 2025 21:25:16 +0000</pubDate>
+    </item>
+    <item>
       <title> &amp;#x27;Putin is not interested in peace&amp;#x27; — German FM calls for additional sanctions following large-scale Russian attack on Ukraine  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/putin-is-not-interested-in-peace-german-fm-calls-for-additional-sanctions-following-large-scale-russian-attack-on-ukraine</link>
       <author>Kyiv Indpendent</author>
@@ -17,6 +24,13 @@
       <author>ME/LC News</author>
       <guid>https://med-mastodon.com/@s4me/114570365426555450</guid>
       <pubDate>Sun, 25 May 2025 20:30:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australia: Children Suffering Under Criminal Legal System (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/05/25/australia-children-suffering-under-criminal-legal-system</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/05/25/australia-children-suffering-under-criminal-legal-system</guid>
+      <pubDate>Sun, 25 May 2025 16:00:00 -0400</pubDate>
     </item>
     <item>
       <title>U.S.-German citizen arrested for attempted firebombing of U.S. embassy in Israel (Axios)</title>
@@ -1419,21 +1433,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/videos/cgj8g6675xxo#0</guid>
       <pubDate>Thu, 22 May 2025 02:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Donald Trump Jr. hints at run for US president					 (Politico)</title>
-      <link>https://www.politico.eu/article/donald-trump-jr-hints-run-us-president/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/donald-trump-jr-hints-run-us-president/</guid>
-      <pubDate>Thu, 22 May 2025 02:13:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>The departure of the Nats is far from the end of the Liberals’ problems (hint: it’s themselves) (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/05/22/coalition-split-nationals-moderate-liberals-still-have-problems/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1207735</guid>
-      <pubDate>Thu, 22 May 2025 02:08:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
