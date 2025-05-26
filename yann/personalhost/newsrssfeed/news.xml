@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Autriche: accusé de faux témoignage, l'ex-chancelier Sebastian Kurz relaxé en appel (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250526-autriche-accus%C3%A9-de-faux-t%C3%A9moignage-l-ex-chancelier-sebastian-kurz-relax%C3%A9-en-appel</link>
+      <author>RFI</author>
+      <guid>cf1f1322-3a37-11f0-aa93-6fdca204334e</guid>
+      <pubDate>Mon, 26 May 2025 14:00:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump uses another holiday message to attack political opponents (Axios)</title>
       <link>https://www.axios.com/2025/05/26/trump-memorial-day-message</link>
       <author>Axios</author>
@@ -1423,15 +1430,6 @@
       <author>RTS</author>
       <guid>28891744</guid>
       <pubDate>Thu, 22 May 2025 13:22:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-        The weekly cartoon
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/05/22/the-weekly-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>9d5cd6a9-0a1f-49c3-a748-9a540434597c</guid>
-      <pubDate>Thu, 22 May 2025 12:47:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
