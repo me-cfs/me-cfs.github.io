@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En Roumanie, la future mégabase aérienne de l’Otan face à la menace russe (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250526-en-roumanie-la-future-m%C3%A9gabase-a%C3%A9rienne-de-l-otan-face-%C3%A0-la-menace-russe</link>
+      <author>RFI</author>
+      <guid>09b5cd58-3a5d-11f0-a0cf-43c60da49049</guid>
+      <pubDate>Mon, 26 May 2025 22:05:06 GMT</pubDate>
+    </item>
+    <item>
       <title> Germany may send Ukraine older PAC-2 missiles for Patriot air defenses, WP reports  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/germany-plans-to-send-ukraine-pac-2-missiles-for-patriot-air-defense-systems-wp-reports</link>
       <author>Kyiv Indpendent</author>
@@ -1424,13 +1431,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/22/senate-thune-russia-sanctions-trump-putin-ukraine</guid>
       <pubDate>Thu, 22 May 2025 16:57:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: enfin dévoilée, la liste des métiers en tension révèle certaines failles (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250522-france-enfin-d%C3%A9voil%C3%A9e-la-liste-des-m%C3%A9tiers-en-tension-r%C3%A9v%C3%A8le-certaines-failles</link>
-      <author>RFI</author>
-      <guid>9ae96568-372a-11f0-805d-b59cad4e5176</guid>
-      <pubDate>Thu, 22 May 2025 16:47:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
