@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: avec sa convention thématique, Gabriel Attal trace son sillon (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250526-france-avec-sa-convention-th%C3%A9matique-gabriel-attal-trace-son-sillon</link>
+      <author>RFI</author>
+      <guid>da75de68-3a4b-11f0-b26a-e16eeb626443</guid>
+      <pubDate>Mon, 26 May 2025 17:15:04 GMT</pubDate>
+    </item>
+    <item>
       <title>White House envoy says Hamas' response to ceasefire proposal "unacceptable" (Axios)</title>
       <link>https://www.axios.com/2025/05/26/israel-hamas-gaza-ceasefire</link>
       <author>Axios</author>
@@ -1423,13 +1430,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/22/trump-education-department-closing</guid>
       <pubDate>Thu, 22 May 2025 15:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attaque à Washington: la France renforce la sécurité autour des «sites liés à la communauté juive» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250522-attaque-%C3%A0-washington-la-france-renforce-la-s%C3%A9curit%C3%A9-autour-des-sites-li%C3%A9s-%C3%A0-la-communaut%C3%A9-juive</link>
-      <author>RFI</author>
-      <guid>ba8fba14-3718-11f0-925b-d9b3d28d9320</guid>
-      <pubDate>Thu, 22 May 2025 15:17:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
