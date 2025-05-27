@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'USS dénonce une attaque en cours contre les bas salaires au Parlement (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/salaires-minimaux-menaces-l-uss-s-oppose-a-une-loi-federale-controversee-28896573.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28896573</guid>
+      <pubDate>Tue, 27 May 2025 12:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title> After 3 days of consecutive attacks on Ukraine, Russia calls UN meeting over alleged European &amp;#x27;threats to peace&amp;#x27;  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/after-3-days-of-consecutive-attacks-at-ukraine-russia-calls-for-un-security-council-meeting</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/after-3-days-of-consecutive-attacks-at-ukraine-russia-calls-for-un-security-council-meeting</guid>
+      <pubDate>Tue, 27 May 2025 14:54:27 +0300</pubDate>
+    </item>
+    <item>
       <title>4 Detained Amid Kim Jong Un's Fury Over Failed North Korea Warship Launch (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/north-korea-warship-detained_n_68359a42e4b0b885650d19b8</link>
       <author>Huffington Post</author>
@@ -1419,20 +1433,6 @@
       <author>RTS</author>
       <guid>28892617</guid>
       <pubDate>Fri, 23 May 2025 08:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's AI exhibits risky tactics, per researchers (Axios)</title>
-      <link>https://www.axios.com/2025/05/23/anthropic-ai-deception-risk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/23/anthropic-ai-deception-risk</guid>
-      <pubDate>Fri, 23 May 2025 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Révolution française de 1789: «il est temps de raconter l'histoire de tout le monde» (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20250523-r%C3%A9volution-fran%C3%A7aise-de-1789-il-est-temps-de-raconter-l-histoire-de-tout-le-monde</link>
-      <author>RFI</author>
-      <guid>1b82bd36-37a4-11f0-905a-6b70a7ac661a</guid>
-      <pubDate>Fri, 23 May 2025 07:26:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
