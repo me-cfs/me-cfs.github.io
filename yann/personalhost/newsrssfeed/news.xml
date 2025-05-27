@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Robot industry split over that humanoid look (Axios)</title>
+      <link>https://www.axios.com/2025/05/27/robots-humanoid-tesla-optimus</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/27/robots-humanoid-tesla-optimus</guid>
+      <pubDate>Tue, 27 May 2025 08:50:00 +0000</pubDate>
+    </item>
+    <item>
       <title> Russian attacks across Ukraine kill 2, injure 19 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-across-ukraine-5</link>
       <author>Kyiv Indpendent</author>
@@ -1431,13 +1438,6 @@
       <author>SBS News</author>
       <guid>00000196-fa5f-d17a-add7-fa7f19ea0000</guid>
       <pubDate>Fri, 23 May 2025 01:11:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>There’s a much worse Trump threat to Australia’s economy than a trade war (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/05/23/donald-trump-trade-war-us-bonds-debt-rba/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1207836</guid>
-      <pubDate>Fri, 23 May 2025 00:57:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
