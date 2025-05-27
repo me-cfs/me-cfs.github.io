@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: l'ancien maire de Paris Jean Tiberi est mort à l'âge de 90 ans (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250527-france-l-ancien-maire-de-paris-jean-tiberi-est-mort-%C3%A0-l-%C3%A2ge-de-90-ans</link>
+      <author>RFI</author>
+      <guid>76fae63a-3ae1-11f0-bbbf-1b6f732d787e</guid>
+      <pubDate>Tue, 27 May 2025 11:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frank Zobel: "Il n'y a pas de solution miracle" face au deal de rue (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/cocaine-en-suisse-expert-appelle-a-repenser-la-lutte-contre-le-deal-28896413.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28896413</guid>
+      <pubDate>Tue, 27 May 2025 11:11:46 GMT</pubDate>
+    </item>
+    <item>
       <title>‘They told me that they’d hunt me down’: journalists on how they survive working in war zones (Guardian)</title>
       <link>https://www.theguardian.com/global-development/2025/may/27/they-told-me-that-theyd-hunt-me-down-journalists-on-how-they-survive-working-in-war-zones</link>
       <author>Guardian</author>
@@ -1419,20 +1433,6 @@
       <author>RFI</author>
       <guid>1e3459e4-37a0-11f0-9b29-8762d6013a83</guid>
       <pubDate>Fri, 23 May 2025 06:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title> Ukraine confirms strike on Russian factory making parts for Iskander ballistic missiles, glide bombs  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/us-sanctioned-russian-plant-reportedly-targeted-in-drone-attack-on-lipetsk-oblast</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/us-sanctioned-russian-plant-reportedly-targeted-in-drone-attack-on-lipetsk-oblast</guid>
-      <pubDate>Fri, 23 May 2025 09:04:05 +0300</pubDate>
-    </item>
-    <item>
-      <title>France: Gabriel Attal suscite la polémique en voulant interdire le port du voile aux moins de 15 ans (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250523-france-gabriel-attal-suscite-la-pol%C3%A9mique-en-voulant-interdire-le-port-du-voile-aux-moins-de-15-ans</link>
-      <author>RFI</author>
-      <guid>977687c6-3798-11f0-84bd-8762d6013a83</guid>
-      <pubDate>Fri, 23 May 2025 06:03:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
