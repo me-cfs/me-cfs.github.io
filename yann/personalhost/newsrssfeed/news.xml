@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/la-baffe-de-brigitte-macron</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/23015</guid>
+      <pubDate>05/28/2025 00:12</pubDate>
+    </item>
+    <item>
       <title>France: l'Assemblée nationale vote en faveur du «droit à l'aide à mourir» (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250527-france-l-assembl%C3%A9e-nationale-vote-en-faveur-du-droit-%C3%A0-l-aide-%C3%A0-mourir</link>
       <author>RFI</author>
@@ -24,6 +31,13 @@
       <author>ME/LC News</author>
       <guid>https://thesicktimes.org/?p=6923</guid>
       <pubDate>Tue, 27 May 2025 16:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title> Trump admits to protecting Russia from &amp;#x27;really bad things&amp;#x27; during Ukraine peace talks  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/trump-admits-to-protecting-russia-from-really-bad-things</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/trump-admits-to-protecting-russia-from-really-bad-things</guid>
+      <pubDate>Tue, 27 May 2025 19:16:48 +0300</pubDate>
     </item>
     <item>
       <title>Présidentielle française 2027: ces candidats qui partent à point (RFI)</title>
@@ -1419,21 +1433,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/russia-strikes-odesa-port-with-ballistic-missiles-kills-1-injures-8</guid>
       <pubDate>Fri, 23 May 2025 17:01:59 +0300</pubDate>
-    </item>
-    <item>
-      <title>Harvard sues Trump over international student ban (Axios)</title>
-      <link>https://www.axios.com/2025/05/23/harvard-sues-trump-administration</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/23/harvard-sues-trump-administration</guid>
-      <pubDate>Fri, 23 May 2025 13:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Trump threatens EU with 50 percent tariff from June 1					 (Politico)</title>
-      <link>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/trump-threatens-eu-with-50-percent-tariff-from-june-1/</guid>
-      <pubDate>Fri, 23 May 2025 13:02:32 -0000</pubDate>
     </item>
   </channel>
 </rss>
