@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Présidentielle française 2027: ces candidats qui partent à point (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250527-pr%C3%A9sidentielle-fran%C3%A7aise-2027-ces-candidats-qui-partent-%C3%A0-point</link>
+      <author>RFI</author>
+      <guid>607560ae-3a44-11f0-9dde-8f7030e434ed</guid>
+      <pubDate>Tue, 27 May 2025 15:59:40 GMT</pubDate>
+    </item>
+    <item>
+      <title> As Russia&amp;#x27;s war shows no sign of slowing, Trump mulls more sanctions. But do they work?  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/sanctions-on-russia-are-effective-ukraine-just-needs-more</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/sanctions-on-russia-are-effective-ukraine-just-needs-more</guid>
+      <pubDate>Tue, 27 May 2025 18:49:32 +0300</pubDate>
+    </item>
+    <item>
       <title> &amp;#x27;Istanbul is very good&amp;#x27; — Lavrov backs Turkey again for next round of Russia-Ukraine peace talks  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/istanbul-is-very-good-lavrov-backs-turkey-for-next-round-of-russia-ukraine-peace-talks</link>
       <author>Kyiv Indpendent</author>
@@ -1421,20 +1435,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-friedrich-merz-eu-ethical-supply-chain-law/</guid>
       <pubDate>Fri, 23 May 2025 11:46:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Trump tells Apple to build iPhones in U.S. or pay 25% tariff (Axios)</title>
-      <link>https://www.axios.com/2025/05/23/trump-tariff-apple-iphone</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/23/trump-tariff-apple-iphone</guid>
-      <pubDate>Fri, 23 May 2025 11:44:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fannie Mae and Freddie Mac surge on Trump post (Axios)</title>
-      <link>https://www.axios.com/2025/05/23/fannie-freddie-trump-stocks</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/23/fannie-freddie-trump-stocks</guid>
-      <pubDate>Fri, 23 May 2025 11:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
