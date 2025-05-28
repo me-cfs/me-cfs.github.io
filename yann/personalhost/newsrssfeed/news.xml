@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Congrès du PS en France: Olivier Faure et Nicolas Mayer-Rossignol au second tour, Boris Vallaud éliminé (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250528-congr%C3%A8s-du-ps-en-france-olivier-faure-en-l%C3%A9g%C3%A8re-avance-au-premier-tour-devant-nicolas-mayer-rossignol</link>
+      <author>RFI</author>
+      <guid>bdb43806-3b90-11f0-a201-e9e62745b866</guid>
+      <pubDate>Wed, 28 May 2025 07:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title> Russian attacks against Ukraine kill 1, injure 46 over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-153</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-153</guid>
+      <pubDate>Wed, 28 May 2025 10:01:25 +0300</pubDate>
+    </item>
+    <item>
+      <title>Trump loses 3rd case over targeting of law firms: Judge calls executive order "absurd" (Axios)</title>
+      <link>https://www.axios.com/2025/05/28/trump-law-firm-wilmerhale-mueller</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/28/trump-law-firm-wilmerhale-mueller</guid>
+      <pubDate>Wed, 28 May 2025 06:12:08 +0000</pubDate>
+    </item>
+    <item>
       <title> Kellogg criticizes Medvedev&amp;#x27;s &amp;#x27;reckless&amp;#x27; threats, demands Russian peace memorandum  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/kellogg-criticizes-medvedevs-reckless-threats-demands-russian-peace-memorandum</link>
       <author>Kyiv Indpendent</author>
@@ -126,6 +147,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/27/schumers-big-beautiful-bill-tour</guid>
       <pubDate>Tue, 27 May 2025 23:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senate GOP demands new sanctions against Russia (Axios)</title>
+      <link>https://www.axios.com/2025/05/27/senate-gop-russsia-sanctions-ukraine-putin-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/27/senate-gop-russsia-sanctions-ukraine-putin-trump</guid>
+      <pubDate>Tue, 27 May 2025 23:23:40 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1406,35 +1434,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/lavrov-dismisses-vatican-as-possible-venue-for-russia-ukraine-peace-talks</guid>
       <pubDate>Sat, 24 May 2025 15:18:57 +0300</pubDate>
-    </item>
-    <item>
-      <title>AI race goes supersonic in milestone-packed week (Axios)</title>
-      <link>https://www.axios.com/2025/05/24/ai-race-chatgpt-anthropic-google-apple-openai</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/24/ai-race-chatgpt-anthropic-google-apple-openai</guid>
-      <pubDate>Sat, 24 May 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Is Immensely Vulnerable (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/24/opinion/trump-authoritarianism-resistance.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/24/opinion/trump-authoritarianism-resistance.html</guid>
-      <pubDate>Sat, 24 May 2025 11:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: vaste attaque de drones russes sur Kiev et nouvel échange de prisonniers (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250524-ukraine-vaste-attaque-de-drones-russes-sur-kiev-et-nouvel-%C3%A9change-de-prisonniers</link>
-      <author>RFI</author>
-      <guid>ba2158f6-3887-11f0-b4e1-edb82d626907</guid>
-      <pubDate>Sat, 24 May 2025 11:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe must learn the art of ‘unpowering’ Russia					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-russia-power-military-moscow-hostility-war-ukraine-putin/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-russia-power-military-moscow-hostility-war-ukraine-putin/</guid>
-      <pubDate>Sat, 24 May 2025 11:32:16 -0000</pubDate>
     </item>
   </channel>
 </rss>
