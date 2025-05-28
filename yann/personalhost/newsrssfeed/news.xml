@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Hawley stakes ground as chief GOP defender of Medicaid (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5320629-josh-hawley-medicaid-reform/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5320629</guid>
+      <pubDate>Wed, 28 May 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Putin Makes Major Demand To End Ukraine War, Sources Say (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/putin-conditions-for-ending-ukraine-war_n_6836cecbe4b06d006f7cb0e9</link>
       <author>Huffington Post</author>
@@ -32,6 +39,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/gaza-new-aid-hub-chaos_n_6836cbb3e4b0362038799fad</guid>
       <pubDate>Wed, 28 May 2025 09:33:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Conservative support builds for IVF guardrails (Axios)</title>
+      <link>https://www.axios.com/2025/05/28/trump-ivf-report-conservative-concerns</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/28/trump-ivf-report-conservative-concerns</guid>
+      <pubDate>Wed, 28 May 2025 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>Une lettre ouverte exhorte le Conseil fédéral à agir davantage pour un cessez-le-feu à Gaza (RTS)</title>
@@ -1419,20 +1433,6 @@
       <author>RFI</author>
       <guid>8781f638-37df-11f0-abe1-afcb432c5bb1</guid>
       <pubDate>Sun, 25 May 2025 05:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>En France, les jeunes peuvent-ils sauver le breton? (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250525-en-france-les-jeunes-peuvent-ils-sauver-le-breton</link>
-      <author>RFI</author>
-      <guid>6fe9c330-154c-11f0-9b0c-005056bf762b</guid>
-      <pubDate>Sun, 25 May 2025 04:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>More on the BMJ Opinion Piece from the Psychobabblers (ME/LC News)</title>
-      <link>https://virology.ws/2025/05/24/trial-by-error-more-on-the-bmj-opinion-piece-from-the-psychobabblers/</link>
-      <author>ME/LC News</author>
-      <guid>https://virology.ws/2025/05/24/trial-by-error-more-on-the-bmj-opinion-piece-from-the-psychobabblers/</guid>
-      <pubDate>Sun, 25 May 2025 04:25:32 -0000</pubDate>
     </item>
   </channel>
 </rss>
