@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Federal judge blocks Trump administration from pulling Biden-era migrant protections (Axios)</title>
+      <link>https://www.axios.com/2025/05/29/trump-biden-migrant-programs-judge-block</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/29/trump-biden-migrant-programs-judge-block</guid>
+      <pubDate>Thu, 29 May 2025 06:41:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Australian comedian Magda Szubanski diagnosed with cancer (BBC)</title>
       <link>https://www.bbc.com/news/articles/c80kx71ydjxo</link>
       <author>BBC</author>
@@ -1427,13 +1434,6 @@
       <author>RFI</author>
       <guid>24d5dfd6-3a41-11f0-940d-172d555eaa45</guid>
       <pubDate>Mon, 26 May 2025 22:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>En Roumanie, la future mégabase aérienne de l’Otan face à la menace russe (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250526-en-roumanie-la-future-m%C3%A9gabase-a%C3%A9rienne-de-l-otan-face-%C3%A0-la-menace-russe</link>
-      <author>RFI</author>
-      <guid>09b5cd58-3a5d-11f0-a0cf-43c60da49049</guid>
-      <pubDate>Mon, 26 May 2025 22:05:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
