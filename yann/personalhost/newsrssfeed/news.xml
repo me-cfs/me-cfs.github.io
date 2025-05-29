@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Workers are hiding their use of ChatGPT and other AI (Axios)</title>
+      <link>https://www.axios.com/2025/05/29/secret-chatgpt-workplace</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/29/secret-chatgpt-workplace</guid>
+      <pubDate>Thu, 29 May 2025 08:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Italie: la Sicile oblige ses hôpitaux à recruter des médecins pratiquant l'avortement (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250529-italie-la-sicile-oblige-ses-h%C3%B4pitaux-%C3%A0-recruter-des-m%C3%A9decins-pratiquant-l-avortement</link>
+      <author>RFI</author>
+      <guid>8fe2f1b0-3c62-11f0-84d5-83845364faac</guid>
+      <pubDate>Thu, 29 May 2025 08:19:27 GMT</pubDate>
+    </item>
+    <item>
       <title> Russian attacks against Ukraine kill 3, injure 27 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-against-ukraine-killed-3-injured-27</link>
       <author>Kyiv Indpendent</author>
@@ -89,6 +103,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/poland-election-rule-of-law-rafal-trzaskowski-karol-nawrocki-donald-tusk-andrzej-duda/</guid>
       <pubDate>Thu, 29 May 2025 04:00:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>Thailand: New Insurgent Attacks on Civilians Despite Pledge (Human Rights Watch)</title>
+      <link>https://www.hrw.org/news/2025/05/29/thailand-new-insurgent-attacks-civilians-despite-pledge</link>
+      <author>Human Rights Watch</author>
+      <guid>https://www.hrw.org/news/2025/05/29/thailand-new-insurgent-attacks-civilians-despite-pledge</guid>
+      <pubDate>Thu, 29 May 2025 00:00:00 -0400</pubDate>
     </item>
     <item>
       <title>
@@ -433,6 +454,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/film/2025/may/28/mohammed-lakhdar-hamina-first-arab-and-african-director-to-win-cannes-palme-dor-dies-91-chronicle-of-the-years-of-fire</guid>
       <pubDate>Wed, 28 May 2025 13:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>The king “loves” Canada. Many Albertans want out (Economist)</title>
+      <link>https://www.economist.com/the-americas/2025/05/28/the-king-loves-canada-many-albertans-want-out</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/the-americas/2025/05/28/the-king-loves-canada-many-albertans-want-out</guid>
+      <pubDate>Wed, 28 May 2025 13:25:37 GMT</pubDate>
     </item>
     <item>
       <title>Retraites : y a-t-il un problème français ? (RFI)</title>
@@ -1404,36 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-farm-agriculture-ministers-vow-fight-brussels-commission-budget-shakeup-cap/</guid>
       <pubDate>Tue, 27 May 2025 02:28:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						German court sends VW execs to prison over Dieselgate scandal					 (Politico)</title>
-      <link>https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/</guid>
-      <pubDate>Tue, 27 May 2025 02:28:02 -0000</pubDate>
-    </item>
-    <item>
-      <title>Awkward ads, Albo’s Strangelove moment, and how Duck Dynasty gave us Trump (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/05/27/tips-and-murmurs-anthony-albanese-duck-dynasty-donald-trump/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1208133</guid>
-      <pubDate>Tue, 27 May 2025 02:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>FBI escalates efforts to investigate Supreme Court leak, cocaine find at Biden White House (Axios)</title>
-      <link>https://www.axios.com/2025/05/27/fbi-white-house-cocaine-supreme-court-leak-investigations</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/27/fbi-white-house-cocaine-supreme-court-leak-investigations</guid>
-      <pubDate>Tue, 27 May 2025 02:16:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe’s defense awakening needs a second engine					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-defense-safe-billion-arms-war/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-defense-safe-billion-arms-war/</guid>
-      <pubDate>Tue, 27 May 2025 02:13:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
