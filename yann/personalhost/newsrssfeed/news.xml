@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: le gouvernement facilite la régularisation des médecins étrangers (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250529-france-le-gouvernement-facilite-la-r%C3%A9gularisation-des-m%C3%A9decins-%C3%A9trangers</link>
+      <author>RFI</author>
+      <guid>fc40139c-3cd0-11f0-9303-4bfe9d8e95fd</guid>
+      <pubDate>Thu, 29 May 2025 21:42:20 GMT</pubDate>
+    </item>
+    <item>
       <title> Trump hopes next Russia-Ukraine talks will &amp;#x27;move ball forward,&amp;#x27; White House says as Moscow further delays peace memo  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/trump-hopes-next-russia-ukraine-talks-will-move-ball-forward-white-house-says-as-moscow-further-delays-peace-memo</link>
       <author>Kyiv Indpendent</author>
@@ -1424,13 +1431,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/05/27/us/politics/trump-pardon-paul-walczak-tax-crimes.html</guid>
       <pubDate>Tue, 27 May 2025 16:09:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Présidentielle française 2027: ces candidats qui partent à point (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250527-pr%C3%A9sidentielle-fran%C3%A7aise-2027-ces-candidats-qui-partent-%C3%A0-point</link>
-      <author>RFI</author>
-      <guid>607560ae-3a44-11f0-9dde-8f7030e434ed</guid>
-      <pubDate>Tue, 27 May 2025 15:59:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
