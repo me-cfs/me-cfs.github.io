@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Mother of jailed British-Egyptian activist hospitalised after 242 days on hunger strike (Guardian)</title>
+      <link>https://www.theguardian.com/politics/2025/may/30/laila-soueif-mother-of-alaa-abd-el-fattah-hunger-strike</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/politics/2025/may/30/laila-soueif-mother-of-alaa-abd-el-fattah-hunger-strike</guid>
+      <pubDate>Fri, 30 May 2025 13:13:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump claims China has "totally violated" tariff pause deal (Axios)</title>
       <link>https://www.axios.com/2025/05/30/trump-china-tariffs</link>
       <author>Axios</author>
@@ -1423,13 +1430,6 @@
       <author>RFI</author>
       <guid>bdb43806-3b90-11f0-a201-e9e62745b866</guid>
       <pubDate>Wed, 28 May 2025 07:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title> Russian attacks against Ukraine kill 1, injure 46 over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/attacks-153</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/attacks-153</guid>
-      <pubDate>Wed, 28 May 2025 10:01:25 +0300</pubDate>
     </item>
   </channel>
 </rss>
