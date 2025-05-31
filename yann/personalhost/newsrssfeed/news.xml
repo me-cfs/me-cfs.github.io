@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Journalists Draw Link Between Internet Dead Zones, Threatened Medicaid Cuts, and Health (KFF Health News)</title>
+      <link>https://kffhealthnews.org/news/article/journalists-draw-link-between-internet-dead-zones-threatened-medicaid-cuts-and-health/</link>
+      <author>KFF Health News</author>
+      <guid>https://kffhealthnews.org/?p=2041666&amp;post_type=article&amp;preview_id=2041666</guid>
+      <pubDate>Sat, 31 May 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title> Russian attacks against Ukraine kill 10, injure 32 over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-attacks-against-ukraine-kill-10-injure-30-over-past-day</link>
       <author>Kyiv Indpendent</author>
@@ -255,6 +262,13 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/world/2025/may/30/niger-central-nigeria-floods-death-toll</guid>
       <pubDate>Fri, 30 May 2025 16:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Taps Palantir to Compile Data on Americans (New York Times)</title>
+      <link>https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html</guid>
+      <pubDate>Fri, 30 May 2025 16:01:46 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1421,20 +1435,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/leaders/2025/05/28/pausing-foreign-applications-to-american-universities-is-a-terrible-idea</guid>
       <pubDate>Wed, 28 May 2025 17:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk’s plans to go to Mars next year are toast (Economist)</title>
-      <link>https://www.economist.com/science-and-technology/2025/05/28/elon-musks-plans-to-go-to-mars-next-year-are-toast</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/science-and-technology/2025/05/28/elon-musks-plans-to-go-to-mars-next-year-are-toast</guid>
-      <pubDate>Wed, 28 May 2025 17:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump pardons criminals with MAGA credentials or big money (Axios)</title>
-      <link>https://www.axios.com/2025/05/28/trump-pardons-chrisley-walczak-jenkins</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/28/trump-pardons-chrisley-walczak-jenkins</guid>
-      <pubDate>Wed, 28 May 2025 17:23:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
