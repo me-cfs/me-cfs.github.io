@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La neige tardive attire les adeptes de randonnées à ski, 11 morts durant le seul mois de mai (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/avalanches-en-mai-11-morts-les-experts-appellent-a-la-prudence-28900326.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28900326</guid>
+      <pubDate>Sat, 31 May 2025 09:48:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Journalists Draw Link Between Internet Dead Zones, Threatened Medicaid Cuts, and Health (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/journalists-draw-link-between-internet-dead-zones-threatened-medicaid-cuts-and-health/</link>
       <author>KFF Health News</author>
@@ -1428,13 +1435,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/business/2025/05/28/boeing-enjoys-a-trump-bump</guid>
       <pubDate>Wed, 28 May 2025 18:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pausing foreign applications to US universities is a terrible idea (Economist)</title>
-      <link>https://www.economist.com/leaders/2025/05/28/pausing-foreign-applications-to-us-universities-is-a-terrible-idea</link>
-      <author>Economist</author>
-      <guid>a968b80d-74f7-4376-9c2a-8544d61e4bcd</guid>
-      <pubDate>Wed, 28 May 2025 17:59:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
