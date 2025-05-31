@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Champions League final: PSG 5 Inter 0 - Desire Doue stars as Parisians end long wait to become European champions (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6391432/2025/05/31/champions-league-final-psg-inter-analysis/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6391432/2025/05/31/champions-league-final-psg-inter-analysis/</guid>
+      <pubDate>Sat, 31 May 2025 20:54:20 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						China slams Macron over ‘unacceptable’ comments on Taiwan and Ukraine					 (Politico)</title>
       <link>https://www.politico.eu/article/macron-ukraine-taiwan-china-war-israel-gaza-shangri-la/</link>
@@ -1389,6 +1396,13 @@
       <pubDate>Thu, 29 May 2025 01:37:28 GMT</pubDate>
     </item>
     <item>
+      <title>Trump's sweeping global tariffs blocked by federal court (Axios)</title>
+      <link>https://www.axios.com/2025/05/28/trump-tariffs-trade-court-ruling</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/28/trump-tariffs-trade-court-ruling</guid>
+      <pubDate>Thu, 29 May 2025 01:19:34 +0000</pubDate>
+    </item>
+    <item>
       <title>U.S. to begin revoking visas for Chinese students (Axios)</title>
       <link>https://www.axios.com/2025/05/28/student-visas-china-us-rubio</link>
       <author>Axios</author>
@@ -1422,20 +1436,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/28/gaza-ceasefire-hostage-deal-witkoff-proposal</guid>
       <pubDate>Wed, 28 May 2025 23:59:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 parts of Trump's budget bill that risk being axed by Senate rules (Axios)</title>
-      <link>https://www.axios.com/2025/05/28/trump-budget-bill-senate-byrd-reconciliation</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/28/trump-budget-bill-senate-byrd-reconciliation</guid>
-      <pubDate>Wed, 28 May 2025 23:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ukraine: l'ONU pointe les attaques de drones russes sur Kherson et évoque des «crimes contre l'humanité» (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250528-ukraine-l-onu-pointe-les-attaques-de-drones-russes-sur-kherson-et-%C3%A9voque-des-crimes-contre-l-humanit%C3%A9</link>
-      <author>RFI</author>
-      <guid>84548cd6-3c13-11f0-8a3b-199cbea4ae67</guid>
-      <pubDate>Wed, 28 May 2025 23:12:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
