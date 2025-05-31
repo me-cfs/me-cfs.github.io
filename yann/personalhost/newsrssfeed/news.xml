@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>New book tackles the legend of Jim from Mark Twain's "Huckleberry Finn" (Axios)</title>
+      <link>https://www.axios.com/2025/05/31/jim-mark-twains-huckleberry-finn-book</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/05/31/jim-mark-twains-huckleberry-finn-book</guid>
+      <pubDate>Sat, 31 May 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>FDA approves new Moderna COVID-19 vaccine (Axios)</title>
       <link>https://www.axios.com/2025/05/31/fda-approves-moderna-mnexspike-covid-19-vaccine</link>
       <author>Axios</author>
@@ -1427,13 +1434,6 @@
       <author>Guardian</author>
       <guid>https://www.theguardian.com/books/2025/may/28/a-life-in-quotes-ngugi-wa-thiongo</guid>
       <pubDate>Wed, 28 May 2025 21:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump's attacks on law firms are losing big in court (Axios)</title>
-      <link>https://www.axios.com/2025/05/28/trump-law-firms-courts-ruling</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/28/trump-law-firms-courts-ruling</guid>
-      <pubDate>Wed, 28 May 2025 21:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
