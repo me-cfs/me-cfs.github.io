@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En Pologne, une élection présidentielle marquée par la guerre en Ukraine et ses réfugiés (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250531-en-pologne-une-%C3%A9lection-pr%C3%A9sidentielle-marqu%C3%A9e-par-la-guerre-en-ukraine-et-ses-r%C3%A9fugi%C3%A9s</link>
+      <author>RFI</author>
+      <guid>f1ac9ae6-3e69-11f0-b144-d3cda3834f02</guid>
+      <pubDate>Sat, 31 May 2025 22:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simone Inzaghi: 'Not the right time' to talk about Inter future after Champions League final defeat (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6394790/2025/05/31/simone-inzaghi-inter-manager-champions-league-final/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6394790/2025/05/31/simone-inzaghi-inter-manager-champions-league-final/</guid>
+      <pubDate>Sat, 31 May 2025 22:14:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Luis Enrique's PSG produced a footballing exhibition to destroy Inter and win Champions League (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6394848/2025/05/31/psg-champions-league-win-inter-enrique/</link>
       <author>The Athletic Football</author>
@@ -1422,20 +1436,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/05/29/hhs-cancel-moderna-bird-flu-vaccine</guid>
       <pubDate>Thu, 29 May 2025 00:42:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk confirms exit from Trump administration amid image rehab tour (Axios)</title>
-      <link>https://www.axios.com/2025/05/29/elon-musk-doge-exit-spacex-tesla</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/29/elon-musk-doge-exit-spacex-tesla</guid>
-      <pubDate>Thu, 29 May 2025 00:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Missouri Town Was Solidly Behind Trump. Then Carol Was Detained. (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/28/us/missouri-immigrant-trump.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/28/us/missouri-immigrant-trump.html</guid>
-      <pubDate>Thu, 29 May 2025 00:10:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
