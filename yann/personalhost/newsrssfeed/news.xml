@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Plongée dans le chantier naval de la CGN où la flotte Belle époque est rénovée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/renovation-des-bateaux-belle-epoque-la-cgn-reduit-son-offre-estivale-reportage-dans-le-chantier-naval-28900631.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28900631</guid>
+      <pubDate>Sun, 01 Jun 2025 08:31:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Australia asks China to explain 'extraordinary' military build-up (BBC)</title>
       <link>https://www.bbc.com/news/articles/clygvl01y5ro</link>
       <author>BBC</author>
@@ -1427,13 +1434,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/pro/us-federal-court-strikes-down-trumps-april-2-tariffs/</guid>
       <pubDate>Thu, 29 May 2025 05:11:33 -0000</pubDate>
-    </item>
-    <item>
-      <title> Russia to deploy Oreshnik missile systems to Belarus by end of 2025, official says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russia-planning-to-deploy-oreshnik-missile-systems-to-belarus-by-end-of-2025-official-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russia-planning-to-deploy-oreshnik-missile-systems-to-belarus-by-end-of-2025-official-says</guid>
-      <pubDate>Thu, 29 May 2025 07:41:40 +0300</pubDate>
     </item>
   </channel>
 </rss>
