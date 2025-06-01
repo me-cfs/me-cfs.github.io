@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Battle of the Broadcasts: Reviewing TNT, CBS Sports' Champions League final (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6394965/2025/06/01/uefa-champions-league-final-psg-inter-milan-tnt-cbs-sports-tv-review/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6394965/2025/06/01/uefa-champions-league-final-psg-inter-milan-tnt-cbs-sports-tv-review/</guid>
+      <pubDate>Sun, 01 Jun 2025 10:00:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Plongée dans le chantier naval de la CGN où la flotte Belle époque est rénovée (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/renovation-des-bateaux-belle-epoque-la-cgn-reduit-son-offre-estivale-reportage-dans-le-chantier-naval-28900631.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1426,14 +1433,6 @@
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/c80kx71ydjxo#0</guid>
       <pubDate>Thu, 29 May 2025 05:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						US court strikes down Trump’s tariffs on countries around the world					 (Politico)</title>
-      <link>https://www.politico.eu/pro/us-federal-court-strikes-down-trumps-april-2-tariffs/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/pro/us-federal-court-strikes-down-trumps-april-2-tariffs/</guid>
-      <pubDate>Thu, 29 May 2025 05:11:33 -0000</pubDate>
     </item>
   </channel>
 </rss>
