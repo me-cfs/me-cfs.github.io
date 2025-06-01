@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/la-suisse-vue-de-gaza</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/23022</guid>
+      <pubDate>06/01/2025 23:00</pubDate>
+    </item>
+    <item>
       <title>Anthony Albanese comes out swinging against Trump’s increased steel tariffs (Crikey)</title>
       <link>https://www.crikey.com.au/2025/06/02/anthony-albanese-donald-trump-tariffs-defence-russia-ukraine/</link>
       <author>Crikey</author>
@@ -1428,13 +1435,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/05/28/us/politics/china-student-visas-revoke.html</guid>
       <pubDate>Thu, 29 May 2025 12:43:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Gothard face aux traditionnels embouteillages, la faute aux automobilistes suisses (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/bouchons-au-gothard-les-suisses-principaux-responsables-du-trafic-28898574.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28898574</guid>
-      <pubDate>Thu, 29 May 2025 12:22:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
