@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Pologne: le candidat nationaliste conservateur Karol Nawrocki remporte l'élection présidentielle (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250602-pologne-le-candidat-nationaliste-conservateur-karol-nawrocki-remporte-l-%C3%A9lection-pr%C3%A9sidentielle</link>
+      <author>RFI</author>
+      <guid>06d0eb22-3f6c-11f0-84e5-5f42276dd10e</guid>
+      <pubDate>Mon, 02 Jun 2025 04:45:32 GMT</pubDate>
+    </item>
+    <item>
       <title>We watched PSG win Champions League final with a professional head coach - here’s what we learned (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6395789/2025/06/02/champions-league-final-psg-analysis/</link>
       <author>The Athletic Football</author>
@@ -17,6 +24,20 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6395566/2025/06/02/psg-champions-league-triumph-conflicted/</guid>
       <pubDate>Mon, 02 Jun 2025 04:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scoop: Apple to appeal EU requirement to share info with tech rivals (Axios)</title>
+      <link>https://www.axios.com/2025/06/02/apple-eu-dma-appeal-antitrust-penalties</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/02/apple-eu-dma-appeal-antitrust-penalties</guid>
+      <pubDate>Mon, 02 Jun 2025 04:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: HHS watchdog finds more than $16B in health savings (Axios)</title>
+      <link>https://www.axios.com/2025/06/02/exclusive-hhs-watchdog-report-savings</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/02/exclusive-hhs-watchdog-report-savings</guid>
+      <pubDate>Mon, 02 Jun 2025 04:01:00 +0000</pubDate>
     </item>
     <item>
       <title>China claims U.S. violated trade deal, vows to hit Trump admin with "forceful measures" (Axios)</title>
@@ -1413,27 +1434,6 @@
       <author>New York Times</author>
       <guid>https://www.nytimes.com/2025/05/27/opinion/trump-oval-office-rococo.html</guid>
       <pubDate>Thu, 29 May 2025 16:44:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anger at Network Rail for ‘shocking’ exclusion of scooter-users from ‘future of railways’ exhibition (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/anger-at-network-rail-for-shocking-exclusion-of-scooter-users-from-future-of-railways-exhibition/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/anger-at-network-rail-for-shocking-exclusion-of-scooter-users-from-future-of-railways-exhibition/</guid>
-      <pubDate>Thu, 29 May 2025 16:30:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘Overwhelming response’ to letter to PM from high-profile disabled figures on Labour’s ‘catastrophic’ cuts (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/overwhelming-response-to-letter-to-pm-from-high-profile-disabled-figures-on-labours-catastrophic-cuts/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/overwhelming-response-to-letter-to-pm-from-high-profile-disabled-figures-on-labours-catastrophic-cuts/</guid>
-      <pubDate>Thu, 29 May 2025 16:15:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>Pologne : la difficile croissance des start-ups de l'industrie d'armement (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250529-pologne-la-difficile-croissance-des-start-ups-de-l-industrie-d-armement</link>
-      <author>RFI</author>
-      <guid>b707b0ae-3ca4-11f0-bd25-17ac2cd91333</guid>
-      <pubDate>Thu, 29 May 2025 16:09:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
