@@ -5,6 +5,22 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						German court rejects key pillar of Merz’s asylum crackdown					 (Politico)</title>
+      <link>https://www.politico.eu/article/court-german-rejects-ruling-friedrich-merz-migration-europe-police/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/court-german-rejects-ruling-friedrich-merz-migration-europe-police/</guid>
+      <pubDate>Mon, 02 Jun 2025 18:43:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>
+						EU science advisers slam Brussels’ weakened 2040 climate plans					 (Politico)</title>
+      <link>https://www.politico.eu/article/eu-science-adviser-slam-brussels-weakened-2040-climate-goal-hoekstra-carbon-credits/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/eu-science-adviser-slam-brussels-weakened-2040-climate-goal-hoekstra-carbon-credits/</guid>
+      <pubDate>Mon, 02 Jun 2025 18:28:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Scoop: U.S. nuclear deal offer allows Iran to enrich uranium (Axios)</title>
       <link>https://www.axios.com/2025/06/02/iran-nuclear-deal-proposal-enrich-uranium</link>
       <author>Axios</author>
@@ -32,6 +48,13 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1138164</guid>
       <pubDate>Mon, 02 Jun 2025 17:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Scouarnec, Bétharram : y a-t-il une omerta française ? (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/d%C3%A9bat-du-jour/20250602-le-scouarnec-b%C3%A9tharram-y-a-t-il-une-omerta-fran%C3%A7aise</link>
+      <author>RFI</author>
+      <guid>94690c60-3fd2-11f0-98fa-919bfb1c790a</guid>
+      <pubDate>Mon, 02 Jun 2025 16:56:50 GMT</pubDate>
     </item>
     <item>
       <title>France: les députés unanimes pour élever Alfred Dreyfus au rang de général de brigade (RFI)</title>
@@ -1411,27 +1434,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/trump-el-salvador-deportees-criminal-convictions-cecot-venezuela</guid>
       <pubDate>Fri, 30 May 2025 06:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>U.S. bets on The Great Fusing to win the future of AI (Axios)</title>
-      <link>https://www.axios.com/2025/05/30/ai-race-us-tech-space</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/30/ai-race-us-tech-space</guid>
-      <pubDate>Fri, 30 May 2025 09:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Présidentielle en Pologne: un second tour entre pro-européen et nationaliste vu comme un «référendum sur l’orientation future du pays» (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250530-pr%C3%A9sidentielle-en-pologne-un-second-tour-entre-pro-europ%C3%A9en-et-nationaliste-est-vu-comme-un-r%C3%A9f%C3%A9rendum-sur-l-orientation-future-du-pays</link>
-      <author>RFI</author>
-      <guid>ae18573e-3d1f-11f0-b22f-dbf6f6dc95fd</guid>
-      <pubDate>Fri, 30 May 2025 09:16:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: Somaliland president says recognition of state ‘on the horizon’ following Trump talks (Guardian)</title>
-      <link>https://www.theguardian.com/global-development/2025/may/30/exclusive-somaliland-president-says-recognition-of-state-on-the-horizon-following-trump-talks</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/global-development/2025/may/30/exclusive-somaliland-president-says-recognition-of-state-on-the-horizon-following-trump-talks</guid>
-      <pubDate>Fri, 30 May 2025 09:00:49 GMT</pubDate>
     </item>
   </channel>
 </rss>
