@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Face à la menace russe, le Royaume-Uni présente sa nouvelle stratégie de défense (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250602-face-%C3%A0-la-menace-russe-le-royaume-uni-pr%C3%A9sente-sa-nouvelle-strat%C3%A9gie-de-d%C3%A9fense</link>
+      <author>RFI</author>
+      <guid>452e9212-3fa2-11f0-bd76-a734c3f8c877</guid>
+      <pubDate>Mon, 02 Jun 2025 12:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Le Service suisse d'enquête de sécurité a rendu ses conclusions après l'accident ferroviaire dans le Gothard (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/accident-du-gothard-une-roue-fragile-a-l-origine-du-deraillement-de-2023-28901843.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28901843</guid>
+      <pubDate>Mon, 02 Jun 2025 12:07:28 GMT</pubDate>
+    </item>
+    <item>
       <title>La victoire de Karol Nawrocki en Pologne douche les espoirs de nombreux Européens (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250602-la-victoire-de-karol-nawrocki-en-pologne-douche-les-espoirs-de-nombreux-europ%C3%A9ens</link>
       <author>RFI</author>
       <guid>c19c80ae-3fa0-11f0-877b-a734c3f8c877</guid>
       <pubDate>Mon, 02 Jun 2025 11:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Critics warn of loyalty test in new White House hiring guidelines (Axios)</title>
+      <link>https://www.axios.com/2025/06/02/white-house-loyalty-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/02/white-house-loyalty-trump</guid>
+      <pubDate>Mon, 02 Jun 2025 11:00:24 +0000</pubDate>
     </item>
     <item>
       <title>How Ukraine Used Cheap Drones and a Lot of Ingenuity to Strike a Major Blow Against Russia (Byline Times)</title>
@@ -157,6 +178,13 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6395566/2025/06/02/psg-champions-league-triumph-conflicted/</guid>
       <pubDate>Mon, 02 Jun 2025 04:07:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TAFC: The start of a PSG dynasty, MLS clubs mix with the big boys, and a Neymar nightmare (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6397083/2025/06/02/psg-champions-league-neymar-mls/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6397083/2025/06/02/psg-champions-league-neymar-mls/</guid>
+      <pubDate>Mon, 02 Jun 2025 04:05:24 GMT</pubDate>
     </item>
     <item>
       <title>Scoop: Apple to appeal EU requirement to share info with tech rivals (Axios)</title>
@@ -1406,34 +1434,6 @@
       <author>SBS News</author>
       <guid>00000196-cd4e-d0e3-addf-dd5ecd320000</guid>
       <pubDate>Fri, 30 May 2025 01:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Missouri Town Was Solidly Behind Trump. Then Carol Was Detained. (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/28/us/missouri-immigrant-trump.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/28/us/missouri-immigrant-trump.html</guid>
-      <pubDate>Fri, 30 May 2025 01:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Liberal Party needs better moderates than Jason Falinski (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/05/30/liberal-party-needs-better-moderates-jason-falinski/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1208701</guid>
-      <pubDate>Thu, 29 May 2025 23:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump has created a new Democratic superstar: LaMonica McIver (Axios)</title>
-      <link>https://www.axios.com/2025/05/29/lamonica-mciver-trump-justice-department-ice</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/29/lamonica-mciver-trump-justice-department-ice</guid>
-      <pubDate>Thu, 29 May 2025 23:40:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Trump World Idea That’s Pushed Me Over the Edge (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/29/opinion/trump-vance-morality.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/29/opinion/trump-vance-morality.html</guid>
-      <pubDate>Thu, 29 May 2025 23:39:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
