@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le taux hypothécaire de référence reste inchangé en juin (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/taux-hypothecaire-de-reference-stable-pas-de-baisse-de-loyer-en-vue-28901781.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28901781</guid>
+      <pubDate>Mon, 02 Jun 2025 09:19:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Exclusive: China's global favorability rising, views of the U.S. turn negative (Axios)</title>
       <link>https://www.axios.com/2025/06/02/china-us-global-opinions</link>
       <author>Axios</author>
@@ -24,6 +31,13 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=667504</guid>
       <pubDate>Mon, 02 Jun 2025 08:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside Paris chaos: Violence and disorder prove familiar footnote to historic game (The Athletic Football)</title>
+      <link>https://www.nytimes.com/athletic/6396351/2025/06/02/paris-violence-psg-champions-league-celebrations/</link>
+      <author>The Athletic Football</author>
+      <guid>https://www.nytimes.com/athletic/6396351/2025/06/02/paris-violence-psg-champions-league-celebrations/</guid>
+      <pubDate>Mon, 02 Jun 2025 08:23:53 GMT</pubDate>
     </item>
     <item>
       <title>AI is remaking — and breaking — the web (Axios)</title>
@@ -1420,20 +1434,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/trump-hopes-next-russia-ukraine-talks-will-move-ball-forward-white-house-says-as-moscow-further-delays-peace-memo</guid>
       <pubDate>Fri, 30 May 2025 00:35:06 +0300</pubDate>
-    </item>
-    <item>
-      <title>White House Health Report Included Fake Citations (New York Times)</title>
-      <link>https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/05/29/well/maha-report-citations.html</guid>
-      <pubDate>Thu, 29 May 2025 21:11:47 +0000</pubDate>
-    </item>
-    <item>
-      <title> North Korea sent Russia at least 100 ballistic missiles last year, monitors find  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/north-korea-sent-russia-at-least-100-ballistic-missiles-last-year-monitors-find</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/north-korea-sent-russia-at-least-100-ballistic-missiles-last-year-monitors-find</guid>
-      <pubDate>Thu, 29 May 2025 23:21:29 +0300</pubDate>
     </item>
   </channel>
 </rss>
