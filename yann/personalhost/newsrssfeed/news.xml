@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Exclusive: Russia’s ballistic missile production up at least 66% over past year, according to Ukrainian intel figures  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/exclusive-russias-ballistic-missile-production-up-at-least-66-over-past-year-according-to-ukrainian-intel-figures</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/exclusive-russias-ballistic-missile-production-up-at-least-66-over-past-year-according-to-ukrainian-intel-figures</guid>
+      <pubDate>Tue, 03 Jun 2025 16:43:13 +0300</pubDate>
+    </item>
+    <item>
       <title>Violences après la victoire du PSG: «Il faut revoir la doctrine du maintien de l’ordre en France» (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20250603-violences-apr%C3%A8s-la-victoire-du-psg-il-faut-revoir-la-doctrine-du-maintien-de-l-ordre-en-france</link>
       <author>RFI</author>
@@ -1422,13 +1429,6 @@
       <author>RTS</author>
       <guid>28900326</guid>
       <pubDate>Sat, 31 May 2025 09:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>No one's buying vacation homes (Axios)</title>
-      <link>https://www.axios.com/2025/05/31/second-home-mortgages</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/05/31/second-home-mortgages</guid>
-      <pubDate>Sat, 31 May 2025 09:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
