@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/dans-quel-camp-ira-la-pologne</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/23023</guid>
+      <pubDate>06/04/2025 00:12</pubDate>
+    </item>
+    <item>
+      <title>L'Ukraine revendique une attaque contre le pont de Crimée, symbole de l'annexion russe (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250603-l-ukraine-revendique-une-attaque-contre-le-pont-de-crim%C3%A9e-symbole-de-l-annexion-russe</link>
+      <author>RFI</author>
+      <guid>efe0168e-40a8-11f0-b7de-0724de17bfb1</guid>
+      <pubDate>Tue, 03 Jun 2025 19:06:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Rep. Jasmine Crockett runs to be top Democrat on House Oversight Committee (Axios)</title>
       <link>https://www.axios.com/2025/06/03/jasmine-crockett-oversight-garcia-lynch-mfume</link>
       <author>Axios</author>
@@ -1416,21 +1430,6 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6394848/2025/05/31/psg-champions-league-win-inter-enrique/</guid>
       <pubDate>Sat, 31 May 2025 22:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Champions League final: PSG 5 Inter 0 - Desire Doue stars as Parisians end long wait to become European champions (The Athletic Football)</title>
-      <link>https://www.nytimes.com/athletic/6391432/2025/05/31/champions-league-final-psg-inter-analysis/</link>
-      <author>The Athletic Football</author>
-      <guid>https://www.nytimes.com/athletic/6391432/2025/05/31/champions-league-final-psg-inter-analysis/</guid>
-      <pubDate>Sat, 31 May 2025 20:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						China slams Macron over ‘unacceptable’ comments on Taiwan and Ukraine					 (Politico)</title>
-      <link>https://www.politico.eu/article/macron-ukraine-taiwan-china-war-israel-gaza-shangri-la/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/macron-ukraine-taiwan-china-war-israel-gaza-shangri-la/</guid>
-      <pubDate>Sat, 31 May 2025 20:47:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
