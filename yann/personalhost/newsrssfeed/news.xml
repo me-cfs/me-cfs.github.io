@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Mort de Nahel en France: le policier auteur du tir sera jugé pour meurtre (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250603-mort-de-nahel-en-france-le-policier-auteur-du-tir-sera-jug%C3%A9-pour-meurtre</link>
+      <author>RFI</author>
+      <guid>c4b4701c-4068-11f0-89f9-17cb6bb0c59f</guid>
+      <pubDate>Tue, 03 Jun 2025 10:51:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Une délégation ukrainienne aux États-Unis pour parler défense et économie avec l'administration Trump (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250603-une-d%C3%A9l%C3%A9gation-ukrainienne-aux-%C3%A9tats-unis-pour-parler-d%C3%A9fense-et-%C3%A9conomie-avec-l-administration-trump</link>
       <author>RFI</author>
@@ -1424,13 +1431,6 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6390270/2025/05/31/champions-league-guide-inter-psg/</guid>
       <pubDate>Sat, 31 May 2025 04:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exile to ecstasy: How PSG's ultras made their city seen and heard (The Athletic Football)</title>
-      <link>https://www.nytimes.com/athletic/6392684/2025/05/31/psg-ultras-champions-league-final/</link>
-      <author>The Athletic Football</author>
-      <guid>https://www.nytimes.com/athletic/6392684/2025/05/31/psg-ultras-champions-league-final/</guid>
-      <pubDate>Sat, 31 May 2025 04:08:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
