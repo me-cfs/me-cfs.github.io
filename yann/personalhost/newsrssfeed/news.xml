@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>DreamWorks co-founder Katzenberg likens AI to CGI revolution (Axios)</title>
+      <link>https://www.axios.com/2025/06/04/jeffrey-katzenberg-artificial-intelligence-dreamworks-disney</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/04/jeffrey-katzenberg-artificial-intelligence-dreamworks-disney</guid>
+      <pubDate>Wed, 04 Jun 2025 19:54:30 +0000</pubDate>
+    </item>
+    <item>
       <title>"Vérité alternative", "propagande", "hasardeux": les propos d'Ignazio Cassis sur Gaza font vivement réagir (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/cassis-sur-gaza-ses-propos-controverses-divisent-le-parlement-suisse-28904942.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -304,6 +311,13 @@
       <link>https://www.motherjones.com/politics/2025/06/womens-health-care-has-a-racism-problem-trumps-war-on-dei-is-making-it-worse/</link>
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1138464</guid>
+      <pubDate>Wed, 04 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>David Hogg’s Fight for the Future of the Democratic Party (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/06/david-hogg-dnc-primary-election-parkland/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1138472</guid>
       <pubDate>Wed, 04 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1421,20 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/02/white-house-loyalty-trump</guid>
       <pubDate>Mon, 02 Jun 2025 11:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Ukraine Used Cheap Drones and a Lot of Ingenuity to Strike a Major Blow Against Russia (Byline Times)</title>
-      <link>https://bylinetimes.com/2025/06/02/russia-and-ukraine-peace-talks/</link>
-      <author>Byline Times</author>
-      <guid>https://bylinetimes.com/?p=246443</guid>
-      <pubDate>Mon, 02 Jun 2025 10:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title> Zelensky urges Trump to enforce tougher sanctions if peace talks with Russia stall  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/zelensky-urges-trump-to-enforce-tougher-sanctions-if-peace-talks-with-russia-stall</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/zelensky-urges-trump-to-enforce-tougher-sanctions-if-peace-talks-with-russia-stall</guid>
-      <pubDate>Mon, 02 Jun 2025 13:21:48 +0300</pubDate>
     </item>
   </channel>
 </rss>
