@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>“The Intern in Charge”: Meet the 22-Year-Old Trump’s Team Picked to Lead Terrorism Prevention (Propublica)</title>
+      <link>https://www.propublica.org/article/trump-dhs-thomas-fugate-cp3-terrorism-prevention</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/trump-dhs-thomas-fugate-cp3-terrorism-prevention</guid>
+      <pubDate>Wed, 04 Jun 2025 18:30:00 -0400</pubDate>
+    </item>
+    <item>
       <title>France: élan de solidarité avec les mineurs étrangers expulsés de la Gaîté Lyrique (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250604-france-%C3%A9lan-de-solidarit%C3%A9-avec-les-mineurs-%C3%A9trangers-expuls%C3%A9s-de-la-ga%C3%AEt%C3%A9-lyrique</link>
       <author>RFI</author>
@@ -1427,13 +1434,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/polands-tusk-gets-trumped/</guid>
       <pubDate>Mon, 02 Jun 2025 14:10:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Russia submits "usual" demands for peace in Ukraine talks (Axios)</title>
-      <link>https://www.axios.com/2025/06/02/russia-peace-plan-ukraine-talks</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/02/russia-peace-plan-ukraine-talks</guid>
-      <pubDate>Mon, 02 Jun 2025 14:06:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
