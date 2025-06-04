@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump admin rolls back LGBTQ+ gains during Pride Month (Axios)</title>
+      <link>https://www.axios.com/2025/06/04/trump-pride-month-lgbtq-rights</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/04/trump-pride-month-lgbtq-rights</guid>
+      <pubDate>Wed, 04 Jun 2025 18:31:50 +0000</pubDate>
+    </item>
+    <item>
       <title>France: à Marseille-Fos, les dockers refusent de charger des composants militaires destinés à Israël (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250604-france-%C3%A0-marseille-fos-les-dockers-refusent-de-charger-des-composants-militaires-destin%C3%A9s-%C3%A0-isra%C3%ABl</link>
       <author>RFI</author>
@@ -1427,13 +1434,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/centene-ghost-network-lawsuit-ambetter-ravi-coutinho</guid>
       <pubDate>Mon, 02 Jun 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Trump cuts hundreds of EPA grants, leaving cities on the hook for climate resiliency (Grist)</title>
-      <link>https://grist.org/cities/trump-cuts-hundreds-of-epa-grants-leaving-cities-on-the-hook-for-climate-resiliency/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=667504</guid>
-      <pubDate>Mon, 02 Jun 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
