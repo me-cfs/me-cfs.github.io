@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> 5 killed, 73 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/5-killed-73-injured-in-russian-attacks-on-ukraine-over-past-day</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/5-killed-73-injured-in-russian-attacks-on-ukraine-over-past-day</guid>
+      <pubDate>Fri, 06 Jun 2025 10:30:44 +0300</pubDate>
+    </item>
+    <item>
       <title>L’Ukraine visée par des bombardements massifs et des frappes russes, Kiev déplore plusieurs morts (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250606-l-ukraine-vis%C3%A9e-par-des-bombardements-massifs-et-des-frappes-russes-kiev-d%C3%A9plore-plusieurs-morts</link>
       <author>RFI</author>
@@ -416,6 +423,13 @@
       <author>RTS</author>
       <guid>28905594</guid>
       <pubDate>Thu, 05 Jun 2025 13:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Have LLMs Finally Mastered Geolocation? (Bellingcat)</title>
+      <link>https://www.bellingcat.com/resources/how-tos/2025/06/05/have-llms-finally-mastered-geolocation/</link>
+      <author>Bellingcat</author>
+      <guid>https://www.bellingcat.com/?p=48934</guid>
+      <pubDate>Thu, 05 Jun 2025 13:10:42 +0000</pubDate>
     </item>
     <item>
       <title>Trump Wants To Eliminate a 105-Year-Old Office That Supports Women Workers (Motherjones)</title>
@@ -1424,20 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/03/musk-trump-big-beautiful-bill-johnson-jeffries</guid>
       <pubDate>Tue, 03 Jun 2025 22:29:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration rescinds emergency abortion guidance  (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5331159-trump-administration-rescinds-emergency-abortion-guidance/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5331159</guid>
-      <pubDate>Tue, 03 Jun 2025 22:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Musk blasts Trump's signature bill as "disgusting abomination" (Axios)</title>
-      <link>https://www.axios.com/2025/06/03/elon-musk-trump-bill-deficit-spending</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/03/elon-musk-trump-bill-deficit-spending</guid>
-      <pubDate>Tue, 03 Jun 2025 21:45:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
