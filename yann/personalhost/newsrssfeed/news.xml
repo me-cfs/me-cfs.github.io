@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Un festival dédié au journalisme, alors que les médias romands traversent des zones de turbulence (RTS)</title>
+      <link>https://www.rts.ch/info/regions/berne/2025/article/festival-du-journalisme-a-bienne-medias-et-public-se-rapprochent-28907857.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28907857</guid>
+      <pubDate>Sat, 07 Jun 2025 11:50:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Musk has money, but Trump has power (Axios)</title>
       <link>https://www.axios.com/2025/06/07/trump-musk-feud-tesla</link>
       <author>Axios</author>
@@ -1428,13 +1435,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/04/trump-pride-month-lgbtq-rights</guid>
       <pubDate>Wed, 04 Jun 2025 18:31:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: à Marseille-Fos, les dockers refusent de charger des composants militaires destinés à Israël (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250604-france-%C3%A0-marseille-fos-les-dockers-refusent-de-charger-des-composants-militaires-destin%C3%A9s-%C3%A0-isra%C3%ABl</link>
-      <author>RFI</author>
-      <guid>c3eab5d8-416c-11f0-9663-eb37e163fdff</guid>
-      <pubDate>Wed, 04 Jun 2025 18:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
