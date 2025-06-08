@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/histoires-de-couples</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/23027</guid>
+      <pubDate>06/08/2025 16:51</pubDate>
+    </item>
+    <item>
+      <title>
+						Ukrainian drone attack on Moscow closes 2 major airports					 (Politico)</title>
+      <link>https://www.politico.eu/article/ukrainian-drone-attack-moscow-closes-2-major-airports/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/ukrainian-drone-attack-moscow-closes-2-major-airports/</guid>
+      <pubDate>Sun, 08 Jun 2025 15:09:37 -0000</pubDate>
+    </item>
+    <item>
       <title>Johnson was "disappointed" by Musk's big, beautiful bill blowup (Axios)</title>
       <link>https://www.axios.com/2025/06/08/johnson-musks-trump-bill-blowup</link>
       <author>Axios</author>
@@ -1422,20 +1437,6 @@
       <author>RFI</author>
       <guid>ae38dd4c-41ca-11f0-80ec-bd2960d74867</guid>
       <pubDate>Thu, 05 Jun 2025 06:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>L’Italie adopte la très controversée loi sécurité, l'opposition dénonce une dangereuse dérive autoritaire (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250605-l-italie-adopte-la-tr%C3%A8s-controvers%C3%A9e-loi-s%C3%A9curit%C3%A9-l-opposition-d%C3%A9nonce-une-dangereuse-d%C3%A9rive-autoritaire</link>
-      <author>RFI</author>
-      <guid>1a65d61a-41d4-11f0-838f-31c36d8f3432</guid>
-      <pubDate>Thu, 05 Jun 2025 06:26:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump orders investigation into Biden (Axios)</title>
-      <link>https://www.axios.com/2025/06/05/trump-biden-investigation-cognitive-decline-allegations</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/05/trump-biden-investigation-cognitive-decline-allegations</guid>
-      <pubDate>Thu, 05 Jun 2025 05:41:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
