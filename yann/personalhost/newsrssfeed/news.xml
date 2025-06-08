@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump administration defends immigration raids despite fiery LA County protests (Axios)</title>
+      <link>https://www.axios.com/2025/06/08/los-angeles-california-immigration-protests</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/08/los-angeles-california-immigration-protests</guid>
+      <pubDate>Sun, 08 Jun 2025 00:57:37 +0000</pubDate>
+    </item>
+    <item>
       <title>«Ici, je suis redevenu un être humain»: une prison ouverte pour les séniors en Allemagne (RFI)</title>
       <link>https://www.rfi.fr/fr/podcasts/reportage-international/20250607-ici-je-suis-redevenu-un-%C3%AAtre-humain-une-prison-ouverte-pour-les-s%C3%A9niors-en-allemagne</link>
       <author>RFI</author>
@@ -220,6 +227,13 @@
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/23025</guid>
       <pubDate>06/07/2025 00:12</pubDate>
+    </item>
+    <item>
+      <title>Buildup to a Meltdown: How the Trump-Musk Alliance Collapsed (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/06/us/politics/trump-musk-split-nasa.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/06/us/politics/trump-musk-split-nasa.html</guid>
+      <pubDate>Fri, 06 Jun 2025 23:54:21 +0000</pubDate>
     </item>
     <item>
       <title>State Department considers giving $500 million to the new Gaza Humanitarian Foundation (Axios)</title>
@@ -1422,20 +1436,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/trump-dhs-thomas-fugate-cp3-terrorism-prevention</guid>
       <pubDate>Wed, 04 Jun 2025 18:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Top moments from Axios' AI+ Summit in New York (Axios)</title>
-      <link>https://www.axios.com/2025/06/04/top-moments-axios-ai-summit-new-york</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/04/top-moments-axios-ai-summit-new-york</guid>
-      <pubDate>Wed, 04 Jun 2025 22:10:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: élan de solidarité avec les mineurs étrangers expulsés de la Gaîté Lyrique (RFI)</title>
-      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250604-france-%C3%A9lan-de-solidarit%C3%A9-avec-les-mineurs-%C3%A9trangers-expuls%C3%A9s-de-la-ga%C3%AEt%C3%A9-lyrique</link>
-      <author>RFI</author>
-      <guid>e891c7c6-417d-11f0-854a-1749240f2aac</guid>
-      <pubDate>Wed, 04 Jun 2025 22:01:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
