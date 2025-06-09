@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Scariest AI reality: Companies don't fully understand their models (Axios)</title>
+      <link>https://www.axios.com/2025/06/09/ai-llm-hallucination-reason</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/09/ai-llm-hallucination-reason</guid>
+      <pubDate>Mon, 09 Jun 2025 09:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>$20K Bonuses Among Latest Moves To Improve California’s Prison Mental Health System (KFF Health News)</title>
       <link>https://kffhealthnews.org/news/article/california-prison-mental-health-conditions-staffing-shortages-bonuses/</link>
       <author>KFF Health News</author>
@@ -1429,13 +1436,6 @@
       <author>RTS</author>
       <guid>28905594</guid>
       <pubDate>Thu, 05 Jun 2025 13:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Have LLMs Finally Mastered Geolocation? (Bellingcat)</title>
-      <link>https://www.bellingcat.com/resources/how-tos/2025/06/05/have-llms-finally-mastered-geolocation/</link>
-      <author>Bellingcat</author>
-      <guid>https://www.bellingcat.com/?p=48934</guid>
-      <pubDate>Thu, 05 Jun 2025 13:10:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
