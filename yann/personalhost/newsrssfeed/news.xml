@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>En Italie, la naturalisation au cœur d'un nouveau débat politique (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/accents-d-europe/20250609-en-italie-la-naturalisation-au-c%C5%93ur-d-un-nouveau-d%C3%A9bat-politique</link>
+      <author>RFI</author>
+      <guid>5d107c1e-4543-11f0-8e93-3fa23ed07e74</guid>
+      <pubDate>Mon, 09 Jun 2025 15:57:05 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Israel intercepts Greta Thunberg’s Gaza aid ship					 (Politico)</title>
       <link>https://www.politico.eu/article/israel-greta-thunberg-gaza-aid-shop-palestine/</link>
@@ -25,6 +32,13 @@
       <author>RTS</author>
       <guid>28907410</guid>
       <pubDate>Mon, 09 Jun 2025 14:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Protesters summon, burn Waymo robotaxis in Los Angeles after ICE raids (Arstechnica)</title>
+      <link>https://arstechnica.com/cars/2025/06/robotaxis-burn-in-los-angeles-in-backlash-to-immigration-raids/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/cars/2025/06/robotaxis-burn-in-los-angeles-in-backlash-to-immigration-raids/</guid>
+      <pubDate>Mon, 09 Jun 2025 14:36:22 +0000</pubDate>
     </item>
     <item>
       <title>La 2e vie de la moquette, une serviette hygiénique intelligente et du vin dans des grottes (RTS)</title>
@@ -356,6 +370,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/08/johnson-musks-trump-bill-blowup</guid>
       <pubDate>Sun, 08 Jun 2025 14:45:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Law Enforcement Officials Struggle to Fulfill Trump Promises Rooted in Conspiracy Theories (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/08/us/politics/justice-department-fbi-trump-conspiracy-theories.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/08/us/politics/justice-department-fbi-trump-conspiracy-theories.html</guid>
+      <pubDate>Sun, 08 Jun 2025 14:12:48 +0000</pubDate>
     </item>
     <item>
       <title>Israel Vows To Prevent An Aid Boat Carrying Greta Thunberg And Other Activists From Reaching Gaza (Huffington Post)</title>
@@ -1417,27 +1438,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/05/elon-musk-trump-election-bill</guid>
       <pubDate>Thu, 05 Jun 2025 17:09:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s New “Supercharged” Travel Ban (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/06/trump-new-travel-ban-muslim-ban-supercharged/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1138777</guid>
-      <pubDate>Thu, 05 Jun 2025 17:02:46 +0000</pubDate>
-    </item>
-    <item>
-      <title> &amp;#x27;Deadline is in my brain,&amp;#x27; — Trump dismisses timeline to impose Russian sanctions  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russian-sanctions-deadline-is-in-my-brain-trump-says-dismisses-timeline-to-impose-additional-sanctions</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russian-sanctions-deadline-is-in-my-brain-trump-says-dismisses-timeline-to-impose-additional-sanctions</guid>
-      <pubDate>Thu, 05 Jun 2025 19:59:01 +0300</pubDate>
-    </item>
-    <item>
-      <title>Coroner finds DWP’s decisions and safeguarding failings were ‘trigger’ for suicide of Jodey Whiting (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/coroner-finds-dwps-decisions-and-safeguarding-failings-were-trigger-for-suicide-of-jodey-whiting/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/coroner-finds-dwps-decisions-and-safeguarding-failings-were-trigger-for-suicide-of-jodey-whiting/</guid>
-      <pubDate>Thu, 05 Jun 2025 16:55:28 -0000</pubDate>
     </item>
   </channel>
 </rss>
