@@ -5,11 +5,32 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump’s second term is creating ‘a limbo moment’ for US battery recyclers (Grist)</title>
+      <link>https://grist.org/technology/trump-battery-recycling-lithium-grants-funding-tariffs-ira-tax-credits/</link>
+      <author>Grist</author>
+      <guid>https://grist.org/?p=667863</guid>
+      <pubDate>Tue, 10 Jun 2025 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apple falls further behind in the AI race (Axios)</title>
+      <link>https://www.axios.com/2025/06/10/apple-intelligence-wwdc-lags-behind-openai</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/10/apple-intelligence-wwdc-lags-behind-openai</guid>
+      <pubDate>Tue, 10 Jun 2025 08:20:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Entre foi et persécutions, le mouvement mennonite a célébré ses 500 ans à Zurich (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/entre-foi-et-persecutions-le-mouvement-mennonite-a-celebre-ses-500-ans-a-zurich-28909050.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28909050</guid>
       <pubDate>Tue, 10 Jun 2025 08:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>The importance of understanding rest (ME/LC News)</title>
+      <link>https://www.thereforme.uk/p/the-importance-of-understanding-rest</link>
+      <author>ME/LC News</author>
+      <guid>https://www.thereforme.uk/p/the-importance-of-understanding-rest</guid>
+      <pubDate>Tue, 10 Jun 2025 08:01:27 GMT</pubDate>
     </item>
     <item>
       <title>Me Olivier Piton: Donald Trump est «à la limite de l'État de droit» (RFI)</title>
@@ -1416,27 +1437,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care</guid>
       <pubDate>Fri, 06 Jun 2025 05:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title> Ukraine strikes Russian air bases in &amp;#x27;preemptive strike&amp;#x27; ahead of drone, missile attack, General Staff says  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/preemptive-strike-ukraine-strikes-russian-air-bases-ahead-of-russian-drone-missile-attack-general-staff-says</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/preemptive-strike-ukraine-strikes-russian-air-bases-ahead-of-russian-drone-missile-attack-general-staff-says</guid>
-      <pubDate>Fri, 06 Jun 2025 11:53:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>France: Olivier Faure reconduit à la tête du Parti socialiste à l'issue d'un scrutin serré (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250606-france-olivier-faure-reconduit-%C3%A0-la-t%C3%AAte-du-parti-socialiste-%C3%A0-l-issue-d-un-scrutin-serr%C3%A9</link>
-      <author>RFI</author>
-      <guid>58c777cc-42a3-11f0-9f7e-91b7928b4f27</guid>
-      <pubDate>Fri, 06 Jun 2025 08:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Trump’s Big Beautiful Bill will raise household energy costs (Grist)</title>
-      <link>https://grist.org/politics/trump-big-beautiful-bill-congress-energy-costs/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=667778</guid>
-      <pubDate>Fri, 06 Jun 2025 08:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
