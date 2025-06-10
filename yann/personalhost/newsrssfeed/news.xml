@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Conseil des Etats approuve l'aide de 5 millions de francs pour Blatten (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28901237.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28901237</guid>
+      <pubDate>Tue, 10 Jun 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Britain sanctions 2 Israeli ministers for ‘inciting extremist violence’ against Palestinians					 (Politico)</title>
       <link>https://www.politico.eu/article/uk-lammy-sanction-israel-ministers-gaza-comments-ben-gvir-smotrich/</link>
@@ -281,6 +288,13 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/israel-outrage-seizing-gaza-freedom-flotilla-activists_n_684759cfe4b0c1bc4e80c61d</guid>
       <pubDate>Tue, 10 Jun 2025 00:53:29 -0000</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. Removes All CDC Vaccine Panel Experts (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/09/health/rfk-jr-cdc-vaccine-panel.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/09/health/rfk-jr-cdc-vaccine-panel.html</guid>
+      <pubDate>Tue, 10 Jun 2025 00:48:50 +0000</pubDate>
     </item>
     <item>
       <title>LAPD chief says police had "no formal notification" of Marines' deployment to LA protests (Axios)</title>
@@ -1420,21 +1434,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1138944</guid>
       <pubDate>Fri, 06 Jun 2025 15:25:25 +0000</pubDate>
-    </item>
-    <item>
-      <title> Trump offers Germany US gas deals, but no promises on Ukraine aid or Russia sanctions  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/trump-offers-germany-us-gas-deals-but-no-promises-on-ukraine-aid-or-russia-sanctions</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/trump-offers-germany-us-gas-deals-but-no-promises-on-ukraine-aid-or-russia-sanctions</guid>
-      <pubDate>Fri, 06 Jun 2025 17:51:46 +0300</pubDate>
-    </item>
-    <item>
-      <title>
-						Dutch snap election set for Oct. 29					 (Politico)</title>
-      <link>https://www.politico.eu/article/netherlands-snap-election-geert-wilders/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/netherlands-snap-election-geert-wilders/</guid>
-      <pubDate>Fri, 06 Jun 2025 14:48:12 -0000</pubDate>
     </item>
   </channel>
 </rss>
