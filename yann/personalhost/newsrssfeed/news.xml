@@ -5,6 +5,41 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>"Le nombre d'entreprises culturelles augmente, mais elles emploient de moins en moins de personnes" (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/precarisation-du-secteur-culturel-suisse-plus-d-entreprises-moins-d-employes-28909988.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28909988</guid>
+      <pubDate>Tue, 10 Jun 2025 12:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ignazio Cassis en visite éclair au Proche-Orient pour avoir sa propre idée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/ignazio-cassis-au-proche-orient-visite-eclair-pour-evaluer-la-crise-28910204.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28910204</guid>
+      <pubDate>Tue, 10 Jun 2025 12:56:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unia dénonce l’inaction face aux discriminations salariales envers les femmes (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/inegalites-salariales-unia-denonce-l-inaction-et-exige-des-sanctions-28910046.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28910046</guid>
+      <pubDate>Tue, 10 Jun 2025 12:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Autriche: «Une tragédie nationale», une fusillade dans un lycée de Graz fait au moins dix morts (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250610-autriche-au-moins-une-dizaine-de-morts-lors-d-une-fusillade-dans-un-%C3%A9tablissement-scolaire-de-graz</link>
+      <author>RFI</author>
+      <guid>d0b60d46-45f7-11f0-940b-59f620cc90af</guid>
+      <pubDate>Tue, 10 Jun 2025 12:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nucléaire: Londres injecte quatorze milliards de livres dans une nouvelle centrale à Sizewell (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250610-nucl%C3%A9aire-londres-injecte-quatorze-milliards-de-livres-dans-une-nouvelle-centrale-%C3%A0-sizewell</link>
+      <author>RFI</author>
+      <guid>aef753a4-45f7-11f0-bb3b-59f620cc90af</guid>
+      <pubDate>Tue, 10 Jun 2025 12:37:30 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Meloni’s coalition taunts left from the beach as low voter turnout scuppers referendum					 (Politico)</title>
       <link>https://www.politico.eu/article/giorgia-meloni-italy-coalition-citizenship-referendum-immigration/</link>
@@ -1401,42 +1436,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/france-socialists-elect-incumbent-leader-coalition-division-elections/</guid>
       <pubDate>Fri, 06 Jun 2025 13:25:43 -0000</pubDate>
-    </item>
-    <item>
-      <title>Churches are ignoring the Long COVID crisis. Some say it’s at odds with Christian values. (ME/LC News)</title>
-      <link>https://thesicktimes.org/2025/06/06/churches-are-ignoring-the-long-covid-crisis-some-say-its-at-odds-with-christian-values/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=churches-are-ignoring-the-long-covid-crisis-some-say-its-at-odds-with-christian-values</link>
-      <author>ME/LC News</author>
-      <guid>https://thesicktimes.org/?p=6992</guid>
-      <pubDate>Fri, 06 Jun 2025 12:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Europe arms itself against cyber catastrophe					 (Politico)</title>
-      <link>https://www.politico.eu/article/europe-arms-cyber-council-military-council-daily-european-council/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/europe-arms-cyber-council-military-council-daily-european-council/</guid>
-      <pubDate>Fri, 06 Jun 2025 12:19:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>Japan’s rice shortage puts pressure on politicians (Semafor)</title>
-      <link>https://www.semafor.com/article/06/06/2025/japans-rice-shortage-puts-pressure-on-politicians</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/06/06/2025/japans-rice-shortage-puts-pressure-on-politicians</guid>
-      <pubDate>Fri, 06 Jun 2025 11:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rocket Report: SpaceX’s 500th Falcon launch; why did UK’s Reaction Engines fail? (Arstechnica)</title>
-      <link>https://arstechnica.com/space/2025/06/rocket-report-spacexs-500th-falcon-launch-why-did-uks-reaction-engines-fail/</link>
-      <author>Arstechnica</author>
-      <guid>https://arstechnica.com/space/2025/06/rocket-report-spacexs-500th-falcon-launch-why-did-uks-reaction-engines-fail/</guid>
-      <pubDate>Fri, 06 Jun 2025 11:00:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oscar Pistorius Returns To Competition, 12 Years After Killing Girlfriend Reeva Steenkamp (Huffington Post)</title>
-      <link>https://www.huffpost.com/entry/oscar-pistorius-return-to-competition_n_6842b6c3e4b004bd540a0b09</link>
-      <author>Huffington Post</author>
-      <guid>https://www.huffpost.com/entry/oscar-pistorius-return-to-competition_n_6842b6c3e4b004bd540a0b09</guid>
-      <pubDate>Fri, 06 Jun 2025 10:51:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
