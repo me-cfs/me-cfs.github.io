@@ -36,6 +36,8 @@ const us = ['Anchorage', ...usPolitics];
 
 
 //exclusionLists
+const adds = ['new book'];
+// -Axios
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', "won't believe", 'truth about',
   "fury", "formidable"
@@ -223,5 +225,6 @@ module.exports = {
   singlePerson, 
   royalFamily,
   popMed, 
+  adds,
 };
 
