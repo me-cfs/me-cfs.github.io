@@ -121,7 +121,7 @@ module.exports = [
     exclusionWords: [
       'Hurricane', 'Tropical Storm', 'Paramount', 'Skydance', 'which', ...tList.popMed,
       'Fact Check: Biden', 'fans', 'collection:', 'peggy', "read", "Ukraine Ceasefire",
-      'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", 
+      'Simone', 'Warner', 'soccer', ...tList.business, "Set to proceed", ...tList.adds,
       'Why the', ...tList.fluffyTitle, ...tList.nonInformativeTitle, "Where",
       ...tList.uninterestedGeneral, ...tList.uninterestedPeople, ...tList.uninterestedSports, 
       'Sunday Snapshot', 'blaze', 'winds', 'charged with', 'how', ...tList.culture,
