@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>The grand tour: one playwright’s quest to set foot in every African country before turning 60 (Guardian)</title>
+      <link>https://www.theguardian.com/stage/2025/jun/13/femi-elufowoju-jr-theatre-5460-africa-arcola-theatre-london</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/stage/2025/jun/13/femi-elufowoju-jr-theatre-5460-africa-arcola-theatre-london</guid>
+      <pubDate>Fri, 13 Jun 2025 10:15:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Des experts alertent sur le manque de programmes de déradicalisation en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/suisse-manque-de-programmes-de-deradicalisation-pour-ex-sympathisants-ei-28912319.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28912319</guid>
+      <pubDate>Fri, 13 Jun 2025 10:05:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Nigeria: Ogoni Nine pardon ‘falls far short’ of real justice   (Amnesty International)</title>
       <link>https://www.amnesty.org/en/latest/news/2025/06/nigeria-ogoni-nine-pardon-falls-far-short-of-real-justice/</link>
       <author>Amnesty International</author>
@@ -1427,20 +1441,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1139366</guid>
       <pubDate>Wed, 11 Jun 2025 02:43:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Next time, I’m not waiting’: Trump’s endgame has arrived (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/06/11/donald-trump-usa-army-insurrection-act-los-angeles-protests/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1209907</guid>
-      <pubDate>Wed, 11 Jun 2025 02:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mayor Karen Bass imposes curfew in downtown LA (Axios)</title>
-      <link>https://www.axios.com/2025/06/11/la-protests-ice-curfew-marines</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/11/la-protests-ice-curfew-marines</guid>
-      <pubDate>Wed, 11 Jun 2025 02:25:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
