@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le Conseil fédéral approuve les nouveaux accords visant à stabiliser les relations avec Bruxelles (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/le-conseil-federal-approuve-les-accords-avec-l-ue-consultation-ouverte-28913480.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28913480</guid>
+      <pubDate>Fri, 13 Jun 2025 13:59:21 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Unleashing Europe’s biotech prowess requires radical reinvention					 (Politico)</title>
       <link>https://www.politico.eu/article/europe-biotech-progress-competitiveness-innovation-research/</link>
@@ -840,6 +847,13 @@
       <pubDate>Thu, 12 Jun 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
+      <title>In the age of AI, Apple needs to open up (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/06/12/in-the-age-of-ai-apple-needs-to-open-up</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/leaders/2025/06/12/in-the-age-of-ai-apple-needs-to-open-up</guid>
+      <pubDate>Thu, 12 Jun 2025 08:46:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump's dealmaker image hits a wall (Axios)</title>
       <link>https://www.axios.com/2025/06/12/trump-deals-trade-ukraine-gaza-iran</link>
       <author>Axios</author>
@@ -1426,20 +1440,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/11/tulsi-gabbard-intelligence-leaks-deep-state</guid>
       <pubDate>Wed, 11 Jun 2025 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coal miners are fighting Trump’s safety cuts — and winning (Grist)</title>
-      <link>https://grist.org/regulation/coal-miners-are-fighting-trumps-safety-cuts-and-winning/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=667955</guid>
-      <pubDate>Wed, 11 Jun 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meurtre devant un collège en France: une minute de silence jeudi dans tous les établissements scolaires (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250611-meurtre-devant-un-coll%C3%A8ge-en-france-une-minute-de-silence-dans-tous-les-%C3%A9tablissements-scolaires</link>
-      <author>RFI</author>
-      <guid>5d47ebd0-4698-11f0-b6a2-5dc80b7c6455</guid>
-      <pubDate>Wed, 11 Jun 2025 08:04:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
