@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Kenyan police officer arrested amid protests over death in custody (Guardian)</title>
+      <link>https://www.theguardian.com/world/2025/jun/13/kenyan-police-officer-arrested-anger-and-protests-over-death-in-custody-albert-ojwang</link>
+      <author>Guardian</author>
+      <guid>https://www.theguardian.com/world/2025/jun/13/kenyan-police-officer-arrested-anger-and-protests-over-death-in-custody-albert-ojwang</guid>
+      <pubDate>Fri, 13 Jun 2025 09:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Union européenne: les engrais russes seront progressivement surtaxés dès juillet 2025 (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250613-union-europ%C3%A9enne-les-engrais-russes-seront-progressivement-surtax%C3%A9s-d%C3%A8s-juillet-2025</link>
+      <author>RFI</author>
+      <guid>d7962bf8-4838-11f0-a825-611c701d4b2c</guid>
+      <pubDate>Fri, 13 Jun 2025 09:36:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Padilla episode triggers five-alarm fire for Democrats (Axios)</title>
       <link>https://www.axios.com/2025/06/13/alex-padilla-trump-democracy</link>
       <author>Axios</author>
@@ -45,6 +59,13 @@
       <author>KFF Health News</author>
       <guid>https://kffhealthnews.org/?post_type=article&amp;p=2048887</guid>
       <pubDate>Fri, 13 Jun 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 Students in a School Meant for 1,000: Inside Chicago’s Refusal to Deal With Its Nearly Empty Schools (Propublica)</title>
+      <link>https://www.propublica.org/article/chicago-public-schools-enrollment-costs</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/chicago-public-schools-enrollment-costs</guid>
+      <pubDate>Fri, 13 Jun 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>The only trade certainty is uncertainty (Axios)</title>
@@ -1420,27 +1441,6 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/slovak-pm-threatens-to-veto-18th-sanctions-package-against-russia-over-energy-concerns</guid>
       <pubDate>Wed, 11 Jun 2025 04:43:48 +0300</pubDate>
-    </item>
-    <item>
-      <title>CDC workers walk out, join former employees in protest calling on RFK Jr. to resign (Axios)</title>
-      <link>https://www.axios.com/local/atlanta/2025/06/10/cdc-workers-protest-walk-out-advisory-committee-rfk</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/local/atlanta/2025/06/10/cdc-workers-protest-walk-out-advisory-committee-rfk</guid>
-      <pubDate>Wed, 11 Jun 2025 00:56:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appeals court stays ruling that blocked Trump's tariffs (Axios)</title>
-      <link>https://www.axios.com/2025/06/11/trump-tariffs-stay</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/11/trump-tariffs-stay</guid>
-      <pubDate>Wed, 11 Jun 2025 00:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.S., China reach "framework" to activate last month's trade deal (Axios)</title>
-      <link>https://www.axios.com/2025/06/11/us-china-trade-tariffs</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/11/us-china-trade-tariffs</guid>
-      <pubDate>Wed, 11 Jun 2025 00:37:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
