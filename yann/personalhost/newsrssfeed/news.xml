@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: appel à la marche des mères pour les enfants de Palestine (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250614-france-appel-%C3%A0-la-marche-des-m%C3%A8res-pour-les-enfants-de-palestine</link>
+      <author>RFI</author>
+      <guid>946f7ca0-493a-11f0-8086-05dab20fb702</guid>
+      <pubDate>Sat, 14 Jun 2025 16:20:21 GMT</pubDate>
+    </item>
+    <item>
       <title>La carte des glaciers les plus dangereux de Suisse (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/glaciers-dangereux-en-suisse-60-menacent-zones-habitees-et-infrastructures-28909722.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1432,13 +1439,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/11/david-hogg-dnc-vice-chair-kenyatta</guid>
       <pubDate>Wed, 11 Jun 2025 22:56:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>A groundbreaking documentary on ME/CFS is now available to international audiences (ME/LC News)</title>
-      <link>https://www.thecanary.co/uk/news/2025/06/11/me-cfs-documentary-streaming/</link>
-      <author>ME/LC News</author>
-      <guid>https://www.thecanary.co/uk/news/2025/06/11/me-cfs-documentary-streaming/</guid>
-      <pubDate>Wed, 11 Jun 2025 22:52:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
