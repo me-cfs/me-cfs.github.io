@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La carte des glaciers les plus dangereux de Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/glaciers-dangereux-en-suisse-60-menacent-zones-habitees-et-infrastructures-28909722.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28909722</guid>
+      <pubDate>Sat, 14 Jun 2025 15:22:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Le SRC a collaboré avec plusieurs entreprises proches de la Russie (RTS)</title>
       <link>https://www.rts.ch/info/dialogue/2025/article/le-src-a-collabore-avec-plusieurs-entreprises-proches-de-la-russie-28913100.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1432,13 +1439,6 @@
       <author>ME/LC News</author>
       <guid>https://www.thecanary.co/uk/news/2025/06/11/me-cfs-documentary-streaming/</guid>
       <pubDate>Wed, 11 Jun 2025 22:52:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>House GOP to Senate: "Touch very lightly" on Trump budget bill (Axios)</title>
-      <link>https://www.axios.com/2025/06/11/trump-budget-bill-lisa-mcclain-senate</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/11/trump-budget-bill-lisa-mcclain-senate</guid>
-      <pubDate>Wed, 11 Jun 2025 22:47:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
