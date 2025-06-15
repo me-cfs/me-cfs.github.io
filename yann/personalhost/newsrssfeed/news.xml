@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>La compagnie italienne Trenitalia lance son offre sur la ligne Paris-Marseille pour concurrencer la SNCF (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250615-la-compagnie-italienne-trenitalia-lance-son-offre-sur-la-ligne-paris-marseille-pour-concurrencer-la-sncf</link>
+      <author>RFI</author>
+      <guid>2a09c47c-49c3-11f0-bce1-e5922cd49edc</guid>
+      <pubDate>Sun, 15 Jun 2025 10:01:01 GMT</pubDate>
+    </item>
+    <item>
       <title>A la recherche de la vache suisse perdue (RTS)</title>
       <link>https://www.rts.ch/info/dialogue/2025/article/vaches-suisses-entre-races-locales-menacees-et-succes-mondial-28910246.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1431,13 +1438,6 @@
       <link>https://www.bbc.com/news/articles/cgr589k5yleo</link>
       <author>BBC</author>
       <guid>https://www.bbc.com/news/articles/cgr589k5yleo#0</guid>
-      <pubDate>Thu, 12 Jun 2025 06:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Aukus, the submarine deal between Australia, the UK and US? (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cgr589k5yleo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cgr589k5yleo#1</guid>
       <pubDate>Thu, 12 Jun 2025 06:03:55 GMT</pubDate>
     </item>
   </channel>
