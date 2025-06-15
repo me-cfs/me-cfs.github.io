@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Kenyan Weapons Linked to Sudan’s Civil War (Bellingcat)</title>
+      <link>https://www.bellingcat.com/news/2025/06/15/kenya-weapons-sudan-civil-war-conflict-khartoum-omdurman-munitions-ammunition/</link>
+      <author>Bellingcat</author>
+      <guid>https://www.bellingcat.com/?p=48923</guid>
+      <pubDate>Sun, 15 Jun 2025 19:00:18 +0000</pubDate>
+    </item>
+    <item>
+      <title> 5 Ukrainians dead in Israel after Iranian missile strike  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/five-ukrainians-dead-in-israel-after-iranian-missile-strike</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/five-ukrainians-dead-in-israel-after-iranian-missile-strike</guid>
+      <pubDate>Sun, 15 Jun 2025 21:57:49 +0300</pubDate>
+    </item>
+    <item>
       <title>Trump has not called Walz following shooting of Minnesota lawmakers (Axios)</title>
       <link>https://www.axios.com/2025/06/15/trump-walz-minnesota-shooting-lawmakers-call</link>
       <author>Axios</author>
@@ -67,6 +81,13 @@
       <author>RFI</author>
       <guid>8d3227d4-49f9-11f0-9718-b31b764cabfb</guid>
       <pubDate>Sun, 15 Jun 2025 15:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huma Abedin and Alex Soros Wedding Draws Clintons and Kamala Harris to the Hamptons (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/14/us/politics/huma-abedin-alex-soros-wedding-hillary-clinton-kamala-harris.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/14/us/politics/huma-abedin-alex-soros-wedding-hillary-clinton-kamala-harris.html</guid>
+      <pubDate>Sun, 15 Jun 2025 14:46:49 +0000</pubDate>
     </item>
     <item>
       <title>Four issues facing Australia before Ashes series (BBC)</title>
@@ -1414,33 +1435,6 @@
       <author>404 Media</author>
       <guid>68499e2feec3c20001b7192d</guid>
       <pubDate>Thu, 12 Jun 2025 13:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-        Business
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/06/12/business</link>
-      <author>Economist the World this Week</author>
-      <guid>fbe4ed4f-2aa4-4db3-8f3d-452092038937</guid>
-      <pubDate>Thu, 12 Jun 2025 13:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        The weekly cartoon
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/06/12/the-weekly-cartoon</link>
-      <author>Economist the World this Week</author>
-      <guid>51d13ec0-1d0e-4113-b047-8ffc26f47b58</guid>
-      <pubDate>Thu, 12 Jun 2025 13:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-        Politics
-       (Economist the World this Week)</title>
-      <link>https://www.economist.com/the-world-this-week/2025/06/12/politics</link>
-      <author>Economist the World this Week</author>
-      <guid>22d85ab8-f0ca-48c0-a766-5a6271dd1f8f</guid>
-      <pubDate>Thu, 12 Jun 2025 13:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
