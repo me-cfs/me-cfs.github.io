@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Lawmakers urge defense if Iran attacks U.S. targets (Axios)</title>
+      <link>https://www.axios.com/2025/06/15/iran-israel-attack-us-congress</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/15/iran-israel-attack-us-congress</guid>
+      <pubDate>Sun, 15 Jun 2025 17:50:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guerre Israël-Iran: l'Ukraine craint d'être reléguée au second plan (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250615-guerre-isra%C3%ABl-iran-l-ukraine-craint-d-%C3%AAtre-rel%C3%A9gu%C3%A9e-au-second-plan</link>
+      <author>RFI</author>
+      <guid>1ba91a06-4a11-11f0-805f-2778369b0724</guid>
+      <pubDate>Sun, 15 Jun 2025 17:49:38 GMT</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/guerre-tous-azimuts</link>
       <author>Chapatte Dessins</author>
@@ -1427,20 +1441,6 @@
       <author>Economist</author>
       <guid>https://www.economist.com/business/2025/06/12/the-worlds-biggest-food-company-plans-to-beef-up-in-america</guid>
       <pubDate>Thu, 12 Jun 2025 13:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>ICE steps up migrant arrests in courtrooms across U.S. (Axios)</title>
-      <link>https://www.axios.com/2025/06/12/ice-courthouse-arrests-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/12/ice-courthouse-arrests-trump</guid>
-      <pubDate>Thu, 12 Jun 2025 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les CFF ne vendent plus de Coca-Cola dans les trains, privilégiant le concurrent suisse Vivi Kola (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/cff-fini-coca-cola-place-au-vivi-kola-suisse-dans-les-wagons-restaurants-28912121.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28912121</guid>
-      <pubDate>Thu, 12 Jun 2025 11:05:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
