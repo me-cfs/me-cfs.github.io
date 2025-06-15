@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Companies may soon pay a fee for their rockets to share the skies with airplanes (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/06/companies-may-soon-pay-a-fee-for-their-rockets-to-share-the-skies-with-airplanes/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/06/companies-may-soon-pay-a-fee-for-their-rockets-to-share-the-skies-with-airplanes/</guid>
+      <pubDate>Sun, 15 Jun 2025 11:07:40 +0000</pubDate>
+    </item>
+    <item>
       <title>La compagnie italienne Trenitalia lance son offre sur la ligne Paris-Marseille pour concurrencer la SNCF (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250615-la-compagnie-italienne-trenitalia-lance-son-offre-sur-la-ligne-paris-marseille-pour-concurrencer-la-sncf</link>
       <author>RFI</author>
       <guid>2a09c47c-49c3-11f0-bce1-e5922cd49edc</guid>
       <pubDate>Sun, 15 Jun 2025 10:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Funding Cuts Leave Alaska Native Village in the Dark, Stalling Clean Energy Dreams (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/06/trumps-funding-cuts-leave-alaska-native-village-in-the-dark-stalling-clean-energy-dreams/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1140466</guid>
+      <pubDate>Sun, 15 Jun 2025 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A la recherche de la vache suisse perdue (RTS)</title>
@@ -1425,20 +1439,6 @@
       <author>RTS</author>
       <guid>28911822</guid>
       <pubDate>Thu, 12 Jun 2025 06:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>L'Italie accueille dix-sept enfants palestiniens nécessitant des soins urgents (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250612-l-italie-accueille-dix-sept-enfants-palestiniens-n%C3%A9cessitant-des-soins-urgents</link>
-      <author>RFI</author>
-      <guid>7f1b79d6-474f-11f0-94ab-fb8ddbf71aba</guid>
-      <pubDate>Thu, 12 Jun 2025 06:09:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Aukus, the submarine deal between Australia, the UK and US? (BBC)</title>
-      <link>https://www.bbc.com/news/articles/cgr589k5yleo</link>
-      <author>BBC</author>
-      <guid>https://www.bbc.com/news/articles/cgr589k5yleo#0</guid>
-      <pubDate>Thu, 12 Jun 2025 06:03:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
