@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> (Chapatte Dessins)</title>
+      <link>https://www.chappatte.com/fr/images/guerre-tous-azimuts</link>
+      <author>Chapatte Dessins</author>
+      <guid>https://www.chappatte.com/node/23034</guid>
+      <pubDate>06/15/2025 17:44</pubDate>
+    </item>
+    <item>
       <title>Trump says Israel and Iran should make a deal to end the war (Axios)</title>
       <link>https://www.axios.com/2025/06/15/trump-israel-iran-end-war</link>
       <author>Axios</author>
@@ -1434,13 +1441,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/12/chatgpt-openai-google-search-battle</guid>
       <pubDate>Thu, 12 Jun 2025 09:55:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil national rejette l'initiative SSR et tout contre-projet (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/minute-par-minute/28901237.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28901237</guid>
-      <pubDate>Thu, 12 Jun 2025 09:45:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
