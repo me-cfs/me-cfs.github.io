@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Un ex-cadre d'Incop continue à récolter des signatures pour des initiatives fédérales (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/fraude-aux-signatures-un-ex-cadre-d-incop-poursuit-ses-activites-douteuses-28915380.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28915380</guid>
+      <pubDate>Mon, 16 Jun 2025 07:37:01 GMT</pubDate>
+    </item>
+    <item>
       <title> HUR identifies Russian tanker evading oil sanctions with illegal transfers near Greece, Cyprus  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russia-evading-oil-sanctions-with-illegal-transfers-near-greece-cyprus-hur-says</link>
       <author>Kyiv Indpendent</author>
@@ -127,6 +134,13 @@
       <author>Semafor</author>
       <guid>https://www.semafor.com/article/06/15/2025/us-should-prepare-for-possibility-of-losing-ai-race-to-china-experts-say</guid>
       <pubDate>Sun, 15 Jun 2025 22:06:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>France: le nouveau départ de musiciens de Gaza réfugiés à Angers (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/reportage-france/20250615-entre-douleur-et-espoir-le-nouveau-d%C3%A9part-de-musiciens-de-gaza-r%C3%A9fugi%C3%A9s-%C3%A0-angers</link>
+      <author>RFI</author>
+      <guid>facfed7a-4a31-11f0-9ef7-89f8c9c27fb0</guid>
+      <pubDate>Sun, 15 Jun 2025 22:04:48 GMT</pubDate>
     </item>
     <item>
       <title>News in Brief for the week of June 8th (ME/LC News)</title>
@@ -1420,21 +1434,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/ylva-johansson-ukraine-eu-special-envoy/</guid>
       <pubDate>Thu, 12 Jun 2025 17:31:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘Real danger’ that disabled people will not benefit from £39 billion for social and affordable homes (Disability News Service)</title>
-      <link>https://www.disabilitynewsservice.com/real-danger-that-disabled-people-will-not-benefit-from-39-billion-for-social-and-affordable-homes/</link>
-      <author>Disability News Service</author>
-      <guid>https://www.disabilitynewsservice.com/real-danger-that-disabled-people-will-not-benefit-from-39-billion-for-social-and-affordable-homes/</guid>
-      <pubDate>Thu, 12 Jun 2025 17:16:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Spanish PM Sánchez apologizes for corruption scandals in his Socialist Party					 (Politico)</title>
-      <link>https://www.politico.eu/article/spain-pm-pedro-sanchez-apologize-corruption-socialist-party/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/spain-pm-pedro-sanchez-apologize-corruption-socialist-party/</guid>
-      <pubDate>Thu, 12 Jun 2025 17:16:15 -0000</pubDate>
     </item>
   </channel>
 </rss>
