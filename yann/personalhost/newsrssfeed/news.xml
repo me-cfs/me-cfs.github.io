@@ -5,6 +5,27 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump's former surgeon general is now one his most pointed critics (The Hill)</title>
+      <link>https://thehill.com/policy/healthcare/5350076-trump-surgeon-general-criticized-kennedy-adams/</link>
+      <author>The Hill</author>
+      <guid>https://thehill.com/?p=5350076</guid>
+      <pubDate>Mon, 16 Jun 2025 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'arrivée de Zelensky à Vienne relance le sujet de la présence des espions russes en Autriche (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250616-l-arriv%C3%A9e-de-zelensky-%C3%A0-vienne-relance-le-sujet-de-la-pr%C3%A9sence-des-espions-russes-en-autriche</link>
+      <author>RFI</author>
+      <guid>59edfb9c-4a93-11f0-8747-7b6275138e5b</guid>
+      <pubDate>Mon, 16 Jun 2025 09:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title> 6 killed, 18 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/6-killed-18-injured-in-russian-attacks-on-ukraine-over-past-day</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/6-killed-18-injured-in-russian-attacks-on-ukraine-over-past-day</guid>
+      <pubDate>Mon, 16 Jun 2025 12:54:25 +0300</pubDate>
+    </item>
+    <item>
       <title>Spaniards Turn Water Guns On Visitors To Protest Mass Tourism (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/spain-overtourism-protest_n_684fdfd8e4b0dde371e65227</link>
       <author>Huffington Post</author>
@@ -17,6 +38,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump</guid>
       <pubDate>Mon, 16 Jun 2025 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Federal Monitor Slams NYPD Unit Whose Aggressive Policing ProPublica Exposed (Propublica)</title>
+      <link>https://www.propublica.org/article/nyc-nypd-police-community-response-team-stop-frisk</link>
+      <author>Propublica</author>
+      <guid>https://www.propublica.org/article/nyc-nypd-police-community-response-team-stop-frisk</guid>
+      <pubDate>Mon, 16 Jun 2025 05:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Trump quietly shutters the only federal agency that investigates industrial chemical explosions (Grist)</title>
@@ -1405,34 +1433,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/12/alex-padilla-homeland-security-kristi-noem</guid>
       <pubDate>Thu, 12 Jun 2025 18:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump promises farmers "changes are coming" to immigration crackdown (Axios)</title>
-      <link>https://www.axios.com/2025/06/12/trump-immigration-enforcement-farms-hotels</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/12/trump-immigration-enforcement-farms-hotels</guid>
-      <pubDate>Thu, 12 Jun 2025 18:14:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump's former surgeon general rips RFK Jr's purge of vaccine board (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5346914-trump-former-surgeon-general-vaccines/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5346914</guid>
-      <pubDate>Thu, 12 Jun 2025 18:06:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zohran Mamdani brings the Bernie Sanders method to New York (Semafor)</title>
-      <link>https://www.semafor.com/article/06/12/2025/zohran-mamdanis-bernie-sanders-new-york-mayor</link>
-      <author>Semafor</author>
-      <guid>https://www.semafor.com/article/06/12/2025/zohran-mamdanis-bernie-sanders-new-york-mayor</guid>
-      <pubDate>Thu, 12 Jun 2025 17:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAGA warns Trump of "massive schism" over Israeli strikes on Iran (Axios)</title>
-      <link>https://www.axios.com/2025/06/12/trump-iran-israel-strikes-nuclear-maga</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/12/trump-iran-israel-strikes-nuclear-maga</guid>
-      <pubDate>Thu, 12 Jun 2025 17:33:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
