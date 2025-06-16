@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: François Bayrou veut croire en un accord sur les retraites à l'issue du «conclave» (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250616-france-fran%C3%A7ois-bayrou-veut-croire-en-un-accord-sur-les-retraites-%C3%A0-l-issue-du-conclave</link>
+      <author>RFI</author>
+      <guid>6e9f9884-4af2-11f0-8fec-7fb06ddb0b11</guid>
+      <pubDate>Mon, 16 Jun 2025 22:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Hakeem Jeffries presses Mike Johnson for more funds to protect House members (Axios)</title>
       <link>https://www.axios.com/2025/06/16/hakeem-jeffries-mike-johnson-minnesota-shooting</link>
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/16/hakeem-jeffries-mike-johnson-minnesota-shooting</guid>
       <pubDate>Mon, 16 Jun 2025 21:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title> Canada reportedly set to announce new military aid for Ukraine at G7  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/canada-reportedly-set-to-announce-new-military-aid-for-ukraine-at-g7</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/canada-reportedly-set-to-announce-new-military-aid-for-ukraine-at-g7</guid>
+      <pubDate>Tue, 17 Jun 2025 00:30:00 +0300</pubDate>
     </item>
     <item>
       <title>Senate unveils trickiest text of Trump's "big, beautiful bill" (Axios)</title>
@@ -1414,22 +1428,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/brussels-farm-pledge-win-france-support-mercosur-trade-deal/</guid>
       <pubDate>Fri, 13 Jun 2025 01:56:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Schengen faces midlife crisis					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-schengen-area-face-midlife-crisis-border-control-luxembourg/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-schengen-area-face-midlife-crisis-border-control-luxembourg/</guid>
-      <pubDate>Fri, 13 Jun 2025 01:41:11 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Ukraine blasts Russia Day well-wishers as Rubio sends greetings to Moscow					 (Politico)</title>
-      <link>https://www.politico.eu/article/ukraine-foreign-minister-andrii-sybiha-russia-day-marco-rubio/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/ukraine-foreign-minister-andrii-sybiha-russia-day-marco-rubio/</guid>
-      <pubDate>Fri, 13 Jun 2025 01:11:11 -0000</pubDate>
     </item>
   </channel>
 </rss>
