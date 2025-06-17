@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Laurence Rossignol, sénatrice féministe du groupe Socialiste Écologiste Républicain du Val-de-Marne (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/mardi-politique/20250617-laurence-rossignol-s%C3%A9natrice-f%C3%A9ministe-du-groupe-socialiste-%C3%A9cologiste-r%C3%A9publicain-du-val-de-marne</link>
+      <author>RFI</author>
+      <guid>3c50cbfc-4b8b-11f0-9e89-09f535bdecac</guid>
+      <pubDate>Tue, 17 Jun 2025 18:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>La France doit demander «pardon» à la Polynésie pour ses essais nucléaires, estime une commission d'enquête (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250617-la-france-doit-demander-pardon-%C3%A0-la-polyn%C3%A9sie-pour-ses-essais-nucl%C3%A9aires-estime-une-commission-d-enqu%C3%AAte</link>
+      <author>RFI</author>
+      <guid>0d1ec1e0-4ba4-11f0-9351-173b597d2c27</guid>
+      <pubDate>Tue, 17 Jun 2025 17:54:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Padilla calls Trump a "tyrant" in emotional Senate floor speech (Axios)</title>
       <link>https://www.axios.com/2025/06/17/alex-padilla-trump-tyrant-immigration-senate-speech</link>
       <author>Axios</author>
@@ -25,6 +39,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/iran-orders-officials-to-ditch-connected-devices/</guid>
       <pubDate>Tue, 17 Jun 2025 17:33:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Trump and the GOP’s Ghoulish Response to the Assassinations in Minnesota (Motherjones)</title>
+      <link>https://www.motherjones.com/politics/2025/06/trump-walz-minnesota-shootings-mike-lee/</link>
+      <author>Motherjones</author>
+      <guid>https://www.motherjones.com/?p=1141039</guid>
+      <pubDate>Tue, 17 Jun 2025 16:51:00 +0000</pubDate>
     </item>
     <item>
       <title> Ukraine is mass-producing its own ballistic missile — here’s how it can be used to strike Russia  (Kyiv Indpendent)</title>
@@ -1408,27 +1429,6 @@
       <author>RTS</author>
       <guid>28913905</guid>
       <pubDate>Fri, 13 Jun 2025 21:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scoop: Democrats' bill hits back at Hegseth on renaming USNS Harvey Milk, other ships (Axios)</title>
-      <link>https://www.axios.com/2025/06/13/harvey-milk-ship-navy-hegseth-renaming</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/13/harvey-milk-ship-navy-hegseth-renaming</guid>
-      <pubDate>Fri, 13 Jun 2025 21:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran strikes back at Israel, U.S. helps intercept missiles (Axios)</title>
-      <link>https://www.axios.com/2025/06/13/iran-strikes-israel-missiles-tel-aviv</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/13/iran-strikes-israel-missiles-tel-aviv</guid>
-      <pubDate>Fri, 13 Jun 2025 20:51:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Judge denies Mahmoud Khalil's release after Trump admin submits new filing (Axios)</title>
-      <link>https://www.axios.com/2025/06/13/trump-admin-refuses-to-release-mahmoud-khalil-despite-judges-order</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/13/trump-admin-refuses-to-release-mahmoud-khalil-despite-judges-order</guid>
-      <pubDate>Fri, 13 Jun 2025 20:47:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
