@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Une femme et un couple tués dans le canton de Soleure (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/triple-meurtre-dans-le-canton-de-soleure-un-suspect-se-rend-a-la-police-28918136.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28918136</guid>
+      <pubDate>Wed, 18 Jun 2025 12:27:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Official Cause Of Unprecedented Spain-Portugal Blackout Is Unveiled (Huffington Post)</title>
       <link>https://www.huffpost.com/entry/spain-blackout-cause-announced_n_6852a220e4b0ed75e674da86</link>
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/spain-blackout-cause-announced_n_6852a220e4b0ed75e674da86</guid>
       <pubDate>Wed, 18 Jun 2025 12:21:00 -0000</pubDate>
+    </item>
+    <item>
+      <title> For the first time, Australia sanctions Russian shadow fleet oil tankers  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/australia-sanctions-russian-shadow-fleet-oil-tankers-for-first-time</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/australia-sanctions-russian-shadow-fleet-oil-tankers-for-first-time</guid>
+      <pubDate>Wed, 18 Jun 2025 15:20:44 +0300</pubDate>
     </item>
     <item>
       <title>Khamenei to Trump: Iran will not surrender (Axios)</title>
@@ -1419,20 +1433,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/germany-france-u-k-ready-to-talk-with-iran/</guid>
       <pubDate>Sun, 15 Jun 2025 12:59:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>Les visites médicales à domicile, une alternative aux urgences en plein essor (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/visites-medicales-a-domicile-alternative-aux-urgences-en-plein-essor-28913509.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28913509</guid>
-      <pubDate>Sun, 15 Jun 2025 12:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: à son congrès, le Parti socialiste se divise sur sa relation avec la France insoumise (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250615-france-%C3%A0-son-congr%C3%A8s-le-parti-socialiste-se-divise-sur-sa-relation-avec-la-france-insoumise</link>
-      <author>RFI</author>
-      <guid>0f5dd71e-49e4-11f0-a912-d97131c44641</guid>
-      <pubDate>Sun, 15 Jun 2025 12:44:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
