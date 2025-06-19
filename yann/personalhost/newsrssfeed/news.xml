@@ -5,6 +5,47 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Les pluies torrentielles vont s'intensifier dans les régions alpines en été, d'après une étude (RTS)</title>
+      <link>https://www.rts.ch/info/environnement/2025/article/alpes-pluies-torrentielles-estivales-doubleront-avec-2-c-selon-etude-28919166.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28919166</guid>
+      <pubDate>Thu, 19 Jun 2025 13:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moins de naissances et de mariages en Suisse l'année passée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/baisse-des-naissances-et-mariages-en-suisse-les-chiffres-cles-de-2024-28919118.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28919118</guid>
+      <pubDate>Thu, 19 Jun 2025 13:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+        The weekly cartoon
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/06/19/the-weekly-cartoon</link>
+      <author>Economist the World this Week</author>
+      <guid>563d886e-1be2-4227-8d58-59f082758842</guid>
+      <pubDate>Thu, 19 Jun 2025 12:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+        Business
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/06/19/business</link>
+      <author>Economist the World this Week</author>
+      <guid>366b24e3-954a-4acb-afc4-ae6baa5ae76d</guid>
+      <pubDate>Thu, 19 Jun 2025 12:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>
+        Politics
+       (Economist the World this Week)</title>
+      <link>https://www.economist.com/the-world-this-week/2025/06/19/politics</link>
+      <author>Economist the World this Week</author>
+      <guid>9829a5aa-2822-4081-97dc-01b5291e63e4</guid>
+      <pubDate>Thu, 19 Jun 2025 12:57:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Les États-Unis refusent d'accorder un visa d'entrée sur leur territoire à un député français (RFI)</title>
       <link>https://www.rfi.fr/fr/france/20250619-les-%C3%A9tats-unis-refusent-d-accorder-un-visa-d-entr%C3%A9e-sur-leur-territoire-%C3%A0-un-d%C3%A9put%C3%A9-fran%C3%A7ais</link>
       <author>RFI</author>
@@ -1402,41 +1443,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/health/2025/06/new-covid-variant-swiftly-gains-ground-in-us-concern-looms-for-summer-wave/</guid>
       <pubDate>Mon, 16 Jun 2025 22:30:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Democrats from outside Minnesota found in alleged Vance Boelter target list (Axios)</title>
-      <link>https://www.axios.com/2025/06/16/democrats-vance-boelter-minnesota-shooting-list</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/16/democrats-vance-boelter-minnesota-shooting-list</guid>
-      <pubDate>Mon, 16 Jun 2025 22:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>France: François Bayrou veut croire en un accord sur les retraites à l'issue du «conclave» (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250616-france-fran%C3%A7ois-bayrou-veut-croire-en-un-accord-sur-les-retraites-%C3%A0-l-issue-du-conclave</link>
-      <author>RFI</author>
-      <guid>6e9f9884-4af2-11f0-8fec-7fb06ddb0b11</guid>
-      <pubDate>Mon, 16 Jun 2025 22:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hakeem Jeffries presses Mike Johnson for more funds to protect House members (Axios)</title>
-      <link>https://www.axios.com/2025/06/16/hakeem-jeffries-mike-johnson-minnesota-shooting</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/16/hakeem-jeffries-mike-johnson-minnesota-shooting</guid>
-      <pubDate>Mon, 16 Jun 2025 21:38:08 +0000</pubDate>
-    </item>
-    <item>
-      <title> Canada reportedly set to announce new military aid for Ukraine at G7  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/canada-reportedly-set-to-announce-new-military-aid-for-ukraine-at-g7</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/canada-reportedly-set-to-announce-new-military-aid-for-ukraine-at-g7</guid>
-      <pubDate>Tue, 17 Jun 2025 00:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Senate unveils trickiest text of Trump's "big, beautiful bill" (Axios)</title>
-      <link>https://www.axios.com/2025/06/16/senate-gop-one-big-beautiful-bill-text-taxes-medicaid-cuts</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/16/senate-gop-one-big-beautiful-bill-text-taxes-medicaid-cuts</guid>
-      <pubDate>Mon, 16 Jun 2025 20:54:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
