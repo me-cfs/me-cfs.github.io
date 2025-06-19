@@ -5,11 +5,25 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Australia's unemployment rate set to remain steady at 4.1 per cent (SBS News)</title>
+      <link>https://www.sbs.com.au/news/article/australias-unemployment-rate-set-to-remain-steady-at-4-1-per-cent/nfj6ldgkf</link>
+      <author>SBS News</author>
+      <guid>00000197-8573-dc06-add7-e7779e260000</guid>
+      <pubDate>Thu, 19 Jun 2025 00:22:53 +0000</pubDate>
+    </item>
+    <item>
       <title> (Chapatte Dessins)</title>
       <link>https://www.chappatte.com/fr/images/vers-la-fin-du-service-civil</link>
       <author>Chapatte Dessins</author>
       <guid>https://www.chappatte.com/node/23036</guid>
       <pubDate>06/19/2025 00:12</pubDate>
+    </item>
+    <item>
+      <title>The U.S. could join Israel's war with Iran to deploy this 30,000-pound bomb (Axios)</title>
+      <link>https://www.axios.com/2025/06/19/israel-attacks-iran-us-bomb</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/19/israel-attacks-iran-us-bomb</guid>
+      <pubDate>Thu, 19 Jun 2025 00:08:13 +0000</pubDate>
     </item>
     <item>
       <title>In Georgia, a runoff looms for Democrats after primary results for public utility commission seat (Grist)</title>
@@ -1416,20 +1430,6 @@
       <author>Huffington Post</author>
       <guid>https://www.huffpost.com/entry/spain-overtourism-protest_n_684fdfd8e4b0dde371e65227</guid>
       <pubDate>Mon, 16 Jun 2025 09:35:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>ICE's cash crisis deepens amid immigration crackdown (Axios)</title>
-      <link>https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/16/ice-cash-crisis-immigration-crackdown-trump</guid>
-      <pubDate>Mon, 16 Jun 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Federal Monitor Slams NYPD Unit Whose Aggressive Policing ProPublica Exposed (Propublica)</title>
-      <link>https://www.propublica.org/article/nyc-nypd-police-community-response-team-stop-frisk</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/nyc-nypd-police-community-response-team-stop-frisk</guid>
-      <pubDate>Mon, 16 Jun 2025 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
