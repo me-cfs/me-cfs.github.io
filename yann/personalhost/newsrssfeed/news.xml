@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>How the four tempers of Trump-era news media are hurting Australia (Crikey)</title>
+      <link>https://www.crikey.com.au/2025/06/20/donald-trump-news-media-severance-tempers-news-corp/</link>
+      <author>Crikey</author>
+      <guid>https://www.crikey.com.au/?p=1210414</guid>
+      <pubDate>Thu, 19 Jun 2025 22:56:17 +0000</pubDate>
+    </item>
+    <item>
       <title>GOP Rep. Max Miller alleges he was "run off the road" by man with Palestinian flag (Axios)</title>
       <link>https://www.axios.com/2025/06/19/max-miller-palestinian-flag-republican-ohio</link>
       <author>Axios</author>
@@ -1433,13 +1440,6 @@
       <author>Propublica</author>
       <guid>https://www.propublica.org/article/fda-methodology-american-medicine-research</guid>
       <pubDate>Tue, 17 Jun 2025 04:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's OpenAI partnership is fraying at the seams (Axios)</title>
-      <link>https://www.axios.com/2025/06/17/microsoft-openai-partners-competitors</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/17/microsoft-openai-partners-competitors</guid>
-      <pubDate>Tue, 17 Jun 2025 08:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
