@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'achat des avions de combat F-35 pourrait coûter un milliard de plus que prévu (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/f-35-le-cout-pour-la-suisse-pourrait-depasser-d-un-milliard-le-budget-prevu-28920497.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28920497</guid>
+      <pubDate>Fri, 20 Jun 2025 14:47:13 GMT</pubDate>
+    </item>
+    <item>
       <title>À la Une: quelles réactions dans les Balkans à la guerre entre Israël et l'Iran? (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250620-%C3%A0-la-une-quelles-r%C3%A9actions-dans-les-balkans-%C3%A0-la-guerre-entre-isra%C3%ABl-et-l-iran</link>
       <author>RFI</author>
@@ -294,6 +301,13 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/19/max-miller-palestinian-flag-republican-ohio</guid>
       <pubDate>Thu, 19 Jun 2025 22:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sanctions contre la Russie: le rapport du Conseil fédéral est un laissez-passer pour les négociants en matières premières (Public Eye)</title>
+      <link>https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/le-rapport-du-conseil-federal-est-un-laissez-passer-pour-les-negociants-en-matieres-premieres</link>
+      <author>Public Eye</author>
+      <guid>187-1945</guid>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Trump sets two-week deadline on Iran involvement (Crikey)</title>
@@ -1432,20 +1446,6 @@
       <author>Motherjones</author>
       <guid>https://www.motherjones.com/?p=1141076</guid>
       <pubDate>Tue, 17 Jun 2025 18:55:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Amy Coney Barrett Is Confounding the Right and the Left (New York Times)</title>
-      <link>https://www.nytimes.com/2025/06/15/us/amy-coney-barrett-supreme-court.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/06/15/us/amy-coney-barrett-supreme-court.html</guid>
-      <pubDate>Tue, 17 Jun 2025 18:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>We May Soon Be Telling a Very Different Kind of Story About Dementia (New York Times)</title>
-      <link>https://www.nytimes.com/2025/06/14/opinion/dementia-alzheimers-family-memoir.html</link>
-      <author>New York Times</author>
-      <guid>https://www.nytimes.com/2025/06/14/opinion/dementia-alzheimers-family-memoir.html</guid>
-      <pubDate>Tue, 17 Jun 2025 18:30:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
