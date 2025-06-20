@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Turquie: l'inquiétude d'Ankara face à la guerre entre Israël et l'Iran (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250620-turquie-l-inqui%C3%A9tude-d-ankara-face-%C3%A0-la-guerre-entre-isra%C3%ABl-et-l-iran</link>
+      <author>RFI</author>
+      <guid>b37c4ed2-4dab-11f0-bb57-efa460dc15cb</guid>
+      <pubDate>Fri, 20 Jun 2025 08:25:12 GMT</pubDate>
+    </item>
+    <item>
       <title> 2 killed, 39 injured in Russian attacks against Ukraine over past day  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/attacks-157</link>
       <author>Kyiv Indpendent</author>
@@ -1438,13 +1445,6 @@
       <author>The Hill</author>
       <guid>https://thehill.com/?p=5354592</guid>
       <pubDate>Tue, 17 Jun 2025 14:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Suisse enregistre une nette diminution des séjours illégaux en 2025 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-enregistre-une-nette-diminution-des-sejours-illegaux-en-2025-28916948.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28916948</guid>
-      <pubDate>Tue, 17 Jun 2025 14:33:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
