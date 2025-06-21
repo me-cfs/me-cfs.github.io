@@ -5,6 +5,21 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Belarus frees opposition leader Tsikhanouski					 (Politico)</title>
+      <link>https://www.politico.eu/article/belarus-frees-opposition-leader-siarhei-tsikhanouski/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/belarus-frees-opposition-leader-siarhei-tsikhanouski/</guid>
+      <pubDate>Sat, 21 Jun 2025 16:11:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>Des coachs pour vaches pour mieux comprendre leurs besoins et améliorer leur bien-être (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/coachs-pour-vaches-decoder-leurs-signaux-pour-un-meilleur-bien-etre-28917035.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28917035</guid>
+      <pubDate>Sat, 21 Jun 2025 15:41:38 GMT</pubDate>
+    </item>
+    <item>
       <title>Scoop: Trump's backchannel to Iran failed after supreme leader went dark (Axios)</title>
       <link>https://www.axios.com/2025/06/21/trump-iran-turkey-negotiations-israel-war</link>
       <author>Axios</author>
@@ -196,6 +211,13 @@
       <author>Kyiv Indpendent</author>
       <guid>https://kyivindependent.com/this-is-the-best-offer-ukraine-can-get-today-russia-wont-back-down-as-renewed-peace-talks-loom</guid>
       <pubDate>Sat, 21 Jun 2025 00:53:13 +0300</pubDate>
+    </item>
+    <item>
+      <title>Trump’s Rebuke of Gabbard Signals an Uneasy Moment (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/20/us/politics/trump-tulsi-gabbard-iran.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/20/us/politics/trump-tulsi-gabbard-iran.html</guid>
+      <pubDate>Fri, 20 Jun 2025 20:49:32 +0000</pubDate>
     </item>
     <item>
       <title>
@@ -1428,27 +1450,6 @@
       <author>RTS</author>
       <guid>28901237</guid>
       <pubDate>Wed, 18 Jun 2025 10:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The immigrants caring for the elderly are losing their jobs (Axios)</title>
-      <link>https://www.axios.com/2025/06/18/trump-immigration-nursing-homes</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/18/trump-immigration-nursing-homes</guid>
-      <pubDate>Wed, 18 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senate bill's Medicaid cuts draw some GOP angst (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5355932-senate-medicaid-cuts-concern/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5355932</guid>
-      <pubDate>Wed, 18 Jun 2025 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Madness”: A Retired Brig. General Slams Trump’s Military Power Grab (Motherjones)</title>
-      <link>https://www.motherjones.com/politics/2025/06/madness-a-retired-brig-general-slams-trumps-military-power-grab/</link>
-      <author>Motherjones</author>
-      <guid>https://www.motherjones.com/?p=1141429</guid>
-      <pubDate>Wed, 18 Jun 2025 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
