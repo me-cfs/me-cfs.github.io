@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>For 50 years, Sydney Opera House has had one man on speed dial (BBC)</title>
+      <link>https://www.bbc.com/news/articles/ckg6zzxq3v2o</link>
+      <author>BBC</author>
+      <guid>https://www.bbc.com/news/articles/ckg6zzxq3v2o#0</guid>
+      <pubDate>Sat, 21 Jun 2025 21:20:36 GMT</pubDate>
+    </item>
+    <item>
       <title>L'assemblée des délégués de Syndicom s'inquiète du démantèlement des services publics (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/l-assemblee-des-delegues-de-syndicom-s-inquiete-du-demantelement-des-services-publics-28921310.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1442,13 +1449,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2025/06/hondas-hopper-suddenly-makes-the-japanese-carmaker-a-serious-player-in-rocketry/</guid>
       <pubDate>Wed, 18 Jun 2025 12:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Une femme et un couple tués dans le canton de Soleure (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/triple-meurtre-dans-le-canton-de-soleure-un-suspect-se-rend-a-la-police-28918136.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28918136</guid>
-      <pubDate>Wed, 18 Jun 2025 12:27:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
