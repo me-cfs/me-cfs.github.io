@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian attacks kill 4, injure 23 in Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-159</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-159</guid>
+      <pubDate>Sun, 22 Jun 2025 09:56:20 +0300</pubDate>
+    </item>
+    <item>
       <title>Guerre en Ukraine: Kiev dénonce la présence de corps de soldats russes dans ceux qui lui sont rendus (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250622-guerre-en-ukraine-kiev-d%C3%A9nonce-la-pr%C3%A9sence-de-corps-de-soldats-russes-dans-ceux-qui-lui-sont-rendus</link>
       <author>RFI</author>
@@ -1442,13 +1449,6 @@
       <author>Arstechnica</author>
       <guid>https://arstechnica.com/science/2025/06/spanish-blackout-report-power-plants-meant-to-stabilize-voltage-didnt/</guid>
       <pubDate>Wed, 18 Jun 2025 17:15:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration to shutter LGBTQ youth suicide hotline next month (The Hill)</title>
-      <link>https://thehill.com/homenews/lgbtq/5357377-trump-rfk-lgbtq-youth-suicide-hotline-trevor-project/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5357377</guid>
-      <pubDate>Wed, 18 Jun 2025 17:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
