@@ -12,6 +12,7 @@ module.exports = [
     url: 'https://www.theguardian.com/world/africa/rss',
     exclusionWords: ['|', ...tList.singlePerson, ...tList.culture, "journey", "value of", ...tList.nonArticle,
       ...tList.nonInformativeTitle, ...tList.uninterestedGeneral, "The Long Wave", ...tList.popMed,
+      ...tList.adds, 
     ],
     off: false,
   },
@@ -146,7 +147,9 @@ module.exports = [
     off: false,
     inclusionWords: [...tList.usPolitics, ...tList.environment,
     ],
-    exclusionWords: [...tList.nonInformativeTitle, "catastrophic",],
+    exclusionWords: [...tList.nonInformativeTitle, "catastrophic",
+      ...tList.clickbait, 
+    ],
     minCharsTitle: 15,
   },
   {
