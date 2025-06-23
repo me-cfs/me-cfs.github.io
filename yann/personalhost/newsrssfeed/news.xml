@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Trump announces Iran-Israel ceasefire (Axios)</title>
+      <link>https://www.axios.com/2025/06/23/trump-iran-israel-ceasefire</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/23/trump-iran-israel-ceasefire</guid>
+      <pubDate>Mon, 23 Jun 2025 22:31:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Supreme Court allows Trump to restart deportations to non-origin countries (Axios)</title>
       <link>https://www.axios.com/2025/06/23/supreme-court-trump-deportations-non-origin-countries</link>
       <author>Axios</author>
@@ -1436,13 +1443,6 @@
       <author>Disability News Service</author>
       <guid>https://www.disabilitynewsservice.com/two-members-quit-governments-tokenistic-network-because-disability-unit-is-ignoring-disabled-people/</guid>
       <pubDate>Thu, 19 Jun 2025 16:31:52 -0000</pubDate>
-    </item>
-    <item>
-      <title>Texas district judge overturns Biden rule on expanded abortion privacy protections (The Hill)</title>
-      <link>https://thehill.com/policy/healthcare/5359403-texas-judge-biden-rule-abortion-privacy-hipaa/</link>
-      <author>The Hill</author>
-      <guid>https://thehill.com/?p=5359403</guid>
-      <pubDate>Thu, 19 Jun 2025 16:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
