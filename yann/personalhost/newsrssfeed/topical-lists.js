@@ -36,13 +36,13 @@ const us = ['Anchorage', ...usPolitics];
 
 
 //exclusionLists
-const adds = ['new book'];
-// -Axios
+const adds = ['new book', 'review'];
+// -Axios, -Guardian Afr
 const clickbait = ['hilarious', 'most beautiful', 'rage', 'GOAT', 'glow up', 'shout', 'shitstir',
   'crazy', 'apocalypse', 'mega-maga', 'seeth', 'shocking', "won't believe", 'truth about',
-  "fury", "formidable"
+  "fury", "formidable", "just found a way"
 ];
-// -Axios, -BBCaus -Crikey, -Hill (Healthcare), -Politico EU
+// -Axios, -BBCaus -Crikey, -Grist, -Hill (Healthcare), -Politico EU
 const culture = ['anime', 'artist', 'manga', 'oscar', 'film', 'celebrity', 'gossip', 'entertainment', "télévision",
   "photo", "grammy", 
 ];
