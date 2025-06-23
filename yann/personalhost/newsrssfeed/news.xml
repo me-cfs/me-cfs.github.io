@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Il y a de moins en moins de personnes croyantes en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/declin-de-la-foi-en-suisse-moins-de-croyants-surtout-chez-les-seniors-28922386.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28922386</guid>
+      <pubDate>Mon, 23 Jun 2025 10:35:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Seven Things to Know About ProPublica’s Investigation of the FDA’s Secret Gamble on Generic Drugs (Propublica)</title>
       <link>https://www.propublica.org/article/fda-drug-safety-foreign-manufacturers-takeaways</link>
       <author>Propublica</author>
@@ -1440,13 +1447,6 @@
       <author>RTS</author>
       <guid>28917765</guid>
       <pubDate>Thu, 19 Jun 2025 06:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title> Russia injures at least 28 across Ukraine over past day  (Kyiv Indpendent)</title>
-      <link>https://kyivindependent.com/russia-injure-at-least-28-injured-across-ukraine-over-past-day</link>
-      <author>Kyiv Indpendent</author>
-      <guid>https://kyivindependent.com/russia-injure-at-least-28-injured-across-ukraine-over-past-day</guid>
-      <pubDate>Thu, 19 Jun 2025 09:03:23 +0300</pubDate>
     </item>
   </channel>
 </rss>
