@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Comment Swisstopo cartographie la Suisse avec une précision inégalée (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/swisstopo-cartographie-la-suisse-avec-precision-inegalee-dans-le-monde-28922248.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28922248</guid>
+      <pubDate>Tue, 24 Jun 2025 04:19:22 GMT</pubDate>
+    </item>
+    <item>
       <title>
 						Von der Leyen’s huge gamble puts her biggest policies at risk					 (Politico)</title>
       <link>https://www.politico.eu/article/ursula-von-der-leyens-eu-politics-parliament-national-spain-fragile/</link>
@@ -307,6 +314,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-countries-abandon-anti-greenwashing-talks-after-italy-pulls-out/</guid>
       <pubDate>Mon, 23 Jun 2025 14:12:36 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bear Whose Head Was Stuck for Two Years Is Freed (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/19/us/bear-lid-neck-freed-michigan.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/19/us/bear-lid-neck-freed-michigan.html</guid>
+      <pubDate>Mon, 23 Jun 2025 13:53:37 +0000</pubDate>
     </item>
     <item>
       <title> 2 killed, 12 injured in Russian missile strike on Odesa Oblast  (Kyiv Indpendent)</title>
@@ -1433,21 +1447,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/donald-trump-vladimir-putin-mediate-israel-iran-conflict-us-russia-benjamin-netanyahu/</guid>
       <pubDate>Fri, 20 Jun 2025 01:11:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>
-						India eyes retaliation against EU, UK carbon border taxes					 (Politico)</title>
-      <link>https://www.politico.eu/article/india-eu-uk-carbon-border-taxes-cbam-products/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/india-eu-uk-carbon-border-taxes-cbam-products/</guid>
-      <pubDate>Fri, 20 Jun 2025 00:56:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>‘Unique moment in MAGA history’: America’s right is split as Trump contemplates strike on Iran (Crikey)</title>
-      <link>https://www.crikey.com.au/2025/06/20/donald-trump-maga-war-with-iran/</link>
-      <author>Crikey</author>
-      <guid>https://www.crikey.com.au/?p=1211081</guid>
-      <pubDate>Thu, 19 Jun 2025 23:57:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
