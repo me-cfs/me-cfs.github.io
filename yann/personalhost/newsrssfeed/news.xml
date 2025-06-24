@@ -5,11 +5,26 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						Macron: US strikes on Iran aren’t legal					 (Politico)</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-iran-israel-us-legal-war-mena/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-iran-israel-us-legal-war-mena/</guid>
+      <pubDate>Tue, 24 Jun 2025 13:29:08 -0000</pubDate>
+    </item>
+    <item>
       <title>Effets sociaux délétères de la démolition et reconstruction de logements (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/densification-urbaine-en-suisse-impact-social-sur-les-menages-a-faibles-revenus-28923501.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28923501</guid>
       <pubDate>Tue, 24 Jun 2025 12:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>After successfully entering Earth’s atmosphere, a European spacecraft is lost (Arstechnica)</title>
+      <link>https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/</guid>
+      <pubDate>Tue, 24 Jun 2025 12:32:24 +0000</pubDate>
     </item>
     <item>
       <title>Trump successfully pressures Israel to scale back retaliation strike in Iran (Axios)</title>
@@ -1427,21 +1442,6 @@
       <author>The Athletic Football</author>
       <guid>https://www.nytimes.com/athletic/6439888/2025/06/20/kevin-durant-psg-nba-euroleague/</guid>
       <pubDate>Fri, 20 Jun 2025 13:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil fédéral veut sortir la défense suisse de son isolement (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/la-suisse-veut-renforcer-sa-cooperation-militaire-europeenne-28920396.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28920396</guid>
-      <pubDate>Fri, 20 Jun 2025 13:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						Spain’s top EU official privately tried to dilute Russia gas ban					 (Politico)</title>
-      <link>https://www.politico.eu/article/spain-top-eu-official-dilute-russia-gas-ban-ukraine-allegations-teresa-ribera-lobby-lng/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/spain-top-eu-official-dilute-russia-gas-ban-ukraine-allegations-teresa-ribera-lobby-lng/</guid>
-      <pubDate>Fri, 20 Jun 2025 13:40:25 -0000</pubDate>
     </item>
   </channel>
 </rss>
