@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Le mot "féminicide": entre reconnaissance sociale et vide juridique en Suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/feminicide-en-suisse-entre-reconnaissance-sociale-et-vide-juridique-28923995.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28923995</guid>
+      <pubDate>Wed, 25 Jun 2025 06:09:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Le secrétaire général Mark Rutte, «atout charme» de l'Otan face à Donald Trump (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250625-le-secr%C3%A9taire-g%C3%A9n%C3%A9ral-mark-rutte-atout-charme-de-l-otan-face-%C3%A0-donald-trump</link>
       <author>RFI</author>
@@ -1431,13 +1438,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-159/</guid>
       <pubDate>Sun, 22 Jun 2025 02:54:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>Top Democrats left in dark on Iran strike plans (Axios)</title>
-      <link>https://www.axios.com/2025/06/22/democrats-trump-iran-nuclear-facilities</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/22/democrats-trump-iran-nuclear-facilities</guid>
-      <pubDate>Sun, 22 Jun 2025 02:41:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
