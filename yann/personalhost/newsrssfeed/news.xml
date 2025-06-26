@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France: la dette publique en hausse atteint les 3 345 milliards d'euros au premier trimestre 2025 (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250626-france</link>
+      <author>RFI</author>
+      <guid>4f132d2e-528a-11f0-9795-eb3ba89e2e78</guid>
+      <pubDate>Thu, 26 Jun 2025 14:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump came close to winning Latino vote in '24 — Pew analysis (Axios)</title>
+      <link>https://www.axios.com/2025/06/26/trump-harris-latino-voters-2024-election-pew</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/26/trump-harris-latino-voters-2024-election-pew</guid>
+      <pubDate>Thu, 26 Jun 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Senate referee rejects key Medicaid cuts in Trump's 'big, beautiful bill' (The Hill)</title>
       <link>https://thehill.com/homenews/senate/5370671-medicaid-trump-bill-senate-parliamentarian/</link>
       <author>The Hill</author>
@@ -1429,20 +1443,6 @@
       <author>Axios</author>
       <guid>https://www.axios.com/2025/06/24/trump-iran-maga-whiplash</guid>
       <pubDate>Tue, 24 Jun 2025 08:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GOP investigations aim to keep spotlight — and blame — on Biden (Axios)</title>
-      <link>https://www.axios.com/2025/06/24/republicans-investigations-biden-trump</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/24/republicans-investigations-biden-trump</guid>
-      <pubDate>Tue, 24 Jun 2025 08:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>California rolls on with electric trucks, despite Trump’s roadblocks (Grist)</title>
-      <link>https://grist.org/transportation/california-rolls-on-with-electric-trucks-despite-trumps-roadblocks/</link>
-      <author>Grist</author>
-      <guid>https://grist.org/?p=667904</guid>
-      <pubDate>Tue, 24 Jun 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
