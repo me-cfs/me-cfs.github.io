@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Supreme Court ruling on patients rights' could devastate Planned Parenthood (Axios)</title>
+      <link>https://www.axios.com/2025/06/26/planned-parenthood-scotus-decision-trump</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/26/planned-parenthood-scotus-decision-trump</guid>
+      <pubDate>Thu, 26 Jun 2025 14:35:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Les sept Sages partent à la découverte du canton de Saint-Gall pour leur traditionnelle course d'école (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/le-conseil-federal-en-excursion-a-saint-gall-visite-et-rencontres-locales-28925904.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -492,6 +499,13 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/nato-defense-spending-deal-win-us-donald-trump/</guid>
       <pubDate>Wed, 25 Jun 2025 16:13:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>At a tricky NATO summit, a Trumpian meltdown is averted (Economist)</title>
+      <link>https://www.economist.com/europe/2025/06/25/at-a-tricky-nato-summit-a-trumpian-meltdown-is-averted</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/europe/2025/06/25/at-a-tricky-nato-summit-a-trumpian-meltdown-is-averted</guid>
+      <pubDate>Wed, 25 Jun 2025 16:06:41 GMT</pubDate>
     </item>
     <item>
       <title>L'inquiétude des réfugiés ukrainiens en Pologne (RFI)</title>
@@ -1429,20 +1443,6 @@
       <author>RTS</author>
       <guid>28923209</guid>
       <pubDate>Tue, 24 Jun 2025 09:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘We Need To Keep Fighting’: HIV Activists Organize To Save Lives as Trump Guts Funding (KFF Health News)</title>
-      <link>https://kffhealthnews.org/news/article/hiv-federal-funding-trump-cuts-mississippi-activists-organize/</link>
-      <author>KFF Health News</author>
-      <guid>https://kffhealthnews.org/?post_type=article&amp;p=2049344</guid>
-      <pubDate>Tue, 24 Jun 2025 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How Hotels, Once a Last Resort, Became New York’s Default Answer to Homelessness (Propublica)</title>
-      <link>https://www.propublica.org/article/new-york-homelessness-hotels</link>
-      <author>Propublica</author>
-      <guid>https://www.propublica.org/article/new-york-homelessness-hotels</guid>
-      <pubDate>Tue, 24 Jun 2025 05:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
