@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>France-Allemagne: les alternatives d’extrême droite (RFI)</title>
+      <link>https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20250627-france-allemagne-les-alternatives-d-extr%C3%AAme-droite</link>
+      <author>RFI</author>
+      <guid>be681c88-539e-11f0-94e1-f75b340ffcf1</guid>
+      <pubDate>Fri, 27 Jun 2025 22:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Supreme Court delivers a blow to judicial power and a win for Trump (Economist)</title>
+      <link>https://www.economist.com/united-states/2025/06/27/a-blow-to-judicial-power-and-a-win-for-trump</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/united-states/2025/06/27/a-blow-to-judicial-power-and-a-win-for-trump</guid>
+      <pubDate>Fri, 27 Jun 2025 22:00:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Trump says he'll expect next Fed chair to cut rates (Axios)</title>
       <link>https://www.axios.com/2025/06/27/trump-powell-federal-reserve-rates</link>
       <author>Axios</author>
@@ -1426,20 +1440,6 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=228243</guid>
       <pubDate>Wed, 25 Jun 2025 15:45:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya: two protesters die from gunshot wounds and several injured during protests – as it happened (Guardian)</title>
-      <link>https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news</guid>
-      <pubDate>Wed, 25 Jun 2025 14:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>'Bleak': The $33 problem that's pushing some Australians 'to the brink' (SBS News)</title>
-      <link>https://www.sbs.com.au/news/article/the-33-problem-thats-pushing-some-australians-to-the-brink/sk6c0sw1o</link>
-      <author>SBS News</author>
-      <guid>00000197-a56e-de32-a1b7-b76e2a290000</guid>
-      <pubDate>Wed, 25 Jun 2025 14:01:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
