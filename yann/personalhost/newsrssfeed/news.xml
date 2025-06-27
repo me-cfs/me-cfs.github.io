@@ -5,11 +5,33 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						France wants to delay EU’s next climate milestone, Macron confirms					 (Politico)</title>
+      <link>https://www.politico.eu/article/emmanuel-macron-france-delay-eu-next-climate-milestone/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/emmanuel-macron-france-delay-eu-next-climate-milestone/</guid>
+      <pubDate>Fri, 27 Jun 2025 14:10:25 -0000</pubDate>
+    </item>
+    <item>
+      <title>Fine-Tuning LLMs For ‘Good’ Behavior Makes Them More Likely To Say No (404 Media)</title>
+      <link>https://www.404media.co/fine-tuning-llms-cognitive-bias-decision-making-study/</link>
+      <author>404 Media</author>
+      <guid>685ea325c5e66300011c7cd2</guid>
+      <pubDate>Fri, 27 Jun 2025 14:06:44 GMT</pubDate>
+    </item>
+    <item>
       <title>Face à la vague de chaleur, plusieurs cantons déclenchent l'alerte canicule (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/canicule-en-suisse-alerte-declenchee-dans-plusieurs-cantons-28926876.html?rts_source=rss_t</link>
       <author>RTS</author>
       <guid>28926876</guid>
       <pubDate>Fri, 27 Jun 2025 13:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rocket Report: SpaceX’s dustup on the border; Northrop has a nozzle problem (Arstechnica)</title>
+      <link>https://arstechnica.com/science/2025/06/rocket-report-spacexs-dustup-on-the-border-northrop-has-a-nozzle-problem/</link>
+      <author>Arstechnica</author>
+      <guid>https://arstechnica.com/science/2025/06/rocket-report-spacexs-dustup-on-the-border-northrop-has-a-nozzle-problem/</guid>
+      <pubDate>Fri, 27 Jun 2025 13:00:47 +0000</pubDate>
     </item>
     <item>
       <title>Un nouveau scandale frappe le secteur de la viande en Suisse alémanique (RTS)</title>
@@ -1419,27 +1441,6 @@
       <author>Grist</author>
       <guid>https://grist.org/?p=668567</guid>
       <pubDate>Wed, 25 Jun 2025 08:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya: people plan to march across country to honour those killed in 2024’s anti-government protests – live (Guardian)</title>
-      <link>https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/world/live/2025/jun/25/kenya-march-2024-government-protests-anniversary-nairobi-latest-live-news</guid>
-      <pubDate>Wed, 25 Jun 2025 08:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Israeli intelligence sees "significant" damage to Iran's nuclear facilities, officials say (Axios)</title>
-      <link>https://www.axios.com/2025/06/25/iran-nuclear-program-israel-damage-intelligence</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/25/iran-nuclear-program-israel-damage-intelligence</guid>
-      <pubDate>Wed, 25 Jun 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLOBAL: Countries must act fast to save the Sustainable Development Goals (Amnesty International)</title>
-      <link>https://www.amnesty.org/en/latest/news/2025/06/global-countries-must-act-fast-to-save-the-sustainable-development-goals/</link>
-      <author>Amnesty International</author>
-      <guid>https://www.amnesty.org/en/?p=228164</guid>
-      <pubDate>Wed, 25 Jun 2025 08:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
