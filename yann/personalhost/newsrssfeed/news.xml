@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Face à la vague de chaleur, plusieurs cantons déclenchent l'alerte canicule (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/canicule-en-suisse-alerte-declenchee-dans-plusieurs-cantons-28926876.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28926876</guid>
+      <pubDate>Fri, 27 Jun 2025 13:04:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Un nouveau scandale frappe le secteur de la viande en Suisse alémanique (RTS)</title>
       <link>https://www.rts.ch/info/suisse/2025/article/scandale-de-la-viande-en-suisse-fausse-origine-et-etiquetage-trompeur-28926900.html?rts_source=rss_t</link>
       <author>RTS</author>
@@ -1433,13 +1440,6 @@
       <author>Amnesty International</author>
       <guid>https://www.amnesty.org/en/?p=228164</guid>
       <pubDate>Wed, 25 Jun 2025 08:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Se dire que l'Oncle Sam sera toujours là" pour défendre l'Europe, "c'est se bercer d'illusions" (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/l-europe-doit-renforcer-sa-defense-face-au-desengagement-americain-estime-l-ambassadeur-de-la-suisse-aupres-de-l-otan-jacques-pitteloud-28924243.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28924243</guid>
-      <pubDate>Wed, 25 Jun 2025 08:22:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
