@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Italie: le gouvernement Meloni transfère des migrants en Albanie au mépris de la loi (RFI)</title>
+      <link>https://www.rfi.fr/fr/europe/20250627-italie-le-gouvernement-meloni-transf%C3%A8re-des-migrants-en-albanie-au-m%C3%A9pris-de-la-loi</link>
+      <author>RFI</author>
+      <guid>a6060704-5394-11f0-9c8a-7b638904be9f</guid>
+      <pubDate>Fri, 27 Jun 2025 20:23:54 GMT</pubDate>
+    </item>
+    <item>
       <title> Russia ready to hold third round of peace talks with Ukraine, Putin says  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russia-ready-to-hold-third-round-of-peace-talks-with-ukraine-putin-says</link>
       <author>Kyiv Indpendent</author>
@@ -909,6 +916,13 @@
       <pubDate>Thu, 26 Jun 2025 12:43:33 GMT</pubDate>
     </item>
     <item>
+      <title>Chinese brands are sweeping the world. Good  (Economist)</title>
+      <link>https://www.economist.com/leaders/2025/06/26/chinese-brands-are-sweeping-the-world-good</link>
+      <author>Economist</author>
+      <guid>106aa342-5cdd-42d9-a564-31599d96c56f</guid>
+      <pubDate>Thu, 26 Jun 2025 12:43:33 GMT</pubDate>
+    </item>
+    <item>
       <title>Iran's Khamenei claims U.S. strike didn't cause major damage to nuclear facilities (Axios)</title>
       <link>https://www.axios.com/2025/06/26/trump-khamenei-iran-us-strike</link>
       <author>Axios</author>
@@ -1428,20 +1442,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/eu-loosen-rule-cancer-causing-chemical-cosmetics/</guid>
       <pubDate>Wed, 25 Jun 2025 13:29:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil fédéral défend ses choix sur l'achat des avions de combat F-35 (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/f-35-le-conseil-federal-defend-le-prix-fixe-malgre-un-possible-surcout-28924794.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28924794</guid>
-      <pubDate>Wed, 25 Jun 2025 13:29:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Citroën immobilise 10'000 véhicules en Suisse en raison d'airbags pouvant exploser (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/citroen-rappelle-10-000-c3-et-ds3-en-suisse-airbags-mortels-a-remplacer-28918289.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28918289</guid>
-      <pubDate>Wed, 25 Jun 2025 13:19:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
