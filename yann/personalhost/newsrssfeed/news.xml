@@ -5,6 +5,14 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>
+						World’s cartoonists on this week’s events					 (Politico)</title>
+      <link>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-160/</link>
+      <author>Politico</author>
+      <guid>https://www.politico.eu/article/worlds-cartoonists-on-this-weeks-events-160/</guid>
+      <pubDate>Sun, 29 Jun 2025 01:00:14 -0000</pubDate>
+    </item>
+    <item>
       <title>Messi and Inter Miami ready to 'fight' against 'possibly the best team in the world' PSG, says Mascherano (The Athletic Football)</title>
       <link>https://www.nytimes.com/athletic/6459710/2025/06/28/inter-miami-psg-mascherano/</link>
       <author>The Athletic Football</author>
@@ -305,11 +313,25 @@
       <pubDate>Fri, 27 Jun 2025 23:55:03 +0300</pubDate>
     </item>
     <item>
+      <title>We’ve Just Seen How Trump Can Be Stopped (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/26/opinion/trump-iran-protests-mamdani.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/26/opinion/trump-iran-protests-mamdani.html</guid>
+      <pubDate>Fri, 27 Jun 2025 20:50:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Italie: le gouvernement Meloni transfère des migrants en Albanie au mépris de la loi (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250627-italie-le-gouvernement-meloni-transf%C3%A8re-des-migrants-en-albanie-au-m%C3%A9pris-de-la-loi</link>
       <author>RFI</author>
       <guid>a6060704-5394-11f0-9c8a-7b638904be9f</guid>
       <pubDate>Fri, 27 Jun 2025 20:23:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newsom Sues Fox News for at Least $787 Million Over Trump Phone Call Coverage (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/27/us/politics/gavin-newsom-fox-news-lawsuit-trump-call.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/27/us/politics/gavin-newsom-fox-news-lawsuit-trump-call.html</guid>
+      <pubDate>Fri, 27 Jun 2025 20:19:06 +0000</pubDate>
     </item>
     <item>
       <title> Russia ready to hold third round of peace talks with Ukraine, Putin says  (Kyiv Indpendent)</title>
@@ -797,6 +819,13 @@
       <author>Crikey</author>
       <guid>https://www.crikey.com.au/?p=1212146</guid>
       <pubDate>Fri, 27 Jun 2025 01:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Justice Dept. Pressuring University of Virginia President to Resign (New York Times)</title>
+      <link>https://www.nytimes.com/2025/06/26/us/politics/university-of-virginia-president-trump.html</link>
+      <author>New York Times</author>
+      <guid>https://www.nytimes.com/2025/06/26/us/politics/university-of-virginia-president-trump.html</guid>
+      <pubDate>Fri, 27 Jun 2025 01:54:38 +0000</pubDate>
     </item>
     <item>
       <title>Liberals reform over female representation threatens to cruel Ley’s leadership (Crikey)</title>
@@ -1407,36 +1436,6 @@
       <author>Byline Times</author>
       <guid>https://bylinetimes.com/?p=247205</guid>
       <pubDate>Thu, 26 Jun 2025 08:33:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Italie: à Venise, les noces extravagantes du milliardaire Jeff Bezos suscitent la polémique (RFI)</title>
-      <link>https://www.rfi.fr/fr/europe/20250626-italie-venise-noces-milliardaire-jeff-bezos-suscitent-la-pol%C3%A9mique</link>
-      <author>RFI</author>
-      <guid>5cdda740-525d-11f0-9ec3-213d90966d30</guid>
-      <pubDate>Thu, 26 Jun 2025 08:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-						EU leaders talk security, competitiveness, trade					 (Politico)</title>
-      <link>https://www.politico.eu/article/eu-leaders-talk-security-competitiveness-trade-live-updates/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/eu-leaders-talk-security-competitiveness-trade-live-updates/</guid>
-      <pubDate>Thu, 26 Jun 2025 07:30:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Weak UK lobbying laws let fossil fuel giants influence climate policies (Open Democracy)</title>
-      <link>https://www.opendemocracy.net/en/dark-money-investigations/weak-uk-lobbying-laws-let-fossil-fuel-giants-influence-climate-policies/</link>
-      <author>Open Democracy</author>
-      <guid>https://www.opendemocracy.net/en/dark-money-investigations/weak-uk-lobbying-laws-let-fossil-fuel-giants-influence-climate-policies/</guid>
-      <pubDate>Thu, 26 Jun 2025 06:47:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>
-						Strikes expand in Italian textile capital famed for Chinese factories					 (Politico)</title>
-      <link>https://www.politico.eu/article/strike-italy-textile-capital-prato-chinese-factory-migrant/</link>
-      <author>Politico</author>
-      <guid>https://www.politico.eu/article/strike-italy-textile-capital-prato-chinese-factory-migrant/</guid>
-      <pubDate>Thu, 26 Jun 2025 06:16:13 -0000</pubDate>
     </item>
   </channel>
 </rss>
