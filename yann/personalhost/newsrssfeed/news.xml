@@ -5,6 +5,20 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title> Russian missile attack targets Dnipropetrovsk Oblast, casualties reported  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/russian-missile-attack-strikes-dnipropetrovsk-oblast-city-casualties-reported</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/russian-missile-attack-strikes-dnipropetrovsk-oblast-city-casualties-reported</guid>
+      <pubDate>Tue, 01 Jul 2025 10:58:18 +0300</pubDate>
+    </item>
+    <item>
+      <title> 4 killed, 15 injured in Russian attacks on Ukraine over past day  (Kyiv Indpendent)</title>
+      <link>https://kyivindependent.com/attacks-160</link>
+      <author>Kyiv Indpendent</author>
+      <guid>https://kyivindependent.com/attacks-160</guid>
+      <pubDate>Tue, 01 Jul 2025 10:52:13 +0300</pubDate>
+    </item>
+    <item>
       <title>Evacuation advised for parts of NSW central coast as heavy rain hits Australia's east (SBS News)</title>
       <link>https://www.sbs.com.au/news/article/evacuation-advised-for-parts-of-nsw-central-coast-as-heavy-rain-hits-australias-east/i0qtzbcfq</link>
       <author>SBS News</author>
@@ -1418,20 +1432,6 @@
       <author>404 Media</author>
       <guid>685ea325c5e66300011c7cd2</guid>
       <pubDate>Fri, 27 Jun 2025 14:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rising poverty in conflict zones ‘causes a billion people to go hungry’ (Guardian)</title>
-      <link>https://www.theguardian.com/business/2025/jun/27/rising-poverty-in-conflict-zones-causes-a-billion-people-to-go-hungry</link>
-      <author>Guardian</author>
-      <guid>https://www.theguardian.com/business/2025/jun/27/rising-poverty-in-conflict-zones-causes-a-billion-people-to-go-hungry</guid>
-      <pubDate>Fri, 27 Jun 2025 13:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Face à la vague de chaleur, plusieurs cantons déclenchent l'alerte canicule (RTS)</title>
-      <link>https://www.rts.ch/info/suisse/2025/article/canicule-en-suisse-alerte-declenchee-dans-plusieurs-cantons-28926876.html?rts_source=rss_t</link>
-      <author>RTS</author>
-      <guid>28926876</guid>
-      <pubDate>Fri, 27 Jun 2025 13:04:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
