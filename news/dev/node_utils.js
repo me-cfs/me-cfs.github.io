@@ -10,7 +10,7 @@ const Parser = require('rss-parser');
 const parser = new Parser({
   requestOptions: {
     headers: {
-      'User-Agent': 'YannME/1.0 (https://me-cfs.github.io)', // Use a descriptive and polite User-Agent
+      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115 Safari/537.36',
     },
   },
 });
