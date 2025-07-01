@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>L'immigration européenne en baisse malgré les besoins du marché suisse (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/immigration-europeenne-en-baisse-la-suisse-face-a-un-defi-de-main-d-uvre-28930238.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28930238</guid>
+      <pubDate>Tue, 01 Jul 2025 10:31:29 GMT</pubDate>
+    </item>
+    <item>
       <title>This Doctor Specializes in Diagnosing Child Abuse. Some of Her Conclusions Have Been Called Into Question. (Propublica)</title>
       <link>https://www.propublica.org/article/child-abuse-pediatrician-nancy-harper-minnesota-shaken-baby-syndrome</link>
       <author>Propublica</author>
@@ -344,6 +351,13 @@
       <link>https://www.economist.com/finance-and-economics/2025/06/30/xi-jinpings-futile-war-on-price-wars</link>
       <author>Economist</author>
       <guid>https://www.economist.com/finance-and-economics/2025/06/30/xi-jinpings-futile-war-on-price-wars</guid>
+      <pubDate>Mon, 30 Jun 2025 16:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xi Jinping’s wages war on price wars (Economist)</title>
+      <link>https://www.economist.com/finance-and-economics/2025/06/30/xi-jinpings-wages-war-on-price-wars</link>
+      <author>Economist</author>
+      <guid>https://www.economist.com/finance-and-economics/2025/06/30/xi-jinpings-wages-war-on-price-wars</guid>
       <pubDate>Mon, 30 Jun 2025 16:59:17 GMT</pubDate>
     </item>
     <item>
@@ -1415,20 +1429,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/greek-farm-scandal-triggers-top-level-government-resignations/</guid>
       <pubDate>Fri, 27 Jun 2025 16:13:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>Déserts médicaux en France: le ministre de la Santé établit une carte de 151 zones prioritaires renforcées (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250627-d%C3%A9serts-m%C3%A9dicaux-en-france-le-ministre-de-la-sant%C3%A9-%C3%A9tablit-une-carte-de-151-zones-prioritaires-renforc%C3%A9es</link>
-      <author>RFI</author>
-      <guid>0ff465c0-5368-11f0-ad92-5310ffe36892</guid>
-      <pubDate>Fri, 27 Jun 2025 16:12:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>France: deux ans après la mort de Nahel, où en est l'enquête? (RFI)</title>
-      <link>https://www.rfi.fr/fr/france/20250627-france-deux-ans-apr%C3%A8s-la-mort-de-nahel-o%C3%B9-en-est-l-enqu%C3%AAte</link>
-      <author>RFI</author>
-      <guid>78737fbc-5365-11f0-842f-3b4c912b5900</guid>
-      <pubDate>Fri, 27 Jun 2025 16:06:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
