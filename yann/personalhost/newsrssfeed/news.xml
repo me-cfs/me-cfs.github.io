@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Réforme de l'audiovisuel public français: la gauche obtient le rejet du texte à l'Assemblée (RFI)</title>
+      <link>https://www.rfi.fr/fr/france/20250701-r%C3%A9forme-de-l-audiovisuel-public-fran%C3%A7ais-la-gauche-obtient-le-rejet-du-texte-%C3%A0-l-assembl%C3%A9e</link>
+      <author>RFI</author>
+      <guid>c0cb4e9c-5663-11f0-87c6-270e5ac59eb6</guid>
+      <pubDate>Tue, 01 Jul 2025 11:15:38 GMT</pubDate>
+    </item>
+    <item>
       <title>Guerre en Ukraine: l'armée russe accélère sa progression pour le troisième mois consécutif (RFI)</title>
       <link>https://www.rfi.fr/fr/europe/20250701-guerre-en-ukraine-l-arm%C3%A9e-russe-acc%C3%A9l%C3%A8re-sa-progression-pour-le-troisi%C3%A8me-mois-cons%C3%A9cutif</link>
       <author>RFI</author>
@@ -1318,6 +1325,13 @@
       <pubDate>Fri, 27 Jun 2025 22:00:06 GMT</pubDate>
     </item>
     <item>
+      <title>University of Virginia president resigns under pressure from Trump administration (Axios)</title>
+      <link>https://www.axios.com/2025/06/27/university-virginia-james-ryan-trump-dei</link>
+      <author>Axios</author>
+      <guid>https://www.axios.com/2025/06/27/university-virginia-james-ryan-trump-dei</guid>
+      <pubDate>Fri, 27 Jun 2025 21:49:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Trump says he'll expect next Fed chair to cut rates (Axios)</title>
       <link>https://www.axios.com/2025/06/27/trump-powell-federal-reserve-rates</link>
       <author>Axios</author>
@@ -1414,20 +1428,6 @@
       <author>RTS</author>
       <guid>28927391</guid>
       <pubDate>Fri, 27 Jun 2025 17:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump sees policy opening after birthright citizenship ruling (Axios)</title>
-      <link>https://www.axios.com/2025/06/27/trump-birthright-citizenship-supreme-court</link>
-      <author>Axios</author>
-      <guid>https://www.axios.com/2025/06/27/trump-birthright-citizenship-supreme-court</guid>
-      <pubDate>Fri, 27 Jun 2025 17:26:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zohran Mamdani, Trump’s “worst nightmare”, may really be a gift to him (Economist)</title>
-      <link>https://www.economist.com/united-states/2025/06/27/zohran-mamdani-trumps-worst-nightmare-may-really-be-a-gift-to-him</link>
-      <author>Economist</author>
-      <guid>https://www.economist.com/united-states/2025/06/27/zohran-mamdani-trumps-worst-nightmare-may-really-be-a-gift-to-him</guid>
-      <pubDate>Fri, 27 Jun 2025 17:18:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
