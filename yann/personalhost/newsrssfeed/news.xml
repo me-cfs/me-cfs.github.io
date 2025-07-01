@@ -5,6 +5,13 @@
     <link>https://me-cfs.github.io/yann/personalhosting/newsrssfeed/news.xml</link>
     <description/>
     <item>
+      <title>Contrainte d’économiser 16,5 millions de francs en 2026, la RTS devrait supprimer entre 60 et 70 postes (RTS)</title>
+      <link>https://www.rts.ch/info/suisse/2025/article/rts-suppressions-de-postes-et-reorganisation-face-aux-defis-financiers-28930205.html?rts_source=rss_t</link>
+      <author>RTS</author>
+      <guid>28930205</guid>
+      <pubDate>Tue, 01 Jul 2025 08:28:25 GMT</pubDate>
+    </item>
+    <item>
       <title> Russian missile attack targets Dnipropetrovsk Oblast, casualties reported  (Kyiv Indpendent)</title>
       <link>https://kyivindependent.com/russian-missile-attack-strikes-dnipropetrovsk-oblast-city-casualties-reported</link>
       <author>Kyiv Indpendent</author>
@@ -1425,13 +1432,6 @@
       <author>Politico</author>
       <guid>https://www.politico.eu/article/emmanuel-macron-france-delay-eu-next-climate-milestone/</guid>
       <pubDate>Fri, 27 Jun 2025 14:10:25 -0000</pubDate>
-    </item>
-    <item>
-      <title>Fine-Tuning LLMs For ‘Good’ Behavior Makes Them More Likely To Say No (404 Media)</title>
-      <link>https://www.404media.co/fine-tuning-llms-cognitive-bias-decision-making-study/</link>
-      <author>404 Media</author>
-      <guid>685ea325c5e66300011c7cd2</guid>
-      <pubDate>Fri, 27 Jun 2025 14:06:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
