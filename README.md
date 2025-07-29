@@ -3,7 +3,7 @@
     {
       "@context" : "https://schema.org",
       "@type" : "WebSite",
-      "name" : "ME/CFS Advocacy",
+      "name" : "Yann's Site",
       "alternateName" : "Yann's ME/CFS Site",
       "url" : "https://mecfsadvocacy.org/"
     }
