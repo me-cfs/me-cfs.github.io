@@ -10,6 +10,68 @@
   </script>
 </head>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Link Card</title>
+  <style>
+    .link-card {
+      display: flex;
+      flex-direction: row;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;
+      max-width: 600px;
+      text-decoration: none;
+      color: inherit;
+      font-family: sans-serif;
+      background: #fff;
+      transition: box-shadow 0.2s;
+    }
+
+    .link-card:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .link-card img {
+      width: 120px;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .link-card-content {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .link-card-title {
+      font-size: 1.1em;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .link-card-description {
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
+  <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
+  <div class="link-card-content">
+    <div class="link-card-title">Micro Writings</div>
+    <div class="link-card-description">Micropoems, Microfiction and the like</div>
+  </div>
+</a>
+
+</body>
+</html>
+
 **Most Useful Page** 
 * [ME/CFS Resources](useful-resources.md)
 
