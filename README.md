@@ -4,7 +4,7 @@
       "@context" : "https://schema.org",
       "@type" : "WebSite",
       "name" : "Yann's Site",
-      "alternateName" : "Yann's ME/CFS Site",
+      "alternateName" : "Yann's Site",
       "url" : "https://mecfsadvocacy.org/"
     }
   </script>
