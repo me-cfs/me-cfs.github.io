@@ -72,6 +72,8 @@
 </body>
 </html>
 
+_This is an amateur website by a severely disabled person. So sorry if there is a lot of unfinished, outdated, or buggy things. Hopefully one day if I improve I'll be able to improve the website as well :)._
+
 **Most Useful Page** 
 * [ME/CFS Resources](useful-resources.md)
 
