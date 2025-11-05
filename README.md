@@ -4,13 +4,11 @@
       "@context" : "https://schema.org",
       "@type" : "WebSite",
       "name" : "Yann's Site",
-      "alternateName" : "Yann's Site",
+      "alternateName" : "Very Severe Life",
       "url" : "https://mecfsadvocacy.org/"
     }
   </script>
 </head>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
