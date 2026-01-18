@@ -13,49 +13,98 @@
 <head>
   <meta charset="UTF-8">
   <title>Link Card</title>
-  <style>
-    .link-card {
-      display: flex;
-      flex-direction: row;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      overflow: hidden;
-      max-width: 600px;
-      text-decoration: none;
-      color: inherit;
-      font-family: sans-serif;
-      background: #fff;
-      transition: box-shadow 0.2s;
-    }
-
-    .link-card:hover {
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    }
-
-    .link-card img {
-      width: 120px;
-      height: 100%;
-      object-fit: cover;
-    }
-
-    .link-card-content {
-      padding: 12px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-
-    .link-card-title {
-      font-size: 1.1em;
-      font-weight: bold;
-      margin-bottom: 4px;
-    }
-
-    .link-card-description {
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
+  85
+  width: 100%;
+86
+​
+87
+​
+88
+}
+89
+​
+90
+​
+91
+​
+92
+​
+93
+​
+94
+.link-card-title {
+95
+​
+96
+​
+97
+  font-size: 1.2em;
+98
+​
+99
+​
+100
+  font-weight: bold;
+101
+​
+102
+​
+103
+  margin-bottom: 8px;
+104
+​
+105
+​
+106
+  color: #333;
+107
+​
+108
+​
+109
+}
+110
+​
+111
+​
+112
+​
+113
+​
+114
+​
+115
+.link-card-description {
+116
+​
+117
+​
+118
+  font-size: 0.95em;
+119
+​
+120
+​
+121
+  color: #555;
+122
+​
+123
+​
+124
+  line-height: 1.4;
+125
+​
+126
+​
+127
+}
+128
+​
+129
+​
+130
+</style>
 </head>
 <body>
 
