@@ -1,5 +1,6 @@
 # My Experience with Extremely Severe ME
 [This Page is a draft]
+Made Public November 2024.
 
 I’ve probably been in this state for only two months cumulatively (mainly two month long chunks of time in late 2023 and early 2024). But it’s an absolutely crazy experience that really hits the fringes of the human experience. I’m surprised it isn’t talked about more in ME communities.
 
