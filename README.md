@@ -53,7 +53,6 @@
   </style>
 </head>
 
-<body>
 
 <a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
   <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
@@ -98,4 +97,4 @@ Hi, I’m Yann and I have very severe ME/CFS from a COVID infection. I’m bedri
 
 [Mainpage]({{ site.baseurl }}/) | [ME Resources]({{ site.baseurl }}/useful-resources.md) | [Twitter](https://twitter.com/yann_mecfs)
 
-</body>
+
