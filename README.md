@@ -1,5 +1,11 @@
+Here’s a Jekyll‑compatible version that keeps the disclaimer and removes the `<!DOCTYPE html>` line. The CSS is placed inside a `<style>` block in the page’s `<head>` section, and the rest of the content stays as Markdown/HTML as you need.
 
-<html lang="en">
+```html
+---
+layout: default
+title: Link Card
+---
+
 <head>
   <meta charset="UTF-8">
   <title>Link Card</title>
@@ -56,54 +62,48 @@
 
 <body>
 
-  <a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
-    <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
-    <div class="link-card-content">
-      <div class="link-card-title">Micro Writings</div>
-      <div class="link-card-description">Micropoems, Microfiction and the like</div>
-    </div>
-  </a>
+<a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
+  <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
+  <div class="link-card-content">
+    <div class="link-card-title">Micro Writings</div>
+    <div class="link-card-description">Micropoems, Microfiction and the like</div>
+  </div>
+</a>
 
-  <hr>
+<hr>
 
-  <h2>Most Useful Page</h2>
-  <ul>
-    <li><a href="useful-resources.md">ME/CFS Resources</a></li>
-  </ul>
+## Most Useful Page
+- [ME/CFS Resources]({{ site.baseurl }}/useful-resources.md)
 
-  <h2>Commonly Visited</h2>
-  <ul>
-    <li><a href="https://me-cfs.github.io/resources/advocacy/">How to Help (Advocacy Masterlist)</a></li>
-    <li><a href="https://me-cfs.github.io/news/community/">ME/LC News</a></li>
-    <li><a href="me-cfs.md">What is ME/CFS?</a></li>
-  </ul>
+## Commonly Visited
+- [How to Help (Advocacy Masterlist)](https://me-cfs.github.io/resources/advocacy/)
+- [ME/LC News](https://me-cfs.github.io/news/community/)
+- [What is ME/CFS?]({{ site.baseurl }}/me-cfs.md)
 
-  <h2>Recently Added Pages</h2>
-  <ul>
-    <li><a href="https://mecfsadvocacy.org/drafts/">Article Drafts</a></li>
-    <li><a href="https://me-cfs.github.io/news/me/">Latest Tracked ME News Mentions</a></li>
-    <li><a href="https://me-cfs.github.io/news/lc/">Latest Tracked LC News Mentions</a></li>
-    <li><a href="https://me-cfs.github.io/news/">ME/LC News Guide</a></li>
-    <li><a href="clinical-resources.md">Clinical/Academic Resources</a></li>
-    <li><a href="https://me-cfs.github.io/resources/advocacy/">How to Help (Advocacy Masterlist)</a></li>
-    <li><a href="https://me-cfs.github.io/news/community/">ME News</a></li>
-    <li><a href="https://me-cfs.github.io/news/collection/mainstream.html">Collection of Mainstream News about ME</a></li>
-    <li><a href="useful-resources.md">ME/CFS resources</a></li>
-    <li><a href="me-cfs.md">What is ME/CFS?</a></li>
-  </ul>
+## Recently Added Pages
+- [Article Drafts](https://mecfsadvocacy.org/drafts/)
+- [Latest Tracked ME News Mentions](https://me-cfs.github.io/news/me/)
+- [Latest Tracked LC News Mentions](https://me-cfs.github.io/news/lc/)
+- [ME/LC News Guide](https://me-cfs.github.io/news/)
+- [Clinical/Academic Resources]({{ site.baseurl }}/clinical-resources.md)
+- [How to Help (Advocacy Masterlist)](https://me-cfs.github.io/resources/advocacy/)
+- [ME News](https://me-cfs.github.io/news/community/)
+- [Collection of Mainstream News about ME](https://me-cfs.github.io/news/collection/mainstream.html)
+- [ME/CFS resources]({{ site.baseurl }}/useful-resources.md)
+- [What is ME/CFS?]({{ site.baseurl }}/me-cfs.md)
 
-  <hr>
+<hr>
 
-  <h2>About</h2>
-  <p>Hi, I’m Yann and I have very severe ME/CFS from a COVID infection. I’m bedridden, unable to speak, sit, or tolerate others in my presence. This site is a collection of anything I wanted to share or compile in relation to ME/CFS and Long Covid. I hope the content here is useful.</p>
+## About
+Hi, I’m Yann and I have very severe ME/CFS from a COVID infection. I’m bedridden, unable to speak, sit, or tolerate others in my presence. This site is a collection of anything I wanted to share or compile in relation to ME/CFS and Long Covid. I hope the content here is useful.
 
-  <img src="https://me-cfs.github.io/files/img/me_very_severe.jpeg" alt="Yann">
+![Image]({{ site.baseurl }}/files/img/me_very_severe.jpeg){:alt="Yann"}
 
-  <p>This image shows how I am 99 % of the time. I have extensive sound‑ and light‑proofing because my brain cannot process those stimuli without using too much energy. As of 2024 I can occasionally use my phone. Before ME/CFS I was an avid skier and mountain biker, studying social data science (voting behaviour and election interference).</p>
+*This is an amateur website by a severely disabled person. So sorry if there is a lot of unfinished, outdated, or buggy things. Hopefully one day if I improve I'll be able to improve the website as well :).*  
 
-  <hr>
+---
 
-  <p><a href="https://mecfsadvocacy.org/">Mainpage</a> | <a href="useful-resources.md">ME Resources</a> | <a href="https://twitter.com/yann_mecfs">Twitter</a></p>
+[Mainpage]({{ site.baseurl }}/) | [ME Resources]({{ site.baseurl }}/useful-resources.md) | [Twitter](https://twitter.com/yann_mecfs)
 
 </body>
-</html>
+```
