@@ -1,6 +1,4 @@
-Here’s a Jekyll‑compatible version that keeps the disclaimer and removes the `<!DOCTYPE html>` line. The CSS is placed inside a `<style>` block in the page’s `<head>` section, and the rest of the content stays as Markdown/HTML as you need.
 
-```html
 ---
 layout: default
 title: Link Card
@@ -106,4 +104,3 @@ Hi, I’m Yann and I have very severe ME/CFS from a COVID infection. I’m bedri
 [Mainpage]({{ site.baseurl }}/) | [ME Resources]({{ site.baseurl }}/useful-resources.md) | [Twitter](https://twitter.com/yann_mecfs)
 
 </body>
-```
