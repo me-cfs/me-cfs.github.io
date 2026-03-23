@@ -53,7 +53,7 @@
   </style>
 </head>
 
-
+<body>
 <a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
   <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
   <div class="link-card-content">
@@ -61,7 +61,7 @@
     <div class="link-card-description">Micropoems, Microfiction and the like</div>
   </div>
 </a>
-
+</body> 
 <hr>
 
 ## Most Useful Page
