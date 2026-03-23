@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Link Card
----
-
 <head>
   <meta charset="UTF-8">
   <title>Link Card</title>
