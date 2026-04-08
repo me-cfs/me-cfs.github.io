@@ -15,53 +15,46 @@
   </script>
 
   <!-- Styles -->
-  <style>
-    .link-card {
-      display: flex;
-      align-items: flex-start;
-      text-decoration: none;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      overflow: hidden;
-      max-width: 400px;
-      width: 100%;
-      background: #fff;
-    }
+<style>
+  .link-card {
+    display: flex;
+    align-items: flex-start;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 400px;
+    width: 100%;
+    background: #fff;
+  }
 
-    .link-card img {
-      width: 120px;
-      height: 80px;
-      object-fit: cover;
-    }
+  .link-card-content {
+    padding: 12px;
+  }
 
-    .link-card-content {
-      padding: 12px;
-    }
+  .link-card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+  }
 
-    .link-card-title {
-      font-size: 1.2em;
-      font-weight: bold;
-      margin-bottom: 8px;
-      color: #333;
-    }
-
-    .link-card-description {
-      font-size: 0.95em;
-      color: #555;
-      line-height: 1.4;
-    }
-  </style>
+  .link-card-description {
+    font-size: 0.95em;
+    color: #555;
+    line-height: 1.4;
+  }
+</style>
 </head>
 
 <body>
 <a class="link-card" href="https://mecfsadvocacy.org/micro/" target="_blank" rel="noopener">
-  <img src="https://via.placeholder.com/120x80" alt="Thumbnail">
   <div class="link-card-content">
     <div class="link-card-title">Micro Writings</div>
     <div class="link-card-description">Micropoems, Microfiction and the like</div>
   </div>
 </a>
-</body> 
+</body>
 <hr>
 
 ## Most Useful Page
