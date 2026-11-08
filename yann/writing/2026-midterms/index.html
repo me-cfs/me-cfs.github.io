@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>US Midterms 2026</title>
+  <style>
+    :root {
+      --bg: #121210;
+      --surface: #181815;
+      --text: #f2efe8;
+      --muted: #aaa59b;
+      --faint: #747067;
+      --line: #2a2924;
+      --accent: #e8833a;
+      --accent-soft: rgba(232, 131, 58, 0.22);
+      --max-copy: 720px;
+      --max-wide: 1080px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 18px;
+      line-height: 1.72;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .site-header {
+      width: 100%;
+      background: #24221e;
+      border-bottom: 1px solid #37342d;
+    }
+
+    .header-inner {
+      width: min(calc(100% - 32px), var(--max-copy));
+      margin: 0 auto;
+      padding: 42px 0 34px;
+    }
+
+    main {
+      width: min(calc(100% - 32px), var(--max-wide));
+      margin: 0 auto;
+      padding: 38px 0 96px;
+    }
+
+    article {
+      width: min(100%, var(--max-copy));
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin: 0 0 14px;
+      font-size: clamp(1.78rem, 4vw, 2.75rem);
+      line-height: 1.04;
+      letter-spacing: -0.045em;
+      font-weight: 680;
+      text-wrap: balance;
+    }
+
+    .lede {
+      margin: 0;
+      font-size: clamp(1.08rem, 1.9vw, 1.28rem);
+      line-height: 1.5;
+      color: #bdb8ae;
+      text-wrap: pretty;
+    }
+
+    p {
+      margin: 0 0 1.35em;
+    }
+
+    .article-body p {
+      text-align: justify;
+      text-align-last: left;
+      text-justify: inter-word;
+      hyphens: auto;
+    }
+
+    .article-body p:last-child {
+      margin-bottom: 0;
+    }
+
+    .evidence-link {
+      display: inline;
+      color: inherit;
+      text-decoration-line: underline;
+      text-decoration-style: dotted;
+      text-decoration-thickness: 1px;
+      text-decoration-color: rgba(232, 131, 58, 0.48);
+      text-underline-offset: 0.18em;
+      transition: color 140ms ease, text-decoration-color 140ms ease;
+    }
+
+    .evidence-link:hover,
+    .evidence-link:focus-visible {
+      color: #fff7ef;
+      text-decoration-color: var(--accent);
+      outline: none;
+    }
+
+
+
+    .rule {
+      width: min(100%, var(--max-copy));
+      height: 1px;
+      background: var(--line);
+      margin: 72px auto 0;
+    }
+
+    .evidence {
+      width: min(100%, var(--max-wide));
+      margin: 0 auto;
+      padding-top: 24px;
+    }
+
+    .evidence-item {
+      width: min(100%, var(--max-copy));
+      margin: 0 auto;
+      padding: 18px 0 20px;
+      border-top: 1px solid var(--line);
+      scroll-margin-top: 24px;
+    }
+
+    .evidence-item.wide {
+      width: 100%;
+    }
+
+
+    .evidence-item p,
+    .evidence-item li {
+      color: #d6d2c9;
+      font-size: 0.98rem;
+    }
+
+    .evidence-item a.source {
+      color: #e8e3da;
+      text-decoration: underline;
+      text-decoration-color: #555047;
+      text-underline-offset: 0.18em;
+    }
+
+    .evidence-item a.source:hover,
+    .evidence-item a.source:focus-visible {
+      color: var(--accent);
+      text-decoration-color: var(--accent);
+      outline: none;
+    }
+
+    .evidence-quote {
+      display: block;
+      margin: 0 0 11px;
+      padding-left: 14px;
+      border-left: 1px solid rgba(232, 131, 58, 0.52);
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.5;
+      font-style: italic;
+    }
+
+    .evidence-quote::after {
+      content: "  ↥";
+      color: var(--accent);
+      font-style: normal;
+      white-space: nowrap;
+    }
+
+    .evidence-quote:hover,
+    .evidence-quote:focus-visible {
+      color: var(--text);
+      outline: none;
+    }
+
+    .evidence-list {
+      margin: 0 0 8px;
+      padding-left: 1.25rem;
+    }
+
+    figure {
+      margin: 12px 0 8px;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 3px;
+      background: #0b0b0a;
+    }
+
+    figcaption,
+    .table-note {
+      margin-top: 10px;
+      color: var(--faint) !important;
+      font-size: 0.77rem !important;
+      line-height: 1.5;
+    }
+
+    .table-wrap {
+      width: 100%;
+      overflow-x: auto;
+      margin: 12px 0 0;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      scrollbar-width: thin;
+      scrollbar-color: #4a463f transparent;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    table {
+      width: 100%;
+      min-width: 940px;
+      border-collapse: collapse;
+      font-size: 0.82rem;
+      line-height: 1.38;
+      font-variant-numeric: tabular-nums;
+    }
+
+    th,
+    td {
+      padding: 13px 14px;
+      text-align: right;
+      border-bottom: 1px solid #24231f;
+      white-space: nowrap;
+    }
+
+    th:first-child,
+    td:first-child {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      text-align: left;
+      background: var(--bg);
+    }
+
+    thead th {
+      color: var(--muted);
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.055em;
+      font-weight: 700;
+      vertical-align: bottom;
+    }
+
+    thead th small {
+      display: block;
+      margin-top: 2px;
+      color: var(--faint);
+      font-size: 0.82em;
+      text-transform: none;
+      letter-spacing: 0;
+      font-weight: 500;
+    }
+
+    tbody td:nth-child(2),
+    tbody td:nth-child(3) {
+      color: #ffd9bd;
+    }
+
+    .footnote-text {
+      color: #c8c4bb !important;
+    }
+
+    @media (max-width: 720px) {
+      body {
+        font-size: 17px;
+        line-height: 1.68;
+      }
+
+      .header-inner {
+        width: min(calc(100% - 24px), var(--max-copy));
+        padding: 30px 0 25px;
+      }
+
+      main {
+        width: min(calc(100% - 24px), var(--max-wide));
+        padding: 30px 0 70px;
+      }
+
+      h1 {
+        margin-bottom: 12px;
+      }
+
+      .lede {
+        font-size: 1.08rem;
+      }
+
+      .rule {
+        margin-top: 54px;
+      }
+
+      .evidence {
+        padding-top: 20px;
+      }
+
+      .evidence-item {
+        padding: 16px 0 18px;
+      }
+
+      .evidence-item.wide {
+        width: 100%;
+      }
+
+      .table-wrap {
+        margin-left: -12px;
+        width: calc(100% + 24px);
+        padding-left: 12px;
+      }
+
+      table {
+        min-width: 880px;
+      }
+
+      th,
+      td {
+        padding: 12px 12px;
+      }
+
+      th:first-child,
+      td:first-child {
+        box-shadow: 10px 0 18px -16px #000;
+      }
+
+      img {
+        border-radius: 2px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>US Midterms 2026</h1>
+      <p class="lede">Amid a historically bleak zeitgeist, the Democratic Party thrashed the Republican Party to see massive electoral gains.</p>
+    </div>
+  </header>
+
+  <main>
+    <article id="top">
+      <div class="article-body">
+        <p><a class="evidence-link" id="ref-a1" href="#a1">People are struggling and angry</a>, and the incumbent president seemed keen on adding struggles and making people angrier. His electorate noticed and became apathetic. On the other hand, the incumbent’s opponents were fired up to vote and punish his party.</p>
+
+        <p><a class="evidence-link" id="ref-c1" href="#c1">And lo they were punished.</a></p>
+
+        <p><a class="evidence-link" id="ref-b1" href="#b1">This is not a story of the masses switching from one party to the other.</a> This is a story of one electorate being fired up and the other dejected. <a class="evidence-link" id="ref-a2" href="#a2">Winning Democratic candidates in flipped Senate seats averaged around the same number of votes that Harris did when she lost two years earlier. Republican candidates averaged around two thirds of what Trump received two years earlier.</a></p>
+
+        <p><a class="evidence-link" id="ref-a3" href="#a3">The Democrats are not popular.</a> Yet they have been given immense institutional power. The hot potato of managing decline has been passed. Unless the unpopular party-elect prepares to deliver popular change, as opposed to managing the historically unpopular status quo, <a class="evidence-link" id="ref-1" href="#note-1">the hot potato will change hands again.</a></p>
+      </div>
+    </article>
+
+    <div class="rule" aria-hidden="true"></div>
+
+    <section class="evidence" aria-label="Evidence and notes">
+
+      <section class="evidence-item" id="a1">
+        <a class="evidence-quote" href="#ref-a1">“People are struggling and angry”</a>
+        <ul class="evidence-list">
+          <li>2024: Gallup poll — 47% say their finances are getting worse — <a class="source" href="https://news.gallup.com/poll/644690/americans-continue-name-inflation-top-financial-problem.aspx">source</a></li>
+          <li>2025: Gallup poll — 53% say their finances are getting worse — <a class="source" href="https://news.gallup.com/poll/659630/americans-economic-financial-expectations-sink-april.aspx">source</a></li>
+          <li>2026: Gallup poll — 55% say their finances are getting worse — <a class="source" href="https://news.gallup.com/poll/708905/affordability-dominates-americans-financial-worries.aspx">source</a></li>
+        </ul>
+      </section>
+
+      <section class="evidence-item" id="c1">
+        <a class="evidence-quote" href="#ref-c1">“And lo they were punished.”</a>
+        <p>Democrats received the highest House popular vote share since 1974, the biggest House majority since 1990,and are on course to flip 9 Senate seats, which has only been done once in the past 45 years.</p>
+      </section>
+
+      <section class="evidence-item" id="b1">
+        <a class="evidence-quote" href="#ref-b1">“This is not a story of the masses switching from one party to the other.”</a>
+        <p>The following chart was created by me using the NORC Civic Health and Elections Project Dataset:</p>
+        <figure>
+          <img src="norc.png" alt="Chart created using the NORC Civic Health and Elections Project Dataset" loading="lazy">
+        </figure>
+      </section>
+
+      <section class="evidence-item wide" id="a2">
+        <a class="evidence-quote" href="#ref-a2">“Winning Democratic candidates in flipped Senate seats averaged around the same number of votes that Harris did when she lost two years earlier. Republican candidates averaged around two thirds of what Trump received two years earlier.”</a>
+        <p>Senate candidates in flipped states vs Harris/Trump vote total, including uncertainty due to the percentage reporting.</p>
+
+        <div class="table-wrap" role="region" aria-label="Senate candidate vote comparison table" tabindex="0">
+          <table>
+            <thead>
+              <tr>
+                <th>State</th>
+                <th>Dem vs Harris<br><small>estimated final</small></th>
+                <th>GOP vs Trump<br><small>estimated final</small></th>
+                <th>2026 Dem</th>
+                <th>Harris 2024</th>
+                <th>2026 GOP</th>
+                <th>Trump 2024</th>
+                <th>Reporting</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td><strong>Iowa</strong></td><td><strong>98.1%</strong></td><td><strong>68.7%</strong></td><td>686,641</td><td>707,278</td><td>630,808</td><td>927,019</td><td>98.99%</td></tr>
+              <tr><td><strong>Kansas</strong></td><td><strong>104.2%</strong></td><td><strong>67.4%</strong></td><td>561,143</td><td>544,853</td><td>505,558</td><td>758,802</td><td>98.87%</td></tr>
+              <tr><td><strong>Maine</strong></td><td><strong>92.1%</strong></td><td><strong>93.6%</strong></td><td>375,516</td><td>435,652</td><td>330,994</td><td>377,977</td><td>93.58%</td></tr>
+              <tr><td><strong>North Carolina</strong></td><td><strong>91.8%</strong></td><td><strong>57.3%</strong></td><td>2,467,972</td><td>2,715,375</td><td>1,643,114</td><td>2,898,423</td><td>99.00%</td></tr>
+              <tr><td><strong>Ohio</strong></td><td><strong>92.9%</strong></td><td><strong>66.8%</strong></td><td>2,301,042</td><td>2,533,699</td><td>2,077,748</td><td>3,180,116</td><td>97.75%</td></tr>
+              <tr><td><strong>South Carolina</strong></td><td><strong>102.5%</strong></td><td><strong>64.8%</strong></td><td>1,043,719</td><td>1,028,452</td><td>951,904</td><td>1,483,747</td><td>99.00%</td></tr>
+              <tr><td><strong>Texas</strong></td><td><strong>113.8%</strong></td><td><strong>67.1%</strong></td><td>5,446,309</td><td>4,835,250</td><td>4,250,166</td><td>6,393,597</td><td>99.00%</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p class="table-note">Estimated final comparisons adjust current Senate vote totals for the percentage of votes reported. They are approximate rather than forecasts of the composition of the remaining vote.</p>
+      </section>
+
+      <section class="evidence-item" id="a3">
+        <a class="evidence-quote" href="#ref-a3">“The Democrats are not popular.”</a>
+        <p><a class="source" href="https://fiftyplusone.news/polls/favorability/democratic-party">FiftyPlusOne — Democratic Party favourability</a></p>
+        <figure>
+          <img src="dem-approval.png" alt="Democratic Party favourability chart" loading="lazy">
+        </figure>
+      </section>
+
+      <section class="evidence-item" id="note-1">
+        <a class="evidence-quote" href="#ref-1">“the hot potato will change hands again.”</a>
+        <p class="footnote-text">This is not a prediction of a 2028 Republican victory. Given US federal governance and voter perceptions of governance are largely based on the president, 2028 is unlikely to be an easy year for Republicans either. A Democratic win in 2028 and a hot potato midterm in 2030 are likely. Although even a massive Republican win in the 2030 midterms may be unlikely to flip the Senate due to the massive advantage Democrats have built this year (Senate elections are staggered, so only around a third of it will be up for re-election in 2030).</p>
+      </section>
+    </section>
+  </main>
+
+  <script>
+    document.querySelectorAll('.evidence-quote').forEach(link => {
+      link.addEventListener('click', event => {
+        const target = document.querySelector(link.getAttribute('href'));
+        if (!target) return;
+
+        event.preventDefault();
+        const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        const y = target.getBoundingClientRect().top + window.scrollY - window.innerHeight * 0.20;
+        window.scrollTo({ top: Math.max(0, y), behavior: reducedMotion ? 'auto' : 'smooth' });
+        history.replaceState(null, '', link.getAttribute('href'));
+      });
+    });
+  </script>
+</body>
+</html>
